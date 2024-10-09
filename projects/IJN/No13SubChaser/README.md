@@ -1,4 +1,4 @@
-# #050 IJN No.13 Sub-chaser
+# #052 IJN No.13 Sub-chaser
 
 IJN No.13 class submarine chaser 第十三号型駆潜艇 on a quiet island patrol.
 

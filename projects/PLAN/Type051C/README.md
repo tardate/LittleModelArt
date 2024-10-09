@@ -1,4 +1,4 @@
-# #060 PLAN Type 051C
+# #062 PLAN Type 051C
 
 Building the PLAN Type 051C destroyer DDG 115 沈阳 (Shenyang) with a little LED illumination.
 

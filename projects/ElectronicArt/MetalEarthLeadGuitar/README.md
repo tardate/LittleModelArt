@@ -1,4 +1,4 @@
-# #004 Metal Earth Lead Guitar
+# #006 Metal Earth Lead Guitar
 
 Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an "amp".
 

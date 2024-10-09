@@ -1,4 +1,4 @@
-# #080 IJN Hashidate
+# #082 IJN Hashidate
 
 Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate 橋立
 

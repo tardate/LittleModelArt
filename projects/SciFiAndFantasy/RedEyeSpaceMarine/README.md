@@ -1,4 +1,4 @@
-# #020 The Red Eyed Space Marine
+# #022 The Red Eyed Space Marine
 
 Inspired by all the mad miniature skills out there these days, I delve into the world of space marines.
 Since my novice paint skills are not going to rock the world, I bring some special magic in the form of eyes that glow - no wires or batteries.

@@ -1,4 +1,4 @@
-# #105 Electra And Express To the Rescue
+# #107 Electra And Express To the Rescue
 
 HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941. No electronics in this one.
 

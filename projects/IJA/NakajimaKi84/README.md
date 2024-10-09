@@ -1,4 +1,4 @@
-# #081 Nakajima Ki84
+# #083 Nakajima Ki84
 
 Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 疾風).
 

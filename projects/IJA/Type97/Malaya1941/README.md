@@ -1,4 +1,4 @@
-# #119 Type 97 ChiHa in Malaya
+# #121 Type 97 ChiHa in Malaya
 
 A Type 97 Chi-Ha チハ roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture. No electronics in this one.
 

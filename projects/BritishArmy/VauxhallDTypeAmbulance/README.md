@@ -1,4 +1,4 @@
-# #034 Vauxhall D-Type Ambulance
+# #036 Vauxhall D-Type Ambulance
 
 Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden.
 Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.

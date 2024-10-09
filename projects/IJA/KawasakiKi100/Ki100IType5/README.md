@@ -1,4 +1,4 @@
-# #112 Kawasaki Ki-100-I-Otsu
+# #114 Kawasaki Ki-100-I-Otsu
 
 Building the キ100 from Aoshima in 1:72, mounted in flight over a watercolour scene. No electronics in this one.
 

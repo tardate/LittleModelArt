@@ -1,4 +1,4 @@
-# #076 Gloster Pioneer E.28-39
+# #078 Gloster Pioneer E.28-39
 
 Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine.
 

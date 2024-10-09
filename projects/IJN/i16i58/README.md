@@ -1,4 +1,4 @@
-# #018 I-16 and I-58
+# #020 I-16 and I-58
 
 Building the Tamiya 1:700 I-16 & I-58 waterline kit 31453. No electronics in this one - more an experiment in rust and water effects.
 

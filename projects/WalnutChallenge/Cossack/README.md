@@ -1,4 +1,4 @@
-# #042 Ukrainian Cossack
+# #044 Ukrainian Cossack
 
 An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy!
 

@@ -1,4 +1,4 @@
-# #049 Daihatsu Midget
+# #051 Daihatsu Midget
 
 Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications. No electronics in this one.
 
