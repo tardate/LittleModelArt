@@ -1,4 +1,4 @@
-# #726 de Havilland Canada DHC-2 Beaver
+# #101 de Havilland Canada DHC-2 Beaver
 
 Building the DHC Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.
 

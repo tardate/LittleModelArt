@@ -1,4 +1,4 @@
-# #606 Sherman Firefly
+# #022 Sherman Firefly
 
 Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic.
 

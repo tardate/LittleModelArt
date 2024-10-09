@@ -15,7 +15,7 @@ layout: default
               {% assign project_path = project["relative_path"] %}
               {% assign project_name = project_path | split: "/" | last %}
               {% assign project_id = project["id"] %}
-              {% assign leap_id = "LEAP" | append: project_id %}
+              {% assign leap_id = "" | append: project_id %}
               {% assign project_title = project["name"] %}
               {% assign project_description = project["description"] %}
               {% assign hero_image_url = project_path  | prepend: site.baseurl | append: "/assets/" | append: project_name | append: "_build_thumbnail.jpg" %}

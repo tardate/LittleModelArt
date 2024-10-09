@@ -1,4 +1,4 @@
-# #650 Mongol Warriors
+# #047 Mongol Warriors
 
 Using select 1:72 figures from HäT set 8298 to make a little diorama in an Ikea picture frame with LED lighting.
 

@@ -1,4 +1,4 @@
-# #741 Gloster Gladiator
+# #109 Gloster Gladiator
 
 Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939.
 No electronics in this one.

@@ -1,4 +1,4 @@
-# #298 GoldenHind
+# #002 GoldenHind
 
 Building a mini metal model of the Golden Hind. No electronics involved .. yet.
 

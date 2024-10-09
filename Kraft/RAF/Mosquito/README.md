@@ -1,4 +1,4 @@
-# #690 de Havilland Mosquito B Mk.XVI
+# #071 de Havilland Mosquito B Mk.XVI
 
 Building the Airfix de Havilland Mosquito B Mk.XVI (no electronics)
 

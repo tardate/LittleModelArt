@@ -1,4 +1,4 @@
-# #599 Kawanishi K5Y1 Tensegrity Stand
+# #019 Kawanishi K5Y1 Tensegrity Stand
 
 Experimenting with tensegrity model mounting, using as a subject the ARII 1:72 Kawanishi K5Y1 赤とんぼ (Willow).
 

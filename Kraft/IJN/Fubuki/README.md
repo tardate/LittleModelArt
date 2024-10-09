@@ -1,4 +1,4 @@
-# #641 IJN Fubuki
+# #041 IJN Fubuki
 
 Building the Japanese destroyer Fubuki (吹雪, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE.
 

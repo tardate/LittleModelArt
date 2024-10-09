@@ -39,6 +39,18 @@ def renumber_projects():
     if project['id'] != new_id:
       update_metadata_file(project, new_id)
       project['id'] = new_id
+    readme_path = os.path.join('..', project['relative_path'], 'README.md')
+    if os.path.exists(readme_path):
+      with open(readme_path, 'r') as file:
+        lines = file.readlines()
+
+      if lines and lines[0].startswith('#'):
+        parts = lines[0].split(' ', 2)
+        if len(parts) > 1 and parts[1] != new_id:
+          lines[0] = f"# {new_id} {parts[2]}" if len(parts) > 2 else f"# {new_id}\n"
+
+          with open(readme_path, 'w') as file:
+            file.writelines(lines)
 
   # save_catalog(catalog)
 

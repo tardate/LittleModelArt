@@ -1,4 +1,4 @@
-# #742 Morane Saulnier MS.230
+# #110 Morane Saulnier MS.230
 
 Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.
 

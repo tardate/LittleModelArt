@@ -1,4 +1,4 @@
-# #614 HMS Prince Of Wales
+# #027 HMS Prince Of Wales
 
 Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series. No electronics for this one.
 

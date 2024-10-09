@@ -1,4 +1,4 @@
-# #645 Tachikawa Ki-55
+# #043 Tachikawa Ki-55
 
 Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer.
 

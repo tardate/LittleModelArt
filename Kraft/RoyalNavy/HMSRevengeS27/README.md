@@ -1,4 +1,4 @@
-# #655 HMS Revenge
+# #051 HMS Revenge
 
 HMS Revenge heading out from Faslane on patrol - an attempt at capturing the distinctive wake of a sub cruising on the surface. Dragon 1:700 kit.
 

@@ -1,4 +1,4 @@
-# #582 Schnellboot
+# #012 Schnellboot
 
 Building the Bronco NB5004 1/350 German S-100 Class Schnellboot with a dockside diorama with LED effects.
 

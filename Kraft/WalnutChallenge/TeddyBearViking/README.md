@@ -1,4 +1,4 @@
-# #694 Teddy Bear Viking
+# #073 Teddy Bear Viking
 
 If you go down in the woods today, you're sure of a big surprise ... a Teddy Bear Viking in a Walnut!
 

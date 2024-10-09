@@ -1,4 +1,4 @@
-# #685 Mozzie Bite!
+# #069 Mozzie Bite!
 
 A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models (no electronics).
 

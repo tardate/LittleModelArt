@@ -1,4 +1,4 @@
-# #613 Tornado ECR
+# #026 Tornado ECR
 
 Building the 1:144 Tornado ECR from Revell with wireless LEDs in the Tailpipe.
 

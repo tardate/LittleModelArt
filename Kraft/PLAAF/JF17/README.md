@@ -1,4 +1,4 @@
-# #609 JF-17
+# #024 JF-17
 
 Buidling the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade.
 No electronics in this one.
