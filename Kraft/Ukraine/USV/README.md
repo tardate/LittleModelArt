@@ -1,4 +1,4 @@
-# #714 Ukraine's Maritime Drone (USV)
+# #090 Ukraine's Maritime Drone (USV)
 
 Building the MikroMir 1:35 kit. No electronics in this one.
 

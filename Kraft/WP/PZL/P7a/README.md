@@ -1,4 +1,4 @@
-# #607 PZL P.7a
+# #023 PZL P.7a
 
 Building the Arma Hobby PZL P.7a 1:72 expert set.  No electronics added - just enjoying this wonderfully detailed kit.
 

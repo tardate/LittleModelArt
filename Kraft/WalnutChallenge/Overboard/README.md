@@ -1,4 +1,4 @@
-# #638 Man Overboard
+# #038 Man Overboard
 
 A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build. No electronics in this one.
 

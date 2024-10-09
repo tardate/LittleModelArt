@@ -1,4 +1,4 @@
-# #611 "That is not a toy, my boy!"
+# #025 "That is not a toy, my boy!"
 
 A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!
 

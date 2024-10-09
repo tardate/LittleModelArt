@@ -1,4 +1,4 @@
-# #756 Mitsubishi A6M2b
+# #123 Mitsubishi A6M2b
 
 Building the classic Tamiya 1:72 A6M2b.
 

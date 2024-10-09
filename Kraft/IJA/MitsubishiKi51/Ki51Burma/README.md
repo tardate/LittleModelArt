@@ -1,4 +1,4 @@
-# #745 キ51 over Burma 1942
+# #113 キ51 over Burma 1942
 
 Building the ClearProp Ki-51 Sonia 1:144 with a motorized prop and a camo scheme as used in Burma 1942.
 

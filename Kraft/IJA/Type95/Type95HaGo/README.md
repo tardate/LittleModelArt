@@ -1,4 +1,4 @@
-# #709 IJA Type 95 Ha-Go Light Tank
+# #085 IJA Type 95 Ha-Go Light Tank
 
 Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank. No electronics in this one.
 

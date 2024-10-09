@@ -1,4 +1,4 @@
-# #558 Harrier GR.1
+# #005 Harrier GR.1
 
 Building the Airfix 1:72 Hawker Siddeley Harrier GR.1, electrifying it with lights and engine sounds and putting it in a cold war forward deployment diorama
 (somewhere in a German forest circa 1970)

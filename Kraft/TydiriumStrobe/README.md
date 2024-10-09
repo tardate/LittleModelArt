@@ -1,4 +1,4 @@
-# #589 Tydirium Strobe
+# #014 Tydirium Strobe
 
 Figuring out the navigation light strobe frequency of the Lambda-class shuttle "Tydirium" and building a freeform circuit sculpture to demonstrate the effects (running an ATtiny85 on 3V).
 

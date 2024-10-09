@@ -1,4 +1,4 @@
-# #579 Jie Fang CA-30 Fuel Transporter
+# #009 Jie Fang CA-30 Fuel Transporter
 
 A simple build of the 解放 Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter (no electronics - yet).
 

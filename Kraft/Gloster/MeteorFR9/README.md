@@ -1,4 +1,4 @@
-# #758 Gloster Meteor FR.9
+# #124 Gloster Meteor FR.9
 
 Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.
 

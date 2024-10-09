@@ -1,4 +1,4 @@
-# #748 I-16 Escuadrilla de Mosca
+# #116 I-16 Escuadrilla de Mosca
 
 Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca. No electronics.
 
