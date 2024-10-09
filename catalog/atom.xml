@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
+  <title>Little Model Art Projects</title>
+  <subtitle>my collection of scale modelling, miniatures and other art projects</subtitle>
+  <link href="https://modelart.tardate.com/catalog/atom.xml" rel="self"/>
+  <link href="https://modelart.tardate.com/"/>
+  <id>https://modelart.tardate.com/</id>
+  <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
+  <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
+  <updated>2024-10-09T05:59:01Z</updated>
+  <author>
+    <name>Paul Gallagher</name>
+    <email>gallagher.paul@gmail.com</email>
+    <uri>https://github.com/tardate</uri>
+  </author>
+  <entry>
+    <id>https://modelart.tardate.com/kraft/axisofchess/</id>
+    <link href="https://modelart.tardate.com/kraft/axisofchess/"/>
+    <g:image_link>https://modelart.tardate.com/kraft/axisofchess/assets/axisofchess_build.jpg</g:image_link>
+    <updated>2022-11-05T06:53:35Z</updated>
+    <title>#666 Axis Of Chess</title>
+    <summary>Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles. No electronics in this one.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/kraft/axisofchess/assets/axisofchess_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Game"/>
+    <category term="scale models"/>
+    <category term="Craft"/>
+  </entry>
+</feed>
