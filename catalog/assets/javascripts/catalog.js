@@ -49,7 +49,7 @@
         rowCallback: function(row, data, index) {
           var base_name;
           var cell, main_cell, description_cell;
-          var description, project_url, hero_image_url, category_array, category_labels;
+          var description, project_rel_url, project_url, hero_image_rel_url, hero_image_url, category_array, category_labels;
 
           base_name = data.relative_path.split('/').pop();
           project_rel_url = data.relative_path + '/'
