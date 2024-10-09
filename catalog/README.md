@@ -1,7 +1,7 @@
 # The Catalog
 
 This is a simple Javascript catalog for building the
-[LittleArduinoProjects GitHub Pages site](https://leap.tardate.com).
+[LittleModelArt GitHub Pages site](https://modelart.tardate.com).
 
 It is a simple bootstrap/datatables page with the main entry point in [index.html](../index.html).
 Catalog data is loaded from [catalog.json](./catalog.json), which is consolidated from `.catalog_metadata` I've added to each project.
@@ -21,8 +21,8 @@ The site now uses Jekyll for page generation.
 The [make.py](./make.py) script also generates the [atom.xml](./atom.xml) feed file.
 This is a best-effort conversion to an atom feed. Currently includes all projects in the feed.
 
-* [feed validator](http://www.feedvalidator.org/check.cgi?url=https%3A%2F%2Fleap.tardate.com%2Fcatalog%2Fatom.xml)
-* [published feed location](https://leap.tardate.com/catalog/atom.xml)
+* [feed validator](http://www.feedvalidator.org/check.cgi?url=https%3A%2F%2Fmodelart.tardate.com%2Fcatalog%2Fatom.xml)
+* [published feed location](https://modelart.tardate.com/catalog/atom.xml)
 
 ## Hosting
 
@@ -47,4 +47,3 @@ The generated site will be in the `_site` folder. This can be trashed after test
 * [GitHub Pages](https://pages.github.com/)
 * [bootstrap](http://getbootstrap.com)
 * [datatables](http://datatables.net/)
-* [..as mentioned on my blog](https://blog.tardate.com/2016/06/littlearduinoprojects-now-with-fancy.html)
