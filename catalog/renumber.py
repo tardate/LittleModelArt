@@ -1,13 +1,5 @@
 #!/usr/bin/env python
-# This script renumbers the projects in the catalog.json file to ensure a continuous monotonic sequence of project numbers:
-# * load the catalog.json file from the current directory
-# * sort the catalog data by id
-# * iterate over the sorted data while also counting the number of projects in the catalog
-# * if the current project id is different than expected, the update the project number:
-#   * calculate the expected path to the .catalog_metadata file in the project directory determined by the relative_path
-#   * read the .catalog_metadata file
-#   * update the project number in the .catalog_metadata file
-#   * write the updated .catalog_metadata file
+#
 
 import json
 import os
