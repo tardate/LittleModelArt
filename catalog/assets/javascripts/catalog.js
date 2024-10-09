@@ -52,8 +52,11 @@
           var description, project_url, hero_image_url, category_array, category_labels;
 
           base_name = data.relative_path.split('/').pop();
-          hero_image_url = instance.pages_base_url + data.relative_path + '/assets/' + base_name + '_build.jpg';
-          project_url = instance.pages_base_url + data.relative_path + '/'
+          project_rel_url = data.relative_path + '/'
+          project_url = instance.pages_base_url + project_rel_url
+
+          hero_image_rel_url = project_rel_url + 'assets/' + base_name + '_build.jpg';
+          hero_image_url = instance.pages_base_url + hero_image_rel_url;
 
           category_array = data.categories.split(',');
           category_labels = '';
@@ -69,7 +72,7 @@
             <a href="' + project_url + '" class="btn btn-default btn-success btn-tardate">' + data.id + ' ' + data.name + '</a> \
             <div class="text-muted small">' + data.description + '</div> \
             <div>' + category_labels + '</div> \
-            <img class="tardate-hero" src="' + hero_image_url + '" alt=""> \
+            <img class="tardate-hero" src="' + hero_image_rel_url + '" alt=""> \
           </div>\
           ';
           cell = $('td:eq(0)', row);
@@ -83,7 +86,7 @@
               <div>' + category_labels + '</div> \
             </div> \
             <div class="media-right"> \
-              <img class="media-object tardate-hero" src="' + hero_image_url + '" alt=""> \
+              <img class="media-object tardate-hero" src="' + hero_image_rel_url + '" alt=""> \
             </div> \
           </div>\
           ';
