@@ -1,4 +1,4 @@
-# #015 Tiger Moth
+# #017 Tiger Moth
 
 Royal Navy Fleet Air Arm Tiger Moth XL717 heading out over the rocky shors near Abbotsinch, Scotland - a small vignette featuring the Airfix De Havilland DH.82a Tiger Moth 1:72 A02106 with a custom motorised propeller.
 

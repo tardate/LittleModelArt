@@ -1,4 +1,4 @@
-# #066 Yawatamaru / Un'yō Conversion
+# #068 Yawatamaru / Un'yō Conversion
 
 Using a Pepper's Ghost effect in a box diorama to capture the Yawatamaru (八幡丸) conversion to Taiyō-class escort carrier Un'yō (雲鷹).
 

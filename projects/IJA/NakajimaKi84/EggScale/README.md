@@ -1,4 +1,4 @@
-# #077 Nakajima Ki-84 Egg-Scale
+# #079 Nakajima Ki-84 Egg-Scale
 
 An egg-scale warm up before I move on to the Arma Hobby Ki-84 Hayate.
 

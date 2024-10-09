@@ -1,4 +1,4 @@
-# #029 Chengdu J-10S
+# #031 Chengdu J-10S
 
 Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours. No electronics in this one.
 

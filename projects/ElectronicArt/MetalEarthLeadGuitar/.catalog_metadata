@@ -1,8 +1,8 @@
 {
-    "id": "#004",
+    "id": "#006",
     "name": "Metal Earth Lead Guitar",
     "description": "Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an 'amp'",
     "categories": "Craft, LED, Audio",
-    "relative_path": "projects/MetalEarthLeadGuitar",
+    "relative_path": "projects/ElectronicArt/MetalEarthLeadGuitar",
     "updated_at": "2016-03-20T13:13:04Z"
 }

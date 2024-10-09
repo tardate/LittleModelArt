@@ -1,4 +1,4 @@
-# #099 YANMAR Rice Harvester YH6115 オートコンバイン
+# #101 YANMAR Rice Harvester YH6115 オートコンバイン
 
 Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while "planting rice" in a dio!
 (no electronics in this one)

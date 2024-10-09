@@ -1,4 +1,4 @@
-# #088 IJA Type 89 I-Go Otsu Medium Tank
+# #090 IJA Type 89 I-Go Otsu Medium Tank
 
 Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank. No electronics in this one.
 

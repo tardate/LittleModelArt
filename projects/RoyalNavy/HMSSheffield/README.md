@@ -1,4 +1,4 @@
-# #040 HMS Sheffield in Troubled Waters
+# #042 HMS Sheffield in Troubled Waters
 
 Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982.
 

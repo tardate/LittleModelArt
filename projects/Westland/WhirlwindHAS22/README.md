@@ -1,4 +1,4 @@
-# #068 Westland Whirlwind HAS.22
+# #070 Westland Whirlwind HAS.22
 
 Building the Westland Whirlwind HAS.22 from Airfix (no electronics in this one)
 

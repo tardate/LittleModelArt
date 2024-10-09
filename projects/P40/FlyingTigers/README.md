@@ -1,4 +1,4 @@
-# #045 P-40B Flying Tiger in 1:72
+# #047 P-40B Flying Tiger in 1:72
 
 Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery.
 

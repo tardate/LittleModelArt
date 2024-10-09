@@ -1,4 +1,4 @@
-# #092 IJN Military Transports
+# #094 IJN Military Transports
 
 Building the No.1 and No.101 landing ships 輸送艦 from the Tamiya Military Transport set. No electronics or base for this - saving for a future diorama.
 

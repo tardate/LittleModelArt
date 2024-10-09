@@ -1,4 +1,4 @@
-# #008 Hawker Typhoon
+# #010 Hawker Typhoon
 
 Building the Airfix 1:72 Hawker Typhoon Mk.Ib, electrifying it with an engine and rocket effects and displaying it with a ground attack vignette.
 

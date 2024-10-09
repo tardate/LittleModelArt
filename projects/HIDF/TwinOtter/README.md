@@ -1,4 +1,4 @@
-# #095 HIDF Twin Otter Recon
+# #097 HIDF Twin Otter Recon
 
 DHC-6 Twin Otter from Revell (04901 in 1:72), as seen commandeered by HIDF Gendarmerie and pressed into service as a reconnaissance and special ops platform.
 For the Micro Machines Podcast HIDF GB.
