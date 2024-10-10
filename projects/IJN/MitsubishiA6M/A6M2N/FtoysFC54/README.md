@@ -1,4 +1,4 @@
-# #099 Mitsubishi A6M2-N
+# #100 Mitsubishi A6M2-N
 
 Building the F-Toys Mitsubishi A6M2-N from their 1/144 WORK SHOP Vol.40.
 

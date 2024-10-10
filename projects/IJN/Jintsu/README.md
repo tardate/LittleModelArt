@@ -1,4 +1,4 @@
-# #123 IJN Cruiser Jintsū
+# #124 IJN Cruiser Jintsū
 
 Building the Fujimi 1:700 kit of the IJN Cruiser Jintsū (神通) (じんつう).
 

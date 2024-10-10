@@ -1,4 +1,4 @@
-# #033 T-34 1942
+# #034 T-34 1942
 
 Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (no electronics - just practicing weathering at small scale).
 

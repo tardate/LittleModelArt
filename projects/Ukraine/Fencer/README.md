@@ -1,4 +1,4 @@
-# #095 Ukrainian Su-24M Fencer
+# #096 Ukrainian Su-24M Fencer
 
 Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer. No electronics in this one.
 

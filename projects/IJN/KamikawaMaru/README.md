@@ -1,4 +1,4 @@
-# #124 Kamikawa Maru at Deboyne 1942
+# #125 Kamikawa Maru at Deboyne 1942
 
 Depicting the brief establishment of a seaplane base at Deboyne in 1942 by the IJN Seaplane Tender Kamikawa Maru and a supporting force.
 

@@ -1,4 +1,4 @@
-# #122 Hawker Typhoon Mk.Ib on D-Day
+# #123 Hawker Typhoon Mk.Ib on D-Day
 
 Typhoon Ib on ground attack over France 1944. Just a quick build of the nice little Airfix 1:72 kit while other projects drag along on the bench!
 

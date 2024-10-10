@@ -1,4 +1,4 @@
-# #046 Fairey Gannet
+# #047 Fairey Gannet
 
 Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit.
 

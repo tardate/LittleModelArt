@@ -1,4 +1,4 @@
-# #109 IJN Heavy Cruiser Tone 利根
+# #110 IJN Heavy Cruiser Tone 利根
 
 On 23 January 1942, the IJN Heavy Cruiser Tone 利根 attacked Buka Island with its float planes.
 A diorama featuring the Aoshima 1:700 kit.

@@ -1,4 +1,4 @@
-# #127 Mitsubishi G3M3 Nell
+# #128 Mitsubishi G3M3 Nell
 
 Building the Mitsubishi G3M3 Nell from Hasegawa in 1:72, motorized and mounted in-flight for the #risingsungb.
 

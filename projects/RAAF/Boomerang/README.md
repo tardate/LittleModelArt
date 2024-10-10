@@ -1,4 +1,4 @@
-# #055 CA-19 Boomerang
+# #056 CA-19 Boomerang
 
 Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945 (no electronics).
 

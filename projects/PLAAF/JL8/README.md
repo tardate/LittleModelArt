@@ -1,4 +1,4 @@
-# #116 Hongdu K-8/JL-8
+# #117 Hongdu K-8/JL-8
 
 Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit. No electronics in this one.
 

@@ -1,4 +1,4 @@
-# #084 IJN Destroyer Ayanami
+# #085 IJN Destroyer Ayanami
 
 Building the Tamiya 1:700 representation of the IJN Destroyer Ayanami 綾波
 

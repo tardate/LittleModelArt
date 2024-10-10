@@ -1,4 +1,4 @@
-# #081 Mitsubishi A6M Zero on the Zuikaku
+# #082 Mitsubishi A6M Zero on the Zuikaku
 
 Building the amazing little Sweet 1:144 kit of the Zero with Flight Deck.
 

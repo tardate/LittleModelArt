@@ -1,4 +1,4 @@
-# #057 WarHawk 40K
+# #058 WarHawk 40K
 
 Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter.
 

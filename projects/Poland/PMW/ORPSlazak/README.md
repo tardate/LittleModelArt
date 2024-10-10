@@ -1,4 +1,4 @@
-# #060 ORP Ślązak
+# #061 ORP Ślązak
 
 Building the ORP Ślązak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting.
 My first venture into IBG ship kits - no electronics here, just a very fine kit experience.

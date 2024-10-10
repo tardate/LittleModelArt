@@ -1,4 +1,4 @@
-# #110 Bristol Bulldog
+# #111 Bristol Bulldog
 
 The Bristol Bulldog is an RAF classic from the inter-war period.
 Although this Airfix Vintage Classic 2019 boxing was tooled way back in 1969, it is still a very buildable kit of a very beautiful plane. I think Airfix's decision to do a new 1:48 tool in 2024 is inspired.
