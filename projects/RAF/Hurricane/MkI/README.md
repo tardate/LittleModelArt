@@ -1,4 +1,4 @@
-# #105 Hurricane MkI
+# #106 Hurricane MkI
 
 No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen. No electronics in this one.
 

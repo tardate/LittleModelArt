@@ -1,4 +1,4 @@
-# #066 wz. 34
+# #067 wz. 34
 
 Building the Polish Samochód pancerny wz. 34 from the 1:35 Mirage Hobby kit, with some figures from MiniArt: "The Lost Christmas"
 

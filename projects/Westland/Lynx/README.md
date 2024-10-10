@@ -1,4 +1,4 @@
-# #037 Westland Lynx
+# #038 Westland Lynx
 
 Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss (no electronics in this one)
 

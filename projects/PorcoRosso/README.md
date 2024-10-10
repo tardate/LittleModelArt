@@ -1,4 +1,4 @@
-# #074 PorcoRosso
+# #075 PorcoRosso
 
 Revisiting one of my favourite films after so many years thanks to a wonderful 1:72 kit of the Porco Rosso Savoia S.21 from Fine Molds.
 

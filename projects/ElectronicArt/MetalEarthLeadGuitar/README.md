@@ -1,4 +1,4 @@
-# #006 Metal Earth Lead Guitar
+# #001 Metal Earth Lead Guitar
 
 Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an "amp".
 
@@ -13,7 +13,6 @@ Here's a quick demo..
 I picked up a
 [Metal Earth Electric Lead Guitar ($9.95)](https://www.metalearth.com/metalearth/MMS074) kit
 while browsing a book store years ago and it has sat on a shelf ever since.
-
 
 ### About the Kit
 

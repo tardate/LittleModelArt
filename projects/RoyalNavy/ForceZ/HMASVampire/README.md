@@ -1,4 +1,4 @@
-# #023 HMAS Vampire
+# #024 HMAS Vampire
 
 Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.
 No electronics for this one.

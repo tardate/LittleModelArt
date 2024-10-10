@@ -1,4 +1,4 @@
-# #106 Kawasaki Ki-10
+# #107 Kawasaki Ki-10
 
 Building the ICM Kawasaki Ki-10. No electronics in this one.
 

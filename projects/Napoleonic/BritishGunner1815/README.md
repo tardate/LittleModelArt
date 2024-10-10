@@ -1,4 +1,4 @@
-# #117 British Royal Artillery Gunner 1815
+# #118 British Royal Artillery Gunner 1815
 
 Posing the Elan13 54mm Royal Artillery Gunner leaping into action... (no electronics in this one)
 

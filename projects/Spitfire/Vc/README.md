@@ -1,4 +1,4 @@
-# #038 Spitfire Mk.Vc
+# #039 Spitfire Mk.Vc
 
 Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc flying over La Sénia Algeria 1942, enhanced with some LED candle effects and targets of opportunity.
 

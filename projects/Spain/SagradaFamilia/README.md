@@ -1,11 +1,10 @@
-# #001 Sagrada Família
+# #002 Sagrada Família
 
 A paper model with some LED effects thrown in for atmosphere!
 
 Here's a quick video of the finished kit:
 
 [![Sagrada Família](./assets/build_night.jpg?raw=true)](https://www.youtube.com/watch?v=RFkUJQybjwQ)
-
 
 ## Notes
 
@@ -40,6 +39,7 @@ Especially at night:
 ## Construction
 
 There's not too much to the build. Just follow the instructions! A few points to note:
+
 * I've mounted this on half a business-card case (to fit the electronics)
 * I started using super-glue (because that's all I had handy). It stained the cardboard, so I had to do a touch-up with paint. I should have a bit more patience and wait to get the right tools first!
 

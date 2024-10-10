@@ -1,4 +1,4 @@
-# #035 Blackburn Buccaneer S.2C
+# #036 Blackburn Buccaneer S.2C
 
 An excuse to build another sea base - this time for an aircraft - the RN Blackburn Buccaneer S.2C from Airfix in 1:72 scale,
 tooling around the North Sea at 30ft.

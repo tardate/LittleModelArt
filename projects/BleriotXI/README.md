@@ -1,4 +1,4 @@
-# #069  Blériot XI
+# #070  Blériot XI
 
 Making a Blériot XI "keeper of the spare keys" - an Aerobase kit from Japan encased in epoxy resin (no electronics).
 

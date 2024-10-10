@@ -1,4 +1,4 @@
-# #048 P-40B Flying Tiger in 1:144
+# #049 P-40B Flying Tiger in 1:144
 
 Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit.
 

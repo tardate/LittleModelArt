@@ -1,4 +1,4 @@
-# #104 Nakajima Ki43-II
+# #105 Nakajima Ki43-II
 
 Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.
 

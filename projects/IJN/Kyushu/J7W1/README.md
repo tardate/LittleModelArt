@@ -1,4 +1,4 @@
-# #128 Kyushu J7W1
+# #129 Kyushu J7W1
 
 Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow. No electronics in this one.
 

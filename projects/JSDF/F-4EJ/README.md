@@ -1,4 +1,4 @@
-# #089 JSDF F-4EJ Last Phantom
+# #090 JSDF F-4EJ Last Phantom
 
 Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit.
 No electronics in this one.

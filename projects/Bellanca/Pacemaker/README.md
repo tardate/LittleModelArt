@@ -1,4 +1,4 @@
-# #077 Bellanca CH-300 Pacemaker
+# #078 Bellanca CH-300 Pacemaker
 
 Building the Dora Wings kit of the Bellanca CH-300 Pacemaker with an appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.
 

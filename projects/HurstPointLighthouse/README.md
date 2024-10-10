@@ -1,4 +1,4 @@
-# #008 Hurst Point Lighthouse
+# #009 Hurst Point Lighthouse
 
 Building the wonderful Paper Shipwright model of the historic Hurst Point Lighthouse, and bringing it to life with a Fl(4) W 15s LED array.
 
