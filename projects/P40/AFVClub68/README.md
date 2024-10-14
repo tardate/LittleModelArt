@@ -106,7 +106,7 @@ With an antenna aerial rigged and some OPR:
 
 ![build04e](./assets/build04e.jpg?raw=true)
 
-The AFVClub 1/144 Flying Tigers P-40B joins its big brother - [Airfix 1/72](../FlyingTigers).
+The AFVClub 1/144 Flying Tigers P-40B joins its big brother - [Airfix 1/72](https://modelart.tardate.com/projects/p40/flyingtigers/).
 
 ![flying_tigers_1](./assets/flying_tigers_1.jpg?raw=true)
 

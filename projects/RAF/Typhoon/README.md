@@ -14,7 +14,7 @@ The [Hawker Typhoon](https://en.wikipedia.org/wiki/Hawker_Typhoon)
 was originally intended as a replacement for the Hawker Hurricane (which didn't really pan out), but it later
 became one of the Second World War's most successful ground-attack aircraft.
 
-After electrifying a Harrier GR.1 in [LEAP#558](../HarrierGR1), I was inspired to try
+After electrifying a [Harrier GR.1](https://modelart.tardate.com/projects/raf/harriergr1/), I was inspired to try
 some more tricks to pack in some electronics into a 1:72 scale aircraft.
 One of the first ideas that came to mind was to try and reproduce
 the iconic image of a Typhoon on ground attack with rockets over Europe.

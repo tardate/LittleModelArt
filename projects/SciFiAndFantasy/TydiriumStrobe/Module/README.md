@@ -6,7 +6,7 @@ Packaging the ATtiny85 Lambda-class shuttle "Tydirium" navigation strobe circuit
 
 ## Notes
 
-In [LEAP#589](../) I figured out the navigation strobe pattern for the Tydirium shuttle and demonstrated it with a freeform circuit.
+In [Tydirium Strobe](https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/) I figured out the navigation strobe pattern for the Tydirium shuttle and demonstrated it with a freeform circuit.
 
 This project describes a variation of the circuit on a small module/board that could be used to add the LED flashing pattern to
 existing LED wiring.
@@ -56,7 +56,7 @@ Connections
 
 ### For LED Power Supplies over 9V
 
-If the existing LED circuit is powered with over 9V, the module will need a seperate power, ideally 3-5V.
+If the existing LED circuit is powered with over 9V, the module will need a separate power, ideally 3-5V.
 
 The easiest way of doing this is to add a separate battery pack for the module.
 This will work fine, as long as the negative connections of the two power supplies and the module all share a common connection.
@@ -77,7 +77,7 @@ and current limiting resistors only need to be considered if adding new LEDs to 
 
 ## Demonstration
 
-Here's a quick test with a 3V (2xAAA) battery pack. At this voltage, an LED doesn't really need a curret limiting resistor,
+Here's a quick test with a 3V (2xAAA) battery pack. At this voltage, an LED doesn't really need a current limiting resistor,
 so in this example, an LED is just directly connected between POWER+ and the LED- control terminal.
 
 ![Module_test](./assets/Module_test.jpg?raw=true)
@@ -88,5 +88,5 @@ The ATtiny85 is programmed with the [TydiriumStrobe.ino](../TydiriumStrobe.ino) 
 
 ## Credits and References
 
-* [LEAP#589 Tydirium Strobe](../)
+* [Tydirium Strobe](https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/)
 * [Atmel ATtiny85 Product Info](http://www.atmel.com/devices/ATTINY85.aspx)
