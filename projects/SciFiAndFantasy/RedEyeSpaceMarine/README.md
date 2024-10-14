@@ -16,7 +16,7 @@ I've always been intrigued by the miniature scene, but never really indulged my 
 Perhaps getting into the [Small Subjects](http://www.boxdioramas.com/smallsubjects) podcast finally pushed me over the edge.
 
 It doesn't take long to realise that miniatures require a whole new set of mad skills, and the standard of work out there is absolutely incredible.
-I bindged to a range of miniature artists on YouTube to get the leg up I needed -
+I binged to a range of miniature artists on YouTube to get the leg up I needed -
 especially [@lyla.mev](https://www.youtube.com/c/LylaMev) and [@trovarion](https://youtu.be/xNjImmO1uZs).
 
 So I know my painting skills are not going to be the best right out of the gate - but there is some special magic I can bring to the table.
@@ -31,10 +31,10 @@ for all manner of materials and paints. The owner was kind enough to give me a f
 
 ## The Electronics
 
-This uses the simple wireless power transmission circuit I've tested earlier in LEAP#597.
+This uses the simple wireless power transmission circuit I've tested earlier in [LEAP#584](https://leap.tardate.com/electronics101/power/wirelessled/).
 
 The power transmitter is a 1.5V oscillator similar to joule thief circuit.
-As a I discovered later, the device sense protocol of wireless charging mats also powers the circuit beutifully (flashing rather than continuously on).
+As a I discovered later, the device sense protocol of wireless charging mats also powers the circuit beautifully (flashing rather than continuously on).
 
 ![Schematic](./assets/RedEyeSpaceMarine_schematic.jpg?raw=true)
 

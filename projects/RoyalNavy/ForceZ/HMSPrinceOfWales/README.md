@@ -10,7 +10,7 @@ As we approached the 80th anniversary of the sinking of HMS Prince of Wales and 
 I noticed that Tamiya have a representation of all the vessels in their 1:700 waterline series.
 
 Will I make them all? Perhaps! I completed
-the Australian destroyer [HMAS Vampire](../HMASVampire) and have now added HMS Prince Of Wales to the collection.
+the Australian destroyer [HMAS Vampire](https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/) and have now added HMS Prince Of Wales to the collection.
 Perhaps I'll keep HMS Repulse for next year?
 
 ### Force Z

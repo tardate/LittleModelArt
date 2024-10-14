@@ -45,7 +45,7 @@ My conclusions:
 
 There are many possible circuit designs. The first two that come to mind are:
 
-* use a pair of 555 timers - similar to the design I used for [LEAP#560 Hurst Point Lighthouse](../HurstPointLighthouse)
+* use a pair of 555 timers - similar to the design I used for [Hurst Point Lighthouse](https://modelart.tardate.com/projects/hurstpointlighthouse/)
 * use a microcontroller
 
 The 555 timer approach is a nice "hardware only" solution, but it can be a bit of a pain to get the timing just right.

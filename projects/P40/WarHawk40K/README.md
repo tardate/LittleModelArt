@@ -10,7 +10,7 @@ Here's a quick demo..
 
 ## Notes
 
-I enjoyed the [Airfix P-40B Flying Tiger in 1:72 (LEAP#648)](../FlyingTigers) so much
+I enjoyed the [Airfix P-40B Flying Tiger in 1:72](https://modelart.tardate.com/projects/p40/flyingtigers/) so much
 that I got another (but A01003B instead of the A01003 kit).
 
 Aside from the engineering, the lines of the craft really made me see the "hawk",

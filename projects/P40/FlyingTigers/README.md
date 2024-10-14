@@ -62,7 +62,7 @@ It does look quite menacing if you need to stare it down!
 
 ![build03d](./assets/build03d.jpg?raw=true)
 
-The Airfix 1/72 Flying Tigers P-40B joins its little brother - [AFVClub 1/144](../AFVClub68).
+The Airfix 1/72 Flying Tigers P-40B joins its little brother - [AFVClub 1/144](https://modelart.tardate.com/projects/p40/afvclub68/).
 
 ![flying_tigers_2](./assets/flying_tigers_2.jpg?raw=true)
 
