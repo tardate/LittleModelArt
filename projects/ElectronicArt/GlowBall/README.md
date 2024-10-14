@@ -19,7 +19,6 @@ Here's a project to make a base for the glass ball. Because it is going to be us
 * a multi-colour "glow" effect to light the ball
 * or switch to power a 3528 LED strip (1m, 60 LEDs, 12V, cold white)
 
-
 ![GlowBall_build2](./assets/GlowBall_build2.jpg?raw=true)
 
 ## Case Construction
@@ -37,14 +36,12 @@ LED strip plugs in on the left, power on the right:
 
 ![GlowBall_case_rear](./assets/GlowBall_case_rear.jpg?raw=true)
 
-
 ## Circuit Construction
 
 The electronics are a combination of circuits (with some modifications) from two projects:
 
-* [LEAP#337 RGB LED Glow Effects](../../Electronics101/RgbLedGlow)
-* [LEAP#231 current-regulated LED dimmer circuit](../../Electronics101/LED/Dimmer/CurrentRegulator)
-
+* [LEAP#336 RGB LED Glow Effects](https://leap.tardate.com/electronics101/rgbledglow/)
+* [LEAP#231 current-regulated LED dimmer circuit](https://leap.tardate.com/electronics101/led/dimmer/currentregulator/)
 
 I've set this up powered from 12V. A three-position SPDT switch selects between: off, the glow ball effect, and powering the LED strip.
 
@@ -71,8 +68,8 @@ FWIW, here are my scratchy notes on how I laid out the protoboard:
 
 ## Credits and References
 
-* [LEAP#337 RgbLedGlow](../../Electronics101/RgbLedGlow) - project where I experimented with the basic RGB LED glow circuit
-* [LEAP#231 LED/Dimmer/CurrentRegulator](../../Electronics101/LED/Dimmer/CurrentRegulator) - the project I borrowed the LED dimmer circuit from
+* [LEAP#336 RGB LED Glow Effects](https://leap.tardate.com/electronics101/rgbledglow/) - project where I experimented with the basic RGB LED glow circuit
+* [LEAP#231 current-regulated LED dimmer circuit](https://leap.tardate.com/electronics101/led/dimmer/currentregulator/) - the project I borrowed the LED dimmer circuit from
 * [Glass Eye Studio](http://www.glasseyestudio.com/)
 * [Glass Eye Studio - Celestial Super Nova](http://www.glasseyestudio.com/492f-glass-eye-studio-celestial-super-nova/)
 * [1N5711 Datasheet](https://www.futurlec.com/Diodes/1N5711.shtml)

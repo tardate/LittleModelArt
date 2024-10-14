@@ -9,7 +9,7 @@ Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit 
 People's Volunteer Army T-34 No 215 (中国人民志愿军215号) is legendary for knocking out five M46 Patton tanks and multiple UN bunkers in early July 1953,
 just before the armistice ending hostilities in the Korean war.
 
-[![No215c](./assets/No215c.jpg?raw=true)]((https://en.wikipedia.org/wiki/T-34))
+[![No215c](./assets/No215c.jpg?raw=true)](https://en.wikipedia.org/wiki/T-34)
 
 It is now preserved in the
 [Military Museum of the Chinese People's Revolution (中国人民革命军事博物馆)](https://goo.gl/maps/WVSBT8H6fswipdjJA)

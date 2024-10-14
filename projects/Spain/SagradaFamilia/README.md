@@ -25,7 +25,7 @@ In other words, it is the ultimate maker project! Personally, I think it will be
 So at the extreme other end of the maker-scale is this neat little [paper nano Sagrada Familia](http://www.amazon.com/gp/product/B00HFO3MIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HFO3MIQ&linkCode=as2&tag=itsaprli-20&linkId=UUSQ6CYPF5HQIMLK)
 kit that I picked up in my travels.
 
-I've "electrified" it to some extent with some [LowVoltageGlowingLEDs](../../Electronics101/LowVoltageGlowingLEDs)
+I've "electrified" it to some extent with some [LEAP#191 Low-voltage Glowing LEDs](https://leap.tardate.com/electronics101/lowvoltageglowingleds/)
 that animate the background, just running off a 1.5V supply. Although I think I could have slowed down the LEDs even further.
 
 A nice effect I think..
@@ -55,6 +55,6 @@ There's not too much to the build. Just follow the instructions! A few points to
 
 * [Paper Sagrada Familia](http://www.amazon.com/gp/product/B00HFO3MIQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00HFO3MIQ&linkCode=as2&tag=itsaprli-20&linkId=UUSQ6CYPF5HQIMLK) - the kit on amazon
 * [Sagrada Família](https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia) - wikipedia
-* [LowVoltageGlowingLEDs](../../Electronics101/LowVoltageGlowingLEDs) project - dual-LED "glowing" oscillator from a 1.5V supply
+* [LEAP#191 Low-voltage Glowing LEDs](https://leap.tardate.com/electronics101/lowvoltageglowingleds/) project - dual-LED "glowing" oscillator from a 1.5V supply
 * [La Sagrada Família](https://99percentinvisible.org/episode/la-sagrada-familia/) - excellent documentary podcast from 99% Invisible
 * [..as mentioned on my blog](https://blog.tardate.com/2016/02/littlearduinoprojects192-sagrada.html)

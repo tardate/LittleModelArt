@@ -56,7 +56,7 @@ Nice and easy!
 
 The sketch [TydiriumStrobe.ino](./TydiriumStrobe.ino) is about as simple as it gets - toggle the GPIO with the appropriate delays.
 I programmed the ATtiny85 to run at 1MHz with internal clock, with the code uploaded using an Arduino Uno running ArduinoISP.
-See [LEAP#070](../../playground/ProgrammingWithArduinoISP) for more info on programming the ATtiny85.
+See [LEAP#070 Programming an ATtiny With ArduinoISP](https://leap.tardate.com/playground/attiny/programmingwitharduinoisp/) for more info on programming the ATtiny85.
 
 ## Construction
 
@@ -87,6 +87,6 @@ wire off-cuts!
 * [Star Wars Shuttle Tydirium AMT/ERTL - No. 8783 - 1:89](https://www.scalemates.com/kits/amt-ertl-8783-shuttle-tydirium--237585) - scalemates
 * [Lambda-class Shuttles](https://www.theforce.net/swtc/lambda.html)
 * [Tydirium](https://starwars.fandom.com/wiki/Tydirium/Legends) - starwars.fandom
-* [LEAP#070 ProgrammingWithArduinoISP](../../playground/ProgrammingWithArduinoISP) shows programming an ATtiny with Arduino ISP
+* [LEAP#070 Programming an ATtiny With ArduinoISP](https://leap.tardate.com/playground/attiny/programmingwitharduinoisp/) shows programming an ATtiny with Arduino ISP
 * [Atmel ATtiny85 Product Info](http://www.atmel.com/devices/ATTINY85.aspx)
 * [ATtiny microcontroller support for the Arduino IDE](https://github.com/damellis/attiny)

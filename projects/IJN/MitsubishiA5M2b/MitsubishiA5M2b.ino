@@ -1,9 +1,9 @@
 /*
 
   IJN/MitsubishiA5M2b
-  Building the Wingsey Kits A5M2b in-flight for the 2023 Model Offiers Mess birthday bash raising money and awareness for the Models for Heroes charity
+  Building the Wingsey Kits A5M2b in-flight for the 2023 Model Officers Mess birthday bash raising money and awareness for the Models for Heroes charity
 
-  For info and circuit diagrams see https://github.com/tardate/LittleArduinoProjects/tree/master/Kraft/IJN/MitsubishiA5M2b
+  For info and circuit diagrams see https://github.com/tardate/LittleModelArt/tree/main/projects/IJN/MitsubishiA5M2b
 
  */
 
