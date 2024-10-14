@@ -12,7 +12,7 @@ Here's a quick demo, the first engines and lights test in the diorama setting..
 ## Notes
 
 This started out as a simple idea - build a model as a demonstration platform for the
-[LEAP#554 Jet Engine Startup Effect](../../Audio/AudioEffects/JetEngine). But down the rabbit hole I went,
+[LEAP#553 Jet Engine Startup Effect](https://leap.tardate.com/audio/audioeffects/jetengine/). But down the rabbit hole I went,
 and before I knew it I'd somehow decided to build a full diorama and this kept me occupied for weeks (a useful distraction during COVID19 lockdown).
 
 I haven't built a model plane in (many) decades, so it was a bit of a walk down memory lane
@@ -84,7 +84,7 @@ Here's the scope trace of the flasher running on the breadboard:
 
 ### Jet Engine Sound
 
-See [LEAP#554 Jet Engine Startup Effect](../../Audio/AudioEffects/JetEngine) for more details, but here's the essence:
+See [LEAP#553 Jet Engine Startup Effect](https://leap.tardate.com/audio/audioeffects/jetengine/) for more details, but here's the essence:
 
 The trick I'm using with the jet engine sound is to mix a zener noise source (roughly white noise)
 with a gradually rising tone generated with the VCO in the CD4046 PLL chip.
@@ -321,7 +321,7 @@ No prize, but at least I think I held my own amongst a truly impressive showing.
 * [Airfix A55205 Medium Starter Set - Hawker Harrier GR.1](https://www.scalemates.com/kits/airfix-a55205-hawker-siddeley-harrier-gr1--174713) - Scalemates
 * [Airfix A03003 Hawker Siddeley Harrier GR.1](https://www.scalemates.com/kits/airfix-a03003-hawker-siddeley-harrier-gr1--173960) (base kit) - Scalemates
 * [Hawker Siddeley BAe Harrier](https://www.baesystems.com/en/heritage/hawker-siddeley-harrier) - baesystems
-* [LEAP#554 Jet Engine Startup Effect](../../Audio/AudioEffects/JetEngine)
+* [LEAP#553 Jet Engine Startup Effect](https://leap.tardate.com/audio/audioeffects/jetengine/)
 
 Some great resources I found for learning or brushing up my modelling skills:
 

@@ -45,7 +45,7 @@ a relatively fast flash of around
 
 ![schematic](./assets/KubelMagic_schematic.jpg?raw=true)
 
-NB: same basic circuit as covered in [LEAP#049 BJT RC Oscillator](../../Electronics101/Oscillators/BjtRcOscillator)
+NB: same basic circuit as covered in [LEAP#049 BJT RC Oscillator](https://leap.tardate.com/electronics101/oscillators/bjtrcoscillator/)
 
 ## Electronics Build
 

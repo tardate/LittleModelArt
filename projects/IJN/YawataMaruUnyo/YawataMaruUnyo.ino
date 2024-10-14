@@ -3,7 +3,7 @@
   YawataMaru/Unyo
   __subtitle__
 
-  For info and circuit diagrams see https://github.com/tardate/LittleArduinoProjects/tree/master/Kraft/IJN/YawataMaruUnyo
+  For info and circuit diagrams see https://github.com/tardate/LittleModelArt/tree/main/projects/IJN/YawataMaruUnyo
 
  */
 

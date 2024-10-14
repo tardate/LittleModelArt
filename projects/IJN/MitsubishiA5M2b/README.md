@@ -73,7 +73,7 @@ The main script [MitsubishiA5M2b.ino](./MitsubishiA5M2b.ino) runs the main loop.
     * the maximum change per update is set by the brightness input
     * the actual change in brightness is determined by the `mix` value for each flame. This sets the percentage of the new value that is mixed with the old value. Lower values will mean more slowly changing updates
 
-See the [GitHub repo](https://github.com/tardate/LittleArduinoProjects/tree/master/Kraft/IJN/MitsubishiA5M2b) for sources.
+See the GitHub repo for sources.
 
 The ATtiny85 is programmed using an Arduino Uno as the in-circuit programmer
 

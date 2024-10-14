@@ -3,7 +3,7 @@
   YataiRamenDoorbell
   Receiver
 
-  For info and circuit diagrams see https://github.com/tardate/LittleArduinoProjects/tree/master/Kraft/YataiRamenDoorbell
+  For info and circuit diagrams see https://github.com/tardate/LittleModelArt/tree/main/projects/Japan/YataiRamenDoorbell
 
  */
 

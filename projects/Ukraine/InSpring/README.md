@@ -27,7 +27,7 @@ I'm using two figures from the
 kit. The sculpting of the old man is very good.
 The teenage girl not so well sculpted, but being one of a very small number of decent female civilian figures, I have seen her pop up in quite a few dioramas by other modellers!
 
-[![kit_box](./assets/kit_box.jpg?raw=true)]((https://www.scalemates.com/kits/master-box-mb3567-civilians--133854))
+[![kit_box](./assets/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)
 
 ![kit_runner](./assets/kit_runner.jpg?raw=true)
 

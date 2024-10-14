@@ -1,4 +1,4 @@
-# #004 WyLed!
+# #004 WyLed
 
 .. when you allow an exploration of a chip (TM1638) to get a little out of hand! The WyLed free-form sculpture reacts to sound and blinks a 4-digit LED display.
 An ATTiny85 provides a little brain, and the TM1638 handles all input and output.
@@ -12,7 +12,7 @@ Here's a quick demo..
 ## Notes
 
 I checked out the basic operation of the TM1638 in
-[LEAP#481](https://leap.tardate.com/playground/led7segment/tm1638/).
+[LEAP#480](https://leap.tardate.com/playground/led7segment/tm1638/).
 This project tries to do something a little more interesting with the chip.
 
 One thing led to another ... and I ended up with a freeform sculpture that got a little out of hand!
@@ -20,7 +20,7 @@ One thing led to another ... and I ended up with a freeform sculpture that got a
 ### Sound Detector
 
 Sound input is detected with a circuit borrowed from
-[LEAP#482 Electret Sound-level Trigger](https://github.com/tardate/LittleArduinoProjects/tree/master/Electronics101/Electret/SoundLevelTrigger).
+[LEAP#481 Electret Sound-level Trigger](https://leap.tardate.com/electronics101/electret/soundleveltrigger/).
 
 It provides a binary signal based on a preset threshold (adjustable with a pot).
 This is presented to the TM1638 as a "key" input via a 2N7000 mosfet.
@@ -29,7 +29,6 @@ This is presented to the TM1638 as a "key" input via a 2N7000 mosfet.
 
 A 4-digit LED 7-segment display is used as a pair of "eyes".
 For the display unit I have, the pin connections are as follows:
-
 
 | LED Module pin | Function | TM1638 pin |
 |----------------|----------|------------|
@@ -45,7 +44,6 @@ For the display unit I have, the pin connections are as follows:
 | 10             | F        | SEG6/10    |
 | 11             | A        | SEG1/5     |
 | 12             | D1       | GRID4/21   |
-
 
 Note: numbering the digits is pretty arbitrary - just need to follow a convention. In my case:
 
@@ -63,7 +61,6 @@ and programmed it using the Arduino ISP.
 See my notes on
 [LEAP#070](https://leap.tardate.com/playground/attiny/programmingwitharduinoisp/)
 for how this is done.
-
 
 ## Construction
 
