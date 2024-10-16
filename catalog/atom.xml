@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2024-10-21T07:05:07Z</updated>
+  <updated>2024-10-30T01:36:29Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/royalnavy/navalmineremoval/</id>
+    <link href="https://modelart.tardate.com/projects/royalnavy/navalmineremoval/"/>
+    <g:image_link>https://modelart.tardate.com/projects/royalnavy/navalmineremoval/assets/navalmineremoval_build.jpg</g:image_link>
+    <updated>2024-10-30T01:36:00Z</updated>
+    <title>#130 Naval Mine Removal</title>
+    <summary>Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/navalmineremoval/assets/navalmineremoval_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Royal Navy"/>
+    <category term="British Army"/>
+    <category term="World War II"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/kyushu/j7w1/</id>
     <link href="https://modelart.tardate.com/projects/ijn/kyushu/j7w1/"/>

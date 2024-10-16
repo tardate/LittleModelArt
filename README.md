@@ -1,6 +1,6 @@
-# 129 Little Model Art Projects
+# 130 Little Model Art Projects
 
-> Latest addition:sparkles: [Kyushu J7W1](./projects/IJN/Kyushu/J7W1) - Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow. No electronics in this one.
+> Latest addition:sparkles: [Naval Mine Removal](./projects/RoyalNavy/NavalMineRemoval) - Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -1,5 +1,14 @@
 [
     {
+        "id": "#130",
+        "name": "Naval Mine Removal",
+        "description": "Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.",
+        "categories": "Royal Navy, British Army, World War II",
+        "relative_path": "projects/royalnavy/navalmineremoval",
+        "updated_at": "2024-10-30T01:36:00Z",
+        "original_relative_path": "projects/RoyalNavy/NavalMineRemoval"
+    },
+    {
         "id": "#129",
         "name": "Kyushu J7W1",
         "description": "Building the Ky\u016bsh\u016b J7W Shinden \u9707\u96fb, as used by K\u014dichi Shikishima in Godzilla Minus One to deliver the final fatal blow. No electronics in this one.",
