@@ -86,6 +86,7 @@ class Catalog(object):
             if 'updated_at' not in data:
                 data['updated_at'] = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:00Z")
                 write_pretty_json(data, filename)
+            data['original_relative_path'] = data['relative_path']
             data['relative_path'] = data['relative_path'].lower()
             return data
 
@@ -174,12 +175,25 @@ class Catalog(object):
 
         write_pretty_xml(root, self.catalog_sitemap)
 
+    def ensure_asset_backup_paths_exist(self):
+        backup_root = os.getenv("LITTLEMODELART_ASSET_BACKUP")
+        if not backup_root:
+            print("LITTLEMODELART_ASSET_BACKUP environment variable is not set. Skipping asset backup path creation.")
+            return
+
+        for entry in self.metadata():
+            backup_path = os.path.join(backup_root, entry['original_relative_path'])
+            if not os.path.exists(backup_path):
+                print(f"Creating backup path: {backup_path}")
+                os.makedirs(backup_path)
+
     def rebuild(self):
         """ Command: rebuild catalog assets from metadata. """
         self.generate_catalog()
         self.generate_project_data()
         self.generate_atom_feed()
         self.generate_sitemap()
+        self.ensure_asset_backup_paths_exist()
 
     def fix_publication_dates(self):
         for filename in self.metadata_files():
