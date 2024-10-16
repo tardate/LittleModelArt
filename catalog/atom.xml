@@ -7,7 +7,7 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2024-10-10T02:18:08Z</updated>
+  <updated>2024-10-16T10:22:32Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
@@ -37,13 +37,13 @@
     <category term="IJN"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/gloster/meteorfr9/</id>
-    <link href="https://modelart.tardate.com/projects/gloster/meteorfr9/"/>
-    <g:image_link>https://modelart.tardate.com/projects/gloster/meteorfr9/assets/meteorfr9_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/raf/gloster/meteorfr9/</id>
+    <link href="https://modelart.tardate.com/projects/raf/gloster/meteorfr9/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/gloster/meteorfr9/assets/meteorfr9_build.jpg</g:image_link>
     <updated>2024-09-23T09:10:00Z</updated>
     <title>#127 Gloster Meteor FR.9</title>
     <summary>Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/gloster/meteorfr9/assets/meteorfr9_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/meteorfr9/assets/meteorfr9_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -193,24 +193,24 @@
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/moranesaulnier/ms230/</id>
-    <link href="https://modelart.tardate.com/projects/moranesaulnier/ms230/"/>
-    <g:image_link>https://modelart.tardate.com/projects/moranesaulnier/ms230/assets/ms230_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/france/moranesaulnier/ms230/</id>
+    <link href="https://modelart.tardate.com/projects/france/moranesaulnier/ms230/"/>
+    <g:image_link>https://modelart.tardate.com/projects/france/moranesaulnier/ms230/assets/ms230_build.jpg</g:image_link>
     <updated>2024-03-08T08:22:10Z</updated>
     <title>#113 Morane Saulnier MS.230</title>
     <summary>Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/moranesaulnier/ms230/assets/ms230_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/moranesaulnier/ms230/assets/ms230_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/gloster/gladiator/</id>
-    <link href="https://modelart.tardate.com/projects/gloster/gladiator/"/>
-    <g:image_link>https://modelart.tardate.com/projects/gloster/gladiator/assets/gladiator_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/raf/gloster/gladiator/</id>
+    <link href="https://modelart.tardate.com/projects/raf/gloster/gladiator/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/gloster/gladiator/assets/gladiator_build.jpg</g:image_link>
     <updated>2024-02-12T09:32:44Z</updated>
     <title>#112 Gloster Gladiator</title>
     <summary>Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939. No electronics in this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/gloster/gladiator/assets/gladiator_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/gladiator/assets/gladiator_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -238,13 +238,13 @@
     <category term="IJN"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/caudronrenault/cr714/</id>
-    <link href="https://modelart.tardate.com/projects/caudronrenault/cr714/"/>
-    <g:image_link>https://modelart.tardate.com/projects/caudronrenault/cr714/assets/cr714_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/france/caudronrenault/cr714/</id>
+    <link href="https://modelart.tardate.com/projects/france/caudronrenault/cr714/"/>
+    <g:image_link>https://modelart.tardate.com/projects/france/caudronrenault/cr714/assets/cr714_build.jpg</g:image_link>
     <updated>2023-12-21T18:28:33Z</updated>
     <title>#109 CR.714</title>
     <summary>Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit. No electronics in this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/caudronrenault/cr714/assets/cr714_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/caudronrenault/cr714/assets/cr714_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -432,13 +432,13 @@
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/dauphin2/</id>
-    <link href="https://modelart.tardate.com/projects/dauphin2/"/>
-    <g:image_link>https://modelart.tardate.com/projects/dauphin2/assets/dauphin2_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/japan/dauphin2/</id>
+    <link href="https://modelart.tardate.com/projects/japan/dauphin2/"/>
+    <g:image_link>https://modelart.tardate.com/projects/japan/dauphin2/assets/dauphin2_build.jpg</g:image_link>
     <updated>2023-06-20T16:22:21Z</updated>
     <title>#092 Aérospatiale SA365N Dauphin 2</title>
     <summary>Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/dauphin2/assets/dauphin2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/dauphin2/assets/dauphin2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -578,13 +578,13 @@
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/gloster/pioneere.28-39/</id>
-    <link href="https://modelart.tardate.com/projects/gloster/pioneere.28-39/"/>
-    <g:image_link>https://modelart.tardate.com/projects/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/</id>
+    <link href="https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg</g:image_link>
     <updated>2023-02-25T01:53:10Z</updated>
     <title>#079 Gloster Pioneer E.28-39</title>
     <summary>Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -683,13 +683,13 @@
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/bleriotxi/</id>
-    <link href="https://modelart.tardate.com/projects/bleriotxi/"/>
-    <g:image_link>https://modelart.tardate.com/projects/bleriotxi/assets/bleriotxi_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/france/bleriotxi/</id>
+    <link href="https://modelart.tardate.com/projects/france/bleriotxi/"/>
+    <g:image_link>https://modelart.tardate.com/projects/france/bleriotxi/assets/bleriotxi_build.jpg</g:image_link>
     <updated>2023-01-11T13:53:30Z</updated>
     <title>#070 Blériot XI</title>
     <summary>Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin (no electronics).</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin (no electronics).&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/bleriotxi/assets/bleriotxi_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin (no electronics).&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/bleriotxi/assets/bleriotxi_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
     <category term="resin"/>
@@ -945,13 +945,13 @@
     <category term="Craft"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/fairey/gannet/</id>
-    <link href="https://modelart.tardate.com/projects/fairey/gannet/"/>
-    <g:image_link>https://modelart.tardate.com/projects/fairey/gannet/assets/gannet_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/raf/fairey/gannet/</id>
+    <link href="https://modelart.tardate.com/projects/raf/fairey/gannet/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/fairey/gannet/assets/gannet_build.jpg</g:image_link>
     <updated>2022-09-01T10:53:24Z</updated>
     <title>#047 Fairey Gannet</title>
     <summary>Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit (no electronics in this one)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit (no electronics in this one)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/fairey/gannet/assets/gannet_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit (no electronics in this one)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/fairey/gannet/assets/gannet_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>
@@ -1310,13 +1310,13 @@
     <category term="Freeform"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/nanchangy5/</id>
-    <link href="https://modelart.tardate.com/projects/nanchangy5/"/>
-    <g:image_link>https://modelart.tardate.com/projects/nanchangy5/assets/nanchangy5_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/plaaf/nanchangy5/</id>
+    <link href="https://modelart.tardate.com/projects/plaaf/nanchangy5/"/>
+    <g:image_link>https://modelart.tardate.com/projects/plaaf/nanchangy5/assets/nanchangy5_build.jpg</g:image_link>
     <updated>2021-02-07T14:53:05Z</updated>
     <title>#016 Nanchang Y-5</title>
     <summary>A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/nanchangy5/assets/nanchangy5_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/nanchangy5/assets/nanchangy5_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="scale models"/>
     <category term="Craft"/>
   </entry>

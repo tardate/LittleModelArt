@@ -18,7 +18,7 @@
             "IJN"
         ]
     },
-    "/projects/gloster/meteorfr9/": {
+    "/projects/raf/gloster/meteorfr9/": {
         "id": 127,
         "title": "Gloster Meteor FR.9",
         "summary": "Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.",
@@ -146,7 +146,7 @@
             "Craft"
         ]
     },
-    "/projects/moranesaulnier/ms230/": {
+    "/projects/france/moranesaulnier/ms230/": {
         "id": 113,
         "title": "Morane Saulnier MS.230",
         "summary": "Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.",
@@ -155,7 +155,7 @@
             "Craft"
         ]
     },
-    "/projects/gloster/gladiator/": {
+    "/projects/raf/gloster/gladiator/": {
         "id": 112,
         "title": "Gloster Gladiator",
         "summary": "Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939. No electronics in this one.",
@@ -183,7 +183,7 @@
             "IJN"
         ]
     },
-    "/projects/caudronrenault/cr714/": {
+    "/projects/france/caudronrenault/cr714/": {
         "id": 109,
         "title": "CR.714",
         "summary": "Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit. No electronics in this one.",
@@ -343,7 +343,7 @@
             "Craft"
         ]
     },
-    "/projects/dauphin2/": {
+    "/projects/japan/dauphin2/": {
         "id": 92,
         "title": "A\u00e9rospatiale SA365N Dauphin 2",
         "summary": "Building the A\u00e9rospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.",
@@ -463,7 +463,7 @@
             "Craft"
         ]
     },
-    "/projects/gloster/pioneere.28-39/": {
+    "/projects/raf/gloster/pioneere.28-39/": {
         "id": 79,
         "title": "Gloster Pioneer E.28-39",
         "summary": "Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine",
@@ -550,7 +550,7 @@
             "Craft"
         ]
     },
-    "/projects/bleriotxi/": {
+    "/projects/france/bleriotxi/": {
         "id": 70,
         "title": "Bl\u00e9riot XI",
         "summary": "Making a Bl\u00e9riot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin (no electronics).",
@@ -766,7 +766,7 @@
             "Craft"
         ]
     },
-    "/projects/fairey/gannet/": {
+    "/projects/raf/fairey/gannet/": {
         "id": 47,
         "title": "Fairey Gannet",
         "summary": "Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit (no electronics in this one)",
@@ -1069,7 +1069,7 @@
             "Freeform"
         ]
     },
-    "/projects/nanchangy5/": {
+    "/projects/plaaf/nanchangy5/": {
         "id": 16,
         "title": "Nanchang Y-5",
         "summary": "A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.",
