@@ -14,6 +14,7 @@ import os
 import re
 import json
 import fnmatch
+import shutil
 import subprocess
 from datetime import datetime
 from xml.etree import ElementTree
@@ -62,13 +63,34 @@ class Catalog(object):
     """ Helper class for building the catalog from metadata files. """
 
     def __init__(self):
-        path = os.path.dirname(os.path.abspath(__file__))
-        self.collection_root = os.path.abspath(os.path.join(path, '..'))
+        self.script_root = os.path.dirname(os.path.abspath(__file__))
+        self.collection_root = os.path.abspath(os.path.join(self.script_root, '..'))
         self.catalog_json = os.path.join(self.collection_root, 'catalog', 'catalog.json')
         self.catalog_atom = os.path.join(self.collection_root, 'catalog', 'atom.xml')
         self.data_project_json = os.path.join(self.collection_root, '_data', 'projects.json')
         self.data_catalog_json = os.path.join(self.collection_root, '_data', 'catalog.json')
         self.catalog_sitemap = os.path.join(self.collection_root, 'catalog', 'sitemap.xml')
+        self.settings
+
+    @property
+    def settings(self):
+        if not hasattr(self, '_settings'):
+            config_path = os.path.join(self.script_root, 'make.conf')
+            if not os.path.exists(config_path):
+                template_path = os.path.join(self.script_root, 'make.conf.template')
+                if os.path.exists(template_path):
+                    print(f"Config file not found. Copying from template: {template_path}")
+
+                    shutil.copy(template_path, config_path)
+                else:
+                    raise FileNotFoundError(f"Template config file not found: {template_path}")
+            with open(config_path, 'r') as f:
+                self._settings = json.load(f)
+        return self._settings
+
+    @property
+    def site_base_url(self):
+        return self.settings['site_base_url']
 
     def metadata_files(self):
         """ Returns the collection of catalog metadata files. """
@@ -122,13 +144,13 @@ class Catalog(object):
 
         root = ElementTree.Element('feed', xmlns='http://www.w3.org/2005/Atom')
         root.set('xmlns:g', 'http://base.google.com/ns/1.0')
-        ElementTree.SubElement(root, "title").text = "Little Model Art Projects"
-        ElementTree.SubElement(root, "subtitle").text = "my collection of scale modelling, miniatures and other art projects"
-        ElementTree.SubElement(root, "link", href="https://modelart.tardate.com/catalog/atom.xml", rel="self")
-        ElementTree.SubElement(root, "link", href="https://modelart.tardate.com/")
-        ElementTree.SubElement(root, "id").text = "https://modelart.tardate.com/"
-        ElementTree.SubElement(root, "icon").text = "https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png"
-        ElementTree.SubElement(root, "logo").text = "https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png"
+        ElementTree.SubElement(root, "title").text = self.settings['site_title']
+        ElementTree.SubElement(root, "subtitle").text = self.settings['site_subtitle']
+        ElementTree.SubElement(root, "link", href=f"{self.site_base_url}catalog/atom.xml", rel="self")
+        ElementTree.SubElement(root, "link", href=self.site_base_url)
+        ElementTree.SubElement(root, "id").text = self.site_base_url
+        ElementTree.SubElement(root, "icon").text = f"{self.site_base_url}catalog/assets/images/favicon-32x32.png"
+        ElementTree.SubElement(root, "logo").text = f"{self.site_base_url}catalog/assets/images/favicon-32x32.png"
         ElementTree.SubElement(root, "updated").text = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
 
         author = ElementTree.SubElement(root, "author")
@@ -137,10 +159,11 @@ class Catalog(object):
         ElementTree.SubElement(author, "uri").text = "https://github.com/tardate"
 
         for entry in self.metadata():
-            url = 'https://modelart.tardate.com/{}/'.format(entry['relative_path'])
+            url = '{}{}/'.format(self.site_base_url, entry['relative_path'])
             hero_image_file = '{}_build.jpg'.format(entry['relative_path'].split('/')[-1])
             asset_path = '{}/assets'.format(entry['relative_path'])
-            hero_image_url = 'https://modelart.tardate.com/{}/{}'.format(
+            hero_image_url = '{}{}/{}'.format(
+                self.site_base_url,
                 asset_path,
                 hero_image_file
             )
@@ -169,16 +192,16 @@ class Catalog(object):
         root = ElementTree.Element('urlset', xmlns='http://www.sitemaps.org/schemas/sitemap/0.9')
 
         for entry in self.metadata():
-            url = 'https://modelart.tardate.com/{}/'.format(entry['relative_path'])
+            url = '{}{}/'.format(self.site_base_url, entry['relative_path'])
             doc = ElementTree.SubElement(root, 'url')
             ElementTree.SubElement(doc, 'loc').text = url
 
         write_pretty_xml(root, self.catalog_sitemap)
 
     def ensure_asset_backup_paths_exist(self):
-        backup_root = os.getenv("LITTLEMODELART_ASSET_BACKUP")
+        backup_root = self.settings['asset_backup_root']
         if not backup_root:
-            print("LITTLEMODELART_ASSET_BACKUP environment variable is not set. Skipping asset backup path creation.")
+            print("asset_backup_root setting is not set. Skipping asset backup path creation.")
             return
 
         for entry in self.metadata():
@@ -193,7 +216,30 @@ class Catalog(object):
         self.generate_project_data()
         self.generate_atom_feed()
         self.generate_sitemap()
+        self.update_readme()
         self.ensure_asset_backup_paths_exist()
+
+    def update_readme(self):
+        readme_path = os.path.join(self.collection_root, 'README.md')
+        metadata = self.metadata()
+        total_projects = len(metadata)
+        latest_project = metadata[0]
+
+        with open(readme_path, 'r') as f:
+            lines = f.readlines()
+
+        # Update the total number of projects in the first line
+        if lines:
+            lines[0] = re.sub(r'\d+', str(total_projects), lines[0], count=1)
+
+        if len(lines) > 2:
+            # Add the latest project details at the top of the README
+            lines[2] = "> Latest addition:sparkles: [{}](./{}) - {}\n".format(
+                latest_project['name'], latest_project['original_relative_path'], latest_project['description']
+            )
+
+        with open(readme_path, 'w') as f:
+            f.writelines(lines)
 
     def fix_publication_dates(self):
         for filename in self.metadata_files():
