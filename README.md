@@ -1,4 +1,6 @@
-# Little Model Art Projects
+# 129 Little Model Art Projects
+
+> Latest addition:sparkles: [Kyushu J7W1](./projects/IJN/Kyushu/J7W1) - Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow. No electronics in this one.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
