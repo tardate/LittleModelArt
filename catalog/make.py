@@ -160,25 +160,33 @@ class Catalog(object):
 
         for entry in self.metadata():
             url = '{}{}/'.format(self.site_base_url, entry['relative_path'])
-            hero_image_file = '{}_build.jpg'.format(entry['relative_path'].split('/')[-1])
             asset_path = '{}/assets'.format(entry['relative_path'])
-            hero_image_url = '{}{}/{}'.format(
-                self.site_base_url,
-                asset_path,
-                hero_image_file
-            )
-            update_thumbnail(self.get_project_file(asset_path, hero_image_file))
+            hero_image_file = '{}_build.jpg'.format(entry['relative_path'].split('/')[-1])
+
+            hero_image_path = self.get_project_file(asset_path, hero_image_file)
+            if os.path.exists(hero_image_path):
+                hero_image_url = '{}{}/{}'.format(
+                    self.site_base_url,
+                    asset_path,
+                    hero_image_file
+                )
+                update_thumbnail(hero_image_path)
+            else:
+                hero_image_url = None
+
             doc = ElementTree.SubElement(root, "entry")
             ElementTree.SubElement(doc, "id").text = url
             ElementTree.SubElement(doc, "link", href=url)
-            ElementTree.SubElement(doc, "g:image_link").text = hero_image_url
+            if hero_image_url:
+                ElementTree.SubElement(doc, "g:image_link").text = hero_image_url
             ElementTree.SubElement(doc, "updated").text = entry['updated_at']
             ElementTree.SubElement(doc, "title").text = u'{} {}'.format(entry['id'], entry['name'])
             ElementTree.SubElement(doc, "summary").text = entry['description']
 
             content = ElementTree.Element('div')
             ElementTree.SubElement(content, 'p').text =  entry['description']
-            ElementTree.SubElement(content, 'img', src=hero_image_url)
+            if hero_image_url:
+                ElementTree.SubElement(content, 'img', src=hero_image_url)
             ElementTree.SubElement(doc, "content", type='html').text = ElementTree.tostring(content, encoding='utf-8').decode()
 
             for category in entry['categories'].split(', '):
