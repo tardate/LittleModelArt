@@ -148,6 +148,7 @@ img.tardate-hero {
 .social-icons {
   padding: 0.5em 0 0 0;
   width: 100%;
+  font-size: 20px;
 }
 
 .social-icons a.fa {
@@ -185,14 +186,14 @@ footer .measure {
     max-width: 60%;
 }
 
-footer .social-icons-left {
+.social-icons-left {
   float: left;
 }
 
-footer .social-icons a,
-footer .social-icons a:hover,
-footer .social-icons a:focus,
-footer .social-icons a:active {
+.social-icons a,
+.social-icons a:hover,
+.social-icons a:focus,
+.social-icons a:active {
   opacity: 0.8;
   color: #353255;
   background-image: none;
@@ -200,7 +201,7 @@ footer .social-icons a:active {
   text-decoration: none;
 }
 
-footer .social-icons a:hover {
+.social-icons a:hover {
   opacity: 1;
 }
 
@@ -233,4 +234,9 @@ footer .social-icons a:hover {
 
 .tardate-gallery > a {
   display: inline-block;
+}
+
+.list-group-item .note {
+  font-size: smaller;
+  opacity: 75%;
 }
