@@ -82,7 +82,7 @@ EOS
 
   cp catalog/templates/cover1440x400.jpg ${full_path}/assets
 
-  local backup_root=${LITTLEMODELART_ASSET_BACKUP}
+  local backup_root=${MODELART_ASSET_BACKUP}
   if [ "${backup_root}" != "" ]; then
     local backup_path="${backup_root}/${full_path}"
     echo "Making asset backup path: ${backup_path}"
