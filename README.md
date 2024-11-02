@@ -1,6 +1,6 @@
-# 133 Little Model Art Projects
+# 134 Little Model Art Projects
 
-> Latest addition:sparkles: [Bristol F.2b](./projects/RAF/Bristol/F2B/F2Bin72) - Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!
+> Latest addition:sparkles: [Squadron Commander Lord Flasheart](./projects/RAF/LordFlasheart) - Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
