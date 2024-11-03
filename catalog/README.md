@@ -9,6 +9,7 @@ Catalog data is loaded from [catalog.json](./catalog.json), which is consolidate
 The [make.py](./make.py) utility script is used to maintain the catalog:
 
 ```sh
+catalog/make.py new <project_folder>  # adds a new project
 catalog/make.py rebuild  # builds the catalog from catalog metadata
 ```
 

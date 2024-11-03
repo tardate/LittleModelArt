@@ -2,5 +2,6 @@
   "site_title": "Little Model Art Projects",
   "site_subtitle": "my collection of scale modelling, miniatures and other art projects",
   "site_base_url": "https://modelart.tardate.com/",
-  "asset_backup_root": null
+  "asset_backup_root": null,
+  "project_subfolder": null
 }
