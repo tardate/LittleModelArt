@@ -34,12 +34,17 @@ Assemble the Dam:
 Seal the Base:
 
 * Run a line of hot glue or silicone caulk around the base where the acrylic sheets meet the work surface to prevent resin from leaking out the bottom.
-* Note: hot glue will fail if the resin generates too much heat. Either use a more secure fixative, of limit the resin pour to keep heat under control
+* Note: hot glue will fail if the resin generates too much heat. Either use a more secure fixative, or limit the resin pour to keep heat under control
 
 Apply a Release Agent:
 
 * Coat the inner side of the acrylic with a release agent like wax or mold release spray. This will make it easier to remove the acrylic once the resin has cured without risking damage to your piece.
-* Note: release agent is not absolutely necessary if using clean acrylic sheets
+* Note:
+    * release agent is not absolutely necessary if using clean acrylic sheets
+    * Silicone molds don't often strictly need a mold release. If you do use mold release, make sure to avoid silicone-based release agents, as silicone bonds to silicone and what you'll have is glue instead of a release agent. Ease-release 200 or 205 is great for silicone molds
+* See also:
+    * [3 Reasons Why I Always Use Resin Mold Release](https://www.resinobsession.com/resin-frequently-asked-questions/resin-mold-release/#post-5315)
+    * [reddit: Do I need mold release?](https://www.reddit.com/r/ResinCasting/comments/dax5vb/do_i_need_mold_release/)
 
 Check the Level:
 
@@ -48,6 +53,7 @@ Check the Level:
 Pour the Resin:
 
 * Pour the resin within the dammed area. If using a deep pour, pour in layers according to the manufacturer’s instructions to prevent overheating and cracking.
+* Note: Put the project in an aluminium foil containers (e.g. BBQ tray) for the pour. They are excellent for containing a resin pour, and stopping disasters from leaking all over the work-bench!
 
 Cure and Remove:
 
