@@ -1,6 +1,6 @@
-# 130 Little Model Art Projects
+# 131 Little Model Art Projects
 
-> Latest addition:sparkles: [Naval Mine Removal](./projects/RoyalNavy/NavalMineRemoval) - Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.
+> Latest addition:sparkles: [Foxtrot-class Zaporizhzhia](./projects/Ukraine/Zaporizhzhia) - MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure☹ One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -5,3 +5,7 @@
 * [Podcasts](./podcasts/)
 * [Retailers](./retailers/)
 * [Video/Youtube Channels](./video/)
+
+## Techniques
+
+* [Resin](./resin/)
