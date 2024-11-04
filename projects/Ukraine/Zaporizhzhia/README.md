@@ -90,6 +90,8 @@ Well, I've had to trash this very nice MicroMir kit, but learned some important 
 * acrylic sheet does actually work well for resin dams (without mold release)
 * aluminium foil containers are excellent for containing a resin pour, and stopping disasters from leaking all over the work-bench!
 
+See also my [Notebook: Resin](/notebook/resin/).
+
 ## Credits and References
 
 * Ukrainian Submarine Project 641 Foxtrot Class - "Zaporizhzhia" MikroMir No. 350-019 1:350
