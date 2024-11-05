@@ -18,7 +18,7 @@ The submarine has never returned to front line duty.
 
 As of 29 December 2020, Google Maps imagery showed U-01 afloat and pier-side in Yuzhnaya Bay in Sevastopol surrounded by containment booms, next to Romeo-class submarine S-49 (44°36'22.31"N  33°31'58.42"E)
 
-[![google_earth](./assets/google_earth.png?raw=true)](https://maps.app.goo.gl/9YzbXDkk9yeQjd5p6)
+[![google_earth](./assets/google_earth.jpg?raw=true)](https://maps.app.goo.gl/9YzbXDkk9yeQjd5p6)
 
 ### The Kit
 
