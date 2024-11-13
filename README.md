@@ -1,6 +1,6 @@
-# 131 Little Model Art Projects
+# 132 Little Model Art Projects
 
-> Latest addition:sparkles: [Foxtrot-class Zaporizhzhia](./projects/Ukraine/Zaporizhzhia) - MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure☹ One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!
+> Latest addition:sparkles: [Fokker Dr.I](./projects/Germany/Fokker/DR1) - Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
