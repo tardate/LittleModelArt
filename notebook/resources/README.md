@@ -11,6 +11,7 @@
 * [Matchbox Kits](http://www.matchboxkits.org/)
 * [Miniature scales](https://en.wikipedia.org/wiki/Miniature_model_(gaming)#Scales)
 * [modellmarine.de](http://www.modellmarine.de/)
+* [Napoleonic Wars](https://www.thenapoleonicwars.net/)
 * [Plastic Soldier Review](http://www.plasticsoldierreview.com/)
 * [scalemates.com](https://www.scalemates.com/kits/)
 * [scalemodeladdict.com](https://www.scalemodeladdict.com/)

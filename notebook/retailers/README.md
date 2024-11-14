@@ -32,21 +32,22 @@
 | Japan            | [Yodabashi Shinjuku West Main Store ヨドバシカメラ 新宿西口本店 ゲーム館](https://goo.gl/maps/uN9fHBQjoBJdZijQA)           | large range of new kits and tools at reasonable prices. Can duty free. |
 | Poland           | [IBG](http://en.ibg.com.pl/)                                          | also carries other manufacturers |
 | Poland           | [Super-Hobby](https://www.super-hobby.com/)                           | |
-| Singapore        | [Battle Quarters Singapore](https://battlequarters.com/)              | board games, war games and good source of paints and supplies inc Vallejo, Humbrol, AMMO BY MIG |
+| Singapore        | [BlitzMinis](https://www.blitzminis.com/)                             | tabletop war games and supplies |
 | Singapore        | [HammerHouse](https://hammerhouse.com.sg/)                            | miniatures, games, paints (Citadel, Mr Hobby) and accessories |
 | Singapore        | [Hobby Art](https://www.hobbyartwebshop.com/)                         | mainly gundam |
 | Singapore        | [Hobby Bounties Singapore](https://hobbybounties.com/)                | best place for Airfix, Hornby.. |
-| Singapore        | [Hobby Mate](https://myhmshop.com/)                                   | great place for paints and supplies - Vallejo |
+| Singapore        | [Hobby Mate](https://www.hobbymate.shop/)                             | great place for paints and supplies - Vallejo |
 | Singapore        | [Hobby Point Bras Basah](http://www.hobbypoint.com.sg/index.html)     | great range of kits, paints and supplies - Bandai, Bronco, ICM, Academy. Mr Hobby, AK, Tamiya |
 | Singapore        | [Hobby Square](https://hobbysquare.com.sg/)                           | mainly drones and RC    |
 | Singapore        | [HPM Hobbies](https://www.hpmhobbies.com/)                            | |
-| Singapore        | [M WORKSHOP](https://www.facebook.com/themworkshop)                   | |
+| Singapore        | [M WORKSHOP](https://www.facebook.com/themworkshop)                   | great place for modellers - AK, Ma.K, its, books, tools and supplies |
 | Singapore        | [MediaMix Hobby](https://www.mediamixhobby.com.sg/shop/index.php)     | motor-related scale models, but also tools and accessories |
 | Singapore        | [Miniature Hobby International](http://miniaturehobby.com/)           | awesome place for kits - huge range and great prices |
 | Singapore        | [On-line Acrylic Factory](https://www.acrylic.com.sg/)                | acrylic display cases etc |
 | Singapore        | [Pendec Art and Design](http://pendec.com.sg/)                        | acrylic display cases etc |
 | Singapore        | [Singapore Hobby Supplies](https://www.singahobby.com/)               | RC, DELUXE incl liquid gravity |
-| Singapore        | [Stargek](http://www.stargek.com/)                                    | official Tamiya - good range but prices++ |
+| Singapore        | [Stargek](http://www.stargek.com/)                                    | Permanently closed. Was the official Tamiya agent in Singapore - good range but prices++. |
+| Singapore        | [XPIDEMIX](https://xpidemix.com/)                                     | board games, war games and good source of paints and supplies inc Vallejo, Humbrol, AMMO BY MIG. New home of Battle Quarters Singapore. |
 | Spain            | [AVR Model](http://www.avrmodel.com/)                                 | Scale Model Ship Online Store |
 | Spain            | [Azor modelismo](http://www.azormodelismo.com/tienda/)                | |
 | Spain            | [Bazar Matey](https://www.matey.com/)                                 | |
@@ -58,14 +59,16 @@
 | UK               | [Model Shipyard](http://model-shipyard.com/gb/15-paper-models)        | paper models |
 | UK               | [myminifactory](https://www.myminifactory.com/)                       | 3D model market |
 | UK               | [PM MODELS](https://www.pmmodelsuk.com/)                              | |
+| UK               | [Warlord Games (UK)](https://store.warlordgames.com/)                 | Warlord Games - UK |
 | Ukraine          | [Hobby.dn.ua](https://www.hobby.dn.ua/en/)                            | |
 | USA              | [etsy](https://www.etsy.com/sg-en/market/1_72_scale_figures)          | e.g. 1:72 scale figures  |
 | USA              | [grabcad](https://grabcad.com/library)                                | 3D model market |
 | USA              | [hobbylinc](https://www.hobbylinc.com/)                               | |
+| USA              | [LionHeart Hobby](https://lionhearthobby.com/)                        |  |
 | USA              | [pinshape](https://pinshape.com/)                                     | 3D Printing Service |
 | USA              | [shapeways](https://www.shapeways.com/)                               | 3D Printing Service |
 | USA              | [SketchUp’s 3D Warehouse](https://3dwarehouse.sketchup.com/?hl=en).   | 3D model market |
+| USA              | [Squadron](https://squadron.com/)                                     |  |
 | USA              | [thangs](https://thangs.com/)                                         | 3D model market |
 | USA              | [thingiverse](https://www.thingiverse.com/)                           | 3D model market |
-| USA              | [Squadron](https://squadron.com/)                                     |  |
-| USA              | [LionHeart Hobby](https://lionhearthobby.com/)                        |  |
+| USA              | [Warlord Games (US and RoW)](https://us.warlordgames.com/)            | Warlord Games - US and rest of the world |

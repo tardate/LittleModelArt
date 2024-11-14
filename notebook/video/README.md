@@ -1,5 +1,7 @@
 # Modeling Video/Youtube Channels
 
+## Scale Model
+
 * [AMMO of MIGJIMENEZ](https://www.youtube.com/user/AMMOofMIGJIMENEZ)
 * [AndysHobbyHeadquarters](https://www.youtube.com/c/AndysHobbyHeadquarters)
 * [Champion Scale Modelling](https://www.youtube.com/c/JasonChampionScaleModelling)
@@ -35,3 +37,12 @@
 * [Tiny Worlds Dioramas Models](https://www.youtube.com/c/TinyWorldsDioramasModels)
 * [WILDER](https://www.youtube.com/c/WILDER)
 * [Will Pattison](https://www.youtube.com/user/barpfoto)
+
+## War Gaming
+
+* [7th Son](https://www.youtube.com/@7thson726)
+* [Boots on the Table with Dom](https://www.youtube.com/channel/UCkVZHHEgIzNmQwCzZ-UHRhA)
+* [Epic History](https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ)
+* [The Napoleonic Wars Channel](https://www.youtube.com/@thenapoleonicwars)
+* [Storm of Steel Wargaming](https://www.youtube.com/@StormofSteelWargaming)
+* [toofatlardies](https://www.youtube.com/channel/UCC37_FCd5nbC6YebNAki-zw)
