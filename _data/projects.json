@@ -1,4 +1,16 @@
 {
+    "/projects/raf/bristol/f2b/f2bin72/": {
+        "id": 133,
+        "title": "Bristol F.2b",
+        "summary": "Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!",
+        "tags": [
+            "RAF",
+            "Bristol",
+            "F.2b",
+            "biplane",
+            "WWI"
+        ]
+    },
     "/projects/germany/fokker/dr1/": {
         "id": 132,
         "title": "Fokker Dr.I",

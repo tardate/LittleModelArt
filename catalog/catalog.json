@@ -1,5 +1,14 @@
 [
     {
+        "name": "Bristol F.2b",
+        "description": "Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!",
+        "categories": "RAF, Bristol, F.2b, biplane, WWI",
+        "relative_path": "projects/raf/bristol/f2b/f2bin72",
+        "updated_at": "2024-11-16T07:12:00Z",
+        "id": "#133",
+        "original_relative_path": "projects/RAF/Bristol/F2B/F2Bin72"
+    },
+    {
         "name": "Fokker Dr.I",
         "description": "Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!",
         "categories": "Germany, Fokker, Dr.1",
