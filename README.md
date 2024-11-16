@@ -1,6 +1,6 @@
-# 132 Little Model Art Projects
+# 133 Little Model Art Projects
 
-> Latest addition:sparkles: [Fokker Dr.I](./projects/Germany/Fokker/DR1) - Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!
+> Latest addition:sparkles: [Bristol F.2b](./projects/RAF/Bristol/F2B/F2Bin72) - Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
