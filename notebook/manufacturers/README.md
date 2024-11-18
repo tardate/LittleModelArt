@@ -87,6 +87,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Japan            | [Rokuhan](https://www.rokuhan.com/)                                      | Manufacturing and sales of model railroad items in Z scale |
 | Japan            | [Ships of the World 世界の艦船](https://www.ships-net.co.jp/)              | Ships of the World magazine and special publications |
 | Japan            | [Tamiya](https://www.tamiya.com/english/e-home.htm)                      |  |
+| Japan            | [V1 Models](https://www.v1models.com/)                                   | manufacture and sell original 1/72 and 1/144 scale airplane kits |
 | Japan            | [Woody Joe](https://www.woodyjoe.com/)                                   | wooden kits of Japanese subjects including temples, pagodas, ships |
 | Japan            | [ZOUKEI-MURA](https://www.zoukeimura.co.jp/en/)                          | |
 | Latvia & Ukraine | [North Star Models](https://northstarmodels.com/)                        | |
@@ -127,6 +128,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
 | UK               | [DELUXE Materials](https://deluxematerials.co.uk/)                       | Glues, foams and other construction accessories  |
 | UK               | [elan13](https://elan13.co.uk/)                                          | boutique for figure painters |
+| UK               | [Elite Minatures](https://eliteminiatures.co.uk/)                        | mainly 28mm metal figures |
 | UK               | [Everbuild](https://www.everbuild.co.uk/)                                | industrial CA and other building supplies |
 | UK               | [Frog](https://en.wikipedia.org/wiki/Frog_(models))                      | 1955-1976, |
 | UK               | [Games Workshop](https://www.games-workshop.com/)                        | miniatures |
@@ -135,8 +137,10 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Humbrol](https://uk.humbrol.com/)                                       | paint |
 | UK               | [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand))               | bankrupt, moulds bought by Revell and others. See [Matchbox Kits](http://www.matchboxkits.org/) |
 | UK               | [Paper Shipwright](https://www.papershipwright.co.uk/)                   | paper models |
+| UK               | [The Plastic Soldier Company](https://www.theplasticsoldiercompany.co.uk/) | injection-moulded hard plastic miniatures and rulesets |
 | UK               | [Starling Models](https://starling-models.co.uk/)                        | resin kits, photoetch and accessories |
 | UK               | [Treemendus Scenics](https://www.treemendus-scenics.co.uk/home/)         | landscaping products  |
+| UK               | [toofatlardies](https://toofatlardies.co.uk/)                            | wargame rule designers |
 | UK               | [White Ensign Models](https://www.whiteensignmodels.com/)                | photoetch |
 | Ukraine          | [A&A Models](https://www.facebook.com/AA-Models-1048501705294464/)       |  |
 | Ukraine          | [ACE Models](http://acemodel.com.ua/en)                                  | mainly afv 1:72 |

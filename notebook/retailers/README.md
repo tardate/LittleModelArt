@@ -28,7 +28,7 @@
 | Japan            | [VOLKS Hobby Paradise Online Store](https://hobby.ec.volks.co.jp/)    | ZOUKEI-MURA |
 | Japan            | [YAMADA Denki LABI Shinjuku ヤマダデンキ LABI新宿西口館](https://goo.gl/maps/t5cBfw9jfsmF5MsM9)                           | has the best prices on new kits (Shinjuku outlet pretty good range; Shibuya about 25% the size). Can duty free |
 | Japan            | [Yellow Submarine Akihabara Scale Shop イエローサブマリン 秋葉原スケールショップ](https://goo.gl/maps/PyZyomfSEKMBY4t5A)    | haven't personally been to this one yet |
-| Japan            | [YFS ミニチュア人形のYFS](https://goo.gl/maps/S5KtH56RwSksh9EfA)                                                         | rail-oriented figures. haven't personally been to this one yet |
+| Japan            | [YFS ミニチュア人形のYFS](https://goo.gl/maps/S5KtH56RwSksh9EfA)                                                         | mainly rail-oriented figures and accessories. Some rare finds. |
 | Japan            | [Yodabashi Shinjuku West Main Store ヨドバシカメラ 新宿西口本店 ゲーム館](https://goo.gl/maps/uN9fHBQjoBJdZijQA)           | large range of new kits and tools at reasonable prices. Can duty free. |
 | Poland           | [IBG](http://en.ibg.com.pl/)                                          | also carries other manufacturers |
 | Poland           | [Super-Hobby](https://www.super-hobby.com/)                           | |
