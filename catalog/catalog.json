@@ -1,5 +1,14 @@
 [
     {
+        "name": "Squadron Commander Lord Flasheart",
+        "description": "Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.",
+        "categories": "Blackadder, RAF, Fokker, Dr.1",
+        "relative_path": "projects/raf/lordflasheart",
+        "updated_at": "2024-11-23T13:17:00Z",
+        "id": "#134",
+        "original_relative_path": "projects/RAF/LordFlasheart"
+    },
+    {
         "name": "Bristol F.2b",
         "description": "Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!",
         "categories": "RAF, Bristol, F.2b, biplane, WWI",
