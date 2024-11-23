@@ -38,6 +38,28 @@ boxing. A 1957 tooling though!
 
 ![build01f](./assets/build01f.jpg?raw=true)
 
+![build02a](./assets/build02a.jpg?raw=true)
+
+![build02b](./assets/build02b.jpg?raw=true)
+
+![build02c](./assets/build02c.jpg?raw=true)
+
+![build02d](./assets/build02d.jpg?raw=true)
+
+![build02e](./assets/build02e.jpg?raw=true)
+
+![build02f](./assets/build02f.jpg?raw=true)
+
+![build02g](./assets/build02g.jpg?raw=true)
+
+![build02h](./assets/build02h.jpg?raw=true)
+
+![build02i](./assets/build02i.jpg?raw=true)
+
+![build02j](./assets/build02j.jpg?raw=true)
+
+A simple battlefield background..
+
 ![build03a](./assets/build03a.jpg?raw=true)
 
 ### Final Gallery
