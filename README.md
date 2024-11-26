@@ -1,6 +1,6 @@
-# 134 Little Model Art Projects
+# 135 Little Model Art Projects
 
-> Latest addition:sparkles: [Squadron Commander Lord Flasheart](./projects/RAF/LordFlasheart) - Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.
+> Latest addition:sparkles: [Homecoming](./projects/RAF/Homecoming) - A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

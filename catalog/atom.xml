@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2024-11-23T13:17:00Z</updated>
+  <updated>2024-11-26T12:56:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/raf/homecoming/</id>
+    <link href="https://modelart.tardate.com/projects/raf/homecoming/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/homecoming/assets/homecoming_build.jpg</g:image_link>
+    <updated>2024-11-26T12:56:00Z</updated>
+    <title>#135 Homecoming</title>
+    <summary>A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/homecoming/assets/homecoming_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="RAF"/>
+    <category term="Lancaster"/>
+    <category term="Spitfire"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/raf/lordflasheart/</id>
     <link href="https://modelart.tardate.com/projects/raf/lordflasheart/"/>

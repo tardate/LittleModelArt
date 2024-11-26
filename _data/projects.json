@@ -1,4 +1,14 @@
 {
+    "/projects/raf/homecoming/": {
+        "id": 135,
+        "title": "Homecoming",
+        "summary": "A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.",
+        "tags": [
+            "RAF",
+            "Lancaster",
+            "Spitfire"
+        ]
+    },
     "/projects/raf/lordflasheart/": {
         "id": 134,
         "title": "Squadron Commander Lord Flasheart",
