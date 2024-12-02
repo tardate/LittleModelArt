@@ -123,6 +123,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Taiwan           | [AFV Club](http://www.hobbyfan.com.tw/index.php?&lang=en)                | |
 | Taiwan           | [Caesar Miniatures](http://www.minitoysoldier.com/)                      | miniatures |
 | Turkey           | [Tan Model](http://www.tanmodel.com/en/)                                 | Turkey's international scale modelling brand.  |
+| UK               | [AB Figures](https://abfigures.com/)                | 15mm, 18mm, 20mm historical miniatures |
 | UK               | [AirFix](https://uk.airfix.com/)                                         | now part of Hornby Hobbies |
 | UK               | [Atlantic Models](https://atlanticmodels.net/)                           | PE |
 | UK               | [Baccus 6mm](https://www.baccus6mm.com/)                                 | 6mm wargames figures and accessories |
@@ -132,7 +133,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
 | UK               | [DELUXE Materials](https://deluxematerials.co.uk/)                       | Glues, foams and other construction accessories  |
 | UK               | [elan13](https://elan13.co.uk/)                                          | boutique for figure painters |
-| UK               | [Elite Minatures](https://eliteminiatures.co.uk/)                        | mainly 28mm metal figures |
+| UK               | [Elite Miniatures](https://eliteminiatures.co.uk/)                       | mainly 28mm metal figures |
 | UK               | [Empress Miniatures](https://www.empressminiatures.com/)                 | 28mm metal figures, some 20mm |
 | UK               | [Everbuild](https://www.everbuild.co.uk/)                                | industrial CA and other building supplies |
 | UK               | [Footsore](https://footsoreminiatures.co.uk/)                            | 28mm figures and rules |
@@ -141,6 +142,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Games Workshop](https://www.games-workshop.com/)                        | miniatures |
 | UK               | [Gripping Beast](https://www.grippingbeast.co.uk/)                       | 28mm metal and plastic figures |
 | UK               | [Hasslefree Miniatures](https://hfminis.co.uk/)                          | miniatures     |
+| UK               | [Heroics and Ros](https://www.heroicsandros.co.uk/) | 3mm and 7mm gaming models |
 | UK               | [Hornby](https://uk.hornby.com/)                                         | |
 | UK               | [Humbrol](https://uk.humbrol.com/)                                       | paint |
 | UK               | [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand))               | bankrupt, moulds bought by Revell and others. See [Matchbox Kits](http://www.matchboxkits.org/) |
@@ -148,6 +150,8 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Paper Shipwright](https://www.papershipwright.co.uk/)                   | paper models |
 | UK               | [Pendraken](https://www.pendraken.co.uk/)                                | mainly 10mm, 28mm figures and accessories |
 | UK               | [Perry Miniatures](https://www.perry-miniatures.com/)                    | mainly 28mm miniatures, plastic and metal |
+| UK               | [Peter Pig](https://www.peterpig.co.uk/)            | 15mm miniatures |
+| UK               | [Skytrex](https://skytrex.com/)                     | 1:200 scale miniatures |
 | UK               | [Starling Models](https://starling-models.co.uk/)                        | resin kits, photoetch and accessories |
 | UK               | [Steel Fist Miniatures](https://steelfistminiatures.com/)                | 28mm and 15mm historical miniatures|
 | UK               | [The Assault Group](https://theassaultgroup.co.uk/)                      | mainly 25mm and 28mm miniatures |
@@ -155,6 +159,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [toofatlardies](https://toofatlardies.co.uk/)                            | wargame rule designers |
 | UK               | [Treemendus Scenics](https://www.treemendus-scenics.co.uk/home/)         | landscaping products  |
 | UK               | [Victrix](https://www.victrixlimited.com/)                               | 28mm historical miniatures |
+| UK               | [WargamesFoundry](https://www.wargamesfoundry.com/) | 28mm wargaming miniatures |
 | UK               | [Warlord Games (UK)](https://store.warlordgames.com/)                    | Warlord Games - UK |
 | UK               | [White Ensign Models](https://www.whiteensignmodels.com/)                | photoetch |
 | Ukraine          | [A&A Models](https://www.facebook.com/AA-Models-1048501705294464/)       |  |
