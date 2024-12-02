@@ -39,8 +39,8 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Czechia          | [Offset Scale Models](https://www.facebook.com/Offsetmodels/)            | miniatures |
 | Czechia          | [quickboost](http://www.quickboost.net/)                                 | resin accessories |
 | Czechia          | [R & P Models](https://randpmodels.jex.cz/)                              | paper kits |
-| Czechia          | [Special Hobby](https://www.specialhobby.eu/)                            | |
 | Czechia          | [rise144models](https://www.rise144models.com/)                          | 3D printed accessories including figures |
+| Czechia          | [Special Hobby](https://www.specialhobby.eu/)                            | |
 | Czechia          | [Valom](https://www.valom.net/)                                          | |
 | France           | [Dynamo Models](https://www.dynamo-models.com/en/)                       | resin miniatures |
 | France           | [Heller](https://www.heller.fr/)                                         | |
@@ -91,6 +91,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Japan            | [Woody Joe](https://www.woodyjoe.com/)                                   | wooden kits of Japanese subjects including temples, pagodas, ships |
 | Japan            | [ZOUKEI-MURA](https://www.zoukeimura.co.jp/en/)                          | |
 | Latvia & Ukraine | [North Star Models](https://northstarmodels.com/)                        | |
+| New Zealand      | [Flames Of War / Battlefront](https://www.flamesofwar.com/)              | 28mm WWII figures and games |
 | New Zealand      | [Kotare Models](https://www.kotare-models.com/)                          | From the ashes of Wingnut Wings, expecting K32001 Kotare 1/32 Spitfire Mk.Ia (Mid) |
 | New Zealand      | [Micro Master](https://micromaster.co.nz/)                               | 3D printed hobby parts |
 | New Zealand      | [Wingnut Wings](http://www.wingnutwings.com/ww/)                         | Defunct, mainly WWI planes in extreme detail |
@@ -123,27 +124,38 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Taiwan           | [Caesar Miniatures](http://www.minitoysoldier.com/)                      | miniatures |
 | Turkey           | [Tan Model](http://www.tanmodel.com/en/)                                 | Turkey's international scale modelling brand.  |
 | UK               | [AirFix](https://uk.airfix.com/)                                         | now part of Hornby Hobbies |
-| UK               | [The Assault Group](https://theassaultgroup.co.uk/)                      | mainly 25mm and 28mm miniatures |
 | UK               | [Atlantic Models](https://atlanticmodels.net/)                           | PE |
+| UK               | [Baccus 6mm](https://www.baccus6mm.com/)                                 | 6mm wargames figures and accessories |
+| UK               | [Bad Squiddo Games](https://badsquiddogames.com/)                        | 28mm figures and games |
 | UK               | [Beacon Models](https://beacon-models.com/)                              | 1:144 aircraft |
+| UK               | [Bloody Miniatures](https://www.bloodyminiatures.co.uk/)                 | 28mm white metal figures for English Civil War and Thirty Years War |
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
 | UK               | [DELUXE Materials](https://deluxematerials.co.uk/)                       | Glues, foams and other construction accessories  |
 | UK               | [elan13](https://elan13.co.uk/)                                          | boutique for figure painters |
 | UK               | [Elite Minatures](https://eliteminiatures.co.uk/)                        | mainly 28mm metal figures |
+| UK               | [Empress Miniatures](https://www.empressminiatures.com/)                 | 28mm metal figures, some 20mm |
 | UK               | [Everbuild](https://www.everbuild.co.uk/)                                | industrial CA and other building supplies |
+| UK               | [Footsore](https://footsoreminiatures.co.uk/)                            | 28mm figures and rules |
 | UK               | [Frog](https://en.wikipedia.org/wiki/Frog_(models))                      | 1955-1976, |
+| UK               | [Front Rank Figurines](https://www.grippingbeast.co.uk/Front_Rank_Figurines--category--600.html) | 28mm and 40mm metal wargaming figures and covers historical periods |
 | UK               | [Games Workshop](https://www.games-workshop.com/)                        | miniatures |
+| UK               | [Gripping Beast](https://www.grippingbeast.co.uk/)                       | 28mm metal and plastic figures |
 | UK               | [Hasslefree Miniatures](https://hfminis.co.uk/)                          | miniatures     |
 | UK               | [Hornby](https://uk.hornby.com/)                                         | |
 | UK               | [Humbrol](https://uk.humbrol.com/)                                       | paint |
 | UK               | [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand))               | bankrupt, moulds bought by Revell and others. See [Matchbox Kits](http://www.matchboxkits.org/) |
 | UK               | [North Star Military Figures](https://www.northstarfigures.com/)         | product 28mm miniatures, but sell many other brands |
 | UK               | [Paper Shipwright](https://www.papershipwright.co.uk/)                   | paper models |
+| UK               | [Pendraken](https://www.pendraken.co.uk/)                                | mainly 10mm, 28mm figures and accessories |
 | UK               | [Perry Miniatures](https://www.perry-miniatures.com/)                    | mainly 28mm miniatures, plastic and metal |
-| UK               | [The Plastic Soldier Company](https://www.theplasticsoldiercompany.co.uk/) | injection-moulded hard plastic miniatures and rulesets |
 | UK               | [Starling Models](https://starling-models.co.uk/)                        | resin kits, photoetch and accessories |
-| UK               | [Treemendus Scenics](https://www.treemendus-scenics.co.uk/home/)         | landscaping products  |
+| UK               | [Steel Fist Miniatures](https://steelfistminiatures.com/)                | 28mm and 15mm historical miniatures|
+| UK               | [The Assault Group](https://theassaultgroup.co.uk/)                      | mainly 25mm and 28mm miniatures |
+| UK               | [The Plastic Soldier Company](https://www.theplasticsoldiercompany.co.uk/) | injection-moulded hard plastic miniatures and rulesets |
 | UK               | [toofatlardies](https://toofatlardies.co.uk/)                            | wargame rule designers |
+| UK               | [Treemendus Scenics](https://www.treemendus-scenics.co.uk/home/)         | landscaping products  |
+| UK               | [Victrix](https://www.victrixlimited.com/)                               | 28mm historical miniatures |
+| UK               | [Warlord Games (UK)](https://store.warlordgames.com/)                    | Warlord Games - UK |
 | UK               | [White Ensign Models](https://www.whiteensignmodels.com/)                | photoetch |
 | Ukraine          | [A&A Models](https://www.facebook.com/AA-Models-1048501705294464/)       |  |
 | Ukraine          | [ACE Models](http://acemodel.com.ua/en)                                  | mainly afv 1:72 |
@@ -201,13 +213,15 @@ This is not an exhaustive list - mainly just companies with products that have c
 | USA              | [Model Products Corporation MPC](https://www.round2corp.com/brand/mpc/)  | Defunct, brand now owned by Round 2 - [wikipedia](https://en.wikipedia.org/wiki/Model_Products_Corporation) |
 | USA              | [Monogram](https://en.wikipedia.org/wiki/Monogram_(company))             | Company defunct |
 | USA              | [MRC](https://www.modelrectifier.com/)                                   | |
+| USA              | [Old Glory Corp](https://oldglory25s.com/)                               | American Civil War Miniatures |
 | USA              | [Pegasus Hobbies](https://pegasushobbies.net)                            | miniatures |
 | USA              | [propblur](http://www.propblur.com/)                                     | prop blur accessories |
 | USA              | [Reaper Miniatures](https://www.reapermini.com/)                         | miniatures |
 | USA              | [Revell](https://www.revell.com/)                                        | |
 | USA              | [Round 2](https://www.round2corp.com/)                                   | scale models including die-cast, plastic, slot cars, and other hobby products |
-| USA              | [scale75](https://scale75.com/en/)                                       | miniatures and dioramas |
 | USA              | [Scale Colors](https://scalecolors.com/wp/)                              | paint and 3D |
+| USA              | [scale75](https://scale75.com/en/)                                       | miniatures and dioramas |
 | USA              | [Scenic Express](https://www.scenicexpress.com/)                         | landscaping products  |
+| USA              | [Wargames Atlantic](https://wargamesatlantic.com/)                       | wide range of 28mm figures |
 | USA              | [Wizkids](https://wizkids.com/unpainted/)                                | miniatures |
 | Vietnam          | [Paracel Miniatures](http://www.paracelminiatures.com/)                  | miniatures |
