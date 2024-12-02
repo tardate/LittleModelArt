@@ -123,6 +123,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Taiwan           | [Caesar Miniatures](http://www.minitoysoldier.com/)                      | miniatures |
 | Turkey           | [Tan Model](http://www.tanmodel.com/en/)                                 | Turkey's international scale modelling brand.  |
 | UK               | [AirFix](https://uk.airfix.com/)                                         | now part of Hornby Hobbies |
+| UK               | [The Assault Group](https://theassaultgroup.co.uk/)                      | mainly 25mm and 28mm miniatures |
 | UK               | [Atlantic Models](https://atlanticmodels.net/)                           | PE |
 | UK               | [Beacon Models](https://beacon-models.com/)                              | 1:144 aircraft |
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
@@ -136,7 +137,9 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Hornby](https://uk.hornby.com/)                                         | |
 | UK               | [Humbrol](https://uk.humbrol.com/)                                       | paint |
 | UK               | [Matchbox](https://en.wikipedia.org/wiki/Matchbox_(brand))               | bankrupt, moulds bought by Revell and others. See [Matchbox Kits](http://www.matchboxkits.org/) |
+| UK               | [North Star Military Figures](https://www.northstarfigures.com/)         | product 28mm miniatures, but sell many other brands |
 | UK               | [Paper Shipwright](https://www.papershipwright.co.uk/)                   | paper models |
+| UK               | [Perry Miniatures](https://www.perry-miniatures.com/)                    | mainly 28mm miniatures, plastic and metal |
 | UK               | [The Plastic Soldier Company](https://www.theplasticsoldiercompany.co.uk/) | injection-moulded hard plastic miniatures and rulesets |
 | UK               | [Starling Models](https://starling-models.co.uk/)                        | resin kits, photoetch and accessories |
 | UK               | [Treemendus Scenics](https://www.treemendus-scenics.co.uk/home/)         | landscaping products  |
