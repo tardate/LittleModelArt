@@ -1,5 +1,14 @@
 [
     {
+        "name": "Tokyo Model Stores",
+        "description": "Reviewing the best model stores in Tokyo",
+        "categories": "Retailers",
+        "relative_path": "notebook/retailers/tokyo",
+        "updated_at": "2024-12-20T07:37:00Z",
+        "id": "#136",
+        "original_relative_path": "notebook/retailers/tokyo"
+    },
+    {
         "name": "Homecoming",
         "description": "A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.",
         "categories": "RAF, Lancaster, Spitfire",

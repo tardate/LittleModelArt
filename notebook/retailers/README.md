@@ -1,5 +1,9 @@
 # Model Retailers
 
+See also:
+
+* [Tokyo Model Stores Review](./tokyo/)
+
 | Country          | Name                                                                  | Notes |
 |------------------|-----------------------------------------------------------------------|-------|
 | Australia        | [BNA Model World](https://www.bnamodelworld.com/)                     | |

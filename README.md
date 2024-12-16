@@ -1,6 +1,6 @@
-# 135 Little Model Art Projects
+# 136 Little Model Art Projects
 
-> Latest addition:sparkles: [Homecoming](./projects/RAF/Homecoming) - A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.
+> Latest addition:sparkles: [Tokyo Model Stores](./notebook/retailers/tokyo) - Reviewing the best model stores in Tokyo
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
