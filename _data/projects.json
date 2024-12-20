@@ -1,4 +1,12 @@
 {
+    "/notebook/retailers/tokyo/": {
+        "id": 136,
+        "title": "Tokyo Model Stores",
+        "summary": "Reviewing the best model stores in Tokyo",
+        "tags": [
+            "Retailers"
+        ]
+    },
     "/projects/raf/homecoming/": {
         "id": 135,
         "title": "Homecoming",

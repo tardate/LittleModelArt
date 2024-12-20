@@ -79,6 +79,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Japan            | [Green Max](https://www.greenmax.co.jp/)                                 | railway models and kits |
 | Japan            | [Hasegawa](http://www.hasegawa-model.co.jp/gsite/)                       |  |
 | Japan            | [KAIYODO](https://kaiyodo.co.jp/)                                        | figures |
+| Japan            | [Kato Precision Railroad Models](https://www.katomodels.com/)            | trains |
 | Japan            | [kotobukiya](https://www.kotobukiya.co.jp/)                              | figures |
 | Japan            | [Microace](http://www.microace-arii.co.jp/)                              |  |
 | Japan            | [ModelArt](https://www.modelart-shop.jp/)                                | modelling magazines |
@@ -87,6 +88,8 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Japan            | [Rokuhan](https://www.rokuhan.com/)                                      | Manufacturing and sales of model railroad items in Z scale |
 | Japan            | [Ships of the World 世界の艦船](https://www.ships-net.co.jp/)              | Ships of the World magazine and special publications |
 | Japan            | [Tamiya](https://www.tamiya.com/english/e-home.htm)                      |  |
+| Japan            | [TOMIX](https://www.tomytec.co.jp/tomix/)                                | trains - division of TomyTec |
+| Japan            | [TomyTec](https://www.tomytec.co.jp/)                                    | multiple brands e.g. TOMIX, Tomica |
 | Japan            | [V1 Models](https://www.v1models.com/)                                   | manufacture and sell original 1/72 and 1/144 scale airplane kits |
 | Japan            | [Woody Joe](https://www.woodyjoe.com/)                                   | wooden kits of Japanese subjects including temples, pagodas, ships |
 | Japan            | [ZOUKEI-MURA](https://www.zoukeimura.co.jp/en/)                          | |
@@ -211,6 +214,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | USA              | [Flying Leathernecks Decals](https://www.flyingleathernecksdecals.com/)  | Decals and aftermarket kits - US Marine aviation |
 | USA              | [HäT (Hat Toy Soldiers)](http://www.hat.com/)                            | miniatures |
 | USA              | [Imperial Hobby Productions](https://ihphobby.tripod.com/)               | 1/700 scale ships, HO scale commuter and transit vehicles |
+| USA              | [Kato Precision Railroad Models (USA)](https://katousa.com/)             | trains - US division, mainly North American subjects |
 | USA              | [Lazy Dog Hobby Studio](https://www.etsy.com/shop/LazyDogHobbyStudio)    | Gaming terrain and hobby accessories. |
 | USA              | [Lindberg](https://www.round2corp.com/brand/lindberg/)                   | Defunct, brand now owned by Round 2 - [wikipedia](https://en.wikipedia.org/wiki/Round_2_(company)#Lindberg) |
 | USA              | [micromark](https://www.micromark.com/)                                  | small tool specialists |
