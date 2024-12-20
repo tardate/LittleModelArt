@@ -13,8 +13,6 @@ although of course these stores usually also have a significant gunpla and model
 I'll keep this page updated as I get to visit again.
 Stores covered so far:
 
-* YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)
-* YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)
 * Joshin ōji
 * Leonardo レオナルド LG
 * Leonardo レオナルド LG 2
@@ -22,9 +20,15 @@ Stores covered so far:
 * Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館)
 * Tamiya Plamodel Factory Shimbashi
 * TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店)
+* YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)
+* YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)
 * YFS (ミニチュア人形のYFS)
 * Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)
 * Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)
+
+Others I can recommend but haven't got pics or written up here yet include:
+
+* [Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
 
 ### Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)
 
@@ -314,8 +318,7 @@ Although mainly figure and gunpla focused, it does have a reasonable plastic mod
 
 ## Credits and References
 
-* [YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)
-* [YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)
+* [Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
 * [Joshin ōji](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7)
 * [Leonardo レオナルド LG](https://maps.app.goo.gl/doggiAeGHoNbsRdWA)
 * [Leonardo レオナルド LG 2](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6)
@@ -323,6 +326,8 @@ Although mainly figure and gunpla focused, it does have a reasonable plastic mod
 * [Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館)](https://maps.app.goo.gl/nk46VQiiE7XfvcVf7)
 * [Tamiya Plamodel Factory Shimbashi](https://maps.app.goo.gl/fcrvZnkwigfwXry69)
 * [TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店)](https://maps.app.goo.gl/p4TN4LKgZkPQawz38)
+* [YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)
+* [YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)
 * [YFS (ミニチュア人形のYFS)](https://maps.app.goo.gl/domj4GE8NKSXL8UR7)
 * [Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)](https://maps.app.goo.gl/335kKbCGzQBC63eX7)
 * [Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)](https://maps.app.goo.gl/oz2NcquKUbjavBxn9)
