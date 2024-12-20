@@ -8,7 +8,8 @@ Reviewing the best model stores in Tokyo.
 
 These are my notes from model stores I've visited in Tokyo.
 I've restricted my reviews and comments to historical plastic models and tools,
-although of course these stores usually also have a significant gunpla and model train offerings.
+although of course these stores usually have significant gunpla, figure, and model train offerings,
+often far eclipsing the plastic model departments.
 
 I'll keep this page updated as I get to visit again.
 Stores covered so far:
@@ -67,7 +68,7 @@ As to selection: good range of current kits, lots of tools. The plastic model se
 * Tax free? Yes
 
 If you are in the Shinjuku area, then [Yodobashi Camera](https://maps.app.goo.gl/oz2NcquKUbjavBxn9) is well worth a visit.
-Yodobashi is spread out over many buildings in Shinjuku, so ust fist find the correct one - the Game and Hobby outlet.
+Yodobashi is spread out over many buildings in Shinjuku, so must first find the correct one - the Game and Hobby outlet.
 Inside their plastic model and tools are spread over two levels.
 
 Not quite the range as the Yodobashi Akiba, but the same good pricing, and I've often found books and kits here that
@@ -94,7 +95,7 @@ To the north end of Akihabara, around Suehirochō Station, is what I think of as
 
 I usually start at [Leonardo レオナルド LG 2](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6) after alighting at Suehirochō Station.
 
-It is good for 1:144 planes, more recent afv, ship, and plane kits. I didn't buy anything here this time but there was lots that tempted me. Prices tend to be sim to original RRP or a little higher, so this is mainly a good place to pickup recent but out of production kits that you really need.
+It is good for 1:144 planes, more recent afv, ship, and plane kits. I didn't buy anything here this time but there was lots that tempted me. Prices tend to be similar to original RRP or a little higher, so this is mainly a good place to pickup recent but out-of-production kits that you really need.
 
 ![front_20241214_150444](./assets/leonardo_lg2/front_20241214_150444.jpg)
 
@@ -117,7 +118,7 @@ It is good for 1:144 planes, more recent afv, ship, and plane kits. I didn't buy
 
 Next is usually a short walk over to [Leonardo レオナルド LG](https://maps.app.goo.gl/doggiAeGHoNbsRdWA) (they are related)
 
-This one has a larger stock, but generally the older/rarer releases. Don't expect decals to be in good order, and prices again will be sim to original RRP or a little higher, but if its an old kit you really want, then I've often found it here.
+This one has a larger stock, but generally the older/rarer releases. Don't expect decals to be in good order, and prices again will be similar to original RRP or a little higher, but if it's an old kit I'm after, then I've often found it here.
 
 ![leonardo_lg/front_20241214_153012](./assets/leonardo_lg/front_20241214_153012.jpg)
 
@@ -142,7 +143,7 @@ This one has a larger stock, but generally the older/rarer releases. Don't expec
 
 Finally a walk back via [Leonardo レオナルド ET](https://maps.app.goo.gl/zno9LJZfB6srvGj2A) (I think actually not related any longer, was a split some time back iirc)
 
-This one specializes more in the higher end rare items, e.g.old ship kits with the detail options. Will be a bit more pricey. Didn't buy anything here this time (but did get stuck in one of the aisles)
+This one specializes more in the higher end rare items, e.g.old ship kits with the detail options. Will be a bit more pricey. Didn't buy anything here this time (but did get stuck in one of the aisles).
 
 ![front_20241214_154724](./assets/leonardo_et/front_20241214_154724.jpg)
 
@@ -183,7 +184,7 @@ Although mainly figure related, it has a great tools and materials section.
 
 Shimbashi is a great place to stay in Tokyo, and just so happens this is where the
 [Tamiya Plamodel Factory](https://maps.app.goo.gl/fcrvZnkwigfwXry69)
-is located. This store is the main Tamiya showroom in Tokyo, newly renovated in 2023 and now includes a cafe and features all products on one floor. Highly worth a visit if only to pick up some merch. Kit prices are all RRP, but here they are almost guaranteed to be in stock if in the current catalogue.
+is located. This store is the main Tamiya showroom in Tokyo. Newly renovated in 2024, it now includes a cafe and features all products on one floor. Highly worth a visit, if only to pick up some merch. Kit prices are all RRP, but here they are almost guaranteed to be in stock if in the current catalogue.
 
 ![front_20241209_114226](./assets/tamiya_plamodel_factory/front_20241209_114226.jpg)
 
