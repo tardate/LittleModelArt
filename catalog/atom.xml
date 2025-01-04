@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-02-09T06:43:00Z</updated>
+  <updated>2025-02-11T13:06:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/</id>
+    <link href="https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/assets/ki45kaiotsu_build.jpg</g:image_link>
+    <updated>2025-02-11T13:06:00Z</updated>
+    <title>#139 Kawasaki Ki-45 Kai Otsu</title>
+    <summary>Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/assets/ki45kaiotsu_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="IJA"/>
+    <category term="Hasegawa"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/</id>
     <link href="https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/"/>
@@ -373,10 +384,10 @@
     <g:image_link>https://modelart.tardate.com/projects/ija/kawasakiki10/assets/kawasakiki10_build.jpg</g:image_link>
     <updated>2023-12-13T16:25:53Z</updated>
     <title>#107 Kawasaki Ki-10</title>
-    <summary>Building the ICM Kawasaki Ki-10. No electronics in this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Kawasaki Ki-10. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki10/assets/kawasakiki10_build.jpg&quot; /&gt;&lt;/div&gt;</content>
-    <category term="scale models"/>
-    <category term="Craft"/>
+    <summary>Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki10/assets/kawasakiki10_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="IJN"/>
+    <category term="ICM"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/raf/hurricane/mki/</id>
@@ -464,8 +475,8 @@
     <title>#099 Kawasaki Ki-61-II</title>
     <summary>Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144</summary>
     <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki61/ki61ii/assets/ki61ii_build.jpg&quot; /&gt;&lt;/div&gt;</content>
-    <category term="scale models"/>
-    <category term="Craft"/>
+    <category term="IJA"/>
+    <category term="F-Toys"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/hidf/twinotter/</id>

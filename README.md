@@ -1,6 +1,6 @@
-# 138 Little Model Art Projects
+# 139 Little Model Art Projects
 
-> Latest addition:sparkles: [HMS Repulse](./projects/RoyalNavy/ForceZ/HMSRepulse) - Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.
+> Latest addition:sparkles: [Kawasaki Ki-45 Kai Otsu](./projects/IJA/KawasakiKi45/Ki45KaiOtsu) - Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
