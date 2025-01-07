@@ -4,5 +4,6 @@
     "description": "Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter",
     "categories": "LED, scale models, CMOS/TTL",
     "relative_path": "projects/P40/WarHawk40K",
-    "updated_at": "2022-10-23T07:57:23Z"
+    "updated_at": "2022-10-23T07:57:23Z",
+    "created_at": "2022-10-23T07:57:23Z"
 }
