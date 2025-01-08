@@ -1,6 +1,6 @@
-# 136 Little Model Art Projects
+# 137 Little Model Art Projects
 
-> Latest addition:sparkles: [Tokyo Model Stores](./notebook/retailers/tokyo) - Reviewing the best model stores in Tokyo
+> Latest addition:sparkles: [Aichi D3A1 from Akagi](./projects/IJN/AichiD3A/AkagiD3AFlight) - An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

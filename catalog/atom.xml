@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2024-12-20T07:37:00Z</updated>
+  <updated>2025-01-08T13:30:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/assets/akagid3aflight_build.jpg</g:image_link>
+    <updated>2025-01-08T13:30:00Z</updated>
+    <title>#137 Aichi D3A1 from Akagi</title>
+    <summary>An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/assets/akagid3aflight_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="IJN"/>
+    <category term="Aichi D3A"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/notebook/retailers/tokyo/</id>
     <link href="https://modelart.tardate.com/notebook/retailers/tokyo/"/>
