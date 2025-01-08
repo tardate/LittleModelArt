@@ -8,7 +8,7 @@ An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits fro
 
 The [Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A) "Val" dive bomber was one of the most significant Japanese planes of the early war.
 Surprisingly though, there are scant good options in 1:72 scale.
-Wingsey is working on a new 1:48 kit due in 2025, but I'm not aware of anything yet in 1:72.
+Wingsy Kits is working on a new 1:48 kit due in 2025, but I'm not aware of anything yet in 1:72.
 
 I've long wanted to build the Aichi D3A in 1:72, and I got my hands on two contenders:
 
@@ -32,7 +32,7 @@ The Aichi D3A [Navy designation "Type 99 Carrier Bomber"; Allied reporting name 
 
 ["Midway" Type 99 Aichi D3-A1 Val ZTS Plastyk No. S055 1:72](https://www.scalemates.com/kits/zts-plastyk-s055-type-99-aichi-d3-a1-val--1073616)
 
-![S055-boxart](./assets/S055-boxart.jpg)
+![S055-box-art](./assets/S055-boxart.jpg)
 
 #### S055 Paint Scheme
 
@@ -49,7 +49,7 @@ The Aichi D3A [Navy designation "Type 99 Carrier Bomber"; Allied reporting name 
 
 [Aichi D3A1 'Val' Vintage Classics Airfix No. A02014V 1:72](https://www.scalemates.com/kits/airfix-a02014v-aichi-d3a1-val--1325491)
 
-![A02014V-boxart](./assets/A02014V-boxart.jpg)
+![A02014V-box-art](./assets/A02014V-boxart.jpg)
 
 #### A02014V Paint Scheme
 
@@ -115,7 +115,12 @@ Ready to mount:
 
 ![build04b](./assets/build04b.jpg?raw=true)
 
-Final gallery pics:
+### Final Gallery
+
+Akagi Attacks! A flight of Aichi D3A1 Val dive bombers unleashing destruction.
+
+These are old kits from Airfix and ZTS Plastyk. For such a significant aircraft, I am surprised we don't have better options in 1:72.
+Perhaps Wingsy Kits' new 1:48 tooling in 2025 will shake things up a bit!
 
 ![build05a](./assets/build05a.jpg?raw=true)
 
@@ -127,7 +132,7 @@ Final gallery pics:
 
 ![build05e](./assets/build05e.jpg?raw=true)
 
-The build now joins my wall of flight:
+### Joining the wall of flight
 
 ![build06a](./assets/build06a.jpg?raw=true)
 
