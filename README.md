@@ -1,6 +1,6 @@
-# 141 Little Model Art Projects
+# 142 Little Model Art Projects
 
-> Latest addition:sparkles: [Miles Master](./projects/RAF/MilesMaster) - Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.
+> Latest addition:sparkles: [Kure Naval Arsenal](./projects/IJN/KureNavalArsenal) - Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

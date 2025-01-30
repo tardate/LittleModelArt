@@ -7,12 +7,22 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-03-16T14:11:00Z</updated>
+  <updated>2025-03-31T08:38:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/kurenavalarsenal/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/kurenavalarsenal/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/kurenavalarsenal/assets/kurenavalarsenal_build.jpg</g:image_link>
+    <updated>2025-03-31T08:38:00Z</updated>
+    <title>#142 Kure Naval Arsenal</title>
+    <summary>Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/kurenavalarsenal/assets/kurenavalarsenal_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="IJN"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/raf/milesmaster/</id>
     <link href="https://modelart.tardate.com/projects/raf/milesmaster/"/>

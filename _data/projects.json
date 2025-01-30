@@ -1,4 +1,12 @@
 {
+    "/projects/ijn/kurenavalarsenal/": {
+        "id": 142,
+        "title": "Kure Naval Arsenal",
+        "summary": "Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal",
+        "tags": [
+            "IJN"
+        ]
+    },
     "/projects/raf/milesmaster/": {
         "id": 141,
         "title": "Miles Master",
