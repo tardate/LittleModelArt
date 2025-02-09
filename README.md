@@ -1,6 +1,6 @@
-# 137 Little Model Art Projects
+# 138 Little Model Art Projects
 
-> Latest addition:sparkles: [Aichi D3A1 from Akagi](./projects/IJN/AichiD3A/AkagiD3AFlight) - An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72
+> Latest addition:sparkles: [HMS Repulse](./projects/RoyalNavy/ForceZ/HMSRepulse) - Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -1,4 +1,13 @@
 {
+    "/projects/royalnavy/forcez/hmsrepulse/": {
+        "id": 138,
+        "title": "HMS Repulse",
+        "summary": "Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.",
+        "tags": [
+            "Royal Navy",
+            "battlecruiser"
+        ]
+    },
     "/projects/ijn/aichid3a/akagid3aflight/": {
         "id": 137,
         "title": "Aichi D3A1 from Akagi",
@@ -276,10 +285,10 @@
     "/projects/royalnavy/forcez/electraandexpress/": {
         "id": 108,
         "title": "Electra And Express To the Rescue",
-        "summary": "HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941. No electronics in this one.",
+        "summary": "HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.",
         "tags": [
-            "scale models",
-            "Craft"
+            "Royal Navy",
+            "destroyer"
         ]
     },
     "/projects/ija/kawasakiki10/": {
@@ -1009,10 +1018,10 @@
     "/projects/royalnavy/forcez/hmsprinceofwales/": {
         "id": 30,
         "title": "HMS Prince Of Wales",
-        "summary": "Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series. No electronics for this one.",
+        "summary": "Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.",
         "tags": [
-            "scale models",
-            "Craft"
+            "Royal Navy",
+            "battleship"
         ]
     },
     "/projects/tornadoecr/": {
@@ -1072,10 +1081,10 @@
     "/projects/royalnavy/forcez/hmasvampire/": {
         "id": 24,
         "title": "HMAS Vampire",
-        "summary": "Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series. No electronics for this one.",
+        "summary": "Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.",
         "tags": [
-            "scale models",
-            "Craft"
+            "Royal Navy",
+            "destroyer"
         ]
     },
     "/projects/scifiandfantasy/redeyespacemarine/": {

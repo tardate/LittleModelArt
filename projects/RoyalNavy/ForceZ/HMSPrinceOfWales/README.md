@@ -1,6 +1,6 @@
 # #030 HMS Prince Of Wales
 
-Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series. No electronics for this one.
+Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.
 
 ![Build](./assets/HMSPrinceOfWales_build.jpg?raw=true)
 
@@ -60,7 +60,7 @@ The wreck lies upside down in 223 feet (68 m) of water at [3°33′36″N 104°2
 The
 [Tamiya kit No. 31615](https://www.tamiya.com/english/products/31615prince/index.htm)
 is a in 1:700 waterline rendition of the HMS Prince of Wales.
-Thi sis an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
+This is an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
 
 [![kit-box](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
 
@@ -139,25 +139,25 @@ Here are my notes on how the PE was applied:
 
 ##### Paint
 
-| feature                       | recommended | used |
-|-------------------------------|-------------|------|
-|                               | X-11 Chrome Silver     |  |
-|                               | X-14 Sky Blue          |  |
-|                               | XF-1 Flat Black        |  |
-|                               | XF-2 Flat White        | 70.951 white |
-|                               | XF-7 Flat Red          |  |
-|                               | XF-8 Flat Blue         |  |
-| Plane camo                    | XF-11 IJN Green        | 70.897 Bronze Green |
-|                               | XF-12 IJN Grey         |  |
-|                               | XF-20 Medium Grey      |  |
-|                               | XF-21 Sky              |  |
-|                               | XF-24 Dark Grey        |  |
-|                               | XF-53 Neutral Grey     |  |
-|                               | XF-54 Dark Sea Grey    |  |
-| deck                          | XF-55 Deck Tan         | 70.843 Cork Brown |
-|                               | XF-56 Metallic Grey    |  |
-| Plane camo                    | XF-64 Red Brown        |  |
-|                               | XF-66 Light Grey       | 70.990 Light Grey |
+| feature                       | recommended                     | used |
+|-------------------------------|---------------------------------|------|
+|                               | X-11 Chrome Silver              |  |
+|                               | X-14 Sky Blue                   |  |
+|                               | XF-1 Flat Black                 |  |
+|                               | XF-2 Flat White                 | 70.951 white |
+|                               | XF-7 Flat Red                   |  |
+|                               | XF-8 Flat Blue                  |  |
+| Plane camo                    | XF-11 IJN Green                 | 70.897 Bronze Green |
+|                               | XF-12 IJN Grey                  |  |
+|                               | XF-20 Medium Grey               |  |
+|                               | XF-21 Sky                       |  |
+|                               | XF-24 Dark Grey                 |  |
+|                               | XF-53 Neutral Grey              |  |
+|                               | XF-54 Dark Sea Grey             |  |
+| deck                          | XF-55 Deck Tan                  | 70.843 Cork Brown |
+|                               | XF-56 Metallic Grey             |  |
+| Plane camo                    | XF-64 Red Brown                 |  |
+|                               | XF-66 Light Grey                | 70.990 Light Grey |
 | Camo A: Dark Ultramarine Blue | XF-1:1 + XF-8:4                 | 70.839 ultramarine + 70.950 black (8:1)  |
 | Camo B: Dark Grey Green       | XF-24:2 + XF-55:1               | 70.868 Dark Sea Green + 70.893 US Dark Green (6:1) |
 | Camo C: Medium Grey           | XF-2:1 + XF-54:2                | 70.992 Neutral Grey + 70.963 Medium Blue (8:1) |

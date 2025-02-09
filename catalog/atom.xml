@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-01-08T13:30:00Z</updated>
+  <updated>2025-02-09T06:43:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/</id>
+    <link href="https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/"/>
+    <g:image_link>https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/assets/hmsrepulse_build.jpg</g:image_link>
+    <updated>2025-02-09T06:43:00Z</updated>
+    <title>#138 HMS Repulse</title>
+    <summary>Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/assets/hmsrepulse_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Royal Navy"/>
+    <category term="battlecruiser"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/</id>
     <link href="https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/"/>
@@ -351,10 +362,10 @@
     <g:image_link>https://modelart.tardate.com/projects/royalnavy/forcez/electraandexpress/assets/electraandexpress_build.jpg</g:image_link>
     <updated>2023-12-16T11:28:14Z</updated>
     <title>#108 Electra And Express To the Rescue</title>
-    <summary>HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941. No electronics in this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941. No electronics in this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/electraandexpress/assets/electraandexpress_build.jpg&quot; /&gt;&lt;/div&gt;</content>
-    <category term="scale models"/>
-    <category term="Craft"/>
+    <summary>HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/electraandexpress/assets/electraandexpress_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Royal Navy"/>
+    <category term="destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ija/kawasakiki10/</id>
@@ -1240,10 +1251,10 @@
     <g:image_link>https://modelart.tardate.com/projects/royalnavy/forcez/hmsprinceofwales/assets/hmsprinceofwales_build.jpg</g:image_link>
     <updated>2021-11-16T02:19:28Z</updated>
     <title>#030 HMS Prince Of Wales</title>
-    <summary>Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series. No electronics for this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series. No electronics for this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmsprinceofwales/assets/hmsprinceofwales_build.jpg&quot; /&gt;&lt;/div&gt;</content>
-    <category term="scale models"/>
-    <category term="Craft"/>
+    <summary>Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmsprinceofwales/assets/hmsprinceofwales_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Royal Navy"/>
+    <category term="battleship"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/tornadoecr/</id>
@@ -1315,10 +1326,10 @@
     <g:image_link>https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/assets/hmasvampire_build.jpg</g:image_link>
     <updated>2021-08-03T11:45:32Z</updated>
     <title>#024 HMAS Vampire</title>
-    <summary>Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series. No electronics for this one.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series. No electronics for this one.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/assets/hmasvampire_build.jpg&quot; /&gt;&lt;/div&gt;</content>
-    <category term="scale models"/>
-    <category term="Craft"/>
+    <summary>Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/assets/hmasvampire_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Royal Navy"/>
+    <category term="destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/scifiandfantasy/redeyespacemarine/</id>
