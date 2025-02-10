@@ -1,6 +1,6 @@
-# 139 Little Model Art Projects
+# 140 Little Model Art Projects
 
-> Latest addition:sparkles: [Kawasaki Ki-45 Kai Otsu](./projects/IJA/KawasakiKi45/Ki45KaiOtsu) - Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.
+> Latest addition:sparkles: [Luella Bates and the FWD Model B](./projects/USA/LuellaBates) - Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
