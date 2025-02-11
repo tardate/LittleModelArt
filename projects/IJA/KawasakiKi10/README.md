@@ -1,6 +1,6 @@
 # #107 Kawasaki Ki-10
 
-Building the ICM Kawasaki Ki-10. No electronics in this one.
+Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.
 
 ![Build](./assets/KawasakiKi10_build.jpg?raw=true)
 
