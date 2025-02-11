@@ -6,6 +6,8 @@ Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight 
 
 ## Notes
 
+The [Kawasaki Ki-45](https://en.wikipedia.org/wiki/Kawasaki_Ki-45) Toryu (屠龍, "Dragonslayer") is a two-seat, twin-engine heavy fighter used by the Imperial Japanese Army in World War II. The army gave it the designation "Type 2 Two-Seat Fighter" (二式複座戦闘機, Ni-shiki fukuza sentōki); the Allied reporting name was "Nick". Originally serving as a long-range escort-fighter, the design — as with most heavy fighters of the period — fell prey to smaller, lighter, more agile single-engine fighters. As such, the Ki-45 instead served as a day and nighttime interceptor and strike fighter.
+
 ### Rejected By Japan For The Dumbest Reason: Kawasaki Ki-96
 
 The Kawasaki Ki-96, a Japanese single-seat heavy fighter/interceptor/ground attacker from World War II that was intended to serve as a replacement for the Kawasaki Ki-45 Toryu. We first talk about the short era of the heavy fighter, how the era came about and why it quickly faded after WW2. We then talk about Japan venturing into the realm with the Ki-45, a pretty solid plane that served well as a bomber destroyer. We talk about the variants of the Ki-45 that were to serve in various roles.
@@ -98,6 +100,11 @@ To crew the aircraft, I've used two 3d resin printed figures from
 
 ![build04g](./assets/build04g.jpg?raw=true)
 
+### Final Gallery
+
+The Kawasaki Ki-45 Toryu (屠龍) two-seat, twin-engine heavy fighter was introduced by the IJA in 1941.
+A classic 1995 tooling from Hasegawa that still nicely captures the beautiful lines of this lesser-known aircraft.
+
 ![build05a](./assets/build05a.jpg?raw=true)
 
 ![build05b](./assets/build05b.jpg?raw=true)
@@ -107,6 +114,8 @@ To crew the aircraft, I've used two 3d resin printed figures from
 ![build05d](./assets/build05d.jpg?raw=true)
 
 ![build05e](./assets/build05e.jpg?raw=true)
+
+It's now added to my wall of flight..
 
 ![build06a](./assets/build06a.jpg?raw=true)
 
