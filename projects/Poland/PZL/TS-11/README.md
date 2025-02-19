@@ -1,6 +1,6 @@
 # #051 TS-11
 
-Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra. No electronics in this one, just enjoying the build.
+Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra.
 
 ![Build](./assets/TS-11_build.jpg?raw=true)
 

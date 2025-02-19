@@ -1,6 +1,6 @@
 # #065 J-20
 
-Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF (no electronics here, just a great little kit)
+Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF.
 
 ![Build](./assets/J20_build.jpg?raw=true)
 
@@ -47,8 +47,6 @@ Behind the scenes with the in-flight base. Getting cotton wool to look like real
 
 成都飞机工业集团的歼20 Caught in-flight, the "Mighty Dragon" Chengdu J-20..
 this is the Trumpeter 1:144 kit - fantastic detail, though it took a bit of conversion to get it nicely wheels-up .. including a hand-carved pilot!
-
-#scalemodel #plaaf #1144scale
 
 ![build02b](./assets/build02b.jpg?raw=true)
 

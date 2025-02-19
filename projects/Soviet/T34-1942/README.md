@@ -1,6 +1,6 @@
 # #034 T-34 1942
 
-Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (no electronics - just practicing weathering at small scale).
+Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (just practicing weathering at small scale).
 
 ![Build](./assets/T34-1942_build.jpg?raw=true)
 
@@ -8,7 +8,7 @@ Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (no electronic
 
 The T-34 is one of the most iconic tanks of World War II, famously deployed with the Red Army on the Eastern Front / [Great Patriotic War](https://en.wikipedia.org/wiki/Great_Patriotic_War_(term))
 
-T-34 Model 1942 was equiped with a 76.2 mm F-34 main gun. It is common referred to as the T-34/76 however this was not offical designation.
+T-34 Model 1942 was equipped with a 76.2 mm F-34 main gun. It is common referred to as the T-34/76 however this was not official designation.
 
 ## Kit
 
@@ -17,7 +17,7 @@ I picked up the kit at a very good price:
 
 ![kit_box](./assets/kit_box.jpg?raw=true)
 
-I chose some crw figures ffomr the CMK figure set:
+I chose some crw figures from the CMK figure set:
 [CCCP T-34 War Tank Crew and Infantry (4pcs) CMK No. F72281 1:72](https://www.scalemates.com/kits/cmk-f72281-cccp-t-34-war-tank-crew-and-infantry-4pcs--959370)
 
 ![kit_cmk_box](./assets/kit_cmk_box.jpg?raw=true)
@@ -44,7 +44,7 @@ hmm, figure painting in progress. Doing this with acrylics and my blends are not
 
 ![build03a](./assets/build03a.jpg?raw=true)
 
-The base color is Vallejo 70.897 Bronce Green. But I've mixed it quite a bit and layed pastel pigments later in the process.
+The base color is Vallejo 70.897 Bronce Green. But I've mixed it quite a bit and layered pastel pigments later in the process.
 
 ![build03b](./assets/build03b.jpg?raw=true)
 
@@ -68,7 +68,6 @@ taking stock.. think I'll leave this for a few days then take a fresh look at th
 
 ![build06c](./assets/build06c.jpg?raw=true)
 ![build06d](./assets/build06d.jpg?raw=true)
-
 
 ## Credits and References
 

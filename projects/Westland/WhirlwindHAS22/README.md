@@ -1,6 +1,6 @@
 # #071 Westland Whirlwind HAS.22
 
-Building the Westland Whirlwind HAS.22 from Airfix (no electronics in this one)
+Building the Westland Whirlwind HAS.22 from Airfix.
 
 ![Build](./assets/WhirlwindHAS22_build.jpg?raw=true)
 

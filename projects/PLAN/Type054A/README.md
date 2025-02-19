@@ -1,6 +1,6 @@
 # #014 PLA Navy Type 054A
 
-Building the Trumpeter 1:700 PLAN 054A Frigate (no electronics - yet).
+Building the Trumpeter 1:700 PLAN 054A Frigate.
 
 ![Build](./assets/Type054A_build.jpg?raw=true)
 

@@ -1,6 +1,6 @@
 # #021 I-16 and I-58
 
-Building the Tamiya 1:700 I-16 & I-58 waterline kit 31453. No electronics in this one - more an experiment in rust and water effects.
+Building the Tamiya 1:700 I-16 & I-58 waterline kit 31453. An experiment in rust and water effects.
 
 ![Build](./assets/i16i58_build.jpg?raw=true)
 
@@ -13,13 +13,11 @@ for only ¥710 and it went immediately into my cart as an impulse buy. Three mai
 * a chance to practice some watery effects
 * a nice canvas for attempting some rusted hull effects
 
-
 ### The Subjects
 
 [Japanese submarine I-16](https://en.wikipedia.org/wiki/Japanese_submarine_I-16) was commissioned in 1940.
 It is one of the submarines that was used to deploy midget submarines - the
 [Type A Kō-hyōteki-class submarine](https://en.wikipedia.org/wiki/Type_A_K%C5%8D-hy%C5%8Dteki-class_submarine)
-
 
 The I-16's tabular record of movement is available at [combinedfleet.com](http://www.combinedfleet.com/I-16.htm),
 from 15 September 1937: when she was laid down at Mitsubishi's Kobe Yard as submarine No. 44, the lead boat of the C-1 class, to

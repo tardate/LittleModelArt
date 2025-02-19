@@ -1,6 +1,6 @@
 # #055 Flying Tigers Egg-Scale
 
-Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms (no electronics in this one)
+Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms.
 
 ![Build](./assets/EggScale_build.jpg?raw=true)
 

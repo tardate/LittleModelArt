@@ -4,8 +4,9 @@
         "title": "Kawasaki Ki-45 Kai Otsu",
         "summary": "Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.",
         "tags": [
-            "IJA",
-            "Hasegawa"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/royalnavy/forcez/hmsrepulse/": {
@@ -13,7 +14,8 @@
         "title": "HMS Repulse",
         "summary": "Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.",
         "tags": [
-            "Royal Navy",
+            "navy ships",
+            "uk",
             "battlecruiser"
         ]
     },
@@ -22,8 +24,9 @@
         "title": "Aichi D3A1 from Akagi",
         "summary": "An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72",
         "tags": [
-            "IJN",
-            "Aichi D3A"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/notebook/retailers/tokyo/": {
@@ -39,9 +42,9 @@
         "title": "Homecoming",
         "summary": "A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.",
         "tags": [
-            "RAF",
-            "Lancaster",
-            "Spitfire"
+            "military aircraft",
+            "uk",
+            "figures"
         ]
     },
     "/projects/raf/lordflasheart/": {
@@ -49,10 +52,10 @@
         "title": "Squadron Commander Lord Flasheart",
         "summary": "Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.",
         "tags": [
-            "Blackadder",
-            "RAF",
-            "Fokker",
-            "Dr.1"
+            "military aircraft",
+            "figures",
+            "uk",
+            "germany"
         ]
     },
     "/projects/raf/bristol/f2b/f2bin72/": {
@@ -60,11 +63,8 @@
         "title": "Bristol F.2b",
         "summary": "Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!",
         "tags": [
-            "RAF",
-            "Bristol",
-            "F.2b",
-            "biplane",
-            "WWI"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/germany/fokker/dr1/": {
@@ -72,9 +72,8 @@
         "title": "Fokker Dr.I",
         "summary": "Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!",
         "tags": [
-            "Germany",
-            "Fokker",
-            "Dr.1"
+            "military aircraft",
+            "germany"
         ]
     },
     "/projects/ukraine/zaporizhzhia/": {
@@ -82,10 +81,9 @@
         "title": "Foxtrot-class Zaporizhzhia",
         "summary": "MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure\u2639 One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!",
         "tags": [
-            "Ukraine",
+            "navy ships",
             "submarine",
-            "ship",
-            "trashed"
+            "ukraine"
         ]
     },
     "/projects/royalnavy/navalmineremoval/": {
@@ -93,9 +91,8 @@
         "title": "Naval Mine Removal",
         "summary": "Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.",
         "tags": [
-            "Royal Navy",
-            "British Army",
-            "World War II"
+            "military vehicles",
+            "uk"
         ]
     },
     "/projects/ijn/kyushu/j7w1/": {
@@ -103,8 +100,9 @@
         "title": "Kyushu J7W1",
         "summary": "Building the Ky\u016bsh\u016b J7W Shinden \u9707\u96fb, as used by K\u014dichi Shikishima in Godzilla Minus One to deliver the final fatal blow. No electronics in this one.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/ijn/mitsubishig3m/g3m3model23/": {
@@ -112,18 +110,19 @@
         "title": "Mitsubishi G3M3 Nell",
         "summary": "Building the Mitsubishi G3M3 Nell from Hasegawa in 1:72, motorized and mounted in-flight for the #risingsungb.",
         "tags": [
-            "scale models",
-            "Craft",
-            "IJN"
+            "military aircraft",
+            "japan",
+            "IJN",
+            "electronics"
         ]
     },
     "/projects/raf/gloster/meteorfr9/": {
         "id": 127,
         "title": "Gloster Meteor FR.9",
-        "summary": "Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9. No electronics in this one.",
+        "summary": "Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ijn/mitsubishia6m/a6m2b/": {
@@ -131,8 +130,9 @@
         "title": "Mitsubishi A6M2b",
         "summary": "Building the classic Tamiya 1:72 A6M2b",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/ijn/kamikawamaru/": {
@@ -140,8 +140,8 @@
         "title": "IJN Seaplane Tender Kamikawa Maru",
         "summary": "Depicting the brief establishment of a seaplane base at Deboyne in 1942 by the IJN Seaplane Tender Kamikawa Maru and a supporting force.",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
@@ -150,8 +150,8 @@
         "title": "IJN Cruiser Jints\u016b",
         "summary": "Building the Fujimi 1:700 kit of the IJN Cruiser Jints\u016b (\u795e\u901a) (\u3058\u3093\u3064\u3046)",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
@@ -160,62 +160,64 @@
         "title": "Hawker Typhoon Mk.Ib on D-Day",
         "summary": "Typhoon Ib on ground attack over France 1944. Just a quick build of the nice little Airfix 1:72 kit while other projects drag along on the bench!",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ija/type97/malaya1941/": {
         "id": 122,
         "title": "Type 97 ChiHa in Malaya",
-        "summary": "A Type 97 Chi-Ha \u30c1\u30cf roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture. No electronics in this one.",
+        "summary": "A Type 97 Chi-Ha \u30c1\u30cf roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/spitfire/prxix/": {
         "id": 121,
         "title": "Spitfire PR Mk.XIX",
-        "summary": "Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit. No electronics in this one.",
+        "summary": "Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ija/type95/onbetio/": {
         "id": 120,
         "title": "Betio",
-        "summary": "Type 95 Ha-G\u014d on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit. No electronics.",
+        "summary": "Type 95 Ha-G\u014d on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/spain/polikarpovi16/": {
         "id": 119,
         "title": "I-16 Escuadrilla de Mosca",
-        "summary": "Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca. No electronics.",
+        "summary": "Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "spain"
         ]
     },
     "/projects/napoleonic/britishgunner1815/": {
         "id": 118,
         "title": "British Royal Artillery Gunner 1815",
-        "summary": "Posing the Elan13 54mm Royal Artillery Gunner leaping into action... (no electronics in this one)",
+        "summary": "Posing the Elan13 54mm Royal Artillery Gunner leaping into action...",
         "tags": [
-            "scale models",
-            "Craft"
+            "figures",
+            "uk"
         ]
     },
     "/projects/plaaf/jl8/": {
         "id": 117,
         "title": "Hongdu K-8/JL-8",
-        "summary": "Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit. No electronics in this one.",
+        "summary": "Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china"
         ]
     },
     "/projects/ija/mitsubishiki51/ki51burma/": {
@@ -223,17 +225,20 @@
         "title": "\u30ad51 over Burma 1942",
         "summary": "Building the ClearProp Ki-51 Sonia 1:144 with a motorized prop and a camo scheme as used in Burma 1942",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA",
+            "electronics"
         ]
     },
     "/projects/ija/kawasakiki100/ki100itype5/": {
         "id": 115,
         "title": "Kawasaki Ki-100-I-Otsu",
-        "summary": "Building the \u30ad100 from Aoshima in 1:72, mounted in flight over a watercolour scene. No electronics in this one.",
+        "summary": "Building the \u30ad100 from Aoshima in 1:72, mounted in flight over a watercolour scene.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/bluestar/southlandstar/": {
@@ -241,8 +246,7 @@
         "title": "M.V. Southland Star",
         "summary": "Blue Star Lines M.V. Southland Star transiting Cook Strait in a gale",
         "tags": [
-            "scale models",
-            "Craft"
+            "merchant ships"
         ]
     },
     "/projects/france/moranesaulnier/ms230/": {
@@ -250,17 +254,17 @@
         "title": "Morane Saulnier MS.230",
         "summary": "Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "france"
         ]
     },
     "/projects/raf/gloster/gladiator/": {
         "id": 112,
         "title": "Gloster Gladiator",
-        "summary": "Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939. No electronics in this one.",
+        "summary": "Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/raf/bristol/bulldog/": {
@@ -268,8 +272,8 @@
         "title": "Bristol Bulldog",
         "summary": "The Bristol Bulldog is an RAF classic from the inter-war period. Although this Airfix Vintage Classic 2019 boxing was tooled way back in 1969, it is still a very buildable kit of a very beautiful plane.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ijn/tone/": {
@@ -277,18 +281,18 @@
         "title": "IJN Heavy Cruiser Tone \u5229\u6839",
         "summary": "On 23 January 1942, the IJN Heavy Cruiser Tone \u5229\u6839 attacked Buka Island with its float planes. A diorama featuring the Aoshima 1:700 kit.",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
     "/projects/france/caudronrenault/cr714/": {
         "id": 109,
         "title": "CR.714",
-        "summary": "Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit. No electronics in this one.",
+        "summary": "Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "france"
         ]
     },
     "/projects/royalnavy/forcez/electraandexpress/": {
@@ -296,7 +300,8 @@
         "title": "Electra And Express To the Rescue",
         "summary": "HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.",
         "tags": [
-            "Royal Navy",
+            "navy ships",
+            "uk",
             "destroyer"
         ]
     },
@@ -305,17 +310,18 @@
         "title": "Kawasaki Ki-10",
         "summary": "Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.",
         "tags": [
-            "IJN",
-            "ICM"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/raf/hurricane/mki/": {
         "id": 106,
         "title": "Hurricane MkI",
-        "summary": "No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen. No electronics in this one.",
+        "summary": "No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ija/nakajimaki43-ii/": {
@@ -323,8 +329,9 @@
         "title": "Nakajima Ki43-II",
         "summary": "Nakajima Ki-43 Hayabusa (\u96bc), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/dehavilland/beaver/": {
@@ -332,27 +339,27 @@
         "title": "DHC Beaver",
         "summary": "Building the de Havilland Canada DHC-2 Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.",
         "tags": [
-            "scale models",
-            "Craft",
-            "motor"
+            "military aircraft",
+            "electronics"
         ]
     },
     "/projects/ija/nakajimaki27/": {
         "id": 103,
         "title": "Nakajima Ki-27",
-        "summary": "Building the ICM Nakajima Ki-27a kit in 1:72 scale (no electronics in this one)",
+        "summary": "Building the ICM Nakajima Ki-27a kit in 1:72 scale",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/japan/yanmar/yh6115/": {
         "id": 102,
         "title": "YANMAR Rice Harvester YH6115 \u30aa\u30fc\u30c8\u30b3\u30f3\u30d0\u30a4\u30f3",
-        "summary": "Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while *planting rice* in a dio! (no electronics in this one)",
+        "summary": "Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while *planting rice* in a dio!",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil vehicles",
+            "japan"
         ]
     },
     "/projects/japan/honda/supercub/": {
@@ -360,8 +367,8 @@
         "title": "Honda Super Cub",
         "summary": "Building the F-Toys Honda Super Cub in 1:24",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil vehicles",
+            "japan"
         ]
     },
     "/projects/ijn/mitsubishia6m/a6m2n/ftoysfc54/": {
@@ -369,8 +376,9 @@
         "title": "Mitsubishi A6M2-N",
         "summary": "Building the F-Toys Mitsubishi A6M2-N from their 1/144 WORK SHOP Vol.40",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/ija/kawasakiki61/ki61ii/": {
@@ -378,8 +386,9 @@
         "title": "Kawasaki Ki-61-II",
         "summary": "Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144",
         "tags": [
-            "IJA",
-            "F-Toys"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/hidf/twinotter/": {
@@ -387,30 +396,25 @@
         "title": "HIDF Twin Otter Recon/SpecOps",
         "summary": "DHC-6 Twin Otter from Revell (04901 in 1:72), as seen commandeered by HIDF Gendarmerie and pressed into service as a reconnaissance and special ops platform. For the Micro Machines Podcast HIDF GB.",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED",
-            "555 Timer",
-            "motor",
-            "Oscillators"
+            "military aircraft",
+            "electronics"
         ]
     },
     "/projects/defiantmkivdo17z/": {
         "id": 97,
         "title": "Defiant v Do-17z",
-        "summary": "Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014. No electronics.",
+        "summary": "Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft"
         ]
     },
     "/projects/ukraine/fencer/": {
         "id": 96,
         "title": "Ukrainian Su-24M Fencer",
-        "summary": "Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer. No electronics in this one.",
+        "summary": "Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "ukraine"
         ]
     },
     "/projects/ijn/militarytransports/": {
@@ -418,8 +422,8 @@
         "title": "IJN Military Transports",
         "summary": "Building the No.1 and No.101 landing ships \u8f38\u9001\u8266 from the Tamiya Military Transport set. No electronics or base for this - saving for a future diorama.",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN",
             "IJA"
         ]
@@ -427,10 +431,10 @@
     "/projects/tarpchallenge/snowyfindsaride/": {
         "id": 94,
         "title": "Snowy Finds a Ride",
-        "summary": "My Herg\u00e9 fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor & Vega Gull in 1:72 (no electronics in this one)",
+        "summary": "My Herg\u00e9 fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor & Vega Gull in 1:72",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "diorama"
         ]
     },
     "/projects/ukraine/usv/": {
@@ -438,35 +442,35 @@
         "title": "Ukraine's Maritime Drone (USV)",
         "summary": "Building the MikroMir 1:35 kit. No electronics in this one.",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships"
         ]
     },
     "/projects/japan/dauphin2/": {
         "id": 92,
         "title": "A\u00e9rospatiale SA365N Dauphin 2",
-        "summary": "Building the A\u00e9rospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.",
+        "summary": "Building the A\u00e9rospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil aircraft",
+            "japan"
         ]
     },
     "/projects/ija/type89igootsu/": {
         "id": 91,
         "title": "IJA Type 89 I-Go Otsu Medium Tank",
-        "summary": "Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank. No electronics in this one.",
+        "summary": "Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/jsdf/f-4ej/": {
         "id": 90,
         "title": "F-4EJ Last Phantom",
-        "summary": "Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit. No electronics in this one.",
+        "summary": "Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan"
         ]
     },
     "/projects/ija/racetojitra/": {
@@ -474,27 +478,30 @@
         "title": "Race To Jitra",
         "summary": "Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED"
+            "military aircraft",
+            "navy ships",
+            "japan",
+            "IJA",
+            "IJN"
         ]
     },
     "/projects/ija/type95/type95hago/": {
         "id": 88,
         "title": "IJA Type 95 Ha-Go Light Tank",
-        "summary": "Building the IBG Models 1:72 representation of the IJA Type 95 Ha-G\u014d \u30cf\u53f7 Light Tank. No electronics in this one.",
+        "summary": "Building the IBG Models 1:72 representation of the IJA Type 95 Ha-G\u014d \u30cf\u53f7 Light Tank.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/pla/t34-85/": {
         "id": 87,
         "title": "The Legendary T-34/85 215\u53f7",
-        "summary": "Capturing the legendary T-34/85 215\u53f7 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model. No electronics in this one.",
+        "summary": "Capturing the legendary T-34/85 215\u53f7 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "china"
         ]
     },
     "/projects/ukraine/bayraktartb2/": {
@@ -502,8 +509,8 @@
         "title": "Bayraktar TB2",
         "summary": "Building the Clear Prop! 1:48 representation of the now iconic Bayraktar TB2 as used by the Armed Forces of Ukraine",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "ukraine"
         ]
     },
     "/projects/ijn/ayanami/": {
@@ -511,8 +518,8 @@
         "title": "IJN Destroyer Ayanami",
         "summary": "Building the Tamiya 1:700 representation of the IJN Destroyer Ayanami \u7dbe\u6ce2",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
@@ -521,8 +528,9 @@
         "title": "Nakajima Ki84",
         "summary": "Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (\u30ad84 \u75be\u98a8)",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/ijn/hashidate/": {
@@ -530,8 +538,8 @@
         "title": "IJN Hashidate",
         "summary": "Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate \u6a4b\u7acb",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
@@ -540,17 +548,17 @@
         "title": "Mitsubishi A6M Zero on the Zuikaku",
         "summary": "Building the amazing little Sweet 1:144 kit of the Zero with Flight Deck",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/britisharmy/tilly10hp/": {
         "id": 81,
         "title": "Austin Tilly 10HP",
-        "summary": "Buidling a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. No electronics in this one - just a quick weekend build.",
+        "summary": "Building a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. Just a quick weekend build.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles"
         ]
     },
     "/projects/ija/nakajimaki84/eggscale/": {
@@ -558,8 +566,9 @@
         "title": "Nakajima Ki-84 Egg-Scale",
         "summary": "An egg-scale warm up before I move on to the Arma Hobby Ki-84 Hayate",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/raf/gloster/pioneere.28-39/": {
@@ -567,8 +576,8 @@
         "title": "Gloster Pioneer E.28-39",
         "summary": "Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/bellanca/pacemaker/": {
@@ -576,8 +585,8 @@
         "title": "Bellanca CH-300 Pacemaker",
         "summary": "Building the Dora Wings kit of the Bellanca CH-300 Pacemaker with an appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil aircraft",
+            "usa"
         ]
     },
     "/projects/ijn/mitsubishia5m2b/": {
@@ -585,10 +594,10 @@
         "title": "Mitsubishi A5M2b",
         "summary": "Building the Wingsy Kits A5M2b in-flight for the 2023 Model Officers Mess birthday bash raising money and awareness for the Models for Heroes charity.",
         "tags": [
-            "AVR",
-            "LED",
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN",
+            "electronics"
         ]
     },
     "/projects/walnutchallenge/teddybearviking/": {
@@ -596,9 +605,8 @@
         "title": "Teddy Bear Viking",
         "summary": "If you go down in the woods today, you're sure of a big surprise ... a Teddy Bear Viking in a Walnut!",
         "tags": [
-            "LED",
-            "scale models",
-            "Craft"
+            "figures",
+            "electronics"
         ]
     },
     "/projects/porcorosso/": {
@@ -606,19 +614,17 @@
         "title": "Porco Rosso",
         "summary": "Revisiting one of my favourite films after so many years thanks to a wonderful 1:72 kit of the Porco Rosso Savoia S.21 from Fine Molds",
         "tags": [
-            "scale models",
-            "Craft",
-            "555 Timer",
-            "motor"
+            "civil aircraft",
+            "electronics"
         ]
     },
     "/projects/raf/mosquito/": {
         "id": 74,
         "title": "de Havilland Mosquito B Mk.XVI",
-        "summary": "Building the Airfix de Havilland Mosquito B Mk.XVI (no electronics)",
+        "summary": "Building the Airfix de Havilland Mosquito B Mk.XVI",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/scifiandfantasy/uncfdreadnought/": {
@@ -626,27 +632,28 @@
         "title": "U.N.C.F. Dreadnoughts",
         "summary": "Electrifying a pair of Bandai Spirits Dreadnought-class battleships with LED effect and fibre optics",
         "tags": [
-            "LED",
-            "scale models",
-            "Craft"
+            "science fiction",
+            "electronics"
         ]
     },
     "/projects/raf/mosquito/mozziebite/": {
         "id": 72,
         "title": "Mozzie Bite!",
-        "summary": "A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models (no electronics).",
+        "summary": "A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "military vehicles",
+            "tank",
+            "uk",
+            "nazi germany"
         ]
     },
     "/projects/westland/whirlwindhas22/": {
         "id": 71,
         "title": "Westland Whirlwind HAS.22",
-        "summary": "Building the Westland Whirlwind HAS.22 from Airfix (no electronics in this one)",
+        "summary": "Building the Westland Whirlwind HAS.22 from Airfix",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft"
         ]
     },
     "/projects/france/bleriotxi/": {
@@ -654,9 +661,8 @@
         "title": "Bl\u00e9riot XI",
         "summary": "Making a Bl\u00e9riot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin (no electronics).",
         "tags": [
-            "scale models",
-            "Craft",
-            "resin"
+            "civil aircraft",
+            "france"
         ]
     },
     "/projects/ijn/yawatamaruunyo/": {
@@ -664,19 +670,19 @@
         "title": "Yawatamaru / Un'y\u014d",
         "summary": "Using a Pepper's Ghost effect in a box diorama to capture the Yawatamaru (\u516b\u5e61\u4e38) conversion to Taiy\u014d-class escort carrier Un'y\u014d (\u96f2\u9df9).",
         "tags": [
-            "Arduino",
-            "scale models",
-            "Craft",
-            "IJN"
+            "civil ships",
+            "navy ships",
+            "japan",
+            "IJN",
+            "electronics"
         ]
     },
     "/projects/ukraine/inspring/": {
         "id": 68,
         "title": "In Spring",
-        "summary": "Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year.. (no electronics)",
+        "summary": "Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..",
         "tags": [
-            "scale models",
-            "Craft"
+            "figures"
         ]
     },
     "/projects/poland/wz34/": {
@@ -684,35 +690,37 @@
         "title": "wz. 34",
         "summary": "Building the Polish Samoch\u00f3d pancerny wz. 34 from the 1:35 Mirage Hobby kit, with some figures from MiniArt: The Lost Christmas",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "poland"
         ]
     },
     "/projects/soviet/victoriii/": {
         "id": 66,
         "title": "Empire in Decay - Victor III",
-        "summary": "A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit (no electronics in this one)",
+        "summary": "A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships",
+            "submarine",
+            "soviet union"
         ]
     },
     "/projects/plaaf/j20/": {
         "id": 65,
         "title": "J-20",
-        "summary": "Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF (no electronics here, just a great little kit)",
+        "summary": "Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china"
         ]
     },
     "/projects/ija/mitsubishiki46/": {
         "id": 64,
         "title": "Mitsubishi Ki-46 Trainer",
-        "summary": "Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer (no electronics)",
+        "summary": "Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/plan/type051c/": {
@@ -720,28 +728,29 @@
         "title": "PLAN Type 051C",
         "summary": "Building the PLAN Type 051C destroyer DDG 115 \u6c88\u9633 (Shenyang) with a little LED illumination.",
         "tags": [
-            "Craft",
-            "scale models",
-            "LED"
+            "navy ships",
+            "china",
+            "electronics"
         ]
     },
     "/projects/axisofchess/": {
         "id": 62,
         "title": "Axis Of Chess",
-        "summary": "Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles. No electronics in this one.",
+        "summary": "Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles.",
         "tags": [
-            "Game",
-            "scale models",
-            "Craft"
+            "game",
+            "armour",
+            "uk",
+            "germany"
         ]
     },
     "/projects/poland/pmw/orpslazak/": {
         "id": 61,
         "title": "ORP \u015al\u0105zak",
-        "summary": "Building the ORP \u015al\u0105zak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting. My first venture into IBG ship kits - no electronics here, just a very fine kit experience.",
+        "summary": "Building the ORP \u015al\u0105zak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting. My first venture into IBG ship kits.",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships",
+            "poland"
         ]
     },
     "/projects/ijn/tachikawakky1/": {
@@ -756,10 +765,11 @@
     "/projects/concorde/": {
         "id": 59,
         "title": "Concorde",
-        "summary": "Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic ",
+        "summary": "Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic",
         "tags": [
-            "LED",
-            "scale models"
+            "civil aircraft",
+            "electronics",
+            "uk"
         ]
     },
     "/projects/p40/warhawk40k/": {
@@ -767,37 +777,36 @@
         "title": "WarHawk 40K",
         "summary": "Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter",
         "tags": [
-            "LED",
-            "scale models",
-            "CMOS/TTL"
+            "science fiction",
+            "electronics"
         ]
     },
     "/projects/strv103/": {
         "id": 57,
         "title": "Stridsvagn 103",
-        "summary": "Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit (no electronics)",
+        "summary": "Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit",
         "tags": [
-            "scale models",
-            "Craft",
-            "AFV"
+            "military vehicles",
+            "sweden"
         ]
     },
     "/projects/raaf/boomerang/": {
         "id": 56,
         "title": "CA-19 Boomerang",
-        "summary": "Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945 (no electronics)",
+        "summary": "Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "australia"
         ]
     },
     "/projects/p40/eggscale/": {
         "id": 55,
         "title": "Flying Tigers Egg-Scale",
-        "summary": "Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms (no electronics in this one)",
+        "summary": "Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "usa",
+            "china"
         ]
     },
     "/projects/royalnavy/hmsrevenges27/": {
@@ -805,8 +814,9 @@
         "title": "HMS Revenge",
         "summary": "HMS Revenge heading out from Faslane on patrol - an attempt at capturing the distinctive wake of a sub cruising on the surface. Dragon 1:700 kit.",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships",
+            "submarine",
+            "uk"
         ]
     },
     "/projects/ijn/no13subchaser/": {
@@ -814,27 +824,27 @@
         "title": "IJN No.13 Sub-chaser",
         "summary": "IJN No.13 class submarine chaser \u7b2c\u5341\u4e09\u53f7\u578b\u99c6\u6f5c\u8247 on a quiet island patrol",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
     "/projects/japan/daihatsumidget/": {
         "id": 52,
         "title": "Daihatsu Midget",
-        "summary": "Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications. No electronics in this one.",
+        "summary": "Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications.",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil vehicles",
+            "japan"
         ]
     },
     "/projects/poland/pzl/ts-11/": {
         "id": 51,
         "title": "TS-11 Iskra",
-        "summary": "Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra. No electronics in this one, just enjoying the build.",
+        "summary": "Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "poland"
         ]
     },
     "/projects/mongolwarriors/": {
@@ -842,45 +852,47 @@
         "title": "Mongol Warriors",
         "summary": "Using select 1:72 figures from H\u00e4T set 8298 to make a little diorama in an Ikea picture frame with LED lighting",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED"
+            "figures",
+            "electronics"
         ]
     },
     "/projects/p40/afvclub68/": {
         "id": 49,
         "title": "P-40B Flying Tiger in 1:144",
-        "summary": "Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit (no electronics in this one)",
+        "summary": "Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "usa",
+            "china"
         ]
     },
     "/projects/p40/flyingtigers/": {
         "id": 48,
         "title": "P-40B Flying Tiger in 1:72",
-        "summary": "Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery (no electronics in this one)",
+        "summary": "Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "usa",
+            "china"
         ]
     },
     "/projects/raf/fairey/gannet/": {
         "id": 47,
         "title": "Fairey Gannet",
-        "summary": "Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit (no electronics in this one)",
+        "summary": "Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/ija/tachikawaki55/": {
         "id": 46,
         "title": "Tachikawa Ki-55",
-        "summary": "Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer (no electronics in this one)",
+        "summary": "Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJA"
         ]
     },
     "/projects/walnutchallenge/cossack/": {
@@ -888,8 +900,7 @@
         "title": "Ukrainian Cossack",
         "summary": "An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy! (no electronics in this one)",
         "tags": [
-            "scale models",
-            "Craft"
+            "figures"
         ]
     },
     "/projects/ijn/fubuki/": {
@@ -897,8 +908,8 @@
         "title": "Fubuki",
         "summary": "Building the Japanese destroyer Fubuki (\u5439\u96ea, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE",
         "tags": [
-            "scale models",
-            "Craft",
+            "navy ships",
+            "japan",
             "IJN"
         ]
     },
@@ -907,36 +918,35 @@
         "title": "HMS Sheffield",
         "summary": "Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982",
         "tags": [
-            "scale models",
-            "Craft",
-            "Falklands"
+            "navy ships",
+            "uk"
         ]
     },
     "/projects/spitfire/xiv/": {
         "id": 42,
         "title": "Spitfire Mk.XIV",
-        "summary": "Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale. No electronics in this one.",
+        "summary": "Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale.",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil aircraft",
+            "uk"
         ]
     },
     "/projects/walnutchallenge/overboard/": {
         "id": 41,
         "title": "Man Overboard",
-        "summary": "A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build. No electronics in this one.",
+        "summary": "A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft"
         ]
     },
     "/projects/ijn/nakajimab5n2/": {
         "id": 40,
         "title": "Nakajima B5N2 Kate",
-        "summary": "Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering, no electronics.",
+        "summary": "Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/spitfire/vc/": {
@@ -944,18 +954,17 @@
         "title": "Spitfire Mk.Vc",
         "summary": "Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc flying over La S\u00e9nia Algeria 1942, enhanced with some LED candle effects and targets of opportunity.",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED"
+            "military aircraft",
+            "uk",
+            "electronics"
         ]
     },
     "/projects/westland/lynx/": {
         "id": 38,
         "title": "Westland Lynx",
-        "summary": "Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss (no electronics in this one)",
+        "summary": "Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft"
         ]
     },
     "/projects/britisharmy/vauxhalldtypeambulance/": {
@@ -963,8 +972,7 @@
         "title": "Vauxhall D-Type Ambulance",
         "summary": "Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden. Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles"
         ]
     },
     "/projects/royalnavy/buccaneer/": {
@@ -972,27 +980,26 @@
         "title": "Blackburn Buccaneer S.2C",
         "summary": "An excuse to build another sea base - this time for an aircraft - the RN Blackburn Buccaneer S.2C from Airfix in 1:72 scale, tooling around the North Sea at 30ft.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "uk"
         ]
     },
     "/projects/raaf/wirraway/": {
         "id": 35,
         "title": "Wirraway",
-        "summary": "Building the Special Hobby 1:72 CAC Wirraway, as stationed at Seletar in 1941 - just up the road from me (no electronics)",
+        "summary": "Building the Special Hobby 1:72 CAC Wirraway, as stationed at Seletar in 1941 - just up the road from me",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "australia"
         ]
     },
     "/projects/soviet/t34-1942/": {
         "id": 34,
         "title": "T34 1942",
-        "summary": "Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (no electronics - just practicing weathering at small scale)",
+        "summary": "Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (just practicing weathering at small scale)",
         "tags": [
-            "scale models",
-            "Craft",
-            "AFV"
+            "military vehicles",
+            "soviet union"
         ]
     },
     "/projects/walnutchallenge/kubelmagic/": {
@@ -1000,19 +1007,18 @@
         "title": "KubelMagic",
         "summary": "A walnut, Brengun 1:144 K\u00fcbelwagen and a miniaturised SMD version of a BJT oscillator - and with a bit of practice, some close-up model magic.",
         "tags": [
-            "LED",
-            "Oscillators",
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "electronics",
+            "nazi germany"
         ]
     },
     "/projects/plaaf/j10s/": {
         "id": 32,
         "title": "Chengdu J-10S",
-        "summary": "Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours. No electronics in this one.",
+        "summary": "Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china"
         ]
     },
     "/projects/soviet/polikarpov/i-153/": {
@@ -1020,8 +1026,9 @@
         "title": "I-153",
         "summary": "Building the Polikarpov I-153 as used by the Guomindang Air Force - ICM 1:72 kit 72076",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china",
+            "soviet union"
         ]
     },
     "/projects/royalnavy/forcez/hmsprinceofwales/": {
@@ -1029,7 +1036,8 @@
         "title": "HMS Prince Of Wales",
         "summary": "Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.",
         "tags": [
-            "Royal Navy",
+            "navy ships",
+            "uk",
             "battleship"
         ]
     },
@@ -1038,10 +1046,9 @@
         "title": "Tornado ECR",
         "summary": "Building the 1:144 Tornado ECR from Revell with wireless LEDs in the Tailpipe.",
         "tags": [
-            "scale models",
-            "Craft",
-            "Wireless",
-            "LED"
+            "military aircraft",
+            "germany",
+            "electronics"
         ]
     },
     "/projects/thatisnotatoy/": {
@@ -1049,27 +1056,27 @@
         "title": "That is not a toy, my boy!",
         "summary": "A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!",
         "tags": [
-            "Craft",
-            "scale models",
-            "AFV"
+            "military vehicles",
+            "figures",
+            "diorama"
         ]
     },
     "/projects/plaaf/jf17/": {
         "id": 27,
         "title": "JF-17",
-        "summary": "Buidling the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade. No electronics in this one.",
+        "summary": "Building the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china"
         ]
     },
     "/projects/poland/pzl/p7a/": {
         "id": 26,
         "title": "PZL P.7a",
-        "summary": "Building the Arma Hobby PZL P.7a 1:72 expert set.  No electronics added - just enjoying this wonderfully detailed kit.",
+        "summary": "Building the Arma Hobby PZL P.7a 1:72 expert set.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "poland"
         ]
     },
     "/projects/britisharmy/firefly/": {
@@ -1077,14 +1084,9 @@
         "title": "Firefly",
         "summary": "Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic",
         "tags": [
-            "scale models",
-            "Craft",
-            "Arduino",
-            "AVR",
-            "Sensor",
-            "OpAmp",
-            "Servo",
-            "AFV"
+            "armour",
+            "electronics",
+            "uk"
         ]
     },
     "/projects/royalnavy/forcez/hmasvampire/": {
@@ -1092,7 +1094,8 @@
         "title": "HMAS Vampire",
         "summary": "Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.",
         "tags": [
-            "Royal Navy",
+            "navy ships",
+            "uk",
             "destroyer"
         ]
     },
@@ -1101,10 +1104,8 @@
         "title": "The Red Eyed Space Marine",
         "summary": "Inspired by all the mad miniature skills out there these days, I delve into the world of space marines with eyes that glow - no wires or batteries",
         "tags": [
-            "scale models",
-            "Craft",
-            "Wireless",
-            "LED"
+            "science fiction",
+            "electronics"
         ]
     },
     "/projects/ijn/kawanishik5y1/": {
@@ -1112,27 +1113,29 @@
         "title": "Kawanishi K5Y1 Tensegrity Stand",
         "summary": "Experimenting with tensegrity model mounting, using as a subject the ARII 1:72 Kawanishi K5Y1 \u8d64\u3068\u3093\u307c (Willow)",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "japan",
+            "IJN"
         ]
     },
     "/projects/ijn/i16i58/": {
         "id": 21,
         "title": "I-16 and I-58",
-        "summary": "Building the Tamiya 1:700 I-16 and I-58 waterline kit 31453. No electronics in this one - more an experiment in rust and water effects.",
+        "summary": "Building the Tamiya 1:700 I-16 and I-58 waterline kit 31453. An experiment in rust and water effects.",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships",
+            "japan",
+            "IJN",
+            "submarine"
         ]
     },
     "/projects/britisharmy/25pdr/": {
         "id": 20,
         "title": "25 Pounder Field Gun and Quad",
-        "summary": "Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305. No electronics in this one yet.",
+        "summary": "Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305.",
         "tags": [
-            "scale models",
-            "Craft",
-            "AFV"
+            "artillery",
+            "uk"
         ]
     },
     "/projects/scifiandfantasy/tydiriumstrobe/module/": {
@@ -1150,10 +1153,9 @@
         "title": "Tiger Moth",
         "summary": "Royal Navy Fleet Air Arm Tiger Moth XL717 heading out over the rocky shors near Abbotsinch, Scotland - a small vignette featuring the Airfix De Havilland DH.82a Tiger Moth 1:72 A02106 with a custom motorised propeller",
         "tags": [
-            "scale models",
-            "Craft",
-            "motor",
-            "555 Timer"
+            "military aircraft",
+            "electronics",
+            "uk"
         ]
     },
     "/projects/scifiandfantasy/tydiriumstrobe/": {
@@ -1161,20 +1163,17 @@
         "title": "Tydirium Strobe",
         "summary": "Figuring out the navigation light strobe frequency of the Lambda-class shuttle Tydirium and building a freeform circuit sculpture to demonstrate the effects (running an ATtiny85 on 3V)",
         "tags": [
-            "Arduino",
-            "ATmel",
-            "LED",
-            "Circuit Sculpture",
-            "Freeform"
+            "science fiction",
+            "electronics"
         ]
     },
     "/projects/plaaf/nanchangy5/": {
         "id": 16,
         "title": "Nanchang Y-5",
-        "summary": "A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.",
+        "summary": "A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military aircraft",
+            "china"
         ]
     },
     "/projects/wehrmacht/schnellboot/": {
@@ -1182,37 +1181,36 @@
         "title": "Schnellboot",
         "summary": "Building the Bronco NB5004 1/350 German S-100 Class Schnellboot with a dockside diorama with LED effects",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED",
-            "Oscillators"
+            "navy ships",
+            "electronics",
+            "nazi germany"
         ]
     },
     "/projects/plan/type054a/": {
         "id": 14,
         "title": "PLA Navy Type 054A",
-        "summary": "Building the Trumpeter 1:700 PLAN 054A Frigate (no electronics - yet)",
+        "summary": "Building the Trumpeter 1:700 PLAN 054A Frigate",
         "tags": [
-            "scale models",
-            "Craft"
+            "navy ships",
+            "china"
         ]
     },
     "/projects/poland/rwd8dwl/": {
         "id": 13,
         "title": "RWD-8 DWL",
-        "summary": "A simple build of the RWD-8 DWL Polish trainer 1:72 kit 72502 from IBG Models (no electronics - yet)",
+        "summary": "A simple build of the RWD-8 DWL Polish trainer 1:72 kit 72502 from IBG Models",
         "tags": [
-            "scale models",
-            "Craft"
+            "civil aircraft",
+            "poland"
         ]
     },
     "/projects/pla/ca30fueltransporter/": {
         "id": 12,
         "title": "Jie Fang CA-30 Fuel Truck",
-        "summary": "A simple build of the \u89e3\u653e Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter (no electronics - yet).",
+        "summary": "A simple build of the \u89e3\u653e Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter.",
         "tags": [
-            "scale models",
-            "Craft"
+            "military vehicles",
+            "china"
         ]
     },
     "/projects/raf/typhoon/": {
@@ -1220,10 +1218,9 @@
         "title": "Hawker Typhoon",
         "summary": "Building the Airfix 1:72 Hawker Typhoon Mk.Ib, electrifying it with an engine and rocket effects and displaying it with a ground attack vignette",
         "tags": [
-            "scale models",
-            "Craft",
-            "LED",
-            "motor"
+            "military aircraft",
+            "uk",
+            "electronics"
         ]
     },
     "/projects/japan/yatairamendoorbell/": {
@@ -1231,10 +1228,9 @@
         "title": "\u5c4b\u53f0\u30e9\u30fc\u30e1\u30f3 The Yatai Ramen Doorbell",
         "summary": "A wireless doorbell based on an Arii (Microace) Yatai Ramen model with added lights and sound",
         "tags": [
-            "scale models",
-            "Craft",
-            "Audio",
-            "LED"
+            "diorama",
+            "japan",
+            "electronics"
         ]
     },
     "/projects/hurstpointlighthouse/": {
@@ -1242,9 +1238,8 @@
         "title": "Hurst Point Lighthouse",
         "summary": "Building the wonderful Paper Shipwright model of the historic Hurst Point Lighthouse, and bringing it to life with a Fl(4) W 15s LED array",
         "tags": [
-            "555 Timer",
-            "Craft",
-            "LED"
+            "buildings",
+            "electronics"
         ]
     },
     "/projects/raf/harriergr1/": {
@@ -1252,10 +1247,9 @@
         "title": "Harrier GR.1",
         "summary": "Building the Airfix 1:72 Hawker Siddeley Harrier GR.1, electrifying it with lights and engine sounds and putting it in a cold war forward deployment diorama (somewhere in a German forest circa 1970)",
         "tags": [
-            "scale models",
-            "Craft",
-            "Audio",
-            "LED"
+            "military aircraft",
+            "uk",
+            "electronics"
         ]
     },
     "/projects/electronicart/aircraftnavigationlights/": {
@@ -1263,10 +1257,9 @@
         "title": "Freeform Popsicle Airways",
         "summary": "Demonstrating a simple aircraft navigation beacon sequence implemented with a couple of 555 timers",
         "tags": [
-            "LED",
-            "555 Timer",
-            "Circuit Sculpture",
-            "Freeform"
+            "civil aircraft",
+            "electronics",
+            "circuit sculpture"
         ]
     },
     "/projects/electronicart/pollen8/": {
@@ -1274,12 +1267,8 @@
         "title": "Pollen8",
         "summary": "a freeform wire sculpture with LEDs driven by a light-sensitive 555/4017 counter circuit",
         "tags": [
-            "LED",
-            "CMOS/TTL",
-            "555 Timer",
-            "Craft",
-            "Circuit Sculpture",
-            "Freeform"
+            "electronics",
+            "circuit sculpture"
         ]
     },
     "/projects/goldenhind/": {
@@ -1287,7 +1276,7 @@
         "title": "GoldenHind",
         "summary": "building a mini metal model of the Golden Hind",
         "tags": [
-            "Craft"
+            "merchant ships"
         ]
     },
     "/projects/electronicart/wyled/": {
@@ -1295,12 +1284,8 @@
         "title": "WyLed",
         "summary": ".. when you allow an exploration of a chip (TM1638) to get a little out of hand! The WyLed free-form sculpture reacts to sound and blinks a 4-digit LED display. An ATTiny85 provides a little brain, and the TM1638 handles all input and output.",
         "tags": [
-            "Arduino",
-            "ATmel",
-            "LED",
-            "TM1638",
-            "Circuit Sculpture",
-            "Freeform"
+            "electronics",
+            "circuit sculpture"
         ]
     },
     "/projects/electronicart/glowball/": {
@@ -1308,10 +1293,7 @@
         "title": "GlowBall",
         "summary": "building LED effects for a Glass Eye Studio Celestial Planet Weight",
         "tags": [
-            "LED",
-            "Oscillators",
-            "Power",
-            "Craft"
+            "electronics"
         ]
     },
     "/projects/spain/sagradafamilia/": {
@@ -1319,8 +1301,9 @@
         "title": "Sagrada Fam\u00edlia",
         "summary": "a paper model with some LED effects",
         "tags": [
-            "LED",
-            "Craft"
+            "buildings",
+            "electronics",
+            "spain"
         ]
     },
     "/projects/electronicart/metalearthleadguitar/": {
@@ -1328,9 +1311,7 @@
         "title": "Metal Earth Lead Guitar",
         "summary": "Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an 'amp'",
         "tags": [
-            "Craft",
-            "LED",
-            "Audio"
+            "electronics"
         ]
     }
 }

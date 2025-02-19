@@ -1,6 +1,6 @@
 # #013 RWD-8 DWL
 
-A simple build of the RWD-8 DWL Polish trainer 1:72 model 72502 from IBG Models (no electronics - yet).
+A simple build of the RWD-8 DWL Polish trainer 1:72 model 72502 from IBG Models.
 
 ![Build](./assets/RWD8DWL_build.jpg?raw=true)
 

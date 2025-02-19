@@ -210,7 +210,7 @@ How it now looks compared to the box art:
 
 ### Revised with a 1:144 Convoy
 
-I was interseted in pushing the forced-perspective experiment further with a 1:144 convoy.
+I was interested in pushing the forced-perspective experiment further with a 1:144 convoy.
 I picked up the new 2020 tool Pit-Road kit of
 [WWII German army military vehicles set 1 No. SGK02 1:144](https://www.scalemates.com/kits/pit-road-sgk02-wwii-german-army-military-vehicles-set-1--1305590).
 
@@ -221,7 +221,7 @@ The molding is sublime, and the kit contains parts for 2 each of:
 * Sd.Kfz. 250
 * Sd.Kfz. 251
 
-I built a few of the vehicles and gave them a quick desert camo paintjob:
+I built a few of the vehicles and gave them a quick desert camo paint job:
 
 ![build14a](./assets/build14a.jpg?raw=true)
 

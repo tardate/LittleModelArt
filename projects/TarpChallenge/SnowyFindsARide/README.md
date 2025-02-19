@@ -1,6 +1,6 @@
 # #094 Snowy Finds a Ride
 
-My Hergé fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor & Vega Gull in 1:72 (no electronics in this one)
+My Hergé fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor & Vega Gull in 1:72.
 
 ![Build](./assets/SnowyFindsARide_build.jpg?raw=true)
 
@@ -16,7 +16,7 @@ Ideas started to gel when pondering what to build for the [Just Making Conversat
 
 ### The Kit
 
-The [Dual Combo Percival Proctor & Vega Gull Military Sevice Dora Wings No. DW7202D 1:72](https://www.scalemates.com/kits/dora-wings-dw7202d-percival-proctor-and-vega-gull--1266587)
+The [Dual Combo Percival Proctor & Vega Gull Military Service Dora Wings No. DW7202D 1:72](https://www.scalemates.com/kits/dora-wings-dw7202d-percival-proctor-and-vega-gull--1266587)
 is just a re-packaging of the kits:
 
 * [Percival Vega Gull military service Dora Wings No. DW72004 1:72](https://www.scalemates.com/kits/dora-wings-dw72004-percival-vega-gull--1120298)
@@ -134,7 +134,7 @@ Not my first Dora Wings kit, not my last! I loved doing the Bellanca Pacemaker; 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=152236)
-* [Dual Combo Percival Proctor & Vega Gull Military Sevice Dora Wings No. DW7202D 1:72](https://www.scalemates.com/kits/dora-wings-dw7202d-percival-proctor-and-vega-gull--1266587)
+* [Dual Combo Percival Proctor & Vega Gull Military Service Dora Wings No. DW7202D 1:72](https://www.scalemates.com/kits/dora-wings-dw7202d-percival-proctor-and-vega-gull--1266587)
 * [Percival Proctor Mk.III Dora Wings No. DW72014 1:72](https://www.scalemates.com/kits/dora-wings-dw72014-percival-proctor-mkiii--1170477)
 * [Percival Vega Gull military service Dora Wings No. DW72004 1:72](https://www.scalemates.com/kits/dora-wings-dw72004-percival-vega-gull--1120298)
 * [Hergé](https://en.wikipedia.org/wiki/Herg%C3%A9)

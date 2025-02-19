@@ -1,6 +1,6 @@
 # #056 CA-19 Boomerang
 
-Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945 (no electronics).
+Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945.
 
 ![Build](./assets/Boomerang_build.jpg?raw=true)
 
@@ -47,7 +47,7 @@ Cockpit done.. that's about half the model!
 
 ![build01b](./assets/build01b.jpg?raw=true)
 
-The kit comes with resin emgine parts that are nicely detailed.
+The kit comes with resin engine parts that are nicely detailed.
 
 ![build01c](./assets/build01c.jpg?raw=true)
 

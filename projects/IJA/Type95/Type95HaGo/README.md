@@ -1,6 +1,6 @@
 # #088 IJA Type 95 Ha-Go Light Tank
 
-Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank. No electronics in this one.
+Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank.
 
 ![Build](./assets/Type95HaGo_build.jpg?raw=true)
 
@@ -25,7 +25,7 @@ It was covered very well (especially its limitations!) in Micro Machines Podcast
 
 ### Paint Scheme
 
-I've based the scheme on the 7th Tank Regiment as used in Luzon, Philllipines Feb 1942/
+I've based the scheme on the 7th Tank Regiment as used in Luzon, Philippines Feb 1942/
 
 | Feature               | Color           | Recommended    | Paint Used |
 |-----------------------|-----------------|----------------|------------|

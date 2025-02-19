@@ -1,6 +1,6 @@
 # #066 Empire in Decay - Victor III
 
-A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit (no electronics in this one).
+A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit.
 
 ![Build](./assets/VictorIII_build.jpg?raw=true)
 

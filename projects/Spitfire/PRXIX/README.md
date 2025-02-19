@@ -1,6 +1,6 @@
 # #121 Spitfire PR Mk.XIX
 
-Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit. No electronics in this one.
+Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit.
 
 ![Build](./assets/PRXIX_build.jpg?raw=true)
 

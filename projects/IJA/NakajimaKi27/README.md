@@ -1,6 +1,6 @@
 # #103 Nakajima Ki-27
 
-Building the ICM Nakajima Ki-27a kit in 1:72 scale (no electronics in this one).
+Building the ICM Nakajima Ki-27a kit in 1:72 scale.
 
 ![Build](./assets/NakajimaKi27_build.jpg?raw=true)
 

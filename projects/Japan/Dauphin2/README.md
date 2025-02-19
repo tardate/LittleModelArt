@@ -1,6 +1,6 @@
 # #092 Aérospatiale SA365N Dauphin 2
 
-Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit, no electronics.
+Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit.
 
 ![Build](./assets/Dauphin2_build.jpg?raw=true)
 

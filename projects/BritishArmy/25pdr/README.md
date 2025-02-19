@@ -1,6 +1,6 @@
 # #020 25 Pounder Field Gun and Quad
 
-Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305. No electronics in this one yet.
+Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305.
 
 ![Build](./assets/25pdr_build.jpg?raw=true)
 

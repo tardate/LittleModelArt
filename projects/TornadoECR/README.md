@@ -20,7 +20,7 @@ The consortium was founded in 1969 and the first production aircraft flight was 
 Originally expected to largely plays its role in the cold war and probably never be used in anger, history of course took over and it saw a
 surprisingly long and active career (Kosovo and the Gulf wars). The UK retired the aircraft in 2019.
 
-I'd never paid much attentio to the Tornado until I got this kit. It really is quite a beautiful design.
+I'd never paid much attention to the Tornado until I got this kit. It really is quite a beautiful design.
 I read and can highly recommend John Nichol's
 [Tornado: In the Eye of the Storm](https://www.goodreads.com/book/show/55318695-tornado)
 which provides an excellent account of the aircraft's development and operational use.
@@ -61,21 +61,20 @@ Tornado ECR, 1. Staffel, JaboG 32, Lechfeld AB, 1994
 | G   | cockpit details, inner wing | light grey, matt                        | 70.990 Light Grey |
 | H   |                             | bronze green, matt                      | |
 | I   | tailpipe                    | steel, metallic                         | |
-| K   | landing gear, spiggots      | aluminium, metallic                     | |
+| K   | landing gear, spigots       | aluminium, metallic                     | |
 | L   | nav lights                  | leaf green, satin                       | |
 | M   | nav lights                  | fiery red, satin                        | |
 | O   | fuselage near cockpit       | yellow, matt                            | 70.953 Flat Yellow over pink undercoat (70.951 white + 70.909 vermillion, 3:1) |
 
-
 ### Wireless LEDs in the Tailpipe
 
 To do something a little different with this model I decided to put orange LEDs in the tailpipe for a "jet effect glow".
-Rather than run wires to the model, I'm goig to do this wirelessly.
+Rather than run wires to the model, I'm going to do this wirelessly.
 
 This is a simple oscillator circuit (similar to a joule thief) that emits just enough power to light an LED.
-Adding a toroid to the transmit and receive coil boosts the electromagnectic field just enough to span the distance from the base to the body of the model.
+Adding a toroid to the transmit and receive coil boosts the electromagnetic field just enough to span the distance from the base to the body of the model.
 
-Note that the LEDs are connected in reverse polarity so each gets a half-wave. The power transmitted is not completely symetrical - one LED lights brighter that the other - I suspect because when powered by the L1 phase, some power is dropped over R1. I didn't try to even this out.
+Note that the LEDs are connected in reverse polarity so each gets a half-wave. The power transmitted is not completely symmetrical - one LED lights brighter that the other - I suspect because when powered by the L1 phase, some power is dropped over R1. I didn't try to even this out.
 
 ![bb](./assets/TornadoECR_bb.jpg?raw=true)
 

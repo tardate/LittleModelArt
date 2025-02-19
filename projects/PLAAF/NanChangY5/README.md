@@ -1,6 +1,6 @@
 # #016 Nanchang Y-5
 
-A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72  model 01602 from Trumpeter. I've spied opportunities for electronics in this kit but not added any yet.
+A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72  model 01602 from Trumpeter.
 
 ![Build](./assets/NanChangY5_build.jpg?raw=true)
 

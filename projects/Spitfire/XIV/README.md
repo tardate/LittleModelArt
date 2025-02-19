@@ -1,6 +1,6 @@
 # #042 Spitfire Mk.XIV
 
-Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale. No electronics in this one.
+Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale.
 
 ![Build](./assets/XIV_build.jpg?raw=true)
 

@@ -1,6 +1,6 @@
 # #032 Chengdu J-10S
 
-Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours. No electronics in this one.
+Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours.
 
 ![Build](./assets/J10S_build.jpg?raw=true)
 
@@ -63,7 +63,6 @@ Main colours used:
 | White        | H1          | 70.951 White                                  | fuselage |
 | Red          | H3          | 70.909 Vermillion + 70.956 Clear Orange (~3:1) | fuselage |
 | Blue         | H5          | 70.963 Medium Blue                            | fuselage |
-
 
 For the pilots I used 70.893 US Dark Green as the base colour for the flight suits and a bunch of other colours for detail.
 
