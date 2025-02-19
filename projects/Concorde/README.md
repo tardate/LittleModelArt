@@ -1,6 +1,6 @@
 # #059 Concorde
 
-Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic
+Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic.
 
 ![Build](./assets/Concorde_build.jpg?raw=true)
 

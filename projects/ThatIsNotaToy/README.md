@@ -19,7 +19,7 @@ This is how far I've got so far...
 
 The
 [Airfix A1368 1:35 M7 Priest](https://www.scalemates.com/kits/airfix-a1368-m7-priest--1260500)
-is an Academy reboxing
+is an Academy re-boxing
 
 ![kit_box](./assets/kit_box.jpg?raw=true)
 
@@ -41,7 +41,7 @@ I spent a while trying to find suitable figures. I eventually settled on a set f
 
 I'm using three of the figures from the kit.
 
-Adjusting some poses and attempting to youthify the "child" from a Master Box WW2 civilians set
+Adjusting some poses and attempting to youth-ify the "child" from a Master Box WW2 civilians set
 
 ![build01a](./assets/build01a.jpg?raw=true)
 

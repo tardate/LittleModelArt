@@ -1,6 +1,6 @@
 # #026 PZL P.7a
 
-Building the Arma Hobby PZL P.7a 1:72 expert set.  No electronics added - just enjoying this wonderfully detailed kit.
+Building the Arma Hobby PZL P.7a 1:72 expert set.
 
 ![Build](./assets/P7a_build.jpg?raw=true)
 
@@ -30,7 +30,7 @@ PZL P.7a, 123. Eskadra Myśliwska z Krakowa. Samolot dowódcy Eskadry kpt. pil. 
 | B                           | NATO Black             | FS37030 - C125          | 70.950 Black |
 | C                           | NATO Brown             | FS30051 - C188          | 70.941 Burnt Umber |
 | D - underbody               | Polish Light Blue-Grey | FS36473 - HTK-A036/C036 | 79.907 Pale Grey Blue  |
-| E - unused                  | Dark Polish Khaki      | FS30118 | HTK-A010/C010 | 70.873 US Field Drab |
+| E - unused                  | Dark Polish Khaki      | FS30118 - HTK-A010/C010 | 70.873 US Field Drab |
 | F - main fuselage and wings | Light Polish Khaki     | FS30095 - HTK-A011/C011 | 70.921 English Uniform |
 
 ### Construction

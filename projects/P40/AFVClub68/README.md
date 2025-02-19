@@ -2,8 +2,6 @@
 
 Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit.
 
-No electronics in this one.
-
 ![Build](./assets/AFVClub68_build.jpg?raw=true)
 
 Here's a quick demo..

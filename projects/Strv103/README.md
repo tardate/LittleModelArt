@@ -1,6 +1,6 @@
 # #057 Stridsvagn 103
 
-Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit (no electronics).
+Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit.
 
 ![Build](./assets/Strv103_build.jpg?raw=true)
 

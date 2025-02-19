@@ -1,6 +1,6 @@
 # #087 The Legendary T-34/85 215号
 
-Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model. No electronics in this one.
+Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model.
 
 ![Build](./assets/T34-85_build.jpg?raw=true)
 

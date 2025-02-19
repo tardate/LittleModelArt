@@ -1,6 +1,6 @@
 # #096 Ukrainian Su-24M Fencer
 
-Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer. No electronics in this one.
+Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer.
 
 ![Build](./assets/Fencer_build.jpg?raw=true)
 

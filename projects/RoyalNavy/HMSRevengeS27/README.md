@@ -13,7 +13,7 @@ The models are pretty simplistic with not a lot of detail - but for my purposes 
 
 I'm just using the HMS Revenge in this build. It is basically a study of how to depict the classic image of a modern submarine cruising on the surface.
 
-Insipration comes from shots such as this - HMS Revenge leaving Faslane:
+Inspiration comes from shots such as this - HMS Revenge leaving Faslane:
 
 [![revenge_leaving_faslane](./assets/revenge_leaving_faslane.jpg?raw=true)](https://ukdefencejournal.org.uk/the-time-a-polaris-submarine-was-prevented-from-leaving-faslane/)
 
@@ -46,7 +46,7 @@ I built up the water with layers of gloss mod-podge and airbrushed colouring.
 ![build01d](./assets/build01d.jpg?raw=true)
 
 Wake was built up with cotton wool, touched up with Vallejo Model Color white.
-Wash and wave tops are highlited with some [Deluxe Scenic Snow](https://deluxematerials.co.uk/collections/hobby/products/scenic-snow-kit)
+Wash and wave tops are highlighted with some [Deluxe Scenic Snow](https://deluxematerials.co.uk/collections/hobby/products/scenic-snow-kit)
 
 ![build02a](./assets/build02a.jpg?raw=true)
 

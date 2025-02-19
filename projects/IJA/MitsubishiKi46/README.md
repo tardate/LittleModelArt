@@ -1,6 +1,6 @@
 # #064 Mitsubishi Ki-46 Trainer
 
-Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer (no electronics)
+Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer.
 
 ![Build](./assets/MitsubishiKi46_build.jpg?raw=true)
 

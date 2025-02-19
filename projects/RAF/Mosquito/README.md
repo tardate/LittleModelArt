@@ -1,6 +1,6 @@
 # #074 de Havilland Mosquito B Mk.XVI
 
-Building the Airfix de Havilland Mosquito B Mk.XVI (no electronics)
+Building the Airfix de Havilland Mosquito B Mk.XVI.
 
 ![Build](./assets/Mosquito_build.jpg?raw=true)
 

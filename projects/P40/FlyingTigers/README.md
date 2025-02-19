@@ -2,8 +2,6 @@
 
 Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery.
 
-No electronics in this one.
-
 ![Build](./assets/FlyingTigers_build.jpg?raw=true)
 
 ## Notes

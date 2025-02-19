@@ -1,6 +1,6 @@
 # #040 Nakajima B5N2
 
-Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering, no electronics.
+Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering.
 
 ![Build](./assets/NakajimaB5N2_build.jpg?raw=true)
 
