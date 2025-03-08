@@ -25,6 +25,7 @@
     CatalogController.prototype.loadCatalog = function() {
       var instance;
       instance = this;
+
       return this.catalog_table.DataTable({
         autoWidth: false,
         ajax: {
@@ -97,15 +98,29 @@
           cell.html(description_cell);
           return cell
         }
+      }).on( 'init.dt', function () {
+        var categoryFilter = $('<select id="category-filter" class="form-control input-sm"><option value="">All Categories</option></select>')
+          .appendTo($('#catalog-table_wrapper').find('.dataTables_filter'))
+          .on('change', function() {
+            var val = $.fn.dataTable.util.escapeRegex($(this).val());
+            instance.catalog_table.DataTable().column(2).search(val ? val : '', true, false).draw();
+          });
+
+        $.ajax({
+          url: './catalog/categories.json',
+          success: function(data) {
+            data.forEach(function(item) {
+              categoryFilter.append('<option value="' + item + '">' + item + '</option>');
+            });
+          }
+        });
       });
     };
 
     return CatalogController;
-
   })();
 
   jQuery(function() {
     return new root.CatalogController($('#catalog-table'));
   });
-
 }).call(this);
