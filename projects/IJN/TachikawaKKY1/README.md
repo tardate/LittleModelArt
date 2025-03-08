@@ -1,6 +1,6 @@
 # #060 Tachikawa KKY-1
 
-Building the rare Tachikawa KKY1 from Ukrainian model company Amodel. No electronics in this one.
+Building the rare Tachikawa KKY1 from Ukrainian model company Amodel.
 
 ![Build](./assets/TachikawaKKY1_build.jpg?raw=true)
 

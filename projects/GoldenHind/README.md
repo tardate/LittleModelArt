@@ -1,6 +1,6 @@
 # #005 GoldenHind
 
-Building a mini metal model of the Golden Hind. No electronics involved .. yet.
+Building a mini metal model of the Golden Hind.
 
 ![Build](./assets/GoldenHind_build.jpg?raw=true)
 
