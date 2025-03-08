@@ -2,7 +2,7 @@
     "id": "#025",
     "name": "Firefly",
     "description": "Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic",
-    "categories": "armour, electronics, uk",
+    "categories": "Vehicles - military, AFV, Electronics, UK",
     "relative_path": "projects/BritishArmy/Firefly",
     "updated_at": "2023-03-30T15:10:16Z",
     "created_at": "2023-03-30T15:10:16Z"

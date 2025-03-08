@@ -1,6 +1,6 @@
 # #093 Ukraine's Maritime Drone (USV)
 
-Building the MikroMir 1:35 kit. No electronics in this one.
+Building the MikroMir 1:35 kit.
 
 ![Build](./assets/USV_build.jpg?raw=true)
 

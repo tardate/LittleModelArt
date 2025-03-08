@@ -1,6 +1,6 @@
 # #120 On Betio
 
-Type 95 Ha-Gō on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit. No electronics.
+Type 95 Ha-Gō on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit.
 
 ![Build](./assets/OnBetio_build.jpg?raw=true)
 
