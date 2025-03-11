@@ -171,6 +171,7 @@ Checking the diorama layout before finalising..
     * [Civilians, Set 4 FC Model Trend No. 72408 1:72](https://www.scalemates.com/kits/fc-model-trend-72408-civilians-set-4--1340588)
     * [Drivers And Dignitaries Around The Kaiserwagen II Germania Figuren No. GF72-GER-004 1:72](https://www.scalemates.com/kits/germania-figuren-gf72-ger-004-drivers-and-dignitaries-around-kaiserwagen-ii--1537684)
     * [British Infantry 1914/18 souvenir photo Germania Figuren No. GF72-WW1-312 1:72](https://www.scalemates.com/kits/germania-figuren-gf72-ww1-312-british-infantry-1914-18-souvenir-photo--1524973)
+    * [Ninja-cat Kato No. 28-853 1:87](https://www.scalemates.com/kits/kato-28-853-ninja-cat--1375033)
 * Research References
     * [FWD Model B](https://en.wikipedia.org/wiki/FWD_Model_B) - wikipedia
     * [Luella Bates](https://en.wikipedia.org/wiki/Luella_Bates)
