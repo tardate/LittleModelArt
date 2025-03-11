@@ -141,9 +141,7 @@ Checking the diorama layout before finalising..
 
 ### Final Gallery
 
-"Luella Bates goes to New York" - the  pioneering professional heavy truck test driver, paving the way for future generations in transportation industry. Features the FWD Model B in 1:72 from Ukrainian model maker Roden.
-
-# internationalwomensday #IWD #ukraine #scalemodels #HistScaleModels
+"Luella Bates goes to New York" - pioneering heavy truck test driver from 1918, paved the way for women in transportation. Features the FWD Model B in 1:72 from Ukrainian model maker Roden.
 
 ![build04a](./assets/build04a.jpg?raw=true)
 
