@@ -1,6 +1,6 @@
-# 140 Little Model Art Projects
+# 141 Little Model Art Projects
 
-> Latest addition:sparkles: [Luella Bates and the FWD Model B](./projects/USA/LuellaBates) - Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.
+> Latest addition:sparkles: [Miles Master](./projects/RAF/MilesMaster) - Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

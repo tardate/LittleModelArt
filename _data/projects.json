@@ -1,4 +1,13 @@
 {
+    "/projects/raf/milesmaster/": {
+        "id": 141,
+        "title": "Miles Master",
+        "summary": "Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.",
+        "tags": [
+            "Aircraft - military",
+            "UK"
+        ]
+    },
     "/projects/usa/luellabates/": {
         "id": 140,
         "title": "Luella Bates and the FWD Model B",
