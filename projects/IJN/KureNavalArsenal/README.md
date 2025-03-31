@@ -105,6 +105,10 @@ A quick dry fit:
 
 ### Final Build Gallery
 
+Final shots.
+
+![teaser](./assets/teaser.jpg?raw=true)
+
 ![build04a](./assets/build04a.jpg?raw=true)
 
 ![build04b](./assets/build04b.jpg?raw=true)
