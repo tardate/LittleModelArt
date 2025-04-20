@@ -1,6 +1,6 @@
-# 142 Little Model Art Projects
+# 143 Little Model Art Projects
 
-> Latest addition:sparkles: [Kure Naval Arsenal](./projects/IJN/KureNavalArsenal) - Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal
+> Latest addition:sparkles: [1967 Jaguar E-Type](./projects/UK/JaguarEType) - Building the Airfix 1:43 kit of the Jaguar E-Type
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
