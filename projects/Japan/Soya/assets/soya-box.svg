@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1588 1123" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
+    <g id="Original-Panels" serif:id="Original Panels" transform="matrix(3.77953,0,0,3.77953,0,0)">
+        <g id="front_outsideCutPath" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,332.975,237.264)">
+            <path d="M91.4,178.751L74.041,178.751L70.041,189L0,189L0,209.4L91.4,209.4L91.4,178.751Z" style="fill:none;stroke:black;stroke-width:0.26px;"/>
+        </g>
+        <g id="left_outsideCutPath" transform="matrix(-1,1.22465e-16,-1.22465e-16,-1,509.31,214.331)">
+            <path d="M297.8,189L158.414,189L156.414,169.744L94.4,178.744L94.4,209.4L297.8,209.4L297.8,189Z" style="fill:none;stroke:black;stroke-width:0.26px;"/>
+        </g>
+        <g id="back_outsideCutPath" transform="matrix(6.12323e-17,-1,1,6.12323e-17,52.3377,119.264)">
+            <rect x="0" y="165.6" width="91.4" height="20.4" style="fill:none;stroke:black;stroke-width:0.26px;"/>
+        </g>
+        <g id="right_outsideCutPath" transform="matrix(1,0,0,1,-89.0744,-160.743)">
+            <rect x="94.4" y="165.6" width="203.4" height="20.4" style="fill:none;stroke:black;stroke-width:0.26px;"/>
+        </g>
+        <g id="bottom_outsideCutPath" transform="matrix(6.12323e-17,-1,1,6.12323e-17,5.2177,419.76)">
+            <rect x="300.8" y="0" width="91.4" height="209.4" style="fill:none;stroke:black;stroke-width:0.26px;"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,-341.124,-934.17)">
+        <g id="Engraving">
+            <g>
+                <text x="655.677px" y="1001.48px" style="font-family:'Baskerville-Bold', 'Baskerville', serif;font-weight:700;font-size:40px;fill:rgb(35,31,32);">Sōy<tspan x="721.537px " y="1001.48px ">a</tspan></text>
+                <text x="754.037px" y="1001.48px" style="font-family:'STSongti-SC-Bold', 'Songti SC';font-weight:700;font-size:40px;fill:rgb(35,31,32);">宗谷</text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-04-20T13:10:00Z</updated>
+  <updated>2025-05-09T14:31:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/japan/soya/</id>
+    <link href="https://modelart.tardate.com/projects/japan/soya/"/>
+    <g:image_link>https://modelart.tardate.com/projects/japan/soya/assets/soya_build.jpg</g:image_link>
+    <updated>2025-05-09T14:31:00Z</updated>
+    <title>#144 Antarctic Research Ship Sōya</title>
+    <summary>Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/soya/assets/soya_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Ships - civil"/>
+    <category term="Japan"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/uk/jaguaretype/</id>
     <link href="https://modelart.tardate.com/projects/uk/jaguaretype/"/>

@@ -1,6 +1,6 @@
-# 143 Little Model Art Projects
+# 144 Little Model Art Projects
 
-> Latest addition:sparkles: [1967 Jaguar E-Type](./projects/UK/JaguarEType) - Building the Airfix 1:43 kit of the Jaguar E-Type
+> Latest addition:sparkles: [Antarctic Research Ship Sōya](./projects/Japan/Soya) - Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
