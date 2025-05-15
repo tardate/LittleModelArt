@@ -1,4 +1,14 @@
 {
+    "/projects/ija/mitsubishiki15/ki15ii/": {
+        "id": 145,
+        "title": "Mitsubishi Ki-15-II",
+        "summary": "Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.",
+        "tags": [
+            "Aircraft - military",
+            "Japan",
+            "IJA"
+        ]
+    },
     "/projects/japan/soya/": {
         "id": 144,
         "title": "Antarctic Research Ship S\u014dya",

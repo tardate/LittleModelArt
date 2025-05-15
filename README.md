@@ -1,6 +1,6 @@
-# 144 Little Model Art Projects
+# 145 Little Model Art Projects
 
-> Latest addition:sparkles: [Antarctic Research Ship Sōya](./projects/Japan/Soya) - Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)
+> Latest addition:sparkles: [Mitsubishi Ki-15-II](./projects/IJA/MitsubishiKi15/Ki15II) - Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
