@@ -13,6 +13,7 @@ See also:
 | China            | [aliexpress - Colorfulday Store](https://www.aliexpress.com/store/4691061)         | great range of models, often good deals |
 | China            | [aliexpress - JZ Hobby Store](https://www.aliexpress.com/store/4683015)            | good range of kits, often good deals |
 | China            | [aliexpress - KNL HOBBY No.2 Store](https://knlhobby.aliexpress.com/store/3107041) | prices^^ |
+| China            | [aliexpress - Model Fans Store](https://modelhome.aliexpress.com/store/911200044)  | kits and accessories |
 | China            | [aliexpress - No.3 Model Store](https://www.aliexpress.com/store/1756519)          | modelling accessories|
 | China            | [aliexpress - Real-toys Store](https://realtoys.aliexpress.com/store/1270215)      | good range of kits, often good deals |
 | China            | [taobao - shop291689990](https://shop291689990.world.taobao.com/index.htm)         | resin kits; closed?|
