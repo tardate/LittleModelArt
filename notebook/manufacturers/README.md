@@ -22,6 +22,9 @@ This is not an exhaustive list - mainly just companies with products that have c
 | China            | [Vespid Models](https://www.facebook.com/vespidmodels)                   | awesome 1:72 armour |
 | China            | [小号手 TRUMPETER](http://www.trumpeter-china.com/index.php?l=en)         | awesome range of kits |
 | China            | [首页-Bronco Mould & Plastic Co.,Ltd.](http://www.cn-bronco.com/en/)      | |
+| China/Hong Kong  | [CGD](https://www.combatgroupdynamix.com/) Combat Group Dynamix          | 1:144 3D printed armour, figures and accessories |
+| China/Hong Kong  | [Dragon Models Limited](http://www.dragon-models.com/)                   | |
+| China/Hong Kong  | [Hong Kong Models](https://www.hk-models.com/hkm/)                       | |
 | Czechia          | [Airone Hobby](https://www.aironehobby.com/)                             | aftermarket items in 1/72 and 1/48 scale |
 | Czechia          | [ASK](https://www.artscale.eu/)                                          | accessories and masks |
 | Czechia          | [Avalon Decals](https://www.avalondecals.com/)                           | decals |
@@ -60,9 +63,6 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Greece           | [Michael Kontraros Collectibles](https://www.mkontraros.com/)            | |
 | Greece           | [Mironious Models](https://mironious.com/)                               | resin miniatures |
 | Greece           | [Mr Black Publications](https://www.mrblackpublications.com/)            | publisher/seller of modelling guides |
-| Hong Kong        | [CGD](https://www.combatgroupdynamix.com/) Combat Group Dynamix          | 1:144 3D printed armour, figures and accessories |
-| Hong Kong        | [Dragon Models Limited](http://www.dragon-models.com/)                   | |
-| Hong Kong        | [Hong Kong Models](https://www.hk-models.com/hkm/)                       | |
 | Hungary          | [SBS Model](https://www.sbsmodel.com/)                                   | High quality resin kits and accessories |
 | Italy            | [astromodel](https://www.astromodel.it/)                                 | LifeColor |
 | Italy            | [Heroes Models](https://heroesmodels.it/)                                | 1:144 scale specialist - resin parts, scale models, figures |
