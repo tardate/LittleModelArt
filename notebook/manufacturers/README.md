@@ -10,6 +10,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Australia        | [Callsign Models](https://www.facebook.com/CallsignModels)               | figures |
 | Australia        | [KLP](https://www.klp.com.au/)                                           | publisher of scale modelling guide books |
 | Belgium          | [PJ Production](https://www.pj-production.be/en/)                        | resin scale models and accessories |
+| Canada           | [Aviaeology](https://www.aviaeology.com/)                                | Publications, Decal Sets, Model Parts |
 | Canada           | [Kit Masx](https://kitmasx.com/)                                         | masks |
 | China            | [Border Models](https://www.bordermodel.com/)                            | |
 | China            | [dspiae](https://www.dspiae.com/)                                        | tools |
@@ -22,6 +23,9 @@ This is not an exhaustive list - mainly just companies with products that have c
 | China            | [Vespid Models](https://www.facebook.com/vespidmodels)                   | awesome 1:72 armour |
 | China            | [小号手 TRUMPETER](http://www.trumpeter-china.com/index.php?l=en)         | awesome range of kits |
 | China            | [首页-Bronco Mould & Plastic Co.,Ltd.](http://www.cn-bronco.com/en/)      | |
+| China/Hong Kong  | [CGD](https://www.combatgroupdynamix.com/) Combat Group Dynamix          | 1:144 3D printed armour, figures and accessories |
+| China/Hong Kong  | [Dragon Models Limited](http://www.dragon-models.com/)                   | |
+| China/Hong Kong  | [Hong Kong Models](https://www.hk-models.com/hkm/)                       | |
 | Czechia          | [Airone Hobby](https://www.aironehobby.com/)                             | aftermarket items in 1/72 and 1/48 scale |
 | Czechia          | [ASK](https://www.artscale.eu/)                                          | accessories and masks |
 | Czechia          | [Avalon Decals](https://www.avalondecals.com/)                           | decals |
@@ -55,13 +59,11 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Germany          | [Paracel Miniatures](https://germania-figuren.eu/)                       | 3D printed figures |
 | Germany          | [peddinghaus decals](https://www.peddinghaus-decals.de/)                 | decals, figures, accessories |
 | Germany          | [Revell GmBh](https://www.revell.de/)                                    | |
+| Germany          | [RT-Diorama](https://rt-diorama.de/)                                     | laser cut and 3D printed diorama and upgrade accessories |
 | Greece           | [Hellenic Ship Model](https://hellenicshipmodel.gr/)                     | |
 | Greece           | [Michael Kontraros Collectibles](https://www.mkontraros.com/)            | |
 | Greece           | [Mironious Models](https://mironious.com/)                               | resin miniatures |
 | Greece           | [Mr Black Publications](https://www.mrblackpublications.com/)            | publisher/seller of modelling guides |
-| Hong Kong        | [CGD](https://www.combatgroupdynamix.com/) Combat Group Dynamix          | 1:144 3D printed armour, figures and accessories |
-| Hong Kong        | [Dragon Models Limited](http://www.dragon-models.com/)                   | |
-| Hong Kong        | [Hong Kong Models](https://www.hk-models.com/hkm/)                       | |
 | Hungary          | [SBS Model](https://www.sbsmodel.com/)                                   | High quality resin kits and accessories |
 | Italy            | [astromodel](https://www.astromodel.it/)                                 | LifeColor |
 | Italy            | [Heroes Models](https://heroesmodels.it/)                                | 1:144 scale specialist - resin parts, scale models, figures |
@@ -123,6 +125,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Spain            | [greenstuffworld](https://www.greenstuffworld.com/)                      | tools, putties, materials and accessories |
 | Spain            | [Vallejo](https://acrylicosvallejo.com/en/)                              | paint |
 | Sweden           | [Bold Miniatures](https://boldminiatures.com/)                           | miniatures - resin, STL |
+| Sweden           | [Speira Miniatures](https://speira.net/)                                 | 3D printed resin miniatures |
 | Taiwan           | [AFV Club](http://www.hobbyfan.com.tw/index.php?&lang=en)                | |
 | Taiwan           | [Caesar Miniatures](http://www.minitoysoldier.com/)                      | miniatures |
 | Turkey           | [Tan Model](http://www.tanmodel.com/en/)                                 | Turkey's international scale modelling brand.  |

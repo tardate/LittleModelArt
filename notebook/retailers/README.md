@@ -4,26 +4,31 @@ See also:
 
 * [Tokyo Model Stores Review](./tokyo/)
 
-| Country          | Name                                                                  | Notes |
-|------------------|-----------------------------------------------------------------------|-------|
-| Australia        | [BNA Model World](https://www.bnamodelworld.com/)                     | |
-| Australia        | [Firestorm Models](https://firestormmodels.com/)                      | very good range of figures, decals and accessories|
-| Bulgaria         | [Modelsvit Balkans](https://modelsvit-eshop.com/)                     | A&A Models, Modelsvit, SOVA-M, Art Model |
-| China/aliexpress | [Colorfulday Store](https://www.aliexpress.com/store/4691061)         | great range of models, often good deals |
-| China/aliexpress | [JZ Hobby Store](https://www.aliexpress.com/store/4683015)            | good range of kits, often good deals |
-| China/aliexpress | [KNL HOBBY No.2 Store](https://knlhobby.aliexpress.com/store/3107041) | prices^^ |
-| China/aliexpress | [No.3 Model Store](https://www.aliexpress.com/store/1756519)          | modelling accessories|
-| China/aliexpress | [Real-toys Store](https://realtoys.aliexpress.com/store/1270215)      | good range of kits, often good deals |
-| China/taobao     | [shop291689990](https://shop291689990.world.taobao.com/index.htm)     | resin kits; closed?|
-| France           | [cults3d](https://cults3d.com/)                                       | 3D model market |
-| France           | [sketchfab](https://sketchfab.com/features/free-3d-models)            | 3D model market |
-| Germany          | [3dfindit](https://www.3dfindit.com/en/)                              | 3D model market |
-| Hong Kong        | [Hobby Easy](https://www.hobbyeasy.com/)                              | good source of kits and figures from Chinese manufacturers |
-| Japan            | [Hobby Link Japan](https://www.hlj.com/)                              | |
-| Japan            | [Leonardo ET レオナルドET](https://goo.gl/maps/HkkXsd4qUW9FxmsH7)                                                       | not as good a range as LG |
-| Japan            | [Leonardo LG レオナルドLG](https://goo.gl/maps/GyN7PMrpkHRUaREU9)                                                       | range bit more diverse than LG2 but not so much my interests. Good prices, but sometimes premium for old stock. |
-| Japan            | [Leonardo LG2 レオナルドLG ２号店](https://goo.gl/maps/7ajGEkACaNDxaYfq9)                                                | fantastic range of planes, ships in all scales. |
-| Japan            | [Plaza Japan](https://www.plazajapan.com/)                            | great source at good prices for all the main Japanese brands - incl Aoshima, Fine Molds, Fujimi, Hasegawa, Tamiya  |
+| Country          | Name                                                                               | Notes |
+|------------------|------------------------------------------------------------------------------------|-------|
+| Australia        | [BNA Model World](https://www.bnamodelworld.com/)                                  | |
+| Australia        | [Firestorm Models](https://firestormmodels.com/)                                   | very good range of figures, decals and accessories |
+| Australia        | [Hobbyco](https://www.hobbyco.com.au/)                                             |  |
+| Bulgaria         | [Modelsvit Balkans](https://modelsvit-eshop.com/)                                  | A&A Models, Modelsvit, SOVA-M, Art Model |
+| China            | [aliexpress - Colorfulday Store](https://www.aliexpress.com/store/4691061)         | great range of models, often good deals |
+| China            | [aliexpress - JZ Hobby Store](https://www.aliexpress.com/store/4683015)            | good range of kits, often good deals |
+| China            | [aliexpress - KNL HOBBY No.2 Store](https://knlhobby.aliexpress.com/store/3107041) | prices^^ |
+| China            | [aliexpress - Model Fans Store](https://modelhome.aliexpress.com/store/911200044)  | kits and accessories |
+| China            | [aliexpress - No.3 Model Store](https://www.aliexpress.com/store/1756519)          | modelling accessories|
+| China            | [aliexpress - Real-toys Store](https://realtoys.aliexpress.com/store/1270215)      | good range of kits, often good deals |
+| China            | [taobao - shop291689990](https://shop291689990.world.taobao.com/index.htm)         | resin kits; closed?|
+| China/Hong Kong  | [Hobby Easy](https://www.hobbyeasy.com/)                                           | good source of kits and figures from Chinese manufacturers |
+| China/Hong Kong  | [LuckyModel](https://www.luckymodel.com/)                                          | online retailer |
+| China/Hong Kong  | [Plasmojo](https://www.plasmojo.com/)                                              | online retailer: new and old kits |
+| China/Hong Kong  | [Twinner Model](https://twinnermodel.com/)                                         | online retailer, mainly Japanese imports |
+| France           | [cults3d](https://cults3d.com/)                                                    | 3D model market |
+| France           | [sketchfab](https://sketchfab.com/features/free-3d-models)                         | 3D model market |
+| Germany          | [3dfindit](https://www.3dfindit.com/en/)                                           | 3D model market |
+| Japan            | [Hobby Link Japan](https://www.hlj.com/)                                           | |
+| Japan            | [Leonardo ET レオナルドET](https://goo.gl/maps/HkkXsd4qUW9FxmsH7)        | not as good a range as LG |
+| Japan            | [Leonardo LG レオナルドLG](https://goo.gl/maps/GyN7PMrpkHRUaREU9)        | range bit more diverse than LG2 but not so much my interests. Good prices, but sometimes premium for old stock. |
+| Japan            | [Leonardo LG2 レオナルドLG ２号店](https://goo.gl/maps/7ajGEkACaNDxaYfq9) | fantastic range of planes, ships in all scales. |
+| Japan            | [Plaza Japan](https://www.plazajapan.com/)                            | great source for newer releases from all the main Japanese brands - incl Aoshima, Fine Molds, Fujimi, Hasegawa, Tamiya. Lately (2025), pricing has been a bit up and down - some kits are bargains, others priced way off market |
 | Japan            | [Sakatsu Global](https://sakatsuglobal.com/)                          | miniatures/diorama accessories online store esp for railways |
 | Japan            | [Surugaya Akihabara Plastic model Hall 駿河屋 秋葉原プラモデル館](https://goo.gl/maps/8XbFWjgic6UBCLZk6)                  | gunpla and misc models and tools |
 | Japan            | [TAMIYA Plamodel Factory Shimbashi タミヤ プラモデルファクトリー 新橋店](https://goo.gl/maps/cS8ZMSZtWfaxNUMz8)            | must-see, but prices are premium/undiscounted of course, also cannot duty free |
