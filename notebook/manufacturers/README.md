@@ -55,6 +55,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Germany          | [Paracel Miniatures](https://germania-figuren.eu/)                       | 3D printed figures |
 | Germany          | [peddinghaus decals](https://www.peddinghaus-decals.de/)                 | decals, figures, accessories |
 | Germany          | [Revell GmBh](https://www.revell.de/)                                    | |
+| Germany          | [RT-Diorama](https://rt-diorama.de/)                                     | laser cut and 3D printed diorama and upgrade accessories |
 | Greece           | [Hellenic Ship Model](https://hellenicshipmodel.gr/)                     | |
 | Greece           | [Michael Kontraros Collectibles](https://www.mkontraros.com/)            | |
 | Greece           | [Mironious Models](https://mironious.com/)                               | resin miniatures |
@@ -123,6 +124,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Spain            | [greenstuffworld](https://www.greenstuffworld.com/)                      | tools, putties, materials and accessories |
 | Spain            | [Vallejo](https://acrylicosvallejo.com/en/)                              | paint |
 | Sweden           | [Bold Miniatures](https://boldminiatures.com/)                           | miniatures - resin, STL |
+| Sweden           | [Speira Miniatures](https://speira.net/)                                 | 3D printed resin miniatures |
 | Taiwan           | [AFV Club](http://www.hobbyfan.com.tw/index.php?&lang=en)                | |
 | Taiwan           | [Caesar Miniatures](http://www.minitoysoldier.com/)                      | miniatures |
 | Turkey           | [Tan Model](http://www.tanmodel.com/en/)                                 | Turkey's international scale modelling brand.  |

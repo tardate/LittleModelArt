@@ -3,7 +3,7 @@
 * [Built Sideways Podcast](https://podcasts.apple.com/us/podcast/built-sideways-podcast/id1578246351)
 * [Just Making Conversation](https://podcasts.apple.com/us/podcast/just-making-conversation/id1539297245)
 * [Micro Machines Podcast](https://www.youtube.com/channel/UC8Az4-9xBW0eTgd5y_X3Xsw)
-* [ModelGeek's Podcast](https://www.modelgeekspodcast.com/)
+* [ModelGeek's Podcast](https://modelgeekspodcast.com/)
 * [Modellbyggarpodden](https://feeds.acast.com/public/shows/60aa8882c6d2420012f1c4d7) - Swedish
 * [Models from Ukraine](https://feeds.buzzsprout.com/2035660.rss)
 * [On the Bench](https://otbmodellerspodcast.libsyn.com/website)
