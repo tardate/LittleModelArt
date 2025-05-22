@@ -1,5 +1,15 @@
 [
     {
+        "name": "Mitsubishi Ki-15-II",
+        "description": "Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.",
+        "categories": "Aircraft - military, Japan, IJA",
+        "relative_path": "projects/ija/mitsubishiki15/ki15ii",
+        "updated_at": "2025-05-22T10:19:00Z",
+        "created_at": "2025-05-22T10:19:00Z",
+        "id": "#145",
+        "original_relative_path": "projects/IJA/MitsubishiKi15/Ki15II"
+    },
+    {
         "name": "Antarctic Research Ship S\u014dya",
         "description": "Building the 1:700 Foresight model of the Antarctic Research Ship S\u014dya \u5b97\u8c37 (PL107)",
         "categories": "Ships - civil, Japan",
