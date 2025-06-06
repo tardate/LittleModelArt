@@ -1,4 +1,4 @@
-# #xxx Brewster Buffalo
+# #146 Brewster Buffalo
 
 Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.
 

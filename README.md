@@ -1,6 +1,6 @@
-# 145 Little Model Art Projects
+# 146 Little Model Art Projects
 
-> Latest addition:sparkles: [Mitsubishi Ki-15-II](./projects/IJA/MitsubishiKi15/Ki15II) - Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.
+> Latest addition:sparkles: [Brewster Buffalo](./projects/RAF/BrewsterBuffalo) - Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
