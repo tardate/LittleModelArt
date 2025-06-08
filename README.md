@@ -1,6 +1,6 @@
 # 146 Little Model Art Projects
 
-> Latest addition:sparkles: [Brewster Buffalo](./projects/RAF/BrewsterBuffalo) - Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.
+> Latest addition :sparkles: [Brewster Buffalo](./projects/RAF/BrewsterBuffalo) - Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
