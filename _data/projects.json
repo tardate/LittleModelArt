@@ -219,7 +219,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Light Cruiser"
         ]
     },
     "/projects/raf/typhoon/mkib_dday/": {
@@ -275,6 +276,7 @@
         "summary": "Posing the Elan13 54mm Royal Artillery Gunner leaping into action...",
         "tags": [
             "Figures",
+            "Napoleonic",
             "UK"
         ]
     },
@@ -351,7 +353,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Heavy Cruiser"
         ]
     },
     "/projects/france/caudronrenault/cr714/": {
@@ -592,7 +595,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Destroyer"
         ]
     },
     "/projects/ija/nakajimaki84/": {
@@ -612,7 +616,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Gunboat"
         ]
     },
     "/projects/ijn/mitsubishia6m/sweet14110/": {
@@ -748,7 +753,8 @@
             "Ships - military",
             "Japan",
             "IJN",
-            "Electronics"
+            "Electronics",
+            "Escort Carrier"
         ]
     },
     "/projects/ukraine/inspring/": {
@@ -805,7 +811,8 @@
         "tags": [
             "Ships - military",
             "China",
-            "Electronics"
+            "Electronics",
+            "Destroyer"
         ]
     },
     "/projects/axisofchess/": {
@@ -903,7 +910,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Submarine Chaser"
         ]
     },
     "/projects/japan/daihatsumidget/": {
@@ -988,7 +996,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Destroyer"
         ]
     },
     "/projects/royalnavy/hmssheffield/": {
@@ -997,7 +1006,8 @@
         "summary": "Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982",
         "tags": [
             "Ships - military",
-            "UK"
+            "UK",
+            "Destroyer"
         ]
     },
     "/projects/spitfire/xiv/": {
@@ -1228,9 +1238,7 @@
         "summary": "Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.",
         "tags": [
             "Science Fiction",
-            "Arduino",
-            "ATmel",
-            "LED"
+            "Electronics"
         ]
     },
     "/projects/royalnavy/tigermoth/": {
@@ -1277,7 +1285,8 @@
         "summary": "Building the Trumpeter 1:700 PLAN 054A Frigate",
         "tags": [
             "Ships - military",
-            "China"
+            "China",
+            "Frigate"
         ]
     },
     "/projects/poland/rwd8dwl/": {

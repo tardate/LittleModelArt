@@ -281,6 +281,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Light Cruiser"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/raf/typhoon/mkib_dday/</id>
@@ -348,6 +349,7 @@
     <summary>Posing the Elan13 54mm Royal Artillery Gunner leaping into action...</summary>
     <content type="html">&lt;div&gt;&lt;p&gt;Posing the Elan13 54mm Royal Artillery Gunner leaping into action...&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/napoleonic/britishgunner1815/assets/britishgunner1815_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
+    <category term="Napoleonic"/>
     <category term="UK"/>
   </entry>
   <entry>
@@ -441,6 +443,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Heavy Cruiser"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/france/caudronrenault/cr714/</id>
@@ -732,6 +735,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ija/nakajimaki84/</id>
@@ -756,6 +760,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Gunboat"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/mitsubishia6m/sweet14110/</id>
@@ -920,6 +925,7 @@
     <category term="Japan"/>
     <category term="IJN"/>
     <category term="Electronics"/>
+    <category term="Escort Carrier"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ukraine/inspring/</id>
@@ -989,6 +995,7 @@
     <category term="Ships - military"/>
     <category term="China"/>
     <category term="Electronics"/>
+    <category term="Destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/axisofchess/</id>
@@ -1107,6 +1114,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Submarine Chaser"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/japan/daihatsumidget/</id>
@@ -1210,6 +1218,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/royalnavy/hmssheffield/</id>
@@ -1221,6 +1230,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/hmssheffield/assets/hmssheffield_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
+    <category term="Destroyer"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/spitfire/xiv/</id>
@@ -1499,9 +1509,7 @@
     <summary>Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.</summary>
     <content type="html">&lt;div&gt;&lt;p&gt;Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/module/assets/module_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
-    <category term="Arduino"/>
-    <category term="ATmel"/>
-    <category term="LED"/>
+    <category term="Electronics"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/royalnavy/tigermoth/</id>
@@ -1559,6 +1567,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:700 PLAN 054A Frigate&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plan/type054a/assets/type054a_build.jpg&quot; /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="China"/>
+    <category term="Frigate"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/poland/rwd8dwl/</id>

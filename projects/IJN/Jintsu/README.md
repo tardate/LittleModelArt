@@ -1,6 +1,6 @@
 # #124 IJN Cruiser Jintsū
 
-Building the Fujimi 1:700 kit of the IJN Cruiser Jintsū (神通) (じんつう).
+Building the Fujimi 1:700 kit of the IJN Light Cruiser Jintsū (神通) (じんつう).
 
 ![Build](./assets/Jintsu_build.jpg?raw=true)
 
