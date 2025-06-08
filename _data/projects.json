@@ -41,6 +41,8 @@
         "title": "Kure Naval Arsenal",
         "summary": "Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal",
         "tags": [
+            "Ships - military",
+            "Japan",
             "IJN"
         ]
     },
@@ -61,7 +63,7 @@
             "Vehicles - civil",
             "Vehicles - military",
             "Figures",
-            "1:72"
+            "USA"
         ]
     },
     "/projects/ija/kawasakiki45/ki45kaiotsu/": {
@@ -217,7 +219,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Light Cruiser"
         ]
     },
     "/projects/raf/typhoon/mkib_dday/": {
@@ -273,6 +276,7 @@
         "summary": "Posing the Elan13 54mm Royal Artillery Gunner leaping into action...",
         "tags": [
             "Figures",
+            "Napoleonic",
             "UK"
         ]
     },
@@ -311,7 +315,8 @@
         "title": "M.V. Southland Star",
         "summary": "Blue Star Lines M.V. Southland Star transiting Cook Strait in a gale",
         "tags": [
-            "Ships - civil"
+            "Ships - civil",
+            "UK"
         ]
     },
     "/projects/france/moranesaulnier/ms230/": {
@@ -348,7 +353,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Heavy Cruiser"
         ]
     },
     "/projects/france/caudronrenault/cr714/": {
@@ -405,7 +411,8 @@
         "summary": "Building the de Havilland Canada DHC-2 Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.",
         "tags": [
             "Aircraft - military",
-            "Electronics"
+            "Electronics",
+            "USA"
         ]
     },
     "/projects/ija/nakajimaki27/": {
@@ -470,7 +477,9 @@
         "title": "Defiant v Do-17z",
         "summary": "Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.",
         "tags": [
-            "Aircraft - military"
+            "Aircraft - military",
+            "Nazi Germany",
+            "UK"
         ]
     },
     "/projects/ukraine/fencer/": {
@@ -506,7 +515,8 @@
         "title": "Ukraine's Maritime Drone (USV)",
         "summary": "Building the MikroMir 1:35 kit.",
         "tags": [
-            "Ships - military"
+            "Ships - military",
+            "Ukraine"
         ]
     },
     "/projects/japan/dauphin2/": {
@@ -585,7 +595,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Destroyer"
         ]
     },
     "/projects/ija/nakajimaki84/": {
@@ -605,7 +616,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Gunboat"
         ]
     },
     "/projects/ijn/mitsubishia6m/sweet14110/": {
@@ -623,7 +635,8 @@
         "title": "Austin Tilly 10HP",
         "summary": "Building a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. Just a quick weekend build.",
         "tags": [
-            "Vehicles - military"
+            "Vehicles - military",
+            "UK"
         ]
     },
     "/projects/ija/nakajimaki84/eggscale/": {
@@ -718,7 +731,8 @@
         "title": "Westland Whirlwind HAS.22",
         "summary": "Building the Westland Whirlwind HAS.22 from Airfix",
         "tags": [
-            "Aircraft - military"
+            "Aircraft - military",
+            "UK"
         ]
     },
     "/projects/france/bleriotxi/": {
@@ -739,7 +753,8 @@
             "Ships - military",
             "Japan",
             "IJN",
-            "Electronics"
+            "Electronics",
+            "Escort Carrier"
         ]
     },
     "/projects/ukraine/inspring/": {
@@ -747,7 +762,8 @@
         "title": "In Spring",
         "summary": "Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..",
         "tags": [
-            "Figures"
+            "Figures",
+            "Ukraine"
         ]
     },
     "/projects/poland/wz34/": {
@@ -795,7 +811,8 @@
         "tags": [
             "Ships - military",
             "China",
-            "Electronics"
+            "Electronics",
+            "Destroyer"
         ]
     },
     "/projects/axisofchess/": {
@@ -824,8 +841,9 @@
         "title": "Tachikawa KKY-1",
         "summary": "Building the rare Tachikawa KKY1 from Ukrainian model company Amodel.",
         "tags": [
+            "Aircraft - military",
             "IJN",
-            "Aircraft - military"
+            "Japan"
         ]
     },
     "/projects/concorde/": {
@@ -892,7 +910,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Submarine Chaser"
         ]
     },
     "/projects/japan/daihatsumidget/": {
@@ -966,7 +985,8 @@
         "title": "Ukrainian Cossack",
         "summary": "An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy!",
         "tags": [
-            "Figures"
+            "Figures",
+            "Ukraine"
         ]
     },
     "/projects/ijn/fubuki/": {
@@ -976,7 +996,8 @@
         "tags": [
             "Ships - military",
             "Japan",
-            "IJN"
+            "IJN",
+            "Destroyer"
         ]
     },
     "/projects/royalnavy/hmssheffield/": {
@@ -985,7 +1006,8 @@
         "summary": "Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982",
         "tags": [
             "Ships - military",
-            "UK"
+            "UK",
+            "Destroyer"
         ]
     },
     "/projects/spitfire/xiv/": {
@@ -1002,7 +1024,9 @@
         "title": "Man Overboard",
         "summary": "A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build.",
         "tags": [
-            "Aircraft - military"
+            "Aircraft - military",
+            "IJN",
+            "Japan"
         ]
     },
     "/projects/ijn/nakajimab5n2/": {
@@ -1030,7 +1054,8 @@
         "title": "Westland Lynx",
         "summary": "Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss",
         "tags": [
-            "Aircraft - military"
+            "Aircraft - military",
+            "UK"
         ]
     },
     "/projects/britisharmy/vauxhalldtypeambulance/": {
@@ -1038,7 +1063,8 @@
         "title": "Vauxhall D-Type Ambulance",
         "summary": "Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden. Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.",
         "tags": [
-            "Vehicles - military"
+            "Vehicles - military",
+            "UK"
         ]
     },
     "/projects/royalnavy/buccaneer/": {
@@ -1123,7 +1149,8 @@
         "summary": "A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!",
         "tags": [
             "Vehicles - military",
-            "Figures"
+            "Figures",
+            "UK"
         ]
     },
     "/projects/plaaf/jf17/": {
@@ -1210,9 +1237,8 @@
         "title": "Tydirium Strobe Module",
         "summary": "Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.",
         "tags": [
-            "Arduino",
-            "ATmel",
-            "LED"
+            "Science Fiction",
+            "Electronics"
         ]
     },
     "/projects/royalnavy/tigermoth/": {
@@ -1259,7 +1285,8 @@
         "summary": "Building the Trumpeter 1:700 PLAN 054A Frigate",
         "tags": [
             "Ships - military",
-            "China"
+            "China",
+            "Frigate"
         ]
     },
     "/projects/poland/rwd8dwl/": {
