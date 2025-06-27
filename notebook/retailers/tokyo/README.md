@@ -14,6 +14,7 @@ often far eclipsing the plastic model departments.
 I'll keep this page updated as I get to visit again.
 Stores covered so far:
 
+* Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)
 * Joshin ōji
 * Leonardo レオナルド LG
 * Leonardo レオナルド LG 2
@@ -27,13 +28,20 @@ Stores covered so far:
 * Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)
 * Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)
 
-Others I can recommend but haven't got pics or written up here yet include:
+On duty free:
+[From November 1, 2026](https://www.japan.travel/en/ca/news/changes-are-coming-to-tax-free-shopping-in-japan/),
+the tax-free shopping system for inbound visitors to Japan will be revised, shifting to a refund-based system.
 
-* [Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
+* Until then, refunds are obtained in-store, but only from participating stores/chains and subject to a minimum spend of ¥5000.
+* After the change, visitors will pay the 10% consumption task at the point of purchase, and can apply for a refund at the airport
+* In addition to this change, items shipped back to visitors' home countries via international parcels will no longer be eligible for tax exemption, effective April 1, 2025.
+
+The change is apparently mainly intended to
+[curb the resale of tax-free goods within the country](https://www.vatcalc.com/japan/japan-to-reform-consumption-tax-reforms-2025/).
 
 ### Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)
 
-* Last visited: Dec 2024
+* Last visited: June 2025
 * Tax free? Yes
 
 I'll start with probably the most well-known: [Yodobashi Akiba](https://maps.app.goo.gl/335kKbCGzQBC63eX7) ... famous for also selling all manner of electronics ... and luggage, just in case😆
@@ -64,7 +72,7 @@ As to selection: good range of current kits, lots of tools. The plastic model se
 
 ### Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)
 
-* Last visited: Dec 2022
+* Last visited: May 2025
 * Tax free? Yes
 
 If you are in the Shinjuku area, then [Yodobashi Camera](https://maps.app.goo.gl/oz2NcquKUbjavBxn9) is well worth a visit.
@@ -113,7 +121,7 @@ It is good for 1:144 planes, more recent afv, ship, and plane kits. I didn't buy
 
 #### Leonardo LG
 
-* Last visited: Dec 2024
+* Last visited: Jun 2025
 * Tax free? No
 
 Next is usually a short walk over to [Leonardo レオナルド LG](https://maps.app.goo.gl/doggiAeGHoNbsRdWA) (they are related)
@@ -214,7 +222,7 @@ The new cafe..
 
 ### Joshin ōji
 
-* Last visited: Dec 2024
+* Last visited: May 2025
 * Tax free? Yes
 
 [Joshin ōji](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7) is well worth the short train trip out of central Tokyo.
@@ -271,7 +279,7 @@ Not as large as their Shinjuku store, but worth a look if you are staying nearby
 
 ### YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)
 
-* Last visited: Dec 2022
+* Last visited: May 2025
 * Tax free? Yes
 
 Their [Shinjuku store](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8) has a larger plastic model section
@@ -316,6 +324,16 @@ Although mainly figure and gunpla focused, it does have a reasonable plastic mod
 ![front](./assets/surugaya_akihabara/front.jpg)
 
 ![20221205_135501](./assets/surugaya_akihabara/20221205_135501.jpg)
+
+### Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)
+
+* Last visited: May 2025
+* Tax free? (I think so)
+
+Now located in [Akihabara Radio Kaikan](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9), the store caters mainly to
+figure and gunpla fans, but there is a decent scale model section, and good selection of tools and accessories.
+
+![20250528_124028](./assets/yellow_submarine/20250528_124028.jpg)
 
 ## Credits and References
 

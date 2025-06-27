@@ -24,21 +24,30 @@ See also:
 | France           | [cults3d](https://cults3d.com/)                                                    | 3D model market |
 | France           | [sketchfab](https://sketchfab.com/features/free-3d-models)                         | 3D model market |
 | Germany          | [3dfindit](https://www.3dfindit.com/en/)                                           | 3D model market |
-| Japan            | [Hobby Link Japan](https://www.hlj.com/)                                           | |
-| Japan            | [Leonardo ET レオナルドET](https://goo.gl/maps/HkkXsd4qUW9FxmsH7)        | not as good a range as LG |
-| Japan            | [Leonardo LG レオナルドLG](https://goo.gl/maps/GyN7PMrpkHRUaREU9)        | range bit more diverse than LG2 but not so much my interests. Good prices, but sometimes premium for old stock. |
-| Japan            | [Leonardo LG2 レオナルドLG ２号店](https://goo.gl/maps/7ajGEkACaNDxaYfq9) | fantastic range of planes, ships in all scales. |
-| Japan            | [Plaza Japan](https://www.plazajapan.com/)                            | great source for newer releases from all the main Japanese brands - incl Aoshima, Fine Molds, Fujimi, Hasegawa, Tamiya. Lately (2025), pricing has been a bit up and down - some kits are bargains, others priced way off market |
-| Japan            | [Sakatsu Global](https://sakatsuglobal.com/)                          | miniatures/diorama accessories online store esp for railways |
-| Japan            | [Surugaya Akihabara Plastic model Hall 駿河屋 秋葉原プラモデル館](https://goo.gl/maps/8XbFWjgic6UBCLZk6)                  | gunpla and misc models and tools |
-| Japan            | [TAMIYA Plamodel Factory Shimbashi タミヤ プラモデルファクトリー 新橋店](https://goo.gl/maps/cS8ZMSZtWfaxNUMz8)            | must-see, but prices are premium/undiscounted of course, also cannot duty free |
-| Japan            | [Tamtam Hobby Shop ホビーショップ タムタム 秋葉原店](https://goo.gl/maps/CuQQnq8TeJ9kJhqDA)                                | good rail section |
-| Japan            | [Volks Akihabara Hobby Paradise ボークス秋葉原ホビー天国2](https://goo.gl/maps/ZtUs23EJanoKD35L8)                         | great for tools and supplies (God Hand, Tamiya etc). Can duty free. |
-| Japan            | [VOLKS Hobby Paradise Online Store](https://hobby.ec.volks.co.jp/)    | ZOUKEI-MURA |
-| Japan            | [YAMADA Denki LABI Shinjuku ヤマダデンキ LABI新宿西口館](https://goo.gl/maps/t5cBfw9jfsmF5MsM9)                           | has the best prices on new kits (Shinjuku outlet pretty good range; Shibuya about 25% the size). Can duty free |
-| Japan            | [Yellow Submarine Akihabara Scale Shop イエローサブマリン 秋葉原スケールショップ](https://goo.gl/maps/PyZyomfSEKMBY4t5A)    | haven't personally been to this one yet |
-| Japan            | [YFS ミニチュア人形のYFS](https://goo.gl/maps/S5KtH56RwSksh9EfA)                                                         | mainly rail-oriented figures and accessories. Some rare finds. |
-| Japan            | [Yodabashi Shinjuku West Main Store ヨドバシカメラ 新宿西口本店 ゲーム館](https://goo.gl/maps/uN9fHBQjoBJdZijQA)           | large range of new kits and tools at reasonable prices. Can duty free. |
+| Japan/online     | [Hobby Link Japan](https://www.hlj.com/)                                           |  |
+| Japan/online     | [Plaza Japan](https://www.plazajapan.com/)                               | great source for newer releases from all the main Japanese brands - incl Aoshima, Fine Molds, Fujimi, Hasegawa, Tamiya. Lately (2025), pricing has been a bit up and down - some kits are bargains, others priced way off market |
+| Japan/online     | [Sakatsu Global](https://sakatsuglobal.com/)                             | miniatures/diorama accessories online store esp for railways |
+| Japan/online     | [VOLKS Hobby Paradise Online Store](https://hobby.ec.volks.co.jp/)       | ZOUKEI-MURA |
+| Japan/Osaka      | [Hobby Mate ホビーメイト](https://maps.app.goo.gl/wRZTSg3LVRsUaWUT9)                  | Treasure trove of older kits from the 90's and 00's esp Hasegawa etc |
+| Japan/Osaka      | [Joshin Super Kids Land Main Store スーパーキッズランド本店](https://maps.app.goo.gl/hoP6dbyfHhWb9Wgm9) |   |
+| Japan/Osaka      | [Kotobukiya Nippombashi コトブキヤ 日本橋](https://maps.app.goo.gl/X8xSeBgZW2fMQN2z5) |   |
+| Japan/Osaka      | [Volks Osaka Showroom ボークス大阪ショールーム／ドールポイント大阪](https://maps.app.goo.gl/J9RYPoa1tQQguGpD8) |   |
+| Japan/Osaka      | [Yellow Submarine Namba イエローサブマリン なんば店](https://maps.app.goo.gl/M5JyWSpwVkxw8yX37) |   |
+| Japan/Osaka      | [ホビーカンスケ](https://maps.app.goo.gl/c3nJj3hMPc9GDPCE9) |   Great used plastic model shop with vintage kits |
+| Japan/Tokyo      | [Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)     | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [Joshin ōji](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7)                  | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [Leonardo レオナルド ET](https://maps.app.goo.gl/zno9LJZfB6srvGj2A)        | see [Tokyo Model Stores Review](./tokyo/)  |
+| Japan/Tokyo      | [Leonardo レオナルド LG](https://maps.app.goo.gl/doggiAeGHoNbsRdWA)        | see [Tokyo Model Stores Review](./tokyo/)  |
+| Japan/Tokyo      | [Leonardo レオナルド LG 2](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6)      | see [Tokyo Model Stores Review](./tokyo/)  |
+| Japan/Tokyo      | [Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館)](https://maps.app.goo.gl/nk46VQiiE7XfvcVf7)         | see [Tokyo Model Stores Review](./tokyo/)  |
+| Japan/Tokyo      | [Tamiya Plamodel Factory Shimbashi](https://maps.app.goo.gl/fcrvZnkwigfwXry69)                                  | see [Tokyo Model Stores Review](./tokyo/)  |
+| Japan/Tokyo      | [TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店)](https://maps.app.goo.gl/p4TN4LKgZkPQawz38)           | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [Volks Akihabara Hobby Paradise ボークス秋葉原ホビー天国2](https://goo.gl/maps/ZtUs23EJanoKD35L8)                   | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)                 | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)                       | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [YFS (ミニチュア人形のYFS)](https://maps.app.goo.gl/domj4GE8NKSXL8UR7)                                                                | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)](https://maps.app.goo.gl/335kKbCGzQBC63eX7)                                        | see [Tokyo Model Stores Review](./tokyo/) |
+| Japan/Tokyo      | [Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)](https://maps.app.goo.gl/oz2NcquKUbjavBxn9)   | see [Tokyo Model Stores Review](./tokyo/) |
 | Poland           | [IBG](http://en.ibg.com.pl/)                                          | also carries other manufacturers |
 | Poland           | [Super-Hobby](https://www.super-hobby.com/)                           | |
 | Singapore        | [BlitzMinis](https://www.blitzminis.com/)                             | tabletop war games and supplies |
@@ -57,6 +66,7 @@ See also:
 | Singapore        | [Singapore Hobby Supplies](https://www.singahobby.com/)               | RC, DELUXE incl liquid gravity |
 | Singapore        | [Stargek](http://www.stargek.com/)                                    | Permanently closed. Was the official Tamiya agent in Singapore - good range but prices++. |
 | Singapore        | [XPIDEMIX](https://xpidemix.com/)                                     | board games, war games and good source of paints and supplies inc Vallejo, Humbrol, AMMO BY MIG. New home of Battle Quarters Singapore. |
+| Singapore        | [Zionz Hobby](https://www.instagram.com/zionzhobby/)                  | mainly Gundam|
 | Spain            | [AVR Model](http://www.avrmodel.com/)                                 | Scale Model Ship Online Store |
 | Spain            | [Azor modelismo](http://www.azormodelismo.com/tienda/)                | |
 | Spain            | [Bazar Matey](https://www.matey.com/)                                 | |
