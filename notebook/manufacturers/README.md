@@ -226,6 +226,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | USA              | [Model Products Corporation MPC](https://www.round2corp.com/brand/mpc/)  | Defunct, brand now owned by Round 2 - [wikipedia](https://en.wikipedia.org/wiki/Model_Products_Corporation) |
 | USA              | [Monogram](https://en.wikipedia.org/wiki/Monogram_(company))             | Company defunct |
 | USA              | [MRC](https://www.modelrectifier.com/)                                   | |
+| USA              | [MTH Electric Trains](https://www.mthtrains.com/)                        | meticulously detailed model trains and accessories, mainly O/1:48 |
 | USA              | [Old Glory Corp](https://oldglory25s.com/)                               | American Civil War Miniatures |
 | USA              | [Pegasus Hobbies](https://pegasushobbies.net)                            | miniatures |
 | USA              | [propblur](http://www.propblur.com/)                                     | prop blur accessories |
