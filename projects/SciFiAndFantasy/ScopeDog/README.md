@@ -4,6 +4,10 @@ Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (ãƒ•ã
 
 ![Build](./assets/ScopeDog_build.jpg?raw=true)
 
+Here's a quick demo..
+
+[![clip](https://img.youtube.com/vi/T-N5sRfikVk/0.jpg)](https://www.youtube.com/watch?v=T-N5sRfikVk)
+
 ## Notes
 
 I'm not generally a science-fiction, gundam or mecha maker, but I am curious.
@@ -164,6 +168,11 @@ Fyana and Scope Dog contemplating life, the universe and everything
 ![build03e](./assets/build03e.jpg)
 
 ![build03f](./assets/build03f.jpg)
+![build03g](./assets/build03g.jpg)
+
+Unbelievably, this picked up a guest's choice award at M Workshop's ["Anything SciFi GB" 2025-07-05](https://www.facebook.com/events/683031387807009).
+
+![build03h](./assets/build03h.jpg)
 
 ## Credits and References
 
