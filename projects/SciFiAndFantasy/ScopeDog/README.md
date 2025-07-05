@@ -1,4 +1,4 @@
-# #xxx Armored Trooper VOTOMS Scope Dog
+# #147 Armored Trooper VOTOMS Scope Dog
 
 Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (フィアナ) contemplating life, the universe, and everything.
 
