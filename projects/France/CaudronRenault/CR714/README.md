@@ -9,12 +9,6 @@ Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.
 The [Caudron C.714](https://en.wikipedia.org/wiki/Caudron_C.714)
 was a light fighter aircraft developed by Caudron-Renault for the French Air Force. It saw limited production, and was assigned to Polish pilots flying in France after the fall of Poland in 1939. A small number was also supplied to Finland.
 
-### References
-
-The Caudron-Renault C.714 Cyclone; French Feather Weight - Ed Nash's Military Matters
-
-[![clip](https://img.youtube.com/vi/9-fla2i-8yc/0.jpg)](https://www.youtube.com/watch?v=9-fla2i-8yc)
-
 ### Schemes
 
 * Caudron-Renault CR.714, c/n 8559 (l-217), ser.num. 27 Fighter Training Flight, DIAP, Lyon-Bron, June 1940
@@ -69,6 +63,14 @@ The Caudron-Renault C.714 Cyclone; French Feather Weight - Ed Nash's Military Ma
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=157050)
-* [Caudron-Renault CR.714 Dora Wings | No. DW48047 | 1:48](https://www.scalemates.com/kits/dora-wings-dw48047-caudron-renault-cr714--1307494)
-* [Caudron-Renault CR.714 C.1 (early)](https://dorawings.com/index.php?route=product/product&product_id=125) - dorawings.com
-* [Caudron C.714](https://en.wikipedia.org/wiki/Caudron_C.714) - wikipedia
+* Caudron-Renault CR.714 Dora Wings No. DW48047 1:48
+    * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw48047-caudron-renault-cr714--1307494)
+    * [on dorawings.com](https://dorawings.com/index.php?route=product/product&product_id=125)
+* research:
+    * <https://en.wikipedia.org/wiki/Caudron_C.714>
+
+### Vide References
+
+#### The Caudron-Renault C.714 Cyclone; French Feather Weight - Ed Nash's Military Matters
+
+[![clip](https://img.youtube.com/vi/9-fla2i-8yc/0.jpg)](https://www.youtube.com/watch?v=9-fla2i-8yc)

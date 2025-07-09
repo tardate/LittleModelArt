@@ -15,16 +15,6 @@ Three Defiants were lost but six Do 17s and a Bf 109 were shot down - more on [w
 
 This diorama captures part of the action..
 
-#### Some Resources - Boulton Paul Defiant
-
-Boulton Paul Defiant - The Unlucky Turret Fighter | Aircraft History #4 - Rex's Hangar
-
-[![clip](https://img.youtube.com/vi/aIKMAujFfiQ/0.jpg)](https://www.youtube.com/watch?v=aIKMAujFfiQ)
-
-Scale Model Build. Airfix 1/72 Boulton Paul Defiant Mk 1. Columbus Models:
-
-[![clip](https://img.youtube.com/vi/7d2_EwJiZz4/0.jpg)](https://www.youtube.com/watch?v=7d2_EwJiZz4)
-
 #### Marking Scheme A - selected scheme
 
 A02069 - Boulton Paul Defiant Mk1, No. 264 Squadron, July 1940 (A)
@@ -87,12 +77,6 @@ A02069 - Boulton Paul Defiant Mk1, No. 151 Squadron, February 1941 (B)
 ### Dornier Do-17z
 
 The [Dornier Do 17](https://en.wikipedia.org/wiki/Dornier_Do_17) is a twin-engined light bomber produced by Dornier Flugzeugwerke for the German Luftwaffe during World War II.
-
-#### Some Resources - Do-17
-
-Why Everyone Feared The "Flying Pencil" | Dornier Do 17 - Rex's Hangar
-
-[![clip](https://img.youtube.com/vi/grvkSRGIFu8/0.jpg)](https://www.youtube.com/watch?v=grvkSRGIFu8)
 
 #### The Kit
 
@@ -165,9 +149,30 @@ These kits were both tooled in 2014 and are a joy to build and were an early sig
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140044)
-* [Boulton Paul Defiant Mk.I Airfix No. A02069 1:72](https://www.scalemates.com/kits/airfix-a02069-boulton-paul-defiant-mki--636182)
-* [Defiant Mk. I for Airfix Eduard No. CX414 1:72](https://www.scalemates.com/kits/eduard-cx414-defiant-mk-i--943106)
-* [Dornier Do-17z Airfix No. A05010A 1:72](https://www.scalemates.com/kits/airfix-a05010a-dornier-do-17z--1396804)
-* [Do 17 Z for Airfix Eduard No. CX411 1:72](https://www.scalemates.com/kits/eduard-cx411-do-17-z--940535)
-* [Boulton Paul Defiant](https://en.wikipedia.org/wiki/Boulton_Paul_Defiant) - wikipedia
-* [Dornier Do 17](https://en.wikipedia.org/wiki/Dornier_Do_17) - wikipedia
+* Boulton Paul Defiant Mk.I Airfix No. A02069 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02069-boulton-paul-defiant-mki--636182)
+* Defiant Mk. I for Airfix Eduard No. CX414 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx414-defiant-mk-i--943106)
+* Dornier Do-17z Airfix No. A05010A 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a05010a-dornier-do-17z--1396804)
+* Do 17 Z for Airfix Eduard No. CX411 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx411-do-17-z--940535)
+* Research:
+    * <https://en.wikipedia.org/wiki/Boulton_Paul_Defiant>
+    * <https://en.wikipedia.org/wiki/Dornier_Do_17>
+
+### Video References - Boulton Paul Defiant
+
+#### Boulton Paul Defiant - The Unlucky Turret Fighter - Aircraft History #4 - Rex's Hangar
+
+[![clip](https://img.youtube.com/vi/aIKMAujFfiQ/0.jpg)](https://www.youtube.com/watch?v=aIKMAujFfiQ)
+
+#### Scale Model Build. Airfix 1/72 Boulton Paul Defiant Mk 1. by Columbus Models
+
+[![clip](https://img.youtube.com/vi/7d2_EwJiZz4/0.jpg)](https://www.youtube.com/watch?v=7d2_EwJiZz4)
+
+### Video References - Do-17
+
+#### Why Everyone Feared The "Flying Pencil" - Dornier Do 17 - Rex's Hangar
+
+[![clip](https://img.youtube.com/vi/grvkSRGIFu8/0.jpg)](https://www.youtube.com/watch?v=grvkSRGIFu8)

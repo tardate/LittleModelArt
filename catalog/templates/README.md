@@ -12,8 +12,6 @@ Here's a quick demo..
 
 notes here
 
-### Research and References
-
 ### The Kit
 
 ### Paint Scheme
@@ -29,4 +27,19 @@ notes here
 ## Credits and References
 
 * [this project on scalemates](xxx)
-* [name](url)
+* kit name
+    * [on scalemates](url)
+* Research:
+    * [name](url)
+
+### Build References
+
+#### Build Reference 1
+
+[![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
+
+### Video References
+
+#### Reference 1
+
+[![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)

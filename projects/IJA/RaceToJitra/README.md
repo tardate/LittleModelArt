@@ -51,15 +51,6 @@ The Japanese 3rd Air Corps (飛行集団, Hikō Shudan) and three Air Combat Gro
     * Mitsubishi Ki-15 Babs,
     * Mitsubishi Ki-46 Dinah.
 
-A couple of videos that I found useful in researching this:
-
-* ["Britain's Worst Defeat" - The Battle of Jitra 1941 Animated](https://www.youtube.com/watch?v=LkIu5Ex2G3s)
-* [The Malayan Campaign, December 1941 - January 1942](https://www.youtube.com/watch?v=moZDGY6YPk0) - Storm of Steel Military History
-
-[![clip](https://img.youtube.com/vi/LkIu5Ex2G3s/0.jpg)](https://www.youtube.com/watch?v=LkIu5Ex2G3s)
-
-[![clip](https://img.youtube.com/vi/moZDGY6YPk0/0.jpg)](https://www.youtube.com/watch?v=moZDGY6YPk0)
-
 ### Build Concept
 
 The scene is packed into a small double-sided box diorama.
@@ -158,6 +149,21 @@ Here's a quick demo..
 * [Malayan campaign](https://en.wikipedia.org/wiki/Malayan_campaign)
 * [Battle of Jitra](https://en.wikipedia.org/wiki/Battle_of_Jitra)
 * [Battle of Kota Bharu](https://en.wikipedia.org/wiki/Battle_of_Kota_Bharu)
-* [The Malayan Campaign, December 1941 - January 1942](https://www.youtube.com/watch?v=moZDGY6YPk0) - Storm of Steel Military History
 * [Osprey Japanese Tanks 1939-45](https://www.scribd.com/document/190062816/Osprey-Japanese-Tanks-1939-45)
 * [LEAP#357 MC34063 Boost Converter Kit](https://leap.tardate.com/electronics101/power/switchmodepowersupplies/mc34063/modulekit/)
+
+### Video References
+
+#### "Britain's Worst Defeat" - The Battle of Jitra 1941 Animated
+
+[![clip](https://img.youtube.com/vi/LkIu5Ex2G3s/0.jpg)](https://www.youtube.com/watch?v=LkIu5Ex2G3s)
+
+#### The Malayan Campaign, December 1941 - January 1942 - Storm of Steel Military History
+
+[![clip](https://img.youtube.com/vi/moZDGY6YPk0/0.jpg)](https://www.youtube.com/watch?v=moZDGY6YPk0)
+
+#### Quick Strike Challenge AAR: Chain of Command 2 (The Probe at Changlun) - Storm of Steel Wargaming
+
+> In this Quick Strike AAR for  @LittleWarsTV  recent challenge, I play a game of Chain of Command 2 set during the Malaya Campaign of December 1941 where Japanese forces smash into Indian defenders at Jitra. Will the Indians hold on against the aggressive Japanese forces? Find out in this Quick Strike video!
+
+[![clip](https://img.youtube.com/vi/4PcmrEUZBzM/0.jpg)](https://www.youtube.com/watch?v=4PcmrEUZBzM)
