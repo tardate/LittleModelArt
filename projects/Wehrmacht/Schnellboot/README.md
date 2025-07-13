@@ -86,9 +86,15 @@ The final build uses a USB adapter module and the oscillator circuits are constr
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=94846)
-* [Bronco Model kit NB5004 1/350 German S-100 Class Schnellboot](http://www.cn-bronco.com/en/product/html/?316.html)
-* [Bronco NB5004 at scalemates](https://www.scalemates.com/kits/bronco-nb5004-german-s-100-class-schnellboot--224486)
-* [Bronco NB5004](https://www.aliexpress.com/item/32975158986.html) - aliexpress seller (Colorfulday Store)
-* [E-boat](https://en.wikipedia.org/wiki/E-boat) - wikipedia
-* [LM324N Datasheet](https://www.futurlec.com/Linear/LM324N.shtml)
+* Bronco Model kit NB5004 1/350 German S-100 Class Schnellboot
+    * [on scalemates](https://www.scalemates.com/kits/bronco-nb5004-german-s-100-class-schnellboot--224486)
+    * [on Bronco site](http://www.cn-bronco.com/en/product/html/?316.html)
+    * [aliexpress seller - Colorfulday Store](https://www.aliexpress.com/item/32975158986.html)
+* Electronics:
+    * [LM324N Datasheet](https://www.futurlec.com/Linear/LM324N.shtml)
+* Research:
+    * <https://en.wikipedia.org/wiki/E-boat>
+
+### Build References
+
 * [Bronco Models: Schnellboot-Klasse S-100 der Deutschen Kriegsmarine, 1/350](http://www.modellmarine.de/index.php/bausatzvorstellungen/286-bro/2061-bronco-models-deutsche-schnellboot-klasse-s-100-1350) - good kit review at modellmarine.de

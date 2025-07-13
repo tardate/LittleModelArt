@@ -18,16 +18,6 @@ The scheme depicted here is apparently for the 27th Hikō Sentai 飛行戦隊 in
 I've yet to find much information about this flying squadron, except that they also played a role in the
 [Malayan campaign](https://en.wikipedia.org/wiki/Japanese_order_of_battle_during_the_Malayan_campaign).
 
-### Build Resources / Reviews
-
-Mitsubishi KI-51 Sonia, Captured WWII Japanese Bomber Walkaround Video
-
-[![clip](https://img.youtube.com/vi/ais7oqwiGK4/0.jpg)](https://www.youtube.com/watch?v=ais7oqwiGK4)
-
-Clear Prop Ki-51 Sonia 1:144 Build by Jamie Haggo
-
-[![clip](https://img.youtube.com/vi/k9MJSpPsfdQ/0.jpg)](https://www.youtube.com/watch?v=k9MJSpPsfdQ)
-
 ### Paint Scheme
 
 | Feature                | Color                      | Recommended | Paint Used |
@@ -81,6 +71,20 @@ Found just enough space inside to hide the smallest motor I had on hand.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=155969)
-* [Ki-51 Sonia Clear Prop! No. CP144001 1:144](https://www.scalemates.com/kits/clear-prop-cp144001-ki-51-sonia--1266204)
-* [Mitsubishi Ki-51](https://en.wikipedia.org/wiki/Mitsubishi_Ki-51) - wikipedia
-* [九九式襲撃機](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%A5%B2%E6%92%83%E6%A9%9F) - ja.wikipedia
+* Ki-51 Sonia Clear Prop! No. CP144001 1:144
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp144001-ki-51-sonia--1266204)
+* Research:
+    * <https://en.wikipedia.org/wiki/Mitsubishi_Ki-51>
+    * [九九式襲撃機](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%A5%B2%E6%92%83%E6%A9%9F) - ja.wikipedia
+
+### Build References
+
+#### Clear Prop Ki-51 Sonia 1:144 Build - Jamie Haggo
+
+[![clip](https://img.youtube.com/vi/k9MJSpPsfdQ/0.jpg)](https://www.youtube.com/watch?v=k9MJSpPsfdQ)
+
+### Video References
+
+#### Mitsubishi KI-51 Sonia, Captured WWII Japanese Bomber Walkaround Video - Eric Moya Walkaround
+
+[![clip](https://img.youtube.com/vi/ais7oqwiGK4/0.jpg)](https://www.youtube.com/watch?v=ais7oqwiGK4)

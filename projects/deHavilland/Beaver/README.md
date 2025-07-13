@@ -14,20 +14,6 @@ The de Havilland Canada DHC-2 Beaver is a single-engined high-wing propeller-dri
 
 [![image](./assets/De_Havilland_Canada_DHC-2_Beaver_Mk1_Airwaves_Gold_Coast.jpg)](https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver)
 
-### References
-
-de Havilland Canada DHC-2 Beaver: Short documentary Don’t Delete History
-
-[![clip](https://img.youtube.com/vi/fGwPNSX9urM/0.jpg)](https://www.youtube.com/watch?v=fGwPNSX9urM)
-
-De Havilland Canada's DHC-2 Beaver
-
-[![clip](https://img.youtube.com/vi/tDjnHoPiNVs/0.jpg)](https://www.youtube.com/watch?v=tDjnHoPiNVs)
-
-warplane DeHavilland DHC-2 Beaver, JRV i PVO 1/72, Airfix, Full Video Build - MM Marko
-
-[![clip](https://img.youtube.com/vi/N7AXr2DpEcM/0.jpg)](https://www.youtube.com/watch?v=N7AXr2DpEcM)
-
 ### Kit
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
@@ -134,6 +120,24 @@ One of my most enjoyable "vintage classic" experiences. Get the motor running ..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140047)
-* [DHC Beaver Vintage Classics Airfix No. A03017V 1:72](https://www.scalemates.com/kits/airfix-a03017v-dhc-beaver--1396837)
-* [A03017V de Havilland Beaver](https://uk.airfix.com/products/de-havilland-beaver-a03017v)
-* [de Havilland Canada DHC-2 Beaver](https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver)
+* DHC Beaver Vintage Classics Airfix No. A03017V 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a03017v-dhc-beaver--1396837)
+    * [on airfix](https://uk.airfix.com/products/de-havilland-beaver-a03017v)
+* Research:
+    * <https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver>
+
+### Build References
+
+#### warplane DeHavilland DHC-2 Beaver, JRV i PVO 1/72, Airfix, Full Video Build - MM Marko
+
+[![clip](https://img.youtube.com/vi/N7AXr2DpEcM/0.jpg)](https://www.youtube.com/watch?v=N7AXr2DpEcM)
+
+### Video References
+
+#### de Havilland Canada DHC 2 Beaver Newsreel 1950 - Canadian Aviation History
+
+[![clip](https://img.youtube.com/vi/-MfHwJP9KQE/0.jpg)](https://www.youtube.com/watch?v=-MfHwJP9KQE)
+
+#### De Havilland Canada's DHC-2 Beaver
+
+[![clip](https://img.youtube.com/vi/tDjnHoPiNVs/0.jpg)](https://www.youtube.com/watch?v=tDjnHoPiNVs)

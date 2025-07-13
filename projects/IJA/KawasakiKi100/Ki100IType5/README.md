@@ -12,12 +12,6 @@ The Ki-100 entered combat in March 1945. It was developed from the Ki-61 but wit
 
 Ki-100-I-Otsu: improved canopy and cut down rear fuselage. 118 built.
 
-### Research and References
-
-The (Kind of) Accidental Superplane: Kawasaki Ki-100
-
-[![clip](https://img.youtube.com/vi/UxUe5O-100Q/0.jpg)](https://www.youtube.com/watch?v=UxUe5O-100Q)
-
 ### Paint Scheme
 
 | Feature               | Color                | Recommended | Paint Used |
@@ -68,5 +62,13 @@ The (Kind of) Accidental Superplane: Kawasaki Ki-100
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=158874)
-* [Ki-100-I Type 5 Fighter Model 1 Otsu Aoshima No. 065709 1:72](https://www.scalemates.com/kits/aoshima-065709-ki-100-i-type-5-fighter-model-1-otsu--1469598)
-* [Kawasaki Ki-100](https://en.wikipedia.org/wiki/Kawasaki_Ki-100) - wikipedia
+* Ki-100-I Type 5 Fighter Model 1 Otsu Aoshima No. 065709 1:72
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-065709-ki-100-i-type-5-fighter-model-1-otsu--1469598)
+* research:
+    * <https://en.wikipedia.org/wiki/Kawasaki_Ki-100>
+
+### Video References
+
+#### The (Kind of) Accidental Super-plane: Kawasaki Ki-100
+
+[![clip](https://img.youtube.com/vi/UxUe5O-100Q/0.jpg)](https://www.youtube.com/watch?v=UxUe5O-100Q)
