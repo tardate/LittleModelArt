@@ -1,6 +1,6 @@
-# 147 Little Model Art Projects
+# 148 Little Model Art Projects
 
-> Latest addition :sparkles: [Armored Trooper VOTOMS Scope Dog](./projects/SciFiAndFantasy/ScopeDog) - Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (フィアナ) contemplating life, the universe, and everything.
+> Latest addition :sparkles: [Out Fishing - Target Fixation](./projects/Japan/TargetFixation) - Spare Green Max 1:150 Fishing Boat? Time for a whimsical little diorama.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
