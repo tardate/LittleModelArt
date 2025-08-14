@@ -114,6 +114,8 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
 * refined in Affinity Designer: [leo-box.afdesign](./assets/leo-box.afdesign)
 * prepared for laser cutting in Inkscape: [leo-box.svg](./assets/leo-box.svg)
 
+I cut the box on a [Lionsforge Craftlaser at the library](https://leap.tardate.com/equipment/nlb/lionsforgecraftlaser/).
+
 ![leo-box.svg](./assets/leo-box.svg)
 
 ## Building the Diorama Base
@@ -135,6 +137,8 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
 ![build05h](./assets/build05h.jpg?raw=true)
 
 ![build05i](./assets/build05i.jpg?raw=true)
+
+![build05j](./assets/build05j.jpg?raw=true)
 
 ## Final Gallery
 
