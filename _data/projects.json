@@ -1,4 +1,14 @@
 {
+    "/projects/ukraine/leopard2a6/": {
+        "id": 149,
+        "title": "Leopard 2A6 Armed Forces of Ukraine",
+        "summary": "Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.",
+        "tags": [
+            "Vehicles - military",
+            "AFV",
+            "Ukraine"
+        ]
+    },
     "/projects/japan/targetfixation/": {
         "id": 148,
         "title": "Out Fishing - Target Fixation",
