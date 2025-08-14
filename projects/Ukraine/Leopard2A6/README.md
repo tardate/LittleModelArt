@@ -1,4 +1,4 @@
-# #xxx Leopard 2A6 Armed Forces of Ukraine
+# #149 Leopard 2A6 Armed Forces of Ukraine
 
 Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.
 

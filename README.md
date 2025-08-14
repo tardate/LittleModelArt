@@ -1,6 +1,6 @@
-# 148 Little Model Art Projects
+# 149 Little Model Art Projects
 
-> Latest addition :sparkles: [Out Fishing - Target Fixation](./projects/Japan/TargetFixation) - Spare Green Max 1:150 Fishing Boat? Time for a whimsical little diorama.
+> Latest addition :sparkles: [Leopard 2A6 Armed Forces of Ukraine](./projects/Ukraine/Leopard2A6) - Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
