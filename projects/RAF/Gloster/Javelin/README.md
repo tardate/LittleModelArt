@@ -14,17 +14,19 @@ The Gloster Javelin is a twin-engined all-weather interceptor aircraft that serv
 
 The Javelin was succeeded in the interceptor role by the English Electric Lightning, a supersonic aircraft capable of flying at more than double the Javelin's top speed, which was introduced into the RAF only a few years later. The Javelin served for much of its life alongside the Lightning; the last Javelins were withdrawn from operational service in 1968 following the introduction of successively more capable versions of the Lightning.
 
-[![Javelin_64Sqn_NAN3_60](./assets/Javelin_64Sqn_NAN3_60.jpg?raw=true)](https://en.wikipedia.org/wiki/Gloster_Javelin)
+[![Javelin_64Sqn_NAN3_60](./references/Javelin_64Sqn_NAN3_60.jpg?raw=true)](https://en.wikipedia.org/wiki/Gloster_Javelin)
 
 ### The Kit
 
 #### Scheme A Gloster Javelin FAW.9R
 
-No.64 Squadron, Royal Air Force Tengah, Singapore, 1960s.
+[No.64 Squadron](https://en.wikipedia.org/wiki/No._64_Squadron_RAF), Royal Air Force Tengah, Singapore, 1960s.
 
-XH893 (FAW.9R) [AWA]
+In September 1958, 64 squadron then converted to the Gloster Javelin FAW.7/FAW.9. In 1964 the squadron moved to RAF Tengah, partnering No. 60 Squadron RAF. The squadron was disbanded on 16 June 1967.
 
-Flown to Lee-on-Solent, having been prepared at 27 MU, Shawbury, and shipped to Singapore, its arrival date at Seletar being unknown. Issued to 60 Sqn. on 1 March 1965 and it shared the code ‘V’ with XH961 until the latter was transferred to 64 Sqn. in late May 1965. (XH910 was also ‘V’ during this period, q.v.) Transferred to 64 Sqn. on 16 November 1965, retaining the code ‘V’. It returned to 60 Sqn,. when 64 Sqn. was disbanded on 16 June 1967, and kept the code ‘V’. Flown to 389 MU on 1 May 1968 and was Struck Off Charge (SOC) on 1 December 1968, having being donated to the Singaporean Armed Forces and was allocated the new serial SAFTECH-6.
+[XH893 (FAW.9R)](https://www.rafseletarandtengah.org.uk/raf-tengah/aircraft-based-at-raf-tengah/gloster-javelin/) built by Armstrong-Whitworth
+
+> Flown to Lee-on-Solent, having been prepared at 27 MU, Shawbury, and shipped to Singapore, its arrival date at Seletar being unknown. Issued to 60 Sqn. on 1 March 1965 and it shared the code ‘V’ with XH961 until the latter was transferred to 64 Sqn. in late May 1965. (XH910 was also ‘V’ during this period, q.v.) Transferred to 64 Sqn. on 16 November 1965, retaining the code ‘V’. It returned to 60 Sqn,. when 64 Sqn. was disbanded on 16 June 1967, and kept the code ‘V’. Flown to 389 MU on 1 May 1968 and was Struck Off Charge (SOC) on 1 December 1968, having being donated to the Singaporean Armed Forces and was allocated the new serial SAFTECH-6.
 
 ![schema_a](./assets/schema_a.jpg)
 
@@ -107,8 +109,7 @@ I can't guarantee they are totally accurate for the aircraft, but they look pret
 
 I'm planning to mounting the plane in flight over a map of Singapore.
 
-back in the 1960's when the Javelin was based at RAF Tengah, the island of Singapore was quite a different shape than it is today.
-
+Back in the 1960's when the Javelin was based at RAF Tengah, the island of Singapore was quite a different shape than it is today.
 A map from 1942:
 
 [![Singapore_map_1942](./map-base/Singapore_map_1942.jpg)](https://en.m.wikipedia.org/wiki/File:Singapore_map_1942.jpg)
@@ -124,7 +125,7 @@ To prepare the base for laser cutting:
 * Finalised the design in Affinity Designer as [singapore-base.afdesign](./map-base/singapore-base.afdesign)
     * Used Inkscape to vectorize the island outline (currently not possible in Affinity Designer) as [singapore-island-outline.svg](./map-base/singapore-island-outline.svg)
 * exported as [singapore-base.svg](./map-base/singapore-base.svg)
-* imported to xTool Studio for cutting settings as [singapore-base.svg](./map-base/singapore-base.xcs)
+* imported to xTool Studio for cutting settings as [singapore-base.xcs](./map-base/singapore-base.xcs)
 
 ![singapore-base.svg](./map-base/singapore-base.svg)
 
@@ -133,20 +134,19 @@ To prepare the base for laser cutting:
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=161228)
 * Gloster Javelin FAW.9/9R Airfix No. A12007 1:48
     * [on scalemates](https://www.scalemates.com/kits/airfix-a12007-gloster-javelin-faw9-9r--173954)
+    * [instructions](./assets/A12007-instructions.pdf)
 * Gloster Javelin FAW.9/9R for Airfix Eduard No. EX411 1:48
     * [on scalemates](https://www.scalemates.com/kits/eduard-ex411-gloster-javelin-faw9-9r--266023)
+    * [instructions](./assets/EX411-instructions.pdf)
 * FPJ Model BY1S48 1/48 Scale Resin Model 6 Jet Pilots
     * [on aliexpress](https://www.aliexpress.com/item/1005007523380220.html)
-* Research:
-    * [Gloster Javelin](https://en.wikipedia.org/wiki/Gloster_Javelin) - wikipedia
-    * [RAF Tengah from July 1961 to April 1968 – by Ian Old](https://www.rafseletarandtengah.org.uk/raf-tengah/aircraft-based-at-raf-tengah/gloster-javelin/)
-    * [Tengah Air Base](https://en.wikipedia.org/wiki/Tengah_Air_Base)
 
-### Video References
+### Research References
 
-#### Reference 1
-
-[![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
+* [Gloster Javelin](https://en.wikipedia.org/wiki/Gloster_Javelin) - wikipedia
+* [RAF Tengah from July 1961 to April 1968 – by Ian Old](https://www.rafseletarandtengah.org.uk/raf-tengah/aircraft-based-at-raf-tengah/gloster-javelin/)
+* [Tengah Air Base](https://en.wikipedia.org/wiki/Tengah_Air_Base)
+* <https://en.wikipedia.org/wiki/No._64_Squadron_RAF>
 
 ### Build References
 
