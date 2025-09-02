@@ -100,6 +100,17 @@ Final gallery:
 
 ![build03i](./assets/build03i.jpg?raw=true)
 
+### Adding a Title
+
+Making a quick label with Affinity Designer
+[label.afdesign](./assets/label.afdesign)
+
+![label](assets/label.png)
+
+On display at a show...
+
+![build03j](assets/build03j.jpg)
+
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=211751)
