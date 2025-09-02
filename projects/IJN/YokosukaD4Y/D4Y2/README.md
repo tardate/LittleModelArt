@@ -1,6 +1,6 @@
-# #xxx Yokosuka D4Y2 Suisei
+# #150 Yokosuka D4Y2 Suisei
 
-Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei
+Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)
 
 ![Build](./assets/D4Y2_build.jpg?raw=true)
 

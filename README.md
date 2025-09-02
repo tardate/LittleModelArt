@@ -1,6 +1,6 @@
-# 149 Little Model Art Projects
+# 150 Little Model Art Projects
 
-> Latest addition :sparkles: [Leopard 2A6 Armed Forces of Ukraine](./projects/Ukraine/Leopard2A6) - Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.
+> Latest addition :sparkles: [Yokosuka D4Y2 Suisei](./projects/IJN/YokosukaD4Y/D4Y2) - Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -1,4 +1,14 @@
 {
+    "/projects/ijn/yokosukad4y/d4y2/": {
+        "id": 150,
+        "title": "Yokosuka D4Y2 Suisei",
+        "summary": "Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (\u5f57\u661f\u4e00\u4e8c\u578b)",
+        "tags": [
+            "Aircraft - military",
+            "Japan",
+            "IJN"
+        ]
+    },
     "/projects/ukraine/leopard2a6/": {
         "id": 149,
         "title": "Leopard 2A6 Armed Forces of Ukraine",
