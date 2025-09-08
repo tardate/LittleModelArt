@@ -1,4 +1,4 @@
-# #xxx Bedford QLT and QLD Trucks
+# #151 Bedford QLT and QLD Trucks
 
 Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.
 
