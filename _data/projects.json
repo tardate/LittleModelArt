@@ -1,4 +1,13 @@
 {
+    "/projects/britisharmy/bedfordtrucks/": {
+        "id": 151,
+        "title": "Bedford QLT and QLD Trucks",
+        "summary": "Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.",
+        "tags": [
+            "Vehicles - military",
+            "UK"
+        ]
+    },
     "/projects/ijn/yokosukad4y/d4y2/": {
         "id": 150,
         "title": "Yokosuka D4Y2 Suisei",

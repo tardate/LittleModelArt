@@ -1,6 +1,6 @@
-# 150 Little Model Art Projects
+# 151 Little Model Art Projects
 
-> Latest addition :sparkles: [Yokosuka D4Y2 Suisei](./projects/IJN/YokosukaD4Y/D4Y2) - Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)
+> Latest addition :sparkles: [Bedford QLT and QLD Trucks](./projects/BritishArmy/BedfordTrucks) - Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
