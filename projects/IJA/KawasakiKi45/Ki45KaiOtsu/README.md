@@ -16,7 +16,7 @@ kit at Hobby Mate ホビーメイト in Osaka.
 
 The tooling comes from 1995, and Hasegawa have been re-releasing every few years (the last in 2019).
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
+[![kit-box](./assets/51270-kit-box.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
 
 ### Schemes
 
@@ -33,10 +33,10 @@ The tooling comes from 1995, and Hasegawa have been re-releasing every few years
 | propeller             | Red Brown                | C41, H47    | H47        |
 | port wing light       | Clear Red                | C47, H90    | H90        |
 | starboard wing light  | Clear Blue               | C50, H93    | H93        |
-|                       | Khaki Green              | C54, H80    | |
+|                       | Khaki Green              | C54, H80    |            |
 | exhaust pipes         | Burnt Iron               | C61, H76    | H76        |
 | cockpit interior      | Cockpit Color (Nakajima) | C127        | C127       |
-| fuselage base color   | Gray Green               | C128        | H336 + drop of H62 |
+| fuselage base color   | Gray Green               | C128        | H336 + H62 |
 | camouflage            | Dark Green (Kawasaki)    | C130        | H330       |
 | insignia bands        | Flat White               |             | H11        |
 | hinomaru              | Flat Red                 |             | H13        |
@@ -118,6 +118,8 @@ It's now added to my wall of flight..
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=167751)
 * Kawasaki Ki-45Kai Otsu Toryu (Nick) 4th Flight Regiment Hasegawa No. 51270 1:72
     * [on scalemates](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
+    * [instructions](./assets/51270-instructions.pdf)
+    * Purchased from Hobby Mate ホビーメイト Osaka for ¥2,040 (Jan-2024).
 * for Hasegawa Ki-45 KAI Ko/Hei Toryu Canopy Mask DEAD Design Models No. VM72004 1:72
     * [on scalemates](https://www.scalemates.com/kits/dead-design-models-vm72004-ki-45-kai-ko-hei-toryu-canopy-mask--1173407)
 * 1/72 Scale Model Japanese Cockpit Pilot Figures - Frontline Collection Store
@@ -134,3 +136,9 @@ YouTube by IHYLS
 The Kawasaki Ki-96, a Japanese single-seat heavy fighter/interceptor/ground attacker from World War II that was intended to serve as a replacement for the Kawasaki Ki-45 Toryu. We first talk about the short era of the heavy fighter, how the era came about and why it quickly faded after WW2. We then talk about Japan venturing into the realm with the Ki-45, a pretty solid plane that served well as a bomber destroyer. We talk about the variants of the Ki-45 that were to serve in various roles.
 
 [![clip](https://img.youtube.com/vi/9RkWZgAGorA/0.jpg)](https://www.youtube.com/watch?v=9RkWZgAGorA)
+
+### Build References
+
+#### Kawasaki Ki-45 Toryu Hasegawa 1/72 - pequeño museo de aviones
+
+[![clip](https://img.youtube.com/vi/PkexlC2hPI4/0.jpg)](https://www.youtube.com/watch?v=PkexlC2hPI4)
