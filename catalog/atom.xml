@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-09-08T15:20:00Z</updated>
+  <updated>2025-09-16T07:06:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/soviet/d44/</id>
+    <link href="https://modelart.tardate.com/projects/soviet/d44/"/>
+    <g:image_link>https://modelart.tardate.com/projects/soviet/d44/assets/d44_build.jpg</g:image_link>
+    <updated>2025-09-16T07:06:00Z</updated>
+    <title>#152 Soviet 85mm D-44 Divisional Gun</title>
+    <summary>The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/soviet/d44/assets/d44_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <category term="Vehicles - military"/>
+    <category term="Soviet Union"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/britisharmy/bedfordtrucks/</id>
     <link href="https://modelart.tardate.com/projects/britisharmy/bedfordtrucks/"/>

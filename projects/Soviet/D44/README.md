@@ -1,4 +1,4 @@
-# #xxx Soviet 85mm D-44 Divisional Gun
+# #152 Soviet 85mm D-44 Divisional Gun
 
 The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.
 
