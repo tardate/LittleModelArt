@@ -1,6 +1,6 @@
 # #102 YANMAR Rice Harvester YH6115 オートコンバイン
 
-Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while "planting rice" in a dio!
+Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching YouTube videos of the machine while "planting rice" in a dio!
 
 ![Build](./assets/YH6115_build.jpg?raw=true)
 
@@ -129,7 +129,7 @@ YANMAR Rice Harvester YH6115 オートコンバイン
 Something different ... this is the Hasegawa 1:35 kit of the YH6115 harvester.
 Kit quality is amazing - it can almost be built without glue. I threw this together as a diversion/refresher between other projects... and then spent a few weeks "planting rice"🤣
 
-I have now spent far too much time watching this beautiful machine in action on youtube and NHK!
+I have now spent far too much time watching this beautiful machine in action on YouTube and NHK!
 
 ![build07a](./assets/build07a.jpg?raw=true)
 ![build07b](./assets/build07b.jpg?raw=true)
