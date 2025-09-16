@@ -116,7 +116,7 @@ Snowy could never pass a tarp without conducting his own investigation... my Her
 
 Features the Percival Proctor & Vega Gull in 1:72 from @dorawings - a fantastic little combo. I think these are some of Dora's earlier short-run kits, so they take a little effort, but the reward is to get these glorious and uncommon subjects.
 
-Not my first Dora Wings kit, not my last! I loved doing the Bellanca Pacemaker; next up I think I'll be reaching for the Savoia-Marchetti S.55.. Dora are a real gift for the modeller that wants something a little off the beaten path. @chris.meddings got Eugen from Dora Wings to share his passion for modelling and subject selection on Models From Ukraine podcast Episode 9, and there's a review of their new P-47 on youtube (search for "@ModelsforUkrainePodcast"). Go check it out!
+Not my first Dora Wings kit, not my last! I loved doing the Bellanca Pacemaker; next up I think I'll be reaching for the Savoia-Marchetti S.55.. Dora are a real gift for the modeller that wants something a little off the beaten path. @chris.meddings got Eugen from Dora Wings to share his passion for modelling and subject selection on Models From Ukraine podcast Episode 9, and there's a review of their new P-47 on YouTube (search for "@ModelsforUkrainePodcast"). Go check it out!
 
 ![build05a](./assets/build05a.jpg?raw=true)
 ![build05b](./assets/build05b.jpg?raw=true)

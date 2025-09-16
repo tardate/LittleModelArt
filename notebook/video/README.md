@@ -1,4 +1,4 @@
-# Modeling Video/Youtube Channels
+# Modeling Video/YouTube Channels
 
 ## Scale Model
 

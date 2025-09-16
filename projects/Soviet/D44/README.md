@@ -14,11 +14,12 @@ Russia has deployed D-44s in Ukraine. With one being destroyed by a Ukrainian dr
 
 ### The Kit
 
-description
+Soviet 85mm D-44 Divisional Gun 1:35 Trumpeter kit No. 02339 was released in 2012.
+It was re-boxed as the [PLA Type 56 Divisional Gun in 2013](https://www.scalemates.com/kits/trumpeter-02340-type-56-divisional-gun--218747).
 
 See [instructions](./assets/02339-instructions.pdf)
 
-![02339-kit-box](./assets/02339-kit-box.jpg?raw=true)
+[![02339-kit-box](./assets/02339-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/trumpeter-02339-85mm-d-44-divisional-gun--158148)
 
 ### Paint Scheme
 
@@ -80,7 +81,9 @@ Just the gun build for now - I intend to use it in a diorama I am still planning
     * <https://www.bulletpicker.com/cartridge_-85mm-he_-uo-365.html>
     * <https://www.bulletpicker.com/cartridge_-85mm-aphe-t_-ubr-32.html>
 
-#### The 85-mm divisional gun D-44 was a Soviet divisional 85-mm calibre field artillery gun World War II - FootpassengerSDE
+#### The 85-mm divisional gun D-44 was a Soviet divisional 85-mm calibre field artillery gun World War II
+
+YouTube video by FootpassengerSDE:
 
 [![clip](https://img.youtube.com/vi/4HYAvMmgd0M/0.jpg)](https://www.youtube.com/watch?v=4HYAvMmgd0M)
 
@@ -100,10 +103,14 @@ Just the gun build for now - I intend to use it in a diorama I am still planning
 
 ### Build References
 
-#### Soviet 85mm D-44 Divisional Gun Final - Jan Haayer
+#### Soviet 85mm D-44 Divisional Gun Final
+
+YouTube build video by Jan Haayer:
 
 [![clip](https://img.youtube.com/vi/k_3-xJLT_ds/0.jpg)](https://www.youtube.com/watch?v=k_3-xJLT_ds)
 
-#### Trumpeter 1/35 Soviet 85mm D-44 Divisional # 02339 - emodelsuk
+#### Trumpeter 1/35 Soviet 85mm D-44 Divisional 02339
+
+YouTube build video by emodelsuk:
 
 [![clip](https://img.youtube.com/vi/Mr34p0EZQ3s/0.jpg)](https://www.youtube.com/watch?v=Mr34p0EZQ3s)

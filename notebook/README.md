@@ -5,7 +5,7 @@
     * [Tokyo Model Stores Review](./retailers/tokyo/)
 * [Podcasts](./podcasts/)
 * [Retailers](./retailers/)
-* [Video/Youtube Channels](./video/)
+* [Video/YouTube Channels](./video/)
 
 ## Techniques
 
