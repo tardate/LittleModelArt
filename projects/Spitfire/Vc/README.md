@@ -10,7 +10,7 @@ Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc
 
 The kit - [Supermarine Spitfire Mk.Vc; Airfix No. A02108, 1:72](https://www.scalemates.com/kits/airfix-a02108-supermarine-spitfire-mkvc--1260494) - is a nice new mould from 2020.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![A02108-kit-box](./assets/A02108-kit-box.jpg?raw=true)
 
 I'm modelling ER180 - US Army Air Force 307 FS, 31 FG MX-P / ER180
 
@@ -133,6 +133,7 @@ With a 3V coin cell, they light perfectly and don't even need a current-limiting
 ### Trial Assembly
 
 attaching to the base
+
 ![build08a](./assets/build08a.jpg?raw=true)
 
 Spinning prop and candle-flicker effects in the explosion... about as far as I can take this for now -
@@ -242,23 +243,62 @@ The 1:72 to 1:144 forced-perspective seems to work even better; even closer to t
 
 OK, after calling this done for a second time, I came back to fiddle the groundwork and decal the convoy.
 
-[build16a](./assets/build16a.jpg?raw=true)
-[build16b](./assets/build16b.jpg?raw=true)
-[build16c](./assets/build16c.jpg?raw=true)
-[build16d](./assets/build16d.jpg?raw=true)
-[build16e](./assets/build16e.jpg?raw=true)
-[build17a](./assets/build17a.jpg?raw=true)
-[build17b](./assets/build17b.jpg?raw=true)
-[build17c](./assets/build17c.jpg?raw=true)
-[build17d](./assets/build17d.jpg?raw=true)
+![build16a](./assets/build16a.jpg?raw=true)
+![build16b](./assets/build16b.jpg?raw=true)
+![build16c](./assets/build16c.jpg?raw=true)
+![build16d](./assets/build16d.jpg?raw=true)
+![build16e](./assets/build16e.jpg?raw=true)
+![build17a](./assets/build17a.jpg?raw=true)
+![build17b](./assets/build17b.jpg?raw=true)
+![build17c](./assets/build17c.jpg?raw=true)
+![build17d](./assets/build17d.jpg?raw=true)
 
 Maybe now I can say I'm finished?
 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=122461)
-* [Supermarine Spitfire Mk.Vc; Airfix No. A02108, 1:72](https://www.scalemates.com/kits/airfix-a02108-supermarine-spitfire-mkvc--1260494)
-* [Opel Kapitän German staff car (hardtop); Hauler No. HTT120076, 1:120](https://www.scalemates.com/kits/hauler-htt120076-german-staff-car-hardtop-2-in-set--1200533)
-* [Tiger I Ausf. E; Hauler No. HTT120002, 1:120](https://www.scalemates.com/kits/hauler-htt120002-tiger-i-ausf-e--109252)
-* [WWII German army military vehicles set 1 Pit-Road, No. SGK02 1:144](https://www.scalemates.com/kits/pit-road-sgk02-wwii-german-army-military-vehicles-set-1--1305590)
-* [5mm Yellow Blinking Candle Effect LEDs](https://www.aliexpress.com/item/32782781815.html) from aliexpress
+* Supermarine Spitfire Mk.Vc; Airfix No. A02108, 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02108-supermarine-spitfire-mkvc--1260494)
+    * [instructions](./assets/A02108-instructions.pdf)
+* Opel Kapitän German staff car (hardtop); Hauler No. HTT120076, 1:120
+    * [on scalemates](https://www.scalemates.com/kits/hauler-htt120076-german-staff-car-hardtop-2-in-set--1200533)
+    * [instructions](./assets/HTT120076-instructions.jpg)
+* Tiger I Ausf. E; Hauler No. HTT120002, 1:120
+    * [on scalemates](https://www.scalemates.com/kits/hauler-htt120002-tiger-i-ausf-e--109252)
+    * [instructions](./assets/HTT120002-instructions.jpg)
+* WWII German army military vehicles set 1 Pit-Road, No. SGK02 1:144
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-sgk02-wwii-german-army-military-vehicles-set-1--1305590)
+    * [instructions](./assets/SGK02-manual.pdf)
+* 5mm Yellow Blinking Candle Effect LEDs
+    * [from aliexpress](https://www.aliexpress.com/item/32782781815.html)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Supermarine_Spitfire_(early_Merlin-powered_variants)#Mk_Vc_and_Vc_(trop)_(Types_349_and_352/6)>
+
+#### Spitfire Mk1 to Mk24 - How Spitfires kept getting better
+
+YouTube by Imperial War Museums
+
+[![clip](https://img.youtube.com/vi/q6i5eMM11G4/0.jpg)](https://www.youtube.com/watch?v=q6i5eMM11G4)
+
+#### Supermarine Spitfire Mk Vc
+
+YouTube by National Museum of the U.S. Air Force
+
+[![clip](https://img.youtube.com/vi/pIhpGUmlCCE/0.jpg)](https://www.youtube.com/watch?v=pIhpGUmlCCE)
+
+### Build References
+
+#### Airfix New Tooled 1/72 Supermarine Spitfire Mk.Vc Unboxing 2020
+
+YouTube by MOS6510 Models
+
+[![clip](https://img.youtube.com/vi/MsdPL2wQCUM/0.jpg)](https://www.youtube.com/watch?v=MsdPL2wQCUM)
+
+#### Building the Brand New 1/72 Spitfire Mk.Vc from Airfix! Full Build
+
+YouTube by Modelling Weekly
+
+[![clip](https://img.youtube.com/vi/O6wivEqRUQo/0.jpg)](https://www.youtube.com/watch?v=O6wivEqRUQo)
