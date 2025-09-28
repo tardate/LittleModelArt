@@ -103,7 +103,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Poland           | [Arma Hobby](https://www.armahobby.com/)                                 | |
 | Poland           | [D-Day Miniature Studio](http://www.ddayminiaturestudio.com/)            | resin miniatures |
 | Poland           | [Hataka Hobby](https://www.hataka-hobby.com/)                            | paint |
-| Poland           | [IBG](http://www.ibgmodels.com/)                                         | [webstore](http://en.ibg.com.pl/) also carries other manufacturers |
+| Poland           | [IBG](http://www.ibgmodels.com/)                                         | [webstore](https://ibg.com.pl/) also carries other manufacturers |
 | Poland           | [ION Model](http://ionmodel.com/)                                        | resin figures |
 | Poland           | [Mirage](http://www.mirage-hobby.com.pl/)                                | |
 | Poland           | [Niko Models](http://www.nikomodel.pl/)                                  | resin kits and accessories|
