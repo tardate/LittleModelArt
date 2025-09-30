@@ -1,6 +1,6 @@
-# 152 Little Model Art Projects
+# 153 Little Model Art Projects
 
-> Latest addition :sparkles: [Soviet 85mm D-44 Divisional Gun](./projects/Soviet/D44) - The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.
+> Latest addition :sparkles: [FM-2 Wildcat](./projects/USA/F4FWildcat/FM2) - Building the FM-2 Wildcat from Sweet in 1:144, converted for in-flight with motorized propeller
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
