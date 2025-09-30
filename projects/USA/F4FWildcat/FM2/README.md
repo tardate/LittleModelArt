@@ -1,4 +1,4 @@
-# #xxx FM-2 Wildcat
+# #153 FM-2 Wildcat
 
 Building the FM-2 Wildcat from Sweet in 1:144, converted for in-flight with motorized propeller.
 
