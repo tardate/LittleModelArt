@@ -1,6 +1,6 @@
 # #154 IJN Matsu-class Destroyer Sakura
 
-Building the Matsu-class Destroyer Sakura from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
+Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
 
 ![Build](./assets/Sakura_build.jpg?raw=true)
 
@@ -126,7 +126,8 @@ Applying flag and bridge window decals
 
 ### Base
 
-This time I'm going to try the air-dry clay base approach..
+This time I'm going to try an air-dry clay base approach..
+inspired by epoxy bases made by [Studio Blue](https://www.youtube.com/@studioblue_kr)
 
 ![build04a](./assets/build04a.jpg?raw=true)
 

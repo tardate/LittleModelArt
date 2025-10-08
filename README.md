@@ -1,6 +1,6 @@
 # 154 Little Model Art Projects
 
-> Latest addition :sparkles: [IJN Matsu-class Destroyer Sakura](./projects/IJN/Sakura) - Building the Matsu-class Destroyer Sakura from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
+> Latest addition :sparkles: [IJN Matsu-class Destroyer Sakura](./projects/IJN/Sakura) - Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
