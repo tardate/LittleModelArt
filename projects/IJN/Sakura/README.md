@@ -6,7 +6,12 @@ Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with 
 
 ## Notes
 
-I feel like doing a quick build out of the box.
+I feel like doing a quick build out of the box but admittedly stretched the definition a little.
+
+I skipped any PE upgrades such as railings.
+And no rigging - the kit isn't really detailed enough for it to be rigged. I'd probably need to replace the masts to do so.
+
+I've limited the detailing to replacing some parts with more modern and detailed moldings I have on hand. And I could not resist fixing the stern profile once I'd seen the issue.
 
 ### About the Ship
 
