@@ -1,4 +1,15 @@
 {
+    "/projects/ijn/sakura/": {
+        "id": 154,
+        "title": "IJN Matsu-class Destroyer Sakura",
+        "summary": "Building the Matsu-class Destroyer Sakura (\u685c) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).",
+        "tags": [
+            "Ships - military",
+            "Japan",
+            "IJN",
+            "Destroyer"
+        ]
+    },
     "/projects/usa/f4fwildcat/fm2/": {
         "id": 153,
         "title": "FM-2 Wildcat",
