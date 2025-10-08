@@ -1,4 +1,4 @@
-# #xxx IJN Matsu-class Destroyer Sakura
+# #154 IJN Matsu-class Destroyer Sakura
 
 Building the Matsu-class Destroyer Sakura from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
 
