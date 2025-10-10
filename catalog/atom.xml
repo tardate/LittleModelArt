@@ -1,4 +1,4 @@
-<?xml version="1.0" ?>
+<?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:g="http://base.google.com/ns/1.0">
   <title>Little Model Art Projects</title>
   <subtitle>my collection of scale modelling, miniatures and other art projects</subtitle>
@@ -20,7 +20,7 @@
     <updated>2025-10-08T10:47:00Z</updated>
     <title>#154 IJN Matsu-class Destroyer Sakura</title>
     <summary>Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/sakura/assets/sakura_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/sakura/assets/sakura_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -33,7 +33,7 @@
     <updated>2025-09-30T12:49:00Z</updated>
     <title>#153 FM-2 Wildcat</title>
     <summary>Building the FM-2 Wildcat from Sweet in 1:144, converted for in-flight with motorized propeller</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the FM-2 Wildcat from Sweet in 1:144, converted for in-flight with motorized propeller&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/usa/f4fwildcat/fm2/assets/fm2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the FM-2 Wildcat from Sweet in 1:144, converted for in-flight with motorized propeller&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/usa/f4fwildcat/fm2/assets/fm2_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="USA"/>
     <category term="Electronics"/>
@@ -45,7 +45,7 @@
     <updated>2025-09-16T07:06:00Z</updated>
     <title>#152 Soviet 85mm D-44 Divisional Gun</title>
     <summary>The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/soviet/d44/assets/d44_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;The D-44 was introduced late in WWII and has been put into service by many countries in wars since then, up to and including both sides in the Russian invasion of Ukraine. This build is intended for a future diorama.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/soviet/d44/assets/d44_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Soviet Union"/>
   </entry>
@@ -56,7 +56,7 @@
     <updated>2025-09-08T15:20:00Z</updated>
     <title>#151 Bedford QLT and QLD Trucks</title>
     <summary>Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/britisharmy/bedfordtrucks/assets/bedfordtrucks_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:76 Bedford QLT and QLD Trucks, kit A03306. Just the vehicles themselves right now - they'll likely end up in a diorama one day.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/bedfordtrucks/assets/bedfordtrucks_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="UK"/>
   </entry>
@@ -67,7 +67,7 @@
     <updated>2025-09-02T12:06:00Z</updated>
     <title>#150 Yokosuka D4Y2 Suisei</title>
     <summary>Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/yokosukad4y/d4y2/assets/d4y2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Micro Ace 1:72 boxing of the Yokosuka D4Y2 Suisei Model 12 (彗星一二型)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/yokosukad4y/d4y2/assets/d4y2_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -79,7 +79,7 @@
     <updated>2025-08-14T15:00:00Z</updated>
     <title>#149 Leopard 2A6 Armed Forces of Ukraine</title>
     <summary>Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/leopard2a6/assets/leopard2a6_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/leopard2a6/assets/leopard2a6_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="AFV"/>
     <category term="Ukraine"/>
@@ -91,7 +91,7 @@
     <updated>2025-08-05T15:15:00Z</updated>
     <title>#148 Out Fishing - Target Fixation</title>
     <summary>Spare Green Max 1:150 Fishing Boat? Time for a whimsical little diorama.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Spare Green Max 1:150 Fishing Boat? Time for a whimsical little diorama.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/targetfixation/assets/targetfixation_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Spare Green Max 1:150 Fishing Boat? Time for a whimsical little diorama.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/targetfixation/assets/targetfixation_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - civil"/>
     <category term="Japan"/>
   </entry>
@@ -102,7 +102,7 @@
     <updated>2025-07-05T12:38:00Z</updated>
     <title>#147 Armored Trooper VOTOMS Scope Dog</title>
     <summary>Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (フィアナ) contemplating life, the universe, and everything.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (フィアナ) contemplating life, the universe, and everything.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/scopedog/assets/scopedog_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Armored Trooper VOTOMS Scope Dog in a diorama featuring Fyana (フィアナ) contemplating life, the universe, and everything.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/scifiandfantasy/scopedog/assets/scopedog_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
   </entry>
   <entry>
@@ -112,7 +112,7 @@
     <updated>2025-06-06T09:36:00Z</updated>
     <title>#146 Brewster Buffalo</title>
     <summary>Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/brewsterbuffalo/assets/brewsterbuffalo_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Brewster Buffalo on a jungle raid over Burma, early 1942. This is the Airfix 1:72 vintage classic kit A02050V.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/brewsterbuffalo/assets/brewsterbuffalo_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -123,7 +123,7 @@
     <updated>2025-05-22T10:19:00Z</updated>
     <title>#145 Mitsubishi Ki-15-II</title>
     <summary>Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/mitsubishiki15/ki15ii/assets/ki15ii_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ARII 1:72 kit of the Mitsubishi Ki-15-II in IJA service.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/mitsubishiki15/ki15ii/assets/ki15ii_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -135,7 +135,7 @@
     <updated>2025-05-09T14:31:00Z</updated>
     <title>#144 Antarctic Research Ship Sōya</title>
     <summary>Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/soya/assets/soya_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:700 Foresight model of the Antarctic Research Ship Sōya 宗谷 (PL107)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/soya/assets/soya_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - civil"/>
     <category term="Japan"/>
   </entry>
@@ -146,7 +146,7 @@
     <updated>2025-04-20T13:10:00Z</updated>
     <title>#143 1967 Jaguar E-Type</title>
     <summary>Building the Airfix 1:43 kit of the Jaguar E-Type</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:43 kit of the Jaguar E-Type&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/uk/jaguaretype/assets/jaguaretype_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:43 kit of the Jaguar E-Type&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/uk/jaguaretype/assets/jaguaretype_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="UK"/>
   </entry>
@@ -157,7 +157,7 @@
     <updated>2025-03-31T08:38:00Z</updated>
     <title>#142 Kure Naval Arsenal</title>
     <summary>Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/kurenavalarsenal/assets/kurenavalarsenal_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fujimi 1:3000 diorama depicting Kure Naval Arsenal&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/kurenavalarsenal/assets/kurenavalarsenal_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -169,7 +169,7 @@
     <updated>2025-03-16T14:11:00Z</updated>
     <title>#141 Miles Master</title>
     <summary>Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/milesmaster/assets/milesmaster_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes/Model Officers Mess 48x48 Group Build 2025.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/milesmaster/assets/milesmaster_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -180,7 +180,7 @@
     <updated>2025-03-11T11:41:00Z</updated>
     <title>#140 Luella Bates and the FWD Model B</title>
     <summary>Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/usa/luellabates/assets/luellabates_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/usa/luellabates/assets/luellabates_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="Vehicles - military"/>
     <category term="Figures"/>
@@ -193,7 +193,7 @@
     <updated>2025-02-11T13:06:00Z</updated>
     <title>#139 Kawasaki Ki-45 Kai Otsu</title>
     <summary>Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/assets/ki45kaiotsu_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Kawasaki Ki-45 Kai Otsu Toryu (Nick) as used by the IJA 4th Flight Regiment, based on the Hasegawa 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/assets/ki45kaiotsu_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -205,7 +205,7 @@
     <updated>2025-02-09T06:43:00Z</updated>
     <title>#138 HMS Repulse</title>
     <summary>Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/assets/hmsrepulse_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Repulse from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/forcez/hmsrepulse/assets/hmsrepulse_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
     <category term="Battlecruiser"/>
@@ -217,7 +217,7 @@
     <updated>2025-01-08T13:30:00Z</updated>
     <title>#137 Aichi D3A1 from Akagi</title>
     <summary>An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/assets/akagid3aflight_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits from Airfix and ZTS Plastyk in 1:72&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/aichid3a/akagid3aflight/assets/akagid3aflight_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -229,7 +229,7 @@
     <updated>2024-12-20T07:37:00Z</updated>
     <title>#136 Tokyo Model Stores</title>
     <summary>Reviewing the best model stores in Tokyo</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Reviewing the best model stores in Tokyo&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/notebook/retailers/tokyo/assets/tokyo_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Reviewing the best model stores in Tokyo&lt;/p&gt;&lt;img src="https://modelart.tardate.com/notebook/retailers/tokyo/assets/tokyo_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Retailers"/>
   </entry>
   <entry>
@@ -239,7 +239,7 @@
     <updated>2024-11-26T12:56:00Z</updated>
     <title>#135 Homecoming</title>
     <summary>A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/homecoming/assets/homecoming_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A little vignette featuring figures from ICM and a Lancaster and Spitfires from Pit-Road.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/homecoming/assets/homecoming_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
     <category term="Figures"/>
@@ -251,7 +251,7 @@
     <updated>2024-11-23T13:17:00Z</updated>
     <title>#134 Squadron Commander Lord Flasheart</title>
     <summary>Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/lordflasheart/assets/lordflasheart_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Woof! The legend of Squadron Leader The Lord Flasheart. An Elan13 Miniatures bust with a Fokker Dr.1 from Airfix.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/lordflasheart/assets/lordflasheart_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Figures"/>
     <category term="UK"/>
@@ -264,7 +264,7 @@
     <updated>2024-11-16T07:12:00Z</updated>
     <title>#133 Bristol F.2b</title>
     <summary>Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/bristol/f2b/f2bin72/assets/f2bin72_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Bristol F.2b in 1:72 scale. This is the venerable Airfix Vintage Classic from 1957!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/bristol/f2b/f2bin72/assets/f2bin72_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -275,7 +275,7 @@
     <updated>2024-11-14T03:53:00Z</updated>
     <title>#132 Fokker Dr.I</title>
     <summary>Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/germany/fokker/dr1/assets/dr1_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fokker Dr.I (intended for another diorama). This is the venerable Airfix Vintage Classic from 1957!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/germany/fokker/dr1/assets/dr1_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Germany"/>
   </entry>
@@ -286,7 +286,7 @@
     <updated>2024-11-04T12:05:00Z</updated>
     <title>#131 Foxtrot-class Zaporizhzhia</title>
     <summary>MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure☹ One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure☹ One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/zaporizhzhia/assets/zaporizhzhia_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;MikroMir have made a very good kit of the Foxtrot-class Zaporizhzhia. The build went well, but my attempt to encase it in resin was a catastrophic failure☹ One day I'll try this again, but in the spirit of sharing failures as well as successes: here's the gory story of what went wrong!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/zaporizhzhia/assets/zaporizhzhia_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Submarine"/>
     <category term="Ukraine"/>
@@ -298,7 +298,7 @@
     <updated>2024-10-30T01:36:00Z</updated>
     <title>#130 Naval Mine Removal</title>
     <summary>Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/navalmineremoval/assets/navalmineremoval_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Members of the Mine Recovery and Disposal Squad towing away a naval mine from the beach at Tayport with the aid of a Bren gun carrier being operated by troops of the 1st Polish Corps. Features the Airfix Bren Gun Carrier and figures from Germania Figuren.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/navalmineremoval/assets/navalmineremoval_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="UK"/>
   </entry>
@@ -309,7 +309,7 @@
     <updated>2024-10-08T13:45:00Z</updated>
     <title>#129 Kyushu J7W1</title>
     <summary>Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/kyushu/j7w1/assets/j7w1_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Kyūshū J7W Shinden 震電, as used by Kōichi Shikishima in Godzilla Minus One to deliver the final fatal blow.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/kyushu/j7w1/assets/j7w1_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -321,7 +321,7 @@
     <updated>2024-09-28T03:42:00Z</updated>
     <title>#128 Mitsubishi G3M3 Nell</title>
     <summary>Building the Mitsubishi G3M3 Nell from Hasegawa in 1:72, motorized and mounted in-flight for the #risingsungb.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Mitsubishi G3M3 Nell from Hasegawa in 1:72, motorized and mounted in-flight for the #risingsungb.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/mitsubishig3m/g3m3model23/assets/g3m3model23_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Mitsubishi G3M3 Nell from Hasegawa in 1:72, motorized and mounted in-flight for the #risingsungb.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/mitsubishig3m/g3m3model23/assets/g3m3model23_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -334,7 +334,7 @@
     <updated>2024-09-23T09:10:00Z</updated>
     <title>#127 Gloster Meteor FR.9</title>
     <summary>Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/meteorfr9/assets/meteorfr9_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/meteorfr9/assets/meteorfr9_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -345,7 +345,7 @@
     <updated>2024-09-08T14:20:00Z</updated>
     <title>#126 Mitsubishi A6M2b</title>
     <summary>Building the classic Tamiya 1:72 A6M2b</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the classic Tamiya 1:72 A6M2b&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/mitsubishia6m/a6m2b/assets/a6m2b_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the classic Tamiya 1:72 A6M2b&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/mitsubishia6m/a6m2b/assets/a6m2b_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -357,7 +357,7 @@
     <updated>2024-08-30T13:52:00Z</updated>
     <title>#125 IJN Seaplane Tender Kamikawa Maru</title>
     <summary>Depicting the brief establishment of a seaplane base at Deboyne in 1942 by the IJN Seaplane Tender Kamikawa Maru and a supporting force.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Depicting the brief establishment of a seaplane base at Deboyne in 1942 by the IJN Seaplane Tender Kamikawa Maru and a supporting force.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/kamikawamaru/assets/kamikawamaru_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Depicting the brief establishment of a seaplane base at Deboyne in 1942 by the IJN Seaplane Tender Kamikawa Maru and a supporting force.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/kamikawamaru/assets/kamikawamaru_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -369,7 +369,7 @@
     <updated>2024-08-23T08:29:00Z</updated>
     <title>#124 IJN Cruiser Jintsū</title>
     <summary>Building the Fujimi 1:700 kit of the IJN Cruiser Jintsū (神通) (じんつう)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fujimi 1:700 kit of the IJN Cruiser Jintsū (神通) (じんつう)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/jintsu/assets/jintsu_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Fujimi 1:700 kit of the IJN Cruiser Jintsū (神通) (じんつう)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/jintsu/assets/jintsu_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -382,7 +382,7 @@
     <updated>2024-08-18T11:07:00Z</updated>
     <title>#123 Hawker Typhoon Mk.Ib on D-Day</title>
     <summary>Typhoon Ib on ground attack over France 1944. Just a quick build of the nice little Airfix 1:72 kit while other projects drag along on the bench!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Typhoon Ib on ground attack over France 1944. Just a quick build of the nice little Airfix 1:72 kit while other projects drag along on the bench!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/typhoon/mkib_dday/assets/mkib_dday_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Typhoon Ib on ground attack over France 1944. Just a quick build of the nice little Airfix 1:72 kit while other projects drag along on the bench!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/typhoon/mkib_dday/assets/mkib_dday_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -393,7 +393,7 @@
     <updated>2024-08-11T05:32:38Z</updated>
     <title>#122 Type 97 ChiHa in Malaya</title>
     <summary>A Type 97 Chi-Ha チハ roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A Type 97 Chi-Ha チハ roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/type97/malaya1941/assets/malaya1941_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A Type 97 Chi-Ha チハ roaring down the Malayan peninsula in 1941. This is the old Airfix 1:76 kit with a couple of infantry figures, echoing a pretty well-known picture.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/type97/malaya1941/assets/malaya1941_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -405,7 +405,7 @@
     <updated>2024-08-04T09:50:39Z</updated>
     <title>#121 Spitfire PR Mk.XIX</title>
     <summary>Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/spitfire/prxix/assets/prxix_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Supermarine Spitfire PR.XIX in 1:72 from the Airfix D-Day Duo kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/spitfire/prxix/assets/prxix_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -416,7 +416,7 @@
     <updated>2024-06-17T07:25:53Z</updated>
     <title>#120 Betio</title>
     <summary>Type 95 Ha-Gō on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Type 95 Ha-Gō on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/type95/onbetio/assets/onbetio_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Type 95 Ha-Gō on Betio, capturing the aftermath of the battle as depicted in a famous photograph. Uses the IBG Models 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/type95/onbetio/assets/onbetio_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -428,7 +428,7 @@
     <updated>2024-06-17T07:25:53Z</updated>
     <title>#119 I-16 Escuadrilla de Mosca</title>
     <summary>Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/spain/polikarpovi16/assets/polikarpovi16_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful ClearProp 1:72 rendering of the Polikarpov I-16 in Spanish Republican Air Force service in the Escuadrilla de Mosca.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/spain/polikarpovi16/assets/polikarpovi16_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Spain"/>
   </entry>
@@ -439,7 +439,7 @@
     <updated>2024-05-31T14:34:20Z</updated>
     <title>#118 British Royal Artillery Gunner 1815</title>
     <summary>Posing the Elan13 54mm Royal Artillery Gunner leaping into action...</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Posing the Elan13 54mm Royal Artillery Gunner leaping into action...&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/napoleonic/britishgunner1815/assets/britishgunner1815_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Posing the Elan13 54mm Royal Artillery Gunner leaping into action...&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/napoleonic/britishgunner1815/assets/britishgunner1815_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Napoleonic"/>
     <category term="UK"/>
@@ -451,7 +451,7 @@
     <updated>2024-05-26T05:29:16Z</updated>
     <title>#117 Hongdu K-8/JL-8</title>
     <summary>Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/jl8/assets/jl8_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Hongdu K-8/JL-8 trainer aircraft from the Trumpeter 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plaaf/jl8/assets/jl8_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
   </entry>
@@ -462,7 +462,7 @@
     <updated>2024-04-18T14:28:56Z</updated>
     <title>#116 キ51 over Burma 1942</title>
     <summary>Building the ClearProp Ki-51 Sonia 1:144 with a motorized prop and a camo scheme as used in Burma 1942</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ClearProp Ki-51 Sonia 1:144 with a motorized prop and a camo scheme as used in Burma 1942&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/mitsubishiki51/ki51burma/assets/ki51burma_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ClearProp Ki-51 Sonia 1:144 with a motorized prop and a camo scheme as used in Burma 1942&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/mitsubishiki51/ki51burma/assets/ki51burma_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -475,7 +475,7 @@
     <updated>2024-03-23T08:00:18Z</updated>
     <title>#115 Kawasaki Ki-100-I-Otsu</title>
     <summary>Building the キ100 from Aoshima in 1:72, mounted in flight over a watercolour scene.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the キ100 from Aoshima in 1:72, mounted in flight over a watercolour scene.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki100/ki100itype5/assets/ki100itype5_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the キ100 from Aoshima in 1:72, mounted in flight over a watercolour scene.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/kawasakiki100/ki100itype5/assets/ki100itype5_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -487,7 +487,7 @@
     <updated>2024-03-12T14:32:35Z</updated>
     <title>#114 M.V. Southland Star</title>
     <summary>Blue Star Lines M.V. Southland Star transiting Cook Strait in a gale</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Blue Star Lines M.V. Southland Star transiting Cook Strait in a gale&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/bluestar/southlandstar/assets/southlandstar_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Blue Star Lines M.V. Southland Star transiting Cook Strait in a gale&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/bluestar/southlandstar/assets/southlandstar_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - civil"/>
     <category term="UK"/>
   </entry>
@@ -498,7 +498,7 @@
     <updated>2024-03-08T08:22:10Z</updated>
     <title>#113 Morane Saulnier MS.230</title>
     <summary>Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/moranesaulnier/ms230/assets/ms230_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings Morane Saulnier MS.230 for the 2024 Models for Heroes 48x48 group build.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/france/moranesaulnier/ms230/assets/ms230_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="France"/>
   </entry>
@@ -509,7 +509,7 @@
     <updated>2024-02-12T09:32:44Z</updated>
     <title>#112 Gloster Gladiator</title>
     <summary>Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/gladiator/assets/gladiator_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Gloster Gladiator Mk II over St. Inglevert, Northern France, December 1939.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/gladiator/assets/gladiator_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -520,7 +520,7 @@
     <updated>2024-02-03T10:04:47Z</updated>
     <title>#111 Bristol Bulldog</title>
     <summary>The Bristol Bulldog is an RAF classic from the inter-war period. Although this Airfix Vintage Classic 2019 boxing was tooled way back in 1969, it is still a very buildable kit of a very beautiful plane.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;The Bristol Bulldog is an RAF classic from the inter-war period. Although this Airfix Vintage Classic 2019 boxing was tooled way back in 1969, it is still a very buildable kit of a very beautiful plane.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/bristol/bulldog/assets/bulldog_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;The Bristol Bulldog is an RAF classic from the inter-war period. Although this Airfix Vintage Classic 2019 boxing was tooled way back in 1969, it is still a very buildable kit of a very beautiful plane.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/bristol/bulldog/assets/bulldog_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -531,7 +531,7 @@
     <updated>2024-02-02T10:28:31Z</updated>
     <title>#110 IJN Heavy Cruiser Tone 利根</title>
     <summary>On 23 January 1942, the IJN Heavy Cruiser Tone 利根 attacked Buka Island with its float planes. A diorama featuring the Aoshima 1:700 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;On 23 January 1942, the IJN Heavy Cruiser Tone 利根 attacked Buka Island with its float planes. A diorama featuring the Aoshima 1:700 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/tone/assets/tone_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;On 23 January 1942, the IJN Heavy Cruiser Tone 利根 attacked Buka Island with its float planes. A diorama featuring the Aoshima 1:700 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/tone/assets/tone_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -544,7 +544,7 @@
     <updated>2023-12-21T18:28:33Z</updated>
     <title>#109 CR.714</title>
     <summary>Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/caudronrenault/cr714/assets/cr714_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/france/caudronrenault/cr714/assets/cr714_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="France"/>
   </entry>
@@ -555,7 +555,7 @@
     <updated>2023-12-16T11:28:14Z</updated>
     <title>#108 Electra And Express To the Rescue</title>
     <summary>HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/electraandexpress/assets/electraandexpress_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/forcez/electraandexpress/assets/electraandexpress_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
     <category term="Destroyer"/>
@@ -567,7 +567,7 @@
     <updated>2023-12-13T16:25:53Z</updated>
     <title>#107 Kawasaki Ki-10</title>
     <summary>Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki10/assets/kawasakiki10_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/kawasakiki10/assets/kawasakiki10_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -579,7 +579,7 @@
     <updated>2023-12-06T13:25:57Z</updated>
     <title>#106 Hurricane MkI</title>
     <summary>No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/hurricane/mki/assets/mki_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;No. 501 Squadron RAF over Dover in August 1940. Depicted with the Arma Hobby 1:72 kit and a Pit-Road 1:700 wingmen.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/hurricane/mki/assets/mki_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -590,7 +590,7 @@
     <updated>2023-11-04T09:50:17Z</updated>
     <title>#105 Nakajima Ki-43-II</title>
     <summary>Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/nakajimaki43-ii/assets/nakajimaki43-ii_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/nakajimaki43-ii/assets/nakajimaki43-ii_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -602,7 +602,7 @@
     <updated>2023-10-19T13:51:44Z</updated>
     <title>#104 DHC Beaver</title>
     <summary>Building the de Havilland Canada DHC-2 Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the de Havilland Canada DHC-2 Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/dehavilland/beaver/assets/beaver_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the de Havilland Canada DHC-2 Beaver in-flight and motorized, based on the Airfix Vintage Classics kit A03017V.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/dehavilland/beaver/assets/beaver_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Electronics"/>
     <category term="USA"/>
@@ -614,7 +614,7 @@
     <updated>2023-10-07T06:16:51Z</updated>
     <title>#103 Nakajima Ki-27</title>
     <summary>Building the ICM Nakajima Ki-27a kit in 1:72 scale</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Nakajima Ki-27a kit in 1:72 scale&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/nakajimaki27/assets/nakajimaki27_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ICM Nakajima Ki-27a kit in 1:72 scale&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/nakajimaki27/assets/nakajimaki27_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -626,7 +626,7 @@
     <updated>2023-09-20T16:03:01Z</updated>
     <title>#102 YANMAR Rice Harvester YH6115 オートコンバイン</title>
     <summary>Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while *planting rice* in a dio!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while *planting rice* in a dio!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/yanmar/yh6115/assets/yh6115_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Hasegawa 1:35 kit of the YANMAR YH6115 Rice Harvester, and spending a lot of time watching youtube videos of the machine while *planting rice* in a dio!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/yanmar/yh6115/assets/yh6115_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="Japan"/>
   </entry>
@@ -637,7 +637,7 @@
     <updated>2023-09-30T04:24:52Z</updated>
     <title>#101 Honda Super Cub</title>
     <summary>Building the F-Toys Honda Super Cub in 1:24</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Honda Super Cub in 1:24&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/honda/supercub/assets/supercub_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Honda Super Cub in 1:24&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/honda/supercub/assets/supercub_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="Japan"/>
   </entry>
@@ -648,7 +648,7 @@
     <updated>2023-09-30T03:56:09Z</updated>
     <title>#100 Mitsubishi A6M2-N</title>
     <summary>Building the F-Toys Mitsubishi A6M2-N from their 1/144 WORK SHOP Vol.40</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Mitsubishi A6M2-N from their 1/144 WORK SHOP Vol.40&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/mitsubishia6m/a6m2n/ftoysfc54/assets/ftoysfc54_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Mitsubishi A6M2-N from their 1/144 WORK SHOP Vol.40&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/mitsubishia6m/a6m2n/ftoysfc54/assets/ftoysfc54_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -660,7 +660,7 @@
     <updated>2023-09-29T15:30:20Z</updated>
     <title>#099 Kawasaki Ki-61-II</title>
     <summary>Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/kawasakiki61/ki61ii/assets/ki61ii_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the F-Toys Ki-61-II from Wing Kit Collection 18 in 1:144&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/kawasakiki61/ki61ii/assets/ki61ii_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -672,7 +672,7 @@
     <updated>2023-08-24T11:00:58Z</updated>
     <title>#098 HIDF Twin Otter Recon/SpecOps</title>
     <summary>DHC-6 Twin Otter from Revell (04901 in 1:72), as seen commandeered by HIDF Gendarmerie and pressed into service as a reconnaissance and special ops platform. For the Micro Machines Podcast HIDF GB.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;DHC-6 Twin Otter from Revell (04901 in 1:72), as seen commandeered by HIDF Gendarmerie and pressed into service as a reconnaissance and special ops platform. For the Micro Machines Podcast HIDF GB.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/hidf/twinotter/assets/twinotter_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;DHC-6 Twin Otter from Revell (04901 in 1:72), as seen commandeered by HIDF Gendarmerie and pressed into service as a reconnaissance and special ops platform. For the Micro Machines Podcast HIDF GB.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/hidf/twinotter/assets/twinotter_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Electronics"/>
   </entry>
@@ -683,7 +683,7 @@
     <updated>2023-08-22T14:45:34Z</updated>
     <title>#097 Defiant v Do-17z</title>
     <summary>Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/defiantmkivdo17z/assets/defiantmkivdo17z_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/defiantmkivdo17z/assets/defiantmkivdo17z_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Nazi Germany"/>
     <category term="UK"/>
@@ -695,7 +695,7 @@
     <updated>2023-08-20T14:08:03Z</updated>
     <title>#096 Ukrainian Su-24M Fencer</title>
     <summary>Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/fencer/assets/fencer_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Armory 1:144 representation of the Ukrainian Su-24M Fencer.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/fencer/assets/fencer_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Ukraine"/>
   </entry>
@@ -706,7 +706,7 @@
     <updated>2023-08-15T14:11:53Z</updated>
     <title>#095 IJN Military Transports</title>
     <summary>Building the No.1 and No.101 landing ships 輸送艦 from the Tamiya Military Transport set. Saving for use in future dioramas.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the No.1 and No.101 landing ships 輸送艦 from the Tamiya Military Transport set. Saving for use in future dioramas.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/militarytransports/assets/militarytransports_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the No.1 and No.101 landing ships 輸送艦 from the Tamiya Military Transport set. Saving for use in future dioramas.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/militarytransports/assets/militarytransports_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -719,7 +719,7 @@
     <updated>2023-08-08T00:37:51Z</updated>
     <title>#094 Snowy Finds a Ride</title>
     <summary>My Hergé fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor &amp; Vega Gull in 1:72</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;My Hergé fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor &amp;amp; Vega Gull in 1:72&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/tarpchallenge/snowyfindsaride/assets/snowyfindsaride_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;My Hergé fanfic for the @justmakingconversation Great Tarp Build featuring the Dora Wings Percival Proctor &amp;amp; Vega Gull in 1:72&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/tarpchallenge/snowyfindsaride/assets/snowyfindsaride_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
   </entry>
   <entry>
@@ -729,7 +729,7 @@
     <updated>2023-07-26T15:40:47Z</updated>
     <title>#093 Ukraine's Maritime Drone (USV)</title>
     <summary>Building the MikroMir 1:35 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the MikroMir 1:35 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/usv/assets/usv_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the MikroMir 1:35 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/usv/assets/usv_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Ukraine"/>
   </entry>
@@ -740,7 +740,7 @@
     <updated>2023-06-20T16:22:21Z</updated>
     <title>#092 Aérospatiale SA365N Dauphin 2</title>
     <summary>Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/dauphin2/assets/dauphin2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aérospatiale SA365N Dauphin 2 as used by the Tokyo Metropolitan Police Department. Trumpeter 1:48 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/dauphin2/assets/dauphin2_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="Japan"/>
   </entry>
@@ -751,7 +751,7 @@
     <updated>2023-06-19T12:44:18Z</updated>
     <title>#091 IJA Type 89 I-Go Otsu Medium Tank</title>
     <summary>Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/type89igootsu/assets/type89igootsu_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the IBG Models 1:72 representation of the IJA Type 89 I-Go Otsu Medium Tank.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/type89igootsu/assets/type89igootsu_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="AFV"/>
     <category term="Japan"/>
@@ -764,7 +764,7 @@
     <updated>2023-06-12T09:51:32Z</updated>
     <title>#090 F-4EJ Last Phantom</title>
     <summary>Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/jsdf/f-4ej/assets/f-4ej_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 2019 commemorative scheme of the JASDF F-4EJ Kai Phantom II - a beautiful little Platz 1:144 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/jsdf/f-4ej/assets/f-4ej_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
   </entry>
@@ -775,7 +775,7 @@
     <updated>2023-06-06T15:43:19Z</updated>
     <title>#089 Race To Jitra</title>
     <summary>Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/racetojitra/assets/racetojitra_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/racetojitra/assets/racetojitra_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Ships - military"/>
     <category term="Japan"/>
@@ -789,7 +789,7 @@
     <updated>2024-06-17T07:25:53Z</updated>
     <title>#088 IJA Type 95 Ha-Go Light Tank</title>
     <summary>Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/type95/type95hago/assets/type95hago_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the IBG Models 1:72 representation of the IJA Type 95 Ha-Gō ハ号 Light Tank.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/type95/type95hago/assets/type95hago_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -801,7 +801,7 @@
     <updated>2023-05-28T08:54:16Z</updated>
     <title>#087 The Legendary T-34/85 215号</title>
     <summary>Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/pla/t34-85/assets/t34-85_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Capturing the legendary T-34/85 215号 in action, using the Rye Field Model kit RM-5059 in 1:35 and some great resin figures from YUFAN Model.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/pla/t34-85/assets/t34-85_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="China"/>
   </entry>
@@ -812,7 +812,7 @@
     <updated>2023-05-05T15:18:01Z</updated>
     <title>#086 Bayraktar TB2</title>
     <summary>Building the Clear Prop! 1:48 representation of the now iconic Bayraktar TB2 as used by the Armed Forces of Ukraine</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Clear Prop! 1:48 representation of the now iconic Bayraktar TB2 as used by the Armed Forces of Ukraine&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/bayraktartb2/assets/bayraktartb2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Clear Prop! 1:48 representation of the now iconic Bayraktar TB2 as used by the Armed Forces of Ukraine&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/bayraktartb2/assets/bayraktartb2_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Ukraine"/>
   </entry>
@@ -823,7 +823,7 @@
     <updated>2023-05-01T03:08:43Z</updated>
     <title>#085 IJN Destroyer Ayanami</title>
     <summary>Building the Tamiya 1:700 representation of the IJN Destroyer Ayanami 綾波</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 representation of the IJN Destroyer Ayanami 綾波&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/ayanami/assets/ayanami_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 representation of the IJN Destroyer Ayanami 綾波&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/ayanami/assets/ayanami_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -836,7 +836,7 @@
     <updated>2023-04-30T13:39:23Z</updated>
     <title>#084 Nakajima Ki84</title>
     <summary>Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 疾風)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 疾風)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/nakajimaki84/assets/nakajimaki84_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 疾風)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/nakajimaki84/assets/nakajimaki84_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -848,7 +848,7 @@
     <updated>2023-05-01T03:08:43Z</updated>
     <title>#083 IJN Hashidate</title>
     <summary>Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate 橋立</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate 橋立&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/hashidate/assets/hashidate_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate 橋立&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/hashidate/assets/hashidate_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -861,7 +861,7 @@
     <updated>2023-08-20T15:44:45Z</updated>
     <title>#082 Mitsubishi A6M Zero on the Zuikaku</title>
     <summary>Building the amazing little Sweet 1:144 kit of the Zero with Flight Deck</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the amazing little Sweet 1:144 kit of the Zero with Flight Deck&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/mitsubishia6m/sweet14110/assets/sweet14110_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the amazing little Sweet 1:144 kit of the Zero with Flight Deck&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/mitsubishia6m/sweet14110/assets/sweet14110_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -873,7 +873,7 @@
     <updated>2023-04-02T13:22:31Z</updated>
     <title>#081 Austin Tilly 10HP</title>
     <summary>Building a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. Just a quick weekend build.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. Just a quick weekend build.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/britisharmy/tilly10hp/assets/tilly10hp_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a fantastic little 1:72 Austin Tilly 10hp from ACE Models of Ukraine. Just a quick weekend build.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/tilly10hp/assets/tilly10hp_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="UK"/>
   </entry>
@@ -884,7 +884,7 @@
     <updated>2023-03-24T14:26:34Z</updated>
     <title>#080 Nakajima Ki-84 Egg-Scale</title>
     <summary>An egg-scale warm up before I move on to the Arma Hobby Ki-84 Hayate</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;An egg-scale warm up before I move on to the Arma Hobby Ki-84 Hayate&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/nakajimaki84/eggscale/assets/eggscale_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;An egg-scale warm up before I move on to the Arma Hobby Ki-84 Hayate&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/nakajimaki84/eggscale/assets/eggscale_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -896,7 +896,7 @@
     <updated>2023-02-25T01:53:10Z</updated>
     <title>#079 Gloster Pioneer E.28-39</title>
     <summary>Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -907,7 +907,7 @@
     <updated>2023-03-04T02:56:28Z</updated>
     <title>#078 Bellanca CH-300 Pacemaker</title>
     <summary>Building the Dora Wings kit of the Bellanca CH-300 Pacemaker with an appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings kit of the Bellanca CH-300 Pacemaker with an appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/bellanca/pacemaker/assets/pacemaker_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Dora Wings kit of the Bellanca CH-300 Pacemaker with an appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/bellanca/pacemaker/assets/pacemaker_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="USA"/>
   </entry>
@@ -918,7 +918,7 @@
     <updated>2023-03-13T01:59:34Z</updated>
     <title>#077 Mitsubishi A5M2b</title>
     <summary>Building the Wingsy Kits A5M2b in-flight for the 2023 Model Officers Mess birthday bash raising money and awareness for the Models for Heroes charity.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Wingsy Kits A5M2b in-flight for the 2023 Model Officers Mess birthday bash raising money and awareness for the Models for Heroes charity.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/mitsubishia5m2b/assets/mitsubishia5m2b_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Wingsy Kits A5M2b in-flight for the 2023 Model Officers Mess birthday bash raising money and awareness for the Models for Heroes charity.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/mitsubishia5m2b/assets/mitsubishia5m2b_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -931,7 +931,7 @@
     <updated>2023-02-16T12:00:24Z</updated>
     <title>#076 Teddy Bear Viking</title>
     <summary>If you go down in the woods today, you're sure of a big surprise ... a Teddy Bear Viking in a Walnut!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;If you go down in the woods today, you're sure of a big surprise ... a Teddy Bear Viking in a Walnut!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/walnutchallenge/teddybearviking/assets/teddybearviking_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;If you go down in the woods today, you're sure of a big surprise ... a Teddy Bear Viking in a Walnut!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/walnutchallenge/teddybearviking/assets/teddybearviking_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Electronics"/>
   </entry>
@@ -942,7 +942,7 @@
     <updated>2023-02-12T14:31:51Z</updated>
     <title>#075 Porco Rosso</title>
     <summary>Revisiting one of my favourite films after so many years thanks to a wonderful 1:72 kit of the Porco Rosso Savoia S.21 from Fine Molds</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Revisiting one of my favourite films after so many years thanks to a wonderful 1:72 kit of the Porco Rosso Savoia S.21 from Fine Molds&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/porcorosso/assets/porcorosso_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Revisiting one of my favourite films after so many years thanks to a wonderful 1:72 kit of the Porco Rosso Savoia S.21 from Fine Molds&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/porcorosso/assets/porcorosso_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="Electronics"/>
   </entry>
@@ -953,7 +953,7 @@
     <updated>2023-01-24T03:18:58Z</updated>
     <title>#074 de Havilland Mosquito B Mk.XVI</title>
     <summary>Building the Airfix de Havilland Mosquito B Mk.XVI</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix de Havilland Mosquito B Mk.XVI&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/mosquito/assets/mosquito_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix de Havilland Mosquito B Mk.XVI&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/mosquito/assets/mosquito_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -964,7 +964,7 @@
     <updated>2023-01-23T14:20:24Z</updated>
     <title>#073 U.N.C.F. Dreadnoughts</title>
     <summary>Electrifying a pair of Bandai Spirits Dreadnought-class battleships with LED effect and fibre optics</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Electrifying a pair of Bandai Spirits Dreadnought-class battleships with LED effect and fibre optics&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/uncfdreadnought/assets/uncfdreadnought_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Electrifying a pair of Bandai Spirits Dreadnought-class battleships with LED effect and fibre optics&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/scifiandfantasy/uncfdreadnought/assets/uncfdreadnought_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
     <category term="Electronics"/>
   </entry>
@@ -975,7 +975,7 @@
     <updated>2023-01-22T08:50:24Z</updated>
     <title>#072 Mozzie Bite!</title>
     <summary>A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/mosquito/mozziebite/assets/mozziebite_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A little 1:700 diorama in an epoxy resin paper-weight featuring Pit-Road Mosquito and Tiger I models.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/mosquito/mozziebite/assets/mozziebite_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Vehicles - military"/>
     <category term="AFV"/>
@@ -989,7 +989,7 @@
     <updated>2023-01-20T14:46:36Z</updated>
     <title>#071 Westland Whirlwind HAS.22</title>
     <summary>Building the Westland Whirlwind HAS.22 from Airfix</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Westland Whirlwind HAS.22 from Airfix&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/westland/whirlwindhas22/assets/whirlwindhas22_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Westland Whirlwind HAS.22 from Airfix&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/westland/whirlwindhas22/assets/whirlwindhas22_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -1000,7 +1000,7 @@
     <updated>2023-01-11T13:53:30Z</updated>
     <title>#070 Blériot XI</title>
     <summary>Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/france/bleriotxi/assets/bleriotxi_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Making a Blériot XI keeper of the spare keys - an Aerobase kit from Japan encased in epoxy resin.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/france/bleriotxi/assets/bleriotxi_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="France"/>
   </entry>
@@ -1011,7 +1011,7 @@
     <updated>2023-05-01T03:08:43Z</updated>
     <title>#069 Yawatamaru / Un'yō</title>
     <summary>Using a Pepper's Ghost effect in a box diorama to capture the Yawatamaru (八幡丸) conversion to Taiyō-class escort carrier Un'yō (雲鷹).</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Using a Pepper's Ghost effect in a box diorama to capture the Yawatamaru (八幡丸) conversion to Taiyō-class escort carrier Un'yō (雲鷹).&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/yawatamaruunyo/assets/yawatamaruunyo_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Using a Pepper's Ghost effect in a box diorama to capture the Yawatamaru (八幡丸) conversion to Taiyō-class escort carrier Un'yō (雲鷹).&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/yawatamaruunyo/assets/yawatamaruunyo_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - civil"/>
     <category term="Ships - military"/>
     <category term="Japan"/>
@@ -1026,7 +1026,7 @@
     <updated>2022-12-31T06:37:41Z</updated>
     <title>#068 In Spring</title>
     <summary>Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ukraine/inspring/assets/inspring_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ukraine/inspring/assets/inspring_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Ukraine"/>
   </entry>
@@ -1037,7 +1037,7 @@
     <updated>2022-12-25T11:35:11Z</updated>
     <title>#067 wz. 34</title>
     <summary>Building the Polish Samochód pancerny wz. 34 from the 1:35 Mirage Hobby kit, with some figures from MiniArt: The Lost Christmas</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Polish Samochód pancerny wz. 34 from the 1:35 Mirage Hobby kit, with some figures from MiniArt: The Lost Christmas&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/poland/wz34/assets/wz34_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Polish Samochód pancerny wz. 34 from the 1:35 Mirage Hobby kit, with some figures from MiniArt: The Lost Christmas&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/poland/wz34/assets/wz34_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Poland"/>
   </entry>
@@ -1048,7 +1048,7 @@
     <updated>2022-12-21T14:04:27Z</updated>
     <title>#066 Empire in Decay - Victor III</title>
     <summary>A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/soviet/victoriii/assets/victoriii_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A Soviet Victor III tied up to a wharf and left to decay in the toxic sludge ... modelled from the Dragon 1:700 kit&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/soviet/victoriii/assets/victoriii_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Submarine"/>
     <category term="Soviet Union"/>
@@ -1060,7 +1060,7 @@
     <updated>2022-12-20T14:53:25Z</updated>
     <title>#065 J-20</title>
     <summary>Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/j20/assets/j20_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:144 kit of the Chengdu J-20 fifth-generation fighter of the PLAAF&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plaaf/j20/assets/j20_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
   </entry>
@@ -1071,7 +1071,7 @@
     <updated>2023-08-20T15:44:45Z</updated>
     <title>#064 Mitsubishi Ki-46 Trainer</title>
     <summary>Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/mitsubishiki46/assets/mitsubishiki46_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a SG$5 bargain ARII 1:72 kit of the Mitsubishi Ki-46-II Dinah Trainer&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/mitsubishiki46/assets/mitsubishiki46_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -1083,7 +1083,7 @@
     <updated>2022-10-24T09:45:44Z</updated>
     <title>#063 PLAN Type 051C</title>
     <summary>Building the PLAN Type 051C destroyer DDG 115 沈阳 (Shenyang) with a little LED illumination.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the PLAN Type 051C destroyer DDG 115 沈阳 (Shenyang) with a little LED illumination.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plan/type051c/assets/type051c_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the PLAN Type 051C destroyer DDG 115 沈阳 (Shenyang) with a little LED illumination.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plan/type051c/assets/type051c_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="China"/>
     <category term="Electronics"/>
@@ -1096,7 +1096,7 @@
     <updated>2022-11-05T06:53:35Z</updated>
     <title>#062 Axis Of Chess</title>
     <summary>Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/axisofchess/assets/axisofchess_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/axisofchess/assets/axisofchess_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Game"/>
     <category term="Vehicles - military"/>
     <category term="AFV"/>
@@ -1110,7 +1110,7 @@
     <updated>2022-11-13T01:10:51Z</updated>
     <title>#061 ORP Ślązak</title>
     <summary>Building the ORP Ślązak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting. My first venture into IBG ship kits.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the ORP Ślązak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting. My first venture into IBG ship kits.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/poland/pmw/orpslazak/assets/orpslazak_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the ORP Ślązak Hunt-class destroyer in 1:700 scale in a Baltic Winter Patrol setting. My first venture into IBG ship kits.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/poland/pmw/orpslazak/assets/orpslazak_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Poland"/>
   </entry>
@@ -1121,7 +1121,7 @@
     <updated>2023-03-04T02:56:28Z</updated>
     <title>#060 Tachikawa KKY-1</title>
     <summary>Building the rare Tachikawa KKY1 from Ukrainian model company Amodel.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the rare Tachikawa KKY1 from Ukrainian model company Amodel.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/tachikawakky1/assets/tachikawakky1_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the rare Tachikawa KKY1 from Ukrainian model company Amodel.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/tachikawakky1/assets/tachikawakky1_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="IJN"/>
     <category term="Japan"/>
@@ -1133,7 +1133,7 @@
     <updated>2022-10-02T02:08:52Z</updated>
     <title>#059 Concorde</title>
     <summary>Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/concorde/assets/concorde_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Last flight of the Concorde - the Airfix 1:114 with LED effects in 1970s travel-agent chic&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/concorde/assets/concorde_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="Electronics"/>
     <category term="UK"/>
@@ -1145,7 +1145,7 @@
     <updated>2022-10-23T07:57:23Z</updated>
     <title>#058 WarHawk 40K</title>
     <summary>Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/p40/warhawk40k/assets/warhawk40k_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Taking the Airfix 1:72 Curtiss Warhawk in a slightly unusual direction, with LED effects driven by a CD4060 ripple counter&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/p40/warhawk40k/assets/warhawk40k_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
     <category term="Electronics"/>
   </entry>
@@ -1156,7 +1156,7 @@
     <updated>2023-08-08T00:37:51Z</updated>
     <title>#057 Stridsvagn 103</title>
     <summary>Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/strv103/assets/strv103_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Practicing some hull-down diorama effects with the Swedish Stridsvagn 103 using the Trumpeter 1:72 kit&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/strv103/assets/strv103_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Sweden"/>
   </entry>
@@ -1167,7 +1167,7 @@
     <updated>2022-09-19T09:37:03Z</updated>
     <title>#056 CA-19 Boomerang</title>
     <summary>Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raaf/boomerang/assets/boomerang_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Special Hobby 1:72 RAAF CA-19 Boomerang, as stationed in New Britain 1945&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raaf/boomerang/assets/boomerang_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Australia"/>
   </entry>
@@ -1178,7 +1178,7 @@
     <updated>2022-09-16T10:12:04Z</updated>
     <title>#055 Flying Tigers Egg-Scale</title>
     <summary>Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/p40/eggscale/assets/eggscale_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tiger Model egg-scale P-40 so it can join its 1:72 and 1:144 Brothers in Arms&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/p40/eggscale/assets/eggscale_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="USA"/>
     <category term="China"/>
@@ -1190,7 +1190,7 @@
     <updated>2022-09-13T10:06:25Z</updated>
     <title>#054 HMS Revenge</title>
     <summary>HMS Revenge heading out from Faslane on patrol - an attempt at capturing the distinctive wake of a sub cruising on the surface. Dragon 1:700 kit.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;HMS Revenge heading out from Faslane on patrol - an attempt at capturing the distinctive wake of a sub cruising on the surface. Dragon 1:700 kit.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/hmsrevenges27/assets/hmsrevenges27_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;HMS Revenge heading out from Faslane on patrol - an attempt at capturing the distinctive wake of a sub cruising on the surface. Dragon 1:700 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/hmsrevenges27/assets/hmsrevenges27_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Submarine"/>
     <category term="UK"/>
@@ -1202,7 +1202,7 @@
     <updated>2023-05-01T03:08:43Z</updated>
     <title>#053 IJN No.13 Sub-chaser</title>
     <summary>IJN No.13 class Submarine chaser 第十三号型駆潜艇 on a quiet island patrol</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;IJN No.13 class Submarine chaser 第十三号型駆潜艇 on a quiet island patrol&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/no13subchaser/assets/no13subchaser_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;IJN No.13 class Submarine chaser 第十三号型駆潜艇 on a quiet island patrol&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/no13subchaser/assets/no13subchaser_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -1215,7 +1215,7 @@
     <updated>2022-08-20T01:54:04Z</updated>
     <title>#052 Daihatsu Midget</title>
     <summary>Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/daihatsumidget/assets/daihatsumidget_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the iconic 1957 Daihatsu Midget DMK from a Micro Ace/Arii kit with some scratch modifications.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/daihatsumidget/assets/daihatsumidget_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="Japan"/>
   </entry>
@@ -1226,7 +1226,7 @@
     <updated>2022-11-13T01:10:51Z</updated>
     <title>#051 TS-11 Iskra</title>
     <summary>Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/poland/pzl/ts-11/assets/ts-11_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful Arma Hobby 1:72 PZL TS-11 Iskra.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/poland/pzl/ts-11/assets/ts-11_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Poland"/>
   </entry>
@@ -1237,7 +1237,7 @@
     <updated>2022-07-28T13:42:32Z</updated>
     <title>#050 Mongol Warriors</title>
     <summary>Using select 1:72 figures from HäT set 8298 to make a little diorama in an Ikea picture frame with LED lighting</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Using select 1:72 figures from HäT set 8298 to make a little diorama in an Ikea picture frame with LED lighting&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/mongolwarriors/assets/mongolwarriors_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Using select 1:72 figures from HäT set 8298 to make a little diorama in an Ikea picture frame with LED lighting&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/mongolwarriors/assets/mongolwarriors_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Electronics"/>
   </entry>
@@ -1248,7 +1248,7 @@
     <updated>2022-07-23T03:02:02Z</updated>
     <title>#049 P-40B Flying Tiger in 1:144</title>
     <summary>Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/p40/afvclub68/assets/afvclub68_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Improving the already well-detailed 1:144 AFV Club Flying Tigers P-40B with a scratch built cockpit&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/p40/afvclub68/assets/afvclub68_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="USA"/>
     <category term="China"/>
@@ -1260,7 +1260,7 @@
     <updated>2022-07-23T03:02:02Z</updated>
     <title>#048 P-40B Flying Tiger in 1:72</title>
     <summary>Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/p40/flyingtigers/assets/flyingtigers_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the most excellent Airfix P-40B H81-A2 1:72 in Flying Tigers livery&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/p40/flyingtigers/assets/flyingtigers_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="USA"/>
     <category term="China"/>
@@ -1272,7 +1272,7 @@
     <updated>2022-09-01T10:53:24Z</updated>
     <title>#047 Fairey Gannet</title>
     <summary>Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/fairey/gannet/assets/gannet_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the most beautifully ugly Fairey Gannet from the Trumpeter 1:72 kit&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/fairey/gannet/assets/gannet_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -1283,7 +1283,7 @@
     <updated>2023-08-20T15:44:45Z</updated>
     <title>#046 Tachikawa Ki-55</title>
     <summary>Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ija/tachikawaki55/assets/tachikawaki55_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a SG$5 bargain Fujimi 1:72 kit of the Tachikawa Ki-55 Type 99 Advanced Trainer&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/tachikawaki55/assets/tachikawaki55_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJA"/>
@@ -1295,7 +1295,7 @@
     <updated>2022-07-17T10:38:02Z</updated>
     <title>#045 Ukrainian Cossack</title>
     <summary>An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/walnutchallenge/cossack/assets/cossack_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;An heroic pose in a walnut with a figure from the Orion Ukrainian Mounted Cossacks set. No, this is not  meant to be political - but if you come and try to steal my nuts, expect to fight this guy!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/walnutchallenge/cossack/assets/cossack_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Ukraine"/>
   </entry>
@@ -1306,7 +1306,7 @@
     <updated>2023-05-01T03:08:43Z</updated>
     <title>#044 Fubuki</title>
     <summary>Building the Japanese destroyer Fubuki (吹雪, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Japanese destroyer Fubuki (吹雪, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/fubuki/assets/fubuki_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Japanese destroyer Fubuki (吹雪, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/fubuki/assets/fubuki_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -1319,7 +1319,7 @@
     <updated>2023-05-31T15:19:12Z</updated>
     <title>#043 HMS Sheffield</title>
     <summary>Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/hmssheffield/assets/hmssheffield_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Reproducing a famous photograph of the fire-fighting efforts aboard the HMS Sheffield after is was hit by an Exocet on 4 May 1982&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/hmssheffield/assets/hmssheffield_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
     <category term="Destroyer"/>
@@ -1331,7 +1331,7 @@
     <updated>2022-06-06T16:31:30Z</updated>
     <title>#042 Spitfire Mk.XIV</title>
     <summary>Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/spitfire/xiv/assets/xiv_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the beautiful candy red G-Fire Spitfire Mk.XIV from Airfix in 1:48 scale.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/spitfire/xiv/assets/xiv_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="UK"/>
   </entry>
@@ -1342,7 +1342,7 @@
     <updated>2022-06-04T03:41:59Z</updated>
     <title>#041 Man Overboard</title>
     <summary>A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/walnutchallenge/overboard/assets/overboard_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A little 1:700 diorama in a walnut featuring a little drama while mooring a Mitsubishi F1M2 observation seaplane. Part of the Just Making Conversation podcast Walnut Challenge group build.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/walnutchallenge/overboard/assets/overboard_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="IJN"/>
     <category term="Japan"/>
@@ -1354,7 +1354,7 @@
     <updated>2022-05-15T15:18:00Z</updated>
     <title>#040 Nakajima B5N2 Kate</title>
     <summary>Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/nakajimab5n2/assets/nakajimab5n2_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Nakajima B5N2 Kate - an exercise in weathering.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/nakajimab5n2/assets/nakajimab5n2_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -1366,7 +1366,7 @@
     <updated>2022-05-01T07:25:48Z</updated>
     <title>#039 Spitfire Mk.Vc</title>
     <summary>Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc flying over La Sénia Algeria 1942, enhanced with some LED candle effects and targets of opportunity.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc flying over La Sénia Algeria 1942, enhanced with some LED candle effects and targets of opportunity.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/spitfire/vc/assets/vc_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc flying over La Sénia Algeria 1942, enhanced with some LED candle effects and targets of opportunity.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/spitfire/vc/assets/vc_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
     <category term="Electronics"/>
@@ -1378,7 +1378,7 @@
     <updated>2023-01-20T14:46:36Z</updated>
     <title>#038 Westland Lynx</title>
     <summary>Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/westland/lynx/assets/lynx_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Royal Navy Westland Lynx HAS.3 from HobbyBoss&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/westland/lynx/assets/lynx_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -1389,7 +1389,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#037 Vauxhall D-Type Ambulance</title>
     <summary>Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden. Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden. Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/britisharmy/vauxhalldtypeambulance/assets/vauxhalldtypeambulance_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the wonderful little 1:72 Vauxhall D-Type Ambulance kit from Ukrainian manufacturer Roden. Dedicated to the memory of Valery Grygorenko. Valery created some of the most amazing box art for Roden but tragically he was killed in a Russian attack near his home in March 2022.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/vauxhalldtypeambulance/assets/vauxhalldtypeambulance_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="UK"/>
   </entry>
@@ -1400,7 +1400,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#036 Blackburn Buccaneer S.2C</title>
     <summary>An excuse to build another sea base - this time for an aircraft - the RN Blackburn Buccaneer S.2C from Airfix in 1:72 scale, tooling around the North Sea at 30ft.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;An excuse to build another sea base - this time for an aircraft - the RN Blackburn Buccaneer S.2C from Airfix in 1:72 scale, tooling around the North Sea at 30ft.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/buccaneer/assets/buccaneer_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;An excuse to build another sea base - this time for an aircraft - the RN Blackburn Buccaneer S.2C from Airfix in 1:72 scale, tooling around the North Sea at 30ft.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/buccaneer/assets/buccaneer_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
   </entry>
@@ -1411,7 +1411,7 @@
     <updated>2022-09-19T09:37:03Z</updated>
     <title>#035 Wirraway</title>
     <summary>Building the Special Hobby 1:72 CAC Wirraway, as stationed at Seletar in 1941 - just up the road from me</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Special Hobby 1:72 CAC Wirraway, as stationed at Seletar in 1941 - just up the road from me&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raaf/wirraway/assets/wirraway_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Special Hobby 1:72 CAC Wirraway, as stationed at Seletar in 1941 - just up the road from me&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raaf/wirraway/assets/wirraway_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Australia"/>
   </entry>
@@ -1422,7 +1422,7 @@
     <updated>2022-12-21T14:04:27Z</updated>
     <title>#034 T34 1942</title>
     <summary>Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (just practicing weathering at small scale)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (just practicing weathering at small scale)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/soviet/t34-1942/assets/t34-1942_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:72 T-34 Model 1942 with some CMK figures (just practicing weathering at small scale)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/soviet/t34-1942/assets/t34-1942_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Soviet Union"/>
   </entry>
@@ -1433,7 +1433,7 @@
     <updated>2022-01-15T15:04:20Z</updated>
     <title>#033 KubelMagic</title>
     <summary>A walnut, Brengun 1:144 Kübelwagen and a miniaturised SMD version of a BJT oscillator - and with a bit of practice, some close-up model magic.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A walnut, Brengun 1:144 Kübelwagen and a miniaturised SMD version of a BJT oscillator - and with a bit of practice, some close-up model magic.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/walnutchallenge/kubelmagic/assets/kubelmagic_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A walnut, Brengun 1:144 Kübelwagen and a miniaturised SMD version of a BJT oscillator - and with a bit of practice, some close-up model magic.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/walnutchallenge/kubelmagic/assets/kubelmagic_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Electronics"/>
     <category term="Nazi Germany"/>
@@ -1445,7 +1445,7 @@
     <updated>2021-12-23T16:56:58Z</updated>
     <title>#032 Chengdu J-10S</title>
     <summary>Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/j10s/assets/j10s_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:72 Chengdu J-10S in early Ba Yi Aerobatics Team colours.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plaaf/j10s/assets/j10s_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
   </entry>
@@ -1456,7 +1456,7 @@
     <updated>2023-04-09T04:46:18Z</updated>
     <title>#031 I-153</title>
     <summary>Building the Polikarpov I-153 as used by the Guomindang Air Force - ICM 1:72 kit 72076</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Polikarpov I-153 as used by the Guomindang Air Force - ICM 1:72 kit 72076&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/soviet/polikarpov/i-153/assets/i-153_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Polikarpov I-153 as used by the Guomindang Air Force - ICM 1:72 kit 72076&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/soviet/polikarpov/i-153/assets/i-153_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
     <category term="Soviet Union"/>
@@ -1468,7 +1468,7 @@
     <updated>2021-11-16T02:19:28Z</updated>
     <title>#030 HMS Prince Of Wales</title>
     <summary>Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmsprinceofwales/assets/hmsprinceofwales_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMS Prince Of Wales from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/forcez/hmsprinceofwales/assets/hmsprinceofwales_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
     <category term="Battleship"/>
@@ -1480,7 +1480,7 @@
     <updated>2021-10-21T14:42:29Z</updated>
     <title>#029 Tornado ECR</title>
     <summary>Building the 1:144 Tornado ECR from Revell with wireless LEDs in the Tailpipe.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:144 Tornado ECR from Revell with wireless LEDs in the Tailpipe.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/tornadoecr/assets/tornadoecr_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:144 Tornado ECR from Revell with wireless LEDs in the Tailpipe.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/tornadoecr/assets/tornadoecr_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Germany"/>
     <category term="Electronics"/>
@@ -1492,7 +1492,7 @@
     <updated>2022-10-23T07:51:43Z</updated>
     <title>#028 That is not a toy, my boy!</title>
     <summary>A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/thatisnotatoy/assets/thatisnotatoy_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/thatisnotatoy/assets/thatisnotatoy_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Figures"/>
     <category term="UK"/>
@@ -1504,7 +1504,7 @@
     <updated>2022-12-20T14:53:25Z</updated>
     <title>#027 JF-17</title>
     <summary>Building the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/jf17/assets/jf17_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the JF-17 Thunder with the striking livery it sported during the 2007 Pakistan Day Joint Services Parade.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plaaf/jf17/assets/jf17_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
   </entry>
@@ -1515,7 +1515,7 @@
     <updated>2022-11-13T01:10:51Z</updated>
     <title>#026 PZL P.7a</title>
     <summary>Building the Arma Hobby PZL P.7a 1:72 expert set.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Arma Hobby PZL P.7a 1:72 expert set.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/poland/pzl/p7a/assets/p7a_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Arma Hobby PZL P.7a 1:72 expert set.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/poland/pzl/p7a/assets/p7a_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Poland"/>
   </entry>
@@ -1526,7 +1526,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#025 Firefly</title>
     <summary>Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/britisharmy/firefly/assets/firefly_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Practicing finishing techniques on the Airfix 1:72 Sherman Firefly, then animating the turret with some ATtiny85 magic&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/firefly/assets/firefly_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="AFV"/>
     <category term="Electronics"/>
@@ -1539,7 +1539,7 @@
     <updated>2021-08-03T11:45:32Z</updated>
     <title>#024 HMAS Vampire</title>
     <summary>Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/assets/hmasvampire_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Remembering Force Z with a build of the HMAS Vampire from the Tamiya 1:700 waterline series.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/forcez/hmasvampire/assets/hmasvampire_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="UK"/>
     <category term="Destroyer"/>
@@ -1551,7 +1551,7 @@
     <updated>2021-10-21T14:42:29Z</updated>
     <title>#023 The Red Eyed Space Marine</title>
     <summary>Inspired by all the mad miniature skills out there these days, I delve into the world of space marines with eyes that glow - no wires or batteries</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Inspired by all the mad miniature skills out there these days, I delve into the world of space marines with eyes that glow - no wires or batteries&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/redeyespacemarine/assets/redeyespacemarine_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Inspired by all the mad miniature skills out there these days, I delve into the world of space marines with eyes that glow - no wires or batteries&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/scifiandfantasy/redeyespacemarine/assets/redeyespacemarine_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
     <category term="Electronics"/>
   </entry>
@@ -1562,7 +1562,7 @@
     <updated>2023-08-20T15:44:45Z</updated>
     <title>#022 Kawanishi K5Y1 Tensegrity Stand</title>
     <summary>Experimenting with tensegrity model mounting, using as a subject the ARII 1:72 Kawanishi K5Y1 赤とんぼ (Willow)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Experimenting with tensegrity model mounting, using as a subject the ARII 1:72 Kawanishi K5Y1 赤とんぼ (Willow)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/kawanishik5y1/assets/kawanishik5y1_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Experimenting with tensegrity model mounting, using as a subject the ARII 1:72 Kawanishi K5Y1 赤とんぼ (Willow)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/kawanishik5y1/assets/kawanishik5y1_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -1574,7 +1574,7 @@
     <updated>2022-05-15T15:24:15Z</updated>
     <title>#021 I-16 and I-58</title>
     <summary>Building the Tamiya 1:700 I-16 and I-58 waterline kit 31453. An experiment in rust and water effects.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 I-16 and I-58 waterline kit 31453. An experiment in rust and water effects.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/ijn/i16i58/assets/i16i58_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Tamiya 1:700 I-16 and I-58 waterline kit 31453. An experiment in rust and water effects.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/i16i58/assets/i16i58_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
@@ -1587,7 +1587,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#020 25 Pounder Field Gun and Quad</title>
     <summary>Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/britisharmy/25pdr/assets/25pdr_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:76 scale 25 Pounder Field Gun and Quad A01305.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/25pdr/assets/25pdr_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="Artillery"/>
     <category term="UK"/>
@@ -1599,7 +1599,7 @@
     <updated>2021-04-05T08:52:23Z</updated>
     <title>#019 Tydirium Strobe Module</title>
     <summary>Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/module/assets/module_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Packaging the ATtiny85 Lambda-class shuttle Tydirium navigation strobe circuit as a small board that can be added to an existing lighting setup.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/module/assets/module_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
     <category term="Electronics"/>
   </entry>
@@ -1610,7 +1610,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#018 Tiger Moth</title>
     <summary>Royal Navy Fleet Air Arm Tiger Moth XL717 heading out over the rocky shors near Abbotsinch, Scotland - a small vignette featuring the Airfix De Havilland DH.82a Tiger Moth 1:72 A02106 with a custom motorised propeller</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Royal Navy Fleet Air Arm Tiger Moth XL717 heading out over the rocky shors near Abbotsinch, Scotland - a small vignette featuring the Airfix De Havilland DH.82a Tiger Moth 1:72 A02106 with a custom motorised propeller&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/royalnavy/tigermoth/assets/tigermoth_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Royal Navy Fleet Air Arm Tiger Moth XL717 heading out over the rocky shors near Abbotsinch, Scotland - a small vignette featuring the Airfix De Havilland DH.82a Tiger Moth 1:72 A02106 with a custom motorised propeller&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/royalnavy/tigermoth/assets/tigermoth_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Electronics"/>
     <category term="UK"/>
@@ -1622,7 +1622,7 @@
     <updated>2021-04-05T08:52:23Z</updated>
     <title>#017 Tydirium Strobe</title>
     <summary>Figuring out the navigation light strobe frequency of the Lambda-class shuttle Tydirium and building a freeform circuit sculpture to demonstrate the effects (running an ATtiny85 on 3V)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Figuring out the navigation light strobe frequency of the Lambda-class shuttle Tydirium and building a freeform circuit sculpture to demonstrate the effects (running an ATtiny85 on 3V)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/assets/tydiriumstrobe_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Figuring out the navigation light strobe frequency of the Lambda-class shuttle Tydirium and building a freeform circuit sculpture to demonstrate the effects (running an ATtiny85 on 3V)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/scifiandfantasy/tydiriumstrobe/assets/tydiriumstrobe_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Science Fiction"/>
     <category term="Electronics"/>
   </entry>
@@ -1633,7 +1633,7 @@
     <updated>2021-02-07T14:53:05Z</updated>
     <title>#016 Nanchang Y-5</title>
     <summary>A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plaaf/nanchangy5/assets/nanchangy5_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the Antonov An-2 Colt/Nanchang Y-5 1:72 model 01602 from Trumpeter.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plaaf/nanchangy5/assets/nanchangy5_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="China"/>
   </entry>
@@ -1644,7 +1644,7 @@
     <updated>2023-03-30T15:10:16Z</updated>
     <title>#015 Schnellboot</title>
     <summary>Building the Bronco NB5004 1/350 German S-100 Class Schnellboot with a dockside diorama with LED effects</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Bronco NB5004 1/350 German S-100 Class Schnellboot with a dockside diorama with LED effects&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/wehrmacht/schnellboot/assets/schnellboot_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Bronco NB5004 1/350 German S-100 Class Schnellboot with a dockside diorama with LED effects&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/wehrmacht/schnellboot/assets/schnellboot_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Electronics"/>
     <category term="Nazi Germany"/>
@@ -1656,7 +1656,7 @@
     <updated>2021-12-23T16:56:58Z</updated>
     <title>#014 PLA Navy Type 054A</title>
     <summary>Building the Trumpeter 1:700 PLAN 054A Frigate</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:700 PLAN 054A Frigate&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/plan/type054a/assets/type054a_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Trumpeter 1:700 PLAN 054A Frigate&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/plan/type054a/assets/type054a_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="China"/>
     <category term="Frigate"/>
@@ -1668,7 +1668,7 @@
     <updated>2021-01-26T06:51:58Z</updated>
     <title>#013 RWD-8 DWL</title>
     <summary>A simple build of the RWD-8 DWL Polish trainer 1:72 kit 72502 from IBG Models</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the RWD-8 DWL Polish trainer 1:72 kit 72502 from IBG Models&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/poland/rwd8dwl/assets/rwd8dwl_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the RWD-8 DWL Polish trainer 1:72 kit 72502 from IBG Models&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/poland/rwd8dwl/assets/rwd8dwl_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="Poland"/>
   </entry>
@@ -1679,7 +1679,7 @@
     <updated>2023-03-19T13:56:19Z</updated>
     <title>#012 Jie Fang CA-30 Fuel Truck</title>
     <summary>A simple build of the 解放 Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the 解放 Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/pla/ca30fueltransporter/assets/ca30fueltransporter_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A simple build of the 解放 Jie Fang CA-30 Fuel Transporter 1:72 model 01104 from Trumpeter.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/pla/ca30fueltransporter/assets/ca30fueltransporter_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - military"/>
     <category term="China"/>
   </entry>
@@ -1690,7 +1690,7 @@
     <updated>2023-03-30T14:52:32Z</updated>
     <title>#011 Hawker Typhoon</title>
     <summary>Building the Airfix 1:72 Hawker Typhoon Mk.Ib, electrifying it with an engine and rocket effects and displaying it with a ground attack vignette</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Hawker Typhoon Mk.Ib, electrifying it with an engine and rocket effects and displaying it with a ground attack vignette&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/typhoon/assets/typhoon_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Hawker Typhoon Mk.Ib, electrifying it with an engine and rocket effects and displaying it with a ground attack vignette&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/typhoon/assets/typhoon_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
     <category term="Electronics"/>
@@ -1702,7 +1702,7 @@
     <updated>2020-12-15T05:04:05Z</updated>
     <title>#010 屋台ラーメン The Yatai Ramen Doorbell</title>
     <summary>A wireless doorbell based on an Arii (Microace) Yatai Ramen model with added lights and sound</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;A wireless doorbell based on an Arii (Microace) Yatai Ramen model with added lights and sound&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/japan/yatairamendoorbell/assets/yatairamendoorbell_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;A wireless doorbell based on an Arii (Microace) Yatai Ramen model with added lights and sound&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/yatairamendoorbell/assets/yatairamendoorbell_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Vehicles - civil"/>
     <category term="Japan"/>
     <category term="Electronics"/>
@@ -1714,7 +1714,7 @@
     <updated>2020-09-06T19:09:52Z</updated>
     <title>#009 Hurst Point Lighthouse</title>
     <summary>Building the wonderful Paper Shipwright model of the historic Hurst Point Lighthouse, and bringing it to life with a Fl(4) W 15s LED array</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the wonderful Paper Shipwright model of the historic Hurst Point Lighthouse, and bringing it to life with a Fl(4) W 15s LED array&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/hurstpointlighthouse/assets/hurstpointlighthouse_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the wonderful Paper Shipwright model of the historic Hurst Point Lighthouse, and bringing it to life with a Fl(4) W 15s LED array&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/hurstpointlighthouse/assets/hurstpointlighthouse_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Buildings"/>
     <category term="Electronics"/>
   </entry>
@@ -1725,7 +1725,7 @@
     <updated>2023-03-30T14:52:32Z</updated>
     <title>#008 Harrier GR.1</title>
     <summary>Building the Airfix 1:72 Hawker Siddeley Harrier GR.1, electrifying it with lights and engine sounds and putting it in a cold war forward deployment diorama (somewhere in a German forest circa 1970)</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Hawker Siddeley Harrier GR.1, electrifying it with lights and engine sounds and putting it in a cold war forward deployment diorama (somewhere in a German forest circa 1970)&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/raf/harriergr1/assets/harriergr1_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:72 Hawker Siddeley Harrier GR.1, electrifying it with lights and engine sounds and putting it in a cold war forward deployment diorama (somewhere in a German forest circa 1970)&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/harriergr1/assets/harriergr1_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
     <category term="Electronics"/>
@@ -1737,7 +1737,7 @@
     <updated>2021-09-15T17:44:20Z</updated>
     <title>#007 Freeform Popsicle Airways</title>
     <summary>Demonstrating a simple aircraft navigation beacon sequence implemented with a couple of 555 timers</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Demonstrating a simple aircraft navigation beacon sequence implemented with a couple of 555 timers&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/electronicart/aircraftnavigationlights/assets/aircraftnavigationlights_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Demonstrating a simple aircraft navigation beacon sequence implemented with a couple of 555 timers&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/electronicart/aircraftnavigationlights/assets/aircraftnavigationlights_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - civil"/>
     <category term="Electronics"/>
     <category term="Circuit Sculpture"/>
@@ -1749,7 +1749,7 @@
     <updated>2021-04-05T08:52:23Z</updated>
     <title>#006 Pollen8</title>
     <summary>a freeform wire sculpture with LEDs driven by a light-sensitive 555/4017 counter circuit</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;a freeform wire sculpture with LEDs driven by a light-sensitive 555/4017 counter circuit&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/electronicart/pollen8/assets/pollen8_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;a freeform wire sculpture with LEDs driven by a light-sensitive 555/4017 counter circuit&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/electronicart/pollen8/assets/pollen8_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Electronics"/>
     <category term="Circuit Sculpture"/>
   </entry>
@@ -1760,7 +1760,7 @@
     <updated>2019-04-22T12:07:30Z</updated>
     <title>#005 GoldenHind</title>
     <summary>Building a mini metal model of the Golden Hind.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a mini metal model of the Golden Hind.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/goldenhind/assets/goldenhind_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a mini metal model of the Golden Hind.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/goldenhind/assets/goldenhind_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - civil"/>
   </entry>
   <entry>
@@ -1770,7 +1770,7 @@
     <updated>2021-04-05T08:52:23Z</updated>
     <title>#004 WyLed</title>
     <summary>.. when you allow an exploration of a chip (TM1638) to get a little out of hand! The WyLed free-form sculpture reacts to sound and blinks a 4-digit LED display. An ATTiny85 provides a little brain, and the TM1638 handles all input and output.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;.. when you allow an exploration of a chip (TM1638) to get a little out of hand! The WyLed free-form sculpture reacts to sound and blinks a 4-digit LED display. An ATTiny85 provides a little brain, and the TM1638 handles all input and output.&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/electronicart/wyled/assets/wyled_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;.. when you allow an exploration of a chip (TM1638) to get a little out of hand! The WyLed free-form sculpture reacts to sound and blinks a 4-digit LED display. An ATTiny85 provides a little brain, and the TM1638 handles all input and output.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/electronicart/wyled/assets/wyled_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Electronics"/>
     <category term="Circuit Sculpture"/>
   </entry>
@@ -1781,7 +1781,7 @@
     <updated>2019-04-22T12:07:30Z</updated>
     <title>#003 GlowBall</title>
     <summary>building LED effects for a Glass Eye Studio Celestial Planet Weight</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;building LED effects for a Glass Eye Studio Celestial Planet Weight&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/electronicart/glowball/assets/glowball_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;building LED effects for a Glass Eye Studio Celestial Planet Weight&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/electronicart/glowball/assets/glowball_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Electronics"/>
   </entry>
   <entry>
@@ -1791,7 +1791,7 @@
     <updated>2019-04-22T12:07:30Z</updated>
     <title>#002 Sagrada Família</title>
     <summary>a paper model with some LED effects</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;a paper model with some LED effects&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/spain/sagradafamilia/assets/sagradafamilia_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;a paper model with some LED effects&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/spain/sagradafamilia/assets/sagradafamilia_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Buildings"/>
     <category term="Electronics"/>
     <category term="Spain"/>
@@ -1803,7 +1803,7 @@
     <updated>2016-03-20T13:13:04Z</updated>
     <title>#001 Metal Earth Lead Guitar</title>
     <summary>Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an 'amp'</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an 'amp'&lt;/p&gt;&lt;img src=&quot;https://modelart.tardate.com/projects/electronicart/metalearthleadguitar/assets/metalearthleadguitar_build.jpg&quot; /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Pimping up the Metal Earth Electric Lead Guitar kit with some sound activated LEDs with electronics squirreled away in an 'amp'&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/electronicart/metalearthleadguitar/assets/metalearthleadguitar_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Electronics"/>
   </entry>
 </feed>
