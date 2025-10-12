@@ -51,7 +51,12 @@ A simple base to show it off, with another figure from an Airfix WWII Japanese I
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=146176)
-* [Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
-* [Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+* Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+* Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+
+### Research References
+
 * [Type 89 I-Go medium tank](https://en.wikipedia.org/wiki/Type_89_I-Go_medium_tank) - wikipedia
 * [Osprey Japanese Tanks 1939-45](https://www.scribd.com/document/190062816/Osprey-Japanese-Tanks-1939-45)

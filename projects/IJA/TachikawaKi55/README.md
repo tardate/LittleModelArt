@@ -64,6 +64,10 @@ The final gallery shots - no special finishing or base for this one (yet).
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126400)
+* Tachikawa Ki-55 Fujimi No. 7A-A1 1:72
+    * [on scalemates](https://www.scalemates.com/kits/fujimi-7a-a1-tachikawa-ki-55--172648)
+
+### Research References
+
 * [Tachikawa Ki-55](https://en.wikipedia.org/wiki/Tachikawa_Ki-55) - wikipedia
-* [Tachikawa Ki-55 Fujimi No. 7A-A1 1:72](https://www.scalemates.com/kits/fujimi-7a-a1-tachikawa-ki-55--172648)
 * [Tachikawa Aircraft Company 立川飛行機株式会社](https://en.wikipedia.org/wiki/Tachikawa_Aircraft_Company)

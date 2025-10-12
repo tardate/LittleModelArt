@@ -165,7 +165,7 @@ I cut the box on a [Lionsforge Craftlaser at the library](https://leap.tardate.c
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=189422)
 * Leopard 2A6 Armed Forces of Ukraine ICM No. 72820 1:72
     * [on scalemates](https://www.scalemates.com/kits/icm-72820-leopard-2a6--1568423)
-    * [on ICM](https://icm.com.ua/technique/leopard-2a6/)
+    * [on ICM site](https://icm.com.ua/technique/leopard-2a6/)
     * [instructions](./assets/72820-instructions.pdf)
 * Research:
     * <https://en.wikipedia.org/wiki/Leopard_2>

@@ -187,10 +187,18 @@ There is some disagreement in the sources as to which actual planes were used, b
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=139011)
-* [Japanese Heavy Cruiser Tone 1944 Super Detail with photo-etched parts Aoshima No. 026977 1:700](https://www.scalemates.com/kits/aoshima-026977-tone-1944-super-detail--1073367)
-* [IJN Figures Eduard No. 17505 1:700](https://www.scalemates.com/kits/eduard-17505-ijn-figures--120103)
+* Japanese Heavy Cruiser Tone 1944 Super Detail with photo-etched parts Aoshima No. 026977 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-026977-tone-1944-super-detail--1073367)
+* IJN Figures Eduard No. 17505 1:700
+    * [on scalemates](https://www.scalemates.com/kits/eduard-17505-ijn-figures--120103)
+
+### Research References
+
 * [Japanese cruiser Tone (1937)](https://en.wikipedia.org/wiki/Japanese_cruiser_Tone_(1937)) - wikipedia
 * [利根 (重巡洋艦)](https://ja.wikipedia.org/wiki/%E5%88%A9%E6%A0%B9_(%E9%87%8D%E5%B7%A1%E6%B4%8B%E8%89%A6)) - wikipedia (japan)
 * [IJN TONE: Tabular Record of Movement](http://www.combinedfleet.com/tone_t.htm)
 * [Tone class cruisers (1937)](https://naval-encyclopedia.com/ww2/japan/tone-class-cruisers-1937.php)
+
+### Build References
+
 * [Fujimi 1:700 Tone (利根) build feature by Yoshio Sato - Navy Yard 051, Autumn 2022, p30-32](https://www.1999.co.jp/eng/10921996)

@@ -66,8 +66,12 @@ This is the IBG 1:72 kit, amazing little bit of engineering. I couldn't resist m
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=147072)
-* [Type 95 Ha-Go Tank IBG Models No. 72088 1:72](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
-* [72088 – 1/72 –  Type 95 Ha-Go Japanese Light Tank](http://www.ibgmodels.com/72088-2/) - IBG
+* Type 95 Ha-Go Tank IBG Models No. 72088 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
+    * [on IBG site](http://www.ibgmodels.com/72088-2/)
+
+### Research References
+
 * [Type 95 Ha-Go light tank](https://en.wikipedia.org/wiki/Type_95_Ha-Go_light_tank) - wikipedia
 * [Type 95 Ha-Go](https://www.tanks-encyclopedia.com/ww2/jap/old-Type_95_Ha-Go.php) - tanks-encyclopedia
 * [Micro Machines Podcast Episode 21: Type 95 Ha Go](https://www.youtube.com/watch?v=ewmPTtzwDu4)

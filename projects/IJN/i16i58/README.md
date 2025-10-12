@@ -78,8 +78,12 @@ The base is from an [Acrylic Display Model Show Dustproof Protection Case 20 x 1
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=104477)
-* [Tamiya 1:700 No. 31453 Japanese Navy Submarine I-16 & I-58 Waterline Series](https://www.scalemates.com/kits/tamiya-31453-japanese-navy-submarine-i-16-and-i-58--171127) - scalemates
-* [Tamiya 1:700 No. 31453](https://www.tamiya.com/english/products/31453i16_i58/index.htm) - Tamiya
+* Tamiya 1:700 No. 31453 Japanese Navy Submarine I-16 & I-58 Waterline Series
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31453-japanese-navy-submarine-i-16-and-i-58--171127)
+    * [on Tamiya site](https://www.tamiya.com/english/products/31453i16_i58/index.htm)
+* [Acrylic Display Model Show Dustproof Protection Case 20 x 10 x 10cm](https://shopee.sg/-BLESIYA2-Acrylic-Display-Model-Show-Dustproof-Protection-Case-20-x-10-x-10cm-i.140392383.5130344992)
+
+### Research References
+
 * [Japanese submarine I-16](https://en.wikipedia.org/wiki/Japanese_submarine_I-16)
 * [Japanese submarine I-58](https://en.wikipedia.org/wiki/Japanese_submarine_I-58_(1943))
-* [Acrylic Display Model Show Dustproof Protection Case 20 x 10 x 10cm](https://shopee.sg/-BLESIYA2-Acrylic-Display-Model-Show-Dustproof-Protection-Case-20-x-10-x-10cm-i.140392383.5130344992)

@@ -126,8 +126,14 @@ Final shots.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=191837)
-* [Kure Naval Port Fujimi No. 40131 1:3000](https://www.scalemates.com/kits/fujimi-40131-kure-naval-port--993916)
+* Kure Naval Port Fujimi No. 40131 1:3000
+    * [on scalemates](https://www.scalemates.com/kits/fujimi-40131-kure-naval-port--993916)
 * Upgrade/detail sets (not used in the build):
-    * [Detail Up Parts Series IJN Kure Naval Port/Gantry Crane Photo-Etched Parts Fujimi No. 11503 1:3000](https://www.scalemates.com/kits/fujimi-11503-ijn-kure-naval-port-gantry-crane-photo-etched-parts--1028650)
-    * [Grade Up Parts Series IJN Naval Port Collection Common Photo-Etched Parts Fujimi No. 11496 1:3000](https://www.scalemates.com/kits/fujimi-11496-ijn-naval-port-collection-common-photo-etched-parts--1019727)
+    * Detail Up Parts Series IJN Kure Naval Port/Gantry Crane Photo-Etched Parts Fujimi No. 11503 1:3000
+        * [on scalemates](https://www.scalemates.com/kits/fujimi-11503-ijn-kure-naval-port-gantry-crane-photo-etched-parts--1028650)
+    * Grade Up Parts Series IJN Naval Port Collection Common Photo-Etched Parts Fujimi No. 11496 1:3000
+        * [on scalemates](https://www.scalemates.com/kits/fujimi-11496-ijn-naval-port-collection-common-photo-etched-parts--1019727)
+
+### Research References
+
 * [Kure Naval Arsenal](https://en.wikipedia.org/wiki/Kure_Naval_Arsenal)

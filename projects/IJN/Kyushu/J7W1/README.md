@@ -102,23 +102,35 @@ This is the Hasegawa 1:72 kit, boxed in 2000 from a 1995 mold. Still an astonish
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=180498)
-* [Kyushu J7W1 18-shi Intercepter Fighter Shinden (Japanese Navy Intercepter Fighter) Hasegawa No. 00450 1:72](https://www.scalemates.com/kits/hasegawa-00450-kyushu-j7w1-18-shi-intercepter-fighter-shinden--1227192)
+* Kyushu J7W1 18-shi Intercepter Fighter Shinden (Japanese Navy Intercepter Fighter) Hasegawa No. 00450 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-00450-kyushu-j7w1-18-shi-intercepter-fighter-shinden--1227192)
+
+### Research References
+
 * [Kyushu J7W Shinden](https://en.wikipedia.org/wiki/Kyushu_J7W_Shinden) - wikipedia
 
-### Video References
-
 #### Kyūshū J7W1 Shinden – B-29 Superfortress Interceptor of the Imperial Japanese Navy (August, ’45)
+
+YouTube by War&History
 
 [![clip](https://img.youtube.com/vi/VkvGAXH4JBo/0.jpg)](https://www.youtube.com/watch?v=VkvGAXH4JBo)
 
 #### B29を迎撃せよ 幻の戦闘機・震電 | Intercept the B-29 ・Phantom Fighter Shinden (J7W Interview) (EN Subtitles)
 
+YouTube by Zynkyoku
+
 [![clip](https://img.youtube.com/vi/ivvxWCdqgqs/0.jpg)](https://www.youtube.com/watch?v=ivvxWCdqgqs)
+
+#### Japan's Ultimate B-29 Hunter, And Why It Failed - Kyushu J7W Shinden
+
+YouTube by Rex's Hangar
+
+[![clip](https://img.youtube.com/vi/Ehfn30pk1x4/0.jpg)](https://www.youtube.com/watch?v=Ehfn30pk1x4)
+
+### Build References
 
 #### 九州 J7W1 十八試 局戦 震電 - HASEGAWA 1/72 KYUSHU J7W1 SHINDEN
 
+YouTube by モデラーぺろ - miniature scenes
+
 [![clip](https://img.youtube.com/vi/sNQSBWPnNvs/0.jpg)](https://www.youtube.com/watch?v=sNQSBWPnNvs)
-
-#### Japan's Ultimate B-29 Hunter, And Why It Failed - Kyushu J7W Shinden by Rex's Hangar
-
-[![clip](https://img.youtube.com/vi/Ehfn30pk1x4/0.jpg)](https://www.youtube.com/watch?v=Ehfn30pk1x4)

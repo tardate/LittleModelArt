@@ -78,7 +78,11 @@ No crew or base right now - I'm reserving these for a future diorama.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=155655)
-* [Japanese Military Transport Set Waterline Series Tamiya No. 31501 1:700](https://www.scalemates.com/kits/tamiya-31501-japanese-military-transport-set--171118)
+* Japanese Military Transport Set Waterline Series Tamiya No. 31501 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31501-japanese-military-transport-set--171118)
+
+### Research References
+
 * [No.1-class landing ship](https://en.wikipedia.org/wiki/No.1-class_landing_ship)
 * [No.101-class landing ship](https://en.wikipedia.org/wiki/No.101-class_landing_ship)
 * [Tokusetsu-Yusokan IJN T.101 Class Landing Ship Tank  IJN LST T.149: Tabular Record of Movement](http://www.combinedfleet.com/T.149_t.htm)

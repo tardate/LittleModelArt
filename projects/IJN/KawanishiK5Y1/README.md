@@ -118,5 +118,9 @@ At home on a bookshelf:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=105414)
-* [Kawanishi K5Y1 Type 93 'Willow'](https://www.scalemates.com/kits/arii-7-kawanishi-k5y1-type-93-willow--157804) - scalemates
+* Kawanishi K5Y1 Type 93 'Willow'
+    * [on scalemates](https://www.scalemates.com/kits/arii-7-kawanishi-k5y1-type-93-willow--157804)
+
+### Research References
+
 * [Yokosuka K5Y](https://en.wikipedia.org/wiki/Yokosuka_K5Y)

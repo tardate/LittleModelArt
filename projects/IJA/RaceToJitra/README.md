@@ -141,28 +141,40 @@ Here's a quick demo..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=146177)
-* [Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
-* [Type 95 Ha-Go Light Tank IBG Models No. 72088 1:72](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
-* [Japanese Navy Destroyer Ayanami 綾波 Water Line Series Tamiya No. 31405 1:700](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
-* [Japanese Bicycle Infantry WWII HäT No. 8278 1:72](https://www.scalemates.com/kits/haet-8278-japanese-bicycle-infantry--981187)
-* [Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+* Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+* Type 95 Ha-Go Light Tank IBG Models No. 72088 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
+* Japanese Navy Destroyer Ayanami 綾波 Water Line Series Tamiya No. 31405 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
+* Japanese Bicycle Infantry WWII HäT No. 8278 1:72
+    * [on scalemates](https://www.scalemates.com/kits/haet-8278-japanese-bicycle-infantry--981187)
+* Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+* [LEAP#357 MC34063 Boost Converter Kit](https://leap.tardate.com/electronics101/power/switchmodepowersupplies/mc34063/modulekit/)
+
+### Research References
+
 * [Malayan campaign](https://en.wikipedia.org/wiki/Malayan_campaign)
 * [Battle of Jitra](https://en.wikipedia.org/wiki/Battle_of_Jitra)
 * [Battle of Kota Bharu](https://en.wikipedia.org/wiki/Battle_of_Kota_Bharu)
 * [Osprey Japanese Tanks 1939-45](https://www.scribd.com/document/190062816/Osprey-Japanese-Tanks-1939-45)
-* [LEAP#357 MC34063 Boost Converter Kit](https://leap.tardate.com/electronics101/power/switchmodepowersupplies/mc34063/modulekit/)
-
-### Video References
 
 #### "Britain's Worst Defeat" - The Battle of Jitra 1941 Animated
 
+YouTube by Historigraph
+
 [![clip](https://img.youtube.com/vi/LkIu5Ex2G3s/0.jpg)](https://www.youtube.com/watch?v=LkIu5Ex2G3s)
 
-#### The Malayan Campaign, December 1941 - January 1942 - Storm of Steel Military History
+#### The Malayan Campaign, December 1941 - January 1942
+
+YouTube by Storm of Steel Military History
 
 [![clip](https://img.youtube.com/vi/moZDGY6YPk0/0.jpg)](https://www.youtube.com/watch?v=moZDGY6YPk0)
 
-#### Quick Strike Challenge AAR: Chain of Command 2 (The Probe at Changlun) - Storm of Steel Wargaming
+#### Quick Strike Challenge AAR: Chain of Command 2 (The Probe at Changlun)
+
+YouTube by Storm of Steel Wargaming
 
 > In this Quick Strike AAR for  @LittleWarsTV  recent challenge, I play a game of Chain of Command 2 set during the Malaya Campaign of December 1941 where Japanese forces smash into Indian defenders at Jitra. Will the Indians hold on against the aggressive Japanese forces? Find out in this Quick Strike video!
 

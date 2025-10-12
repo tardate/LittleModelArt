@@ -120,6 +120,10 @@ The inspiration:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=179352)
-* [Type 95 Ha-Go tank IBG Models No. 72088 1:72](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go-tank--1345408)
+* Type 95 Ha-Go tank IBG Models No. 72088 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go-tank--1345408)
+
+### Research References
+
 * [Battle of Tarawa](https://en.wikipedia.org/wiki/Battle_of_Tarawa)
 * [Republic of Kiribati](https://en.wikipedia.org/wiki/Kiribati)

@@ -127,15 +127,25 @@ The final gallery shots:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=139014)
-* Kits and detail sets used:
-    * [Sea Way Model (EX) Series IJN Light Cruiser Jintsu Fujimi No. 40123 1:700](https://www.scalemates.com/kits/fujimi-40123-ijn-light-cruiser-jintsu--323315)
-    * [Upgrades Series IJN Catapult Ocean Spirit No. H034 1:700](https://www.scalemates.com/kits/ocean-spirit-h034-ijn-catapult--967904)
-    * [WWII Japanese Navy Fine Rail Set (0.1mm) Tetra Model Works No. SA-70016 1:700](https://www.scalemates.com/kits/tetra-model-works-sa-70016-wwii-japanese-navy-fine-rail-set--1281563)
-    * [Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
-    * [Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
+* Sea Way Model (EX) Series IJN Light Cruiser Jintsu Fujimi No. 40123 1:700
+    * [on scalemates](https://www.scalemates.com/kits/fujimi-40123-ijn-light-cruiser-jintsu--323315)
+* Upgrades Series IJN Catapult Ocean Spirit No. H034 1:700
+    * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h034-ijn-catapult--967904)
+* WWII Japanese Navy Fine Rail Set (0.1mm) Tetra Model Works No. SA-70016 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tetra-model-works-sa-70016-wwii-japanese-navy-fine-rail-set--1281563)
+* Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
+* Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700
+    * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
+
+### Research References
+
 * [Japanese cruiser Jintsū (神通)](https://en.wikipedia.org/wiki/Japanese_cruiser_Jints%C5%AB) - wikipedia
 * [神通 (軽巡洋艦)](https://ja.wikipedia.org/wiki/%E7%A5%9E%E9%80%9A_(%E8%BB%BD%E5%B7%A1%E6%B4%8B%E8%89%A6)) - ja.wikipedia
 * [IJN JINTSU: Tabular Record of Movement](http://www.combinedfleet.com/jintsu_t.htm)
 * [Battle of Kolombangara](https://en.wikipedia.org/wiki/Battle_of_Kolombangara)
 * [Sendai class Cruisers (1923)](https://naval-encyclopedia.com/ww2/japan/sendai-class-cruisers.php)
+
+### Build References
+
 * [Navy Yard 047](https://kaiga.co.jp/publication/books/%e3%83%8d%e3%82%a4%e3%83%93%e3%83%bc%e3%83%a4%e3%83%bc%e3%83%89-vol-47-%e3%82%a2%e3%83%bc%e3%83%9e%e3%83%bc%e3%83%a2%e3%83%87%e3%83%aa%e3%83%b3%e3%82%b02021%e5%b9%b47%e6%9c%88%e5%8f%b7%e5%88%a5/) - Jintsu (Aoshima)

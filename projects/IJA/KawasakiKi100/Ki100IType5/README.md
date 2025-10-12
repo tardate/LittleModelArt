@@ -18,9 +18,8 @@ Ki-100-I-Otsu: improved canopy and cut down rear fuselage. 118 built.
 |-----------------------|----------------------|-------------|------------|
 |                       | red                  | H3          |            |
 |                       | green                | H6          |            |
-|                       | silver               | H8          |            |
 | lower fuselage        | silver               | H8          | SM208      |
-|                       | flat white           | H11         |            |
+| spinner               | flat white           | H11         | H11        |
 |                       | flat black           | H12         |            |
 |                       | steel                | H18         |            |
 |                       | clear                | H30         |            |
@@ -34,7 +33,7 @@ Ki-100-I-Otsu: improved canopy and cut down rear fuselage. 118 built.
 |                       | Khaki Green          | H80         |            |
 |                       | Clear Red            | H90         |            |
 |                       | Clear Blue           | H93         |            |
-|                       | Nakajima Cockpit     | C127        |            |
+| interior.             | Nakajima Cockpit     | C127        | H60        |
 |                       | Grey Green           | C128        |            |
 | upper fuselage        | Dark Green           | C130        | H60        |
 |                       | Red Brown II         | C131        |            |
@@ -64,10 +63,10 @@ Ki-100-I-Otsu: improved canopy and cut down rear fuselage. 118 built.
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=158874)
 * Ki-100-I Type 5 Fighter Model 1 Otsu Aoshima No. 065709 1:72
     * [on scalemates](https://www.scalemates.com/kits/aoshima-065709-ki-100-i-type-5-fighter-model-1-otsu--1469598)
-* research:
-    * <https://en.wikipedia.org/wiki/Kawasaki_Ki-100>
 
-### Video References
+### Research References
+
+* <https://en.wikipedia.org/wiki/Kawasaki_Ki-100>
 
 #### The (Kind of) Accidental Super-plane: Kawasaki Ki-100
 

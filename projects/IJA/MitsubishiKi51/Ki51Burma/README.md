@@ -73,18 +73,22 @@ Found just enough space inside to hide the smallest motor I had on hand.
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=155969)
 * Ki-51 Sonia Clear Prop! No. CP144001 1:144
     * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp144001-ki-51-sonia--1266204)
-* Research:
-    * <https://en.wikipedia.org/wiki/Mitsubishi_Ki-51>
-    * [九九式襲撃機](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%A5%B2%E6%92%83%E6%A9%9F) - ja.wikipedia
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Mitsubishi_Ki-51>
+* [九九式襲撃機](https://ja.wikipedia.org/wiki/%E4%B9%9D%E4%B9%9D%E5%BC%8F%E8%A5%B2%E6%92%83%E6%A9%9F) - ja.wikipedia
+
+#### Mitsubishi KI-51 Sonia, Captured WWII Japanese Bomber Walkaround Video
+
+Youtube by Eric Moya Walkaround
+
+[![clip](https://img.youtube.com/vi/ais7oqwiGK4/0.jpg)](https://www.youtube.com/watch?v=ais7oqwiGK4)
 
 ### Build References
 
-#### Clear Prop Ki-51 Sonia 1:144 Build - Jamie Haggo
+#### Clear Prop Ki-51 Sonia 1:144 Build
+
+YouTube by Jamie Haggo
 
 [![clip](https://img.youtube.com/vi/k9MJSpPsfdQ/0.jpg)](https://www.youtube.com/watch?v=k9MJSpPsfdQ)
-
-### Video References
-
-#### Mitsubishi KI-51 Sonia, Captured WWII Japanese Bomber Walkaround Video - Eric Moya Walkaround
-
-[![clip](https://img.youtube.com/vi/ais7oqwiGK4/0.jpg)](https://www.youtube.com/watch?v=ais7oqwiGK4)

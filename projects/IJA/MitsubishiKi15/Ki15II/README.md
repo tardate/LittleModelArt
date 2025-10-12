@@ -103,6 +103,10 @@ Quick background painting...
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=195208)
-* [Mitsubishi Ki-15-II Type 97 Mk2 Babs C5M1 ARII No. 53011 1:72](https://www.scalemates.com/kits/arii-53011-mitsubishi-ki-15-ii-type-97-mk2-babs--172607)
+* Mitsubishi Ki-15-II Type 97 Mk2 Babs C5M1 ARII No. 53011 1:72
+    * [on scalemates](https://www.scalemates.com/kits/arii-53011-mitsubishi-ki-15-ii-type-97-mk2-babs--172607)
+
+### Research References
+
 * [Mitsubishi Ki-15](https://en.wikipedia.org/wiki/Mitsubishi_Ki-15) - wikipedia
 * <http://www.aviationofjapan.com/2010/10/jaaf-mitsubishi-ki-15-ii-babs-in.html>
