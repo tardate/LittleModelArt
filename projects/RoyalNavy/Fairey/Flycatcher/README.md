@@ -1,4 +1,4 @@
-# #xxx Fairey Flycatcher
+# #155 Fairey Flycatcher
 
 Building the Fairey Flycatcher stationed at HMS Hermes, China Station, 1930. This is the Armory Models Group kit in 1:48, with a hand carved prop and wood decals from Proper Plane of Ukraine. All upstaged by a couple of cheeky seagulls.
 
