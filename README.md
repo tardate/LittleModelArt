@@ -1,6 +1,6 @@
-# 154 Little Model Art Projects
+# 155 Little Model Art Projects
 
-> Latest addition :sparkles: [IJN Matsu-class Destroyer Sakura](./projects/IJN/Sakura) - Building the Matsu-class Destroyer Sakura (桜) from Fujimi in 1:700 scale with a few upgrades (replaced some of the equipment with better moldings, fixed the stern profile).
+> Latest addition :sparkles: [Fairey Flycatcher](./projects/RoyalNavy/Fairey/Flycatcher) - Building the Fairey Flycatcher stationed at HMS Hermes, China Station, 1930. This is the Armory Models Group kit in 1:48, with a hand carved prop and wood decals from Proper Plane of Ukraine. All upstaged by a couple of cheeky seagulls.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
