@@ -37,9 +37,8 @@ Scheme 4: Fairey Flycatcher, s/n N9961/9, 403th Flight, HMS Hermes, China Statio
 
 | Feature                       | Color                | Recommended | Paint Used |
 |-------------------------------|----------------------|-------------|------------|
-| cockpit frame and detail      | Silver               | C8/H8       | MC213 Stainless         |
-| cowling, cockpit interior     | Silver               | C8/H8       | SM204 Super Stainless 2 |
-|                               | Polished Aluminum    | LP70        |             |
+| cockpit frame and detail      | Silver               | C8/H8       | MC213 Stainless |
+| cowling                      | Polished Aluminum    | LP70        | SM204 Super Stainless 2 |
 |                               | Yellow               | C329/H329   |             |
 | fuselage                      | White                | C62/H11     | H11         |
 |                               | Black                | C33/H12     |             |
@@ -199,6 +198,8 @@ Adding them to the base..
 ![build08i](./assets/build08i.jpg?raw=true)
 
 ## Final Gallery
+
+Fairey Flycatcher, China Station, 1930. This is the Armory Models Group kit in 1:48, with a hand carved prop and wood decals from Proper Plane of Ukraine. All upstaged by a couple of cheeky seagulls.
 
 ![build09a](./assets/build09a.jpg?raw=true)
 
