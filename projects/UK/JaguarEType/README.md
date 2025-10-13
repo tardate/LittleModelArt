@@ -107,5 +107,6 @@ Building up the underlying groundwork:
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=206120)
 * Jaguar E-Type Airfix No. A55009 1:43
-    * [scalemates](https://www.scalemates.com/kits/airfix-a55009-jaguar-e-type--1439995)
-    * [airfix](https://uk.airfix.com/products/small-starter-set-jaguar-e-type-a55009)
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a55009-jaguar-e-type--1439995)
+    * [on airfix](https://uk.airfix.com/products/small-starter-set-jaguar-e-type-a55009)
+    * [instructions](./assets/A55009-instructions.pdf)

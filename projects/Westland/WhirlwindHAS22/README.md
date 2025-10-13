@@ -53,5 +53,10 @@ The new 2022 decals are very nice, and the overall result is quite pleasing. I d
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135761)
-* [Westland Whirlwind HAS.22 Vintage Classics Airfix No. A02056V 1:72](https://www.scalemates.com/kits/airfix-a02056v-westland-whirlwind-has22--1396839)
+* Westland Whirlwind HAS.22 Vintage Classics Airfix No. A02056V 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02056v-westland-whirlwind-has22--1396839)
+    * [instructions](./assets/A02056V-instructions.pdf)
+
+### Research References
+
 * [Westland Whirlwind](https://en.wikipedia.org/wiki/Westland_Whirlwind_(helicopter))

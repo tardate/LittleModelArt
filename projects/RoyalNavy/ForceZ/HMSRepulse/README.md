@@ -372,8 +372,17 @@ Eight G3M2 Nell bombers (九六式陸上攻撃機)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135758)
-* [HMS Repulse Tamiya No. 31617 1:700](https://www.scalemates.com/kits/tamiya-31617-hms-repulse--105624)
-* [HMS Repulse White Ensign Models No. PE 780 1:700](https://www.scalemates.com/kits/white-ensign-models-pe-780-hms-repulse--105719)
-* [Sinking Force Z 1941: The day the Imperial Japanese Navy killed the battleship by Angus Konstam](https://www.goodreads.com/book/show/51096859-sinking-force-z-1941)
-* [IJN Aircraft Set 7 Pit-Road No. S66 1:700](https://www.scalemates.com/kits/pit-road-s66-ijn-aircraft-set-7--1439738)
+* HMS Repulse Tamiya No. 31617 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31617-hms-repulse--105624)
+    * [instructions](./assets/31617-instructions.jpg)
+* HMS Repulse White Ensign Models No. PE 780 1:700
+    * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-780-hms-repulse--105719)
+    * [instructions](./assets/PE780-instructions.pdf)
+* IJN Aircraft Set 7 Pit-Road No. S66 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-s66-ijn-aircraft-set-7--1439738)
+    * [instructions](./assets/s66-instructions.pdf)
+
+### Research References
+
 * <https://www.destinationsjourney.com/historical-military-photographs/hms-repulse-british-battlecruiser/>
+* [Sinking Force Z 1941: The day the Imperial Japanese Navy killed the battleship by Angus Konstam](https://www.goodreads.com/book/show/51096859-sinking-force-z-1941)

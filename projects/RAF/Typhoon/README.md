@@ -189,7 +189,12 @@ and was chuffed with a consolation prize.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=92160)
-* [Medium Starter Set - Hawker Typhoon Mk.Ib A55208](https://www.airfix.com/uk-en/hawker-typhoon-ib-starter-set-1-72.html)
-* [Hobby Bounties](https://hobbybounties.com/airfix-hawker-typhoon-1b-kit-1-72/) - where I got my kit
-* [A55208 at scalemates](https://www.scalemates.com/kits/airfix-a55208-hawker-typhoon-ib--174715)
-* [Hawker Typhoon](https://en.wikipedia.org/wiki/Hawker_Typhoon) - wikipedia
+* Hawker Typhoon Ib starterSET Airfix No. A55208 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a55208-hawker-typhoon-ib--174715)
+    * [on Airfix site](https://www.airfix.com/uk-en/hawker-typhoon-ib-starter-set-1-72.html)
+    * [Hobby Bounties](https://hobbybounties.com/airfix-hawker-typhoon-1b-kit-1-72/) - where I got my kit
+    * [instructions](./assets/A55208_instructions.pdf)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Hawker_Typhoon>

@@ -123,5 +123,10 @@ And now I have a nice semi-shadow-box for the display
 * Brewster Buffalo Airfix No. A02050V 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02050v-brewster-buffalo--1460251)
     * [on airfix.com](https://uk.airfix.com/products/brewster-buffalo-a02050v)
+    * [instructions](./assets/A02050V-instructions.pdf)
+* PHOTO-ETCHED Propblur On Hub 3-bladed propeller PropBlur.com No. OHPB723b2u 1:72
+    * [on scalemates](https://www.scalemates.com/kits/propblurcom-ohpb723b2u-propblur-on-hub-3-bladed-propeller--132867)
+
+### Research References
+
 * <https://en.wikipedia.org/wiki/Brewster_F2A_Buffalo>
-* [PHOTO-ETCHED Propblur On Hub 3-bladed propeller PropBlur.com No. OHPB723b2u 1:72](https://www.scalemates.com/kits/propblurcom-ohpb723b2u-propblur-on-hub-3-bladed-propeller--132867)

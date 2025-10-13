@@ -12,16 +12,6 @@ Developed privately as the Gloster SS.37, it was the RAF's last biplane fighter 
 
 The Gladiator saw action in almost all theatres during the Second World War, with a large number of air forces, some of them on the Axis side. The RAF used it in France, Norway, Greece, the defence of Malta, the Middle East, and the brief Anglo-Iraqi War (during which the Royal Iraqi Air Force was similarly equipped). Other countries deploying the Gladiator included China against Japan, beginning in 1938; Finland (along with Swedish volunteers) against the Soviet Union in the Winter War and the Continuation War; Sweden as a neutral noncombatant (although Swedish volunteers fought for Finland against USSR as stated above); and Norway, Belgium, and Greece resisting Axis invasion of their respective lands.
 
-### References
-
-Gloster Gladiator Mk.I 1/72 Airfix - PLASMO
-
-[![clip](https://img.youtube.com/vi/xeGEd3LXDgo/0.jpg)](https://www.youtube.com/watch?v=xeGEd3LXDgo)
-
-Airfix 1/72 Gloster Gladiator Mk I/II Build and Review
-
-[![clip](https://img.youtube.com/vi/maL7FmJgWTA/0.jpg)](https://www.youtube.com/watch?v=maL7FmJgWTA)
-
 ### Marking Schemes
 
 #### Scheme A (selected scheme)
@@ -96,9 +86,27 @@ Added to my wall of flight..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135764)
-* [A02052A Gloster Gladiator Mk.I/Mk.II](https://uk.airfix.com/products/gloster-gladiator-mkimkii-a02052a)
-* [Gloster Gladiator Mk.I/II Airfix No. A02052A 1:72](https://www.scalemates.com/kits/airfix-a02052a-gloster-gladiator-mki-ii--1189956)
-* [Gladiator for Airfix Eduard No. CX377 1:72](https://www.scalemates.com/kits/eduard-cx377-gladiator--233515)
-* [Gloster Gladiator](https://en.wikipedia.org/wiki/Gloster_Gladiator) - wikipedia
+* Gloster Gladiator Mk.I/II Airfix No. A02052A 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02052a-gloster-gladiator-mki-ii--1189956)
+    * [on Airfix site](https://uk.airfix.com/products/gloster-gladiator-mkimkii-a02052a)
+    * [instructions](./assets/A02052A-instructions.pdf)
+* Gladiator for Airfix Eduard No. CX377 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx377-gladiator--233515)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Gloster_Gladiator>
 * [LFIS – SAINT INGLEVERT LES DEUX CAPS](https://vfr-pilote.fr/aerodrome/lfis/)
 * [Saint-Inglevert Airfield](https://maps.app.goo.gl/7Z7XQM4Q8Agubeet9)
+
+#### Gloster Gladiator Mk.I 1/72 Airfix
+
+YouTube by PLASMO
+
+[![clip](https://img.youtube.com/vi/xeGEd3LXDgo/0.jpg)](https://www.youtube.com/watch?v=xeGEd3LXDgo)
+
+#### Airfix 1/72 Gloster Gladiator Mk I/II Build and Review
+
+YouTube by KuroFI
+
+[![clip](https://img.youtube.com/vi/maL7FmJgWTA/0.jpg)](https://www.youtube.com/watch?v=maL7FmJgWTA)

@@ -104,6 +104,13 @@ more reminiscent ot Sharjah in the Trucial States...
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140040)
-* [New kit for Airfix Club Members in 2023](https://uk.airfix.com/community/blog-and-news/workbench/new-kit-airfix-club-members-2023)
-* [Gloster Meteor FR.9 Airfix Club Limited Edition No. A73015 1:72](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
-* [Meteor F.8 for Airfix Eduard No. CX641 1:72](https://www.scalemates.com/kits/eduard-cx641-meteor-f8--1450843)
+* Gloster Meteor FR.9 Airfix Club Limited Edition No. A73015 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
+    * [New kit for Airfix Club Members in 2023](https://uk.airfix.com/community/blog-and-news/workbench/new-kit-airfix-club-members-2023)
+    * [instructions](./assets/A73015-instructions.pdf)
+* Meteor F.8 for Airfix Eduard No. CX641 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx641-meteor-f8--1450843)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Gloster_Meteor>

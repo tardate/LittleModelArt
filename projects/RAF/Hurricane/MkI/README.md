@@ -95,10 +95,29 @@ Some better(?) shots:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=139009)
-* [Arma Hobby 1/72 70019 Hurricane Mk I Expert Set](https://www.armahobby.com/70019-hurricane-mk-i-expert-set.html)
-* [Arma Hobby Hurricane Mk I News](https://armahobbynews.pl/blog/tag/nr70019/)
-* [Arma Hobby 1/72 70019 Hurricane Mk I Expert Set](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781) - scalemates
-* [Arma Hobby 1/72 Hurricane MkI review](https://www.youtube.com/watch?v=LEv5z3hWrF8&feature=emb_logo)
-* [Arma Hobby 1/72 Hawker Hurricane Mk.I Expert Set Full Build](https://www.youtube.com/watch?v=0xwtuUNF7n4)
-* [WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
+* Arma Hobby 1/72 70019 Hurricane Mk I Expert Set
+    * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781)
+    * [on Arma Hobby site](https://www.armahobby.com/70019-hurricane-mk-i-expert-set.html)
+    * [instructions](./assets/70019-instructions.pdf)
+* WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
+    * [instructions](./assets/S32-instructions.pdf)
+
+### Research References
+
 * [Hawker Hurricane](https://en.wikipedia.org/wiki/Hawker_Hurricane) - wikipedia
+* [Arma Hobby Hurricane Mk I News](https://armahobbynews.pl/blog/tag/nr70019/)
+
+### Build References
+
+#### Arma Hobby 1/72 Hurricane MkI review
+
+YouTube by florymodels
+
+[![clip](https://img.youtube.com/vi/LEv5z3hWrF8/0.jpg)](https://www.youtube.com/watch?v=LEv5z3hWrF8)
+
+#### Arma Hobby 1/72 Hawker Hurricane Mk.I Expert Set Full Build
+
+YouTube by LPJ Models
+
+[![clip](https://img.youtube.com/vi/0xwtuUNF7n4/0.jpg)](https://www.youtube.com/watch?v=0xwtuUNF7n4)

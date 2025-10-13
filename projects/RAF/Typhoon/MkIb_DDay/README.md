@@ -18,6 +18,8 @@ is I believe a repackaging of the
 [Airfix kit A02041](https://www.scalemates.com/kits/airfix-a02041-hawker-typhoon-ib--173943)
 kit.
 
+![A73016-kit-box](./assets/A73016-kit-box.jpg)
+
 ### Paint Scheme
 
 | Feature               | Color                | Recommended | Paint Used |
@@ -60,5 +62,12 @@ kit.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=167755)
-* [D-Day Duo Airfix Club Limited Edition Airfix No. A73016 1:72](https://www.scalemates.com/kits/airfix-a73016-d-day-duo--1514520)
-* [Hawker Typhoon IB Airfix No. A02041 1:72](https://www.scalemates.com/kits/airfix-a02041-hawker-typhoon-ib--173943)
+* D-Day Duo Airfix Club Limited Edition Airfix No. A73016 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a73016-d-day-duo--1514520)
+    * [instructions](./assets/A73016-instructions.pdf)
+* Hawker Typhoon IB Airfix No. A02041 1:72 - the base kit
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02041-hawker-typhoon-ib--173943)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Hawker_Typhoon>

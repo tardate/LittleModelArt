@@ -317,11 +317,21 @@ No prize, but at least I think I held my own amongst a truly impressive showing.
 
 ## Credits and References
 
-* [Airfix A55205 Medium Starter Set - Hawker Harrier GR.1](https://www.airfix.com/uk-en/hawker-harrier-gr1-starter-set-1-72.html)
-* [Airfix A55205 Medium Starter Set - Hawker Harrier GR.1](https://www.scalemates.com/kits/airfix-a55205-hawker-siddeley-harrier-gr1--174713) - Scalemates
-* [Airfix A03003 Hawker Siddeley Harrier GR.1](https://www.scalemates.com/kits/airfix-a03003-hawker-siddeley-harrier-gr1--173960) (base kit) - Scalemates
-* [Hawker Siddeley BAe Harrier](https://www.baesystems.com/en/heritage/hawker-siddeley-harrier) - baesystems
+* [this project page on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=88607)
+* Airfix A55205 Medium Starter Set - Hawker Harrier GR.1
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a55205-hawker-siddeley-harrier-gr1--174713)
+    * [on Airfix site](https://www.airfix.com/uk-en/hawker-harrier-gr1-starter-set-1-72.html)
+    * [instructions](./assets/A55205-Instructions.pdf)
+* Airfix A03003 Hawker Siddeley Harrier GR.1 - base kit
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a03003-hawker-siddeley-harrier-gr1--173960)
 * [LEAP#553 Jet Engine Startup Effect](https://leap.tardate.com/audio/audioeffects/jetengine/)
+
+### Research References
+
+* [Hawker Siddeley BAe Harrier](https://www.baesystems.com/en/heritage/hawker-siddeley-harrier) - baesystems
+* <https://acesflyinghigh.wordpress.com/2015/07/01/brief-history-of-vstol-combat-aircraft-part-ii-enter-the-harrier-and-the-soviet-yak/>
+
+### Build References
 
 Some great resources I found for learning or brushing up my modelling skills:
 

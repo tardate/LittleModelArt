@@ -61,7 +61,12 @@ Eugen told his story to Chris Meddings on the Models from Ukraine podcast Episod
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135292)
-* [Bellanca CH-300 Pacemaker Dora Wings No. DW72022 1:72](https://www.scalemates.com/kits/dora-wings-dw72022-bellanca-ch-300-pacemaker--1211956)
+* Bellanca CH-300 Pacemaker Dora Wings No. DW72022 1:72
+    * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw72022-bellanca-ch-300-pacemaker--1211956)
+    * [instructions](./assets/DW72022-instructions.pdf)
+
+### Research References
+
 * [Bellanca Aircraft Company](https://en.wikipedia.org/wiki/AviaBellanca_Aircraft)
 * [Bellanca CH-300 Pacemaker](https://en.wikipedia.org/wiki/Bellanca_CH-300_Pacemaker) - wikipedia
 * [Models from Ukraine Episode 9: Dora Wings and Robert Blokker](https://modelsfromukraine.buzzsprout.com/2035660/12319440-episode-9-dora-wings-and-robert-blokker)

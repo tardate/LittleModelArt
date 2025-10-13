@@ -25,22 +25,6 @@ Since the kit-supplied aircrew are identical and not pose-able,
 I picked up some replacements from PJ Productions.
 These are a little more detailed: [Modern RAF seated in aircraft PJ Production No. 721118 1:72](https://www.scalemates.com/kits/pj-production-721118-modern-raf-seated-in-aircraft--180890)
 
-### Kit Reviews
-
-Airfix 1/72 Buccaneer S2C Review - florymodels
-
-[![clip](https://img.youtube.com/vi/zKIVmHJcgww/0.jpg)](https://www.youtube.com/watch?v=zKIVmHJcgww)
-
-### Some Build Reviews
-
-Harry Houdini Models:
-
-[![clip](https://img.youtube.com/vi/nXnh6oCzVZ8/0.jpg)](https://www.youtube.com/watch?v=nXnh6oCzVZ8)
-
-Greg's Models - building the S.2B (RAF) version:
-
-[![clip](https://img.youtube.com/vi/w4GQzwmgUYs/0.jpg)](https://www.youtube.com/watch?v=w4GQzwmgUYs)
-
 ## Paint Scheme
 
 OF the two schemes detailed in the kit, I chose: 809 NAS R-021/XV154 January 1972 Belize Overflight - HMS Ark Royal
@@ -122,7 +106,33 @@ before final finishing
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=117576)
+* Blackburn Buccaneer S.2C Airfix No. A06021 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a06021-blackburn-buccaneer-s2c--1190161)
+    * [on Airfix site](https://uk.airfix.com/products/blackburn-buccaneer-s2-rn-a06021)
+    * [instructions](./assets/A06021-instructions.pdf)
+* Modern RAF seated in aircraft PJ Production No. 721118 1:72
+    * [on scalemates](https://www.scalemates.com/kits/pj-production-721118-modern-raf-seated-in-aircraft--180890)
+
+### Research References
+
 * [Blackburn Buccaneer](https://en.wikipedia.org/wiki/Blackburn_Buccaneer) - wikipedia
-* [Blackburn Buccaneer S.2C Airfix No. A06021 1:72](https://uk.airfix.com/products/blackburn-buccaneer-s2-rn-a06021) - airfix
-* [Blackburn Buccaneer S.2C Airfix No. A06021 1:72](https://www.scalemates.com/kits/airfix-a06021-blackburn-buccaneer-s2c--1190161) - scalemates
-* [Modern RAF seated in aircraft PJ Production No. 721118 1:72](https://www.scalemates.com/kits/pj-production-721118-modern-raf-seated-in-aircraft--180890) - scalemates
+
+### Build References
+
+#### Airfix 1/72 Buccaneer S2C Review
+
+YouTube by florymodels
+
+[![clip](https://img.youtube.com/vi/zKIVmHJcgww/0.jpg)](https://www.youtube.com/watch?v=zKIVmHJcgww)
+
+#### Airfix's 1/72 Blackburn Buccaneer S.2B (Full Build)
+
+YouTube by Greg's Models
+
+[![clip](https://img.youtube.com/vi/w4GQzwmgUYs/0.jpg)](https://www.youtube.com/watch?v=w4GQzwmgUYs)
+
+#### Airfix 1:72 Blackburn Buccaneer Kit Build of New 2019 Mould
+
+YouTube by Harry Houdini Models
+
+[![clip](https://img.youtube.com/vi/nXnh6oCzVZ8/0.jpg)](https://www.youtube.com/watch?v=nXnh6oCzVZ8)

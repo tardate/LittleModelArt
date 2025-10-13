@@ -70,6 +70,11 @@ Just a nice simple build, no weathering to speak of or special effects. I really
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=141886)
-* [Gloster E28/39 Pioneer Clear Prop! No. CP72007 1:72](https://www.scalemates.com/kits/clear-prop-cp72007-gloster-e28-39-pioneer--1273951)
-* [Gloster E.28/39](https://en.wikipedia.org/wiki/Gloster_E.28/39) - wikipedia
-* [1/72 GLOSTER E28/39 PIONEER STARTER KIT CP72007](https://clearpropmodels.com/cp_72007) - Clear Prop models
+* Gloster E28/39 Pioneer Clear Prop! No. CP72007 1:72
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp72007-gloster-e28-39-pioneer--1273951)
+    * [on Clear Prop site](https://clearpropmodels.com/cp_72007)
+    * [instructions](./assets/CP72007-instructions.pdf)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Gloster_E.28/39>

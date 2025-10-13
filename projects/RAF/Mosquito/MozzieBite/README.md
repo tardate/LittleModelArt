@@ -84,8 +84,15 @@ Mozzie Bite! Having fun making little dioramas in resin: Pit-Road 1:700 Mosquito
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=138865)
-* [WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
-* [WWII German Military Vehicle Set 1 Pit-Road No. MI02 1:700](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
+* WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
+    * [instructions](./assets/S32-instructions.pdf)
+* WWII German Military Vehicle Set 1 Pit-Road No. MI02 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
+    * [instructions](./assets/MI02-instructions.pdf)
 * [Crystal Clear](https://shopee.sg/SG-READY-STOCK-1KG-CLEAR-Epoxy-Resin-AB-Glue-Hard-PVC-Resin-High-Quality-Crystal-Clear-Transparent-Paint-Mold-Maker-3-1-i.193616971.5442543063) epoxy resin
-* [Tiger I](https://en.wikipedia.org/wiki/Tiger_I) - wikipedia
-* [de Havilland Mosquito](https://en.wikipedia.org/wiki/De_Havilland_Mosquito) - wikipedia
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Tiger_I>
+* <https://en.wikipedia.org/wiki/De_Havilland_Mosquito>

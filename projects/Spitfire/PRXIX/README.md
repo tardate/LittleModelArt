@@ -16,6 +16,8 @@ included in the
 is I believe a repackaging of the
 [Airfix kit A02017B](https://www.scalemates.com/kits/airfix-a02017b-supermarine-spitfire-prxix--1523804) kit.
 
+![A73016-kit-box](./assets/A73016-kit-box.jpg)
+
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 
 ### Paint Scheme
@@ -47,7 +49,13 @@ In the  D-Day Duo kit, there is one decal scheme that I have followed: No 541 Sq
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=183357)
-* [D-Day Duo Airfix Club Limited Edition Airfix No. A73016 1:72](https://www.scalemates.com/kits/airfix-a73016-d-day-duo--1514520)
-* [Supermarine Spitfire PR.XIX Airfix No. A02017B 1:72](https://www.scalemates.com/kits/airfix-a02017b-supermarine-spitfire-prxix--1523804)
+* D-Day Duo Airfix Club Limited Edition Airfix No. A73016 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a73016-d-day-duo--1514520)
+    * [instructions](./assets/A73016-instructions.pdf)
+* Supermarine Spitfire PR.XIX Airfix No. A02017B 1:72 - the base kit
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02017b-supermarine-spitfire-prxix--1523804)
+
+### Research References
+
 * [Late photo-reconnaissance Spitfires](https://en.wikipedia.org/wiki/Supermarine_Spitfire_operational_history#Late_photo-reconnaissance_Spitfires)
 * [Mk XIX (Mk 19) (types 389 and 390)](https://en.wikipedia.org/wiki/Supermarine_Spitfire_(Griffon-powered_variants)#Mk_XIX_(Mk_19)_(types_389_and_390))

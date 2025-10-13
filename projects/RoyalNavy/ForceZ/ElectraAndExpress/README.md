@@ -150,9 +150,19 @@ Here are my notes on how the PE was applied:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135060)
-* [British Destroyer E Class Waterline Series Tamiya No. 31909 1:700](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
-* [E & F Class Destroyers White Ensign Models No. PE 766 1:700](https://www.scalemates.com/kits/white-ensign-models-pe-766-e-and-f-class-destroyers--105442)
-* [White Ensign Models (PE 766, 1:700)](https://www.whiteensignmodels.com/p/WEM+1700+E+F+Class+Destroyer+PE+766/5500/)
+* British Destroyer E Class Waterline Series Tamiya No. 31909 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
+    * [instructions](./assets/31909-instructions.pdf)
+* E & F Class Destroyers White Ensign Models No. PE 766 1:700
+    * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-766-e-and-f-class-destroyers--105442)
+    * [on White Ensign Models site](https://www.whiteensignmodels.com/p/WEM+1700+E+F+Class+Destroyer+PE+766/5500/)
+    * [instructions](./assets/PE766-instructions.pdf)
+
+### Research References
+
 * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
 * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+
+### Build References
+
 * [Hasegawa 1:72 Mitsubishi G3M2 Nell, Genzan Air Group, 1941](https://www.britmodeller.com/forums/index.php?/topic/235123378-hasegawa-172-mitsubishi-g3m2-nell-genzan-air-group-1941/)
