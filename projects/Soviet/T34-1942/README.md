@@ -72,5 +72,12 @@ taking stock.. think I'll leave this for a few days then take a fresh look at th
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=117575)
-* [Russian T-34/76 1942 Trumpeter No. 07206 1:72](https://www.scalemates.com/kits/trumpeter-07206-t-34-76-1942--105599)
-* [CCCP T-34 War Tank Crew and Infantry (4pcs) CMK No. F72281 1:72](https://www.scalemates.com/kits/cmk-f72281-cccp-t-34-war-tank-crew-and-infantry-4pcs--959370)
+* Russian T-34/76 1942 Trumpeter No. 07206 1:72
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-07206-t-34-76-1942--105599)
+    * [instructions](./assets/07206-instructions.pdf)
+* CCCP T-34 War Tank Crew and Infantry (4pcs) CMK No. F72281 1:72
+    * [on scalemates](https://www.scalemates.com/kits/cmk-f72281-cccp-t-34-war-tank-crew-and-infantry-4pcs--959370)
+
+### Research References
+
+[Great Patriotic War](https://en.wikipedia.org/wiki/Great_Patriotic_War_(term))

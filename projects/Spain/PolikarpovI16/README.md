@@ -76,7 +76,12 @@ and since then I've been gradually working through their catalogue;-)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=178308)
-* [Polikarpov I-16 Type 5 In the Sky of Spain Clear Prop! No. CP72023 1:72](https://www.scalemates.com/kits/clear-prop-cp72023-polikarpov-i-16-type-5--1397963)
-* [1/72 I-16 Type 5 "in the sky of Spain" STARTER KIT](https://clearpropmodels.com/cp_72023) - clearpropmodels
+* Polikarpov I-16 Type 5 In the Sky of Spain Clear Prop! No. CP72023 1:72
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp72023-polikarpov-i-16-type-5--1397963)
+    * [on Clear Prop! site](https://clearpropmodels.com/cp_72023)
+    * [instructions](./assets/CP72023-instructions.pdf)
+
+### Research References
+
 * [Spanish Republican Air Force](https://en.wikipedia.org/wiki/Spanish_Republican_Air_Force) - wikipedia
 * [Polikarpov I-16](https://en.wikipedia.org/wiki/Polikarpov_I-16)

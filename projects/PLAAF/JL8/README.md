@@ -57,9 +57,15 @@ The build depicts K8-001, the first prototype to fly.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=175324)
-* [Chinese JL-8/K-8 Karakorum Trumpeter No. 01636 1:72](https://www.scalemates.com/kits/trumpeter-01636-chinese-jl-8-k-8-karakorum--166713)
-* [F-16 / F-18 Pilots seated in a/c PJ Production No. 721124 1:72](https://www.scalemates.com/kits/pj-production-721124-f-16-f-18-pilots--165456)
+* Chinese JL-8/K-8 Karakorum Trumpeter No. 01636 1:72
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-01636-chinese-jl-8-k-8-karakorum--166713)
+    * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1637&l=en)
+    * [instructions](./assets/01636-instructions.pdf)
+* F-16 / F-18 Pilots seated in a/c PJ Production No. 721124 1:72
+    * [on scalemates](https://www.scalemates.com/kits/pj-production-721124-f-16-f-18-pilots--165456)
+
+### Research References
+
 * [Hongdu JL-8](https://en.wikipedia.org/wiki/Hongdu_JL-8) - wikipedia
 * [教练-8](https://zh.wikipedia.org/wiki/%E6%95%99%E7%BB%83-8) - zh.wikipedia
 * [中国军机重回国际市场—纪念洪都航空K-8教练机首飞30周年](https://new.qq.com/rain/a/20201122A0DQVL00) - Chinese military aircraft return to the international market - commemorating the 30th anniversary of the first flight of the Hongdu Airlines K-8 trainer aircraft
-* [Chinese JL-8 (K-8 Karakorum) Trainer 01636](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1637&l=en) - trumpeter-china

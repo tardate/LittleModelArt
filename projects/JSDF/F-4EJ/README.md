@@ -69,7 +69,13 @@ Revealing the trick of the in-flight pose:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145730)
-* [JASDF F-4EJ Kai Phantom II "The Last Phantom" 302 SQ 2019 Special Marking -White- Platz No. PF-27 1:144](https://www.scalemates.com/kits/platz-pf-27-jasdf-f-4ej-kai-phantom-ii-last-phantom--1276791)
-* [JASDF F-4EJ Kai Phantom II "The Last Phantom" 302 SQ 2019 Special Marking -Black- Platz No. PF-26 1:144](https://www.scalemates.com/kits/platz-pf-26-jasdf-f-4ej-kai-phantom-ii-last-phantom--1276764)
+* JASDF F-4EJ Kai Phantom II "The Last Phantom" 302 SQ 2019 Special Marking -White- Platz No. PF-27 1:144
+    * [on scalemates](https://www.scalemates.com/kits/platz-pf-27-jasdf-f-4ej-kai-phantom-ii-last-phantom--1276791)
+    * [instructions](./assets/PF27-instructions.pdf)
+* JASDF F-4EJ Kai Phantom II "The Last Phantom" 302 SQ 2019 Special Marking -Black- Platz No. PF-26 1:144
+    * [on scalemates](https://www.scalemates.com/kits/platz-pf-26-jasdf-f-4ej-kai-phantom-ii-last-phantom--1276764)
+
+### Research References
+
 * [JASDF Phantom Farewell](https://www.aviamagazine.com/reports/specials/jasdf-phantom-farewell/index.aspx) - aviamagazine
 * [JAPAN SAYS GOODBYE TO THE PHANTOM TO INTRODUCE THE F-35](https://www.blogbeforeflight.net/2018/12/japan-says-goodbye-phantom-move-f-35.html) - blogbeforeflight

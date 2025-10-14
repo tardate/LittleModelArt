@@ -126,7 +126,12 @@ The money shot - tailpipes light up when the plane is on the base...
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=115212)
+* Tornado ECR Revell - No. 04048 - 1:144
+    * [on scalemates](https://www.scalemates.com/kits/revell-04048-tornado-ecr--104311)
+    * [on Revell site](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
+    * [instructions](./assets/04048-instructions.pdf)
+
+### Research References
+
 * [Panavia Tornado ECR](https://en.wikipedia.org/wiki/Panavia_Tornado#ECR)
-* [Tornado ECR Revell - No. 04048 - 1:144](https://www.scalemates.com/kits/revell-04048-tornado-ecr--104311) - scalemates
-* [Tornado ECR Revell - No. 04048 - 1:144](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html) - revell.de
 * [Tornado: In the Eye of the Storm](https://www.goodreads.com/book/show/55318695-tornado) - John Nichol

@@ -115,8 +115,15 @@ tbh, I think this one convinced me that 1:350 not really my scale - too much bla
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126293)
-* [PLA Navy Type 051C DDG-115 Shenyang 04529](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1547&l=en) - trumpeter-china
-* [Navy Destroyer DDG 115 Shenyang. PLAN Type 051C Trumpeter No. 04529 1:350](https://www.scalemates.com/kits/trumpeter-04529-ddg-115-shenyang-plan--106439) - scalemates
-* [Handrails & Ladders for model ship Trumpeter  No. 06636 1:350](https://www.scalemates.com/kits/trumpeter-06636-handrails-and-ladders-model-ship--700010) - scalemates
+* Navy Destroyer DDG 115 Shenyang. PLAN Type 051C Trumpeter No. 04529 1:350
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-04529-ddg-115-shenyang-plan--106439)
+    * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1547&l=en)
+    * [instructions](./assets/04529-instructions.pdf)
+* Handrails & Ladders for model ship Trumpeter  No. 06636 1:350
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-06636-handrails-and-ladders-model-ship--700010)
+    * [instructions](./assets/06636-instructions.jpg)
+
+### Research References
+
 * [Type 051C destroyer](https://en.wikipedia.org/wiki/Type_051C_destroyer) - wikipedia
 * [DDG 115 沈阳 / Shenyang](https://en.wikipedia.org/wiki/Chinese_destroyer_Shenyang_(115)) - wikipedia

@@ -53,8 +53,13 @@ Primed and partially assembled:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=94508)
-* [Trumpeter PLA Navy Type 054A Frigate](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=3519&l=en) - trumpeter-china
-* [Trumpeter PLA Navy Type 054A Frigate](https://www.scalemates.com/kits/trumpeter-06727-pla-navy-type-054a-ff-1-700--1275839) - scalemates
+* Trumpeter PLA Navy Type 054A Frigate Trumpeter No. 06727 1:700
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-06727-pla-navy-type-054a-ff-1-700--1275839)
+    * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=3519&l=en)
+    * [instructions](./assets/06727-instructions.pdf)
+
+### Research References
+
 * [People's Liberation Army Navy Surface Force](https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Navy_Surface_Force)
 * [Type 054A Frigate](https://en.wikipedia.org/wiki/Type_054A_frigate)
 * [Trumpeter PLA Navy Type 054A Frigate](https://www.aliexpress.com/item/4001315096301.html) - Colorfulday Store on Aliexpress

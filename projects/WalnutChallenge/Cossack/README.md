@@ -90,7 +90,11 @@ Modelling water splashes is definitely a skill I need to work on.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126225)
-* [Ukrainian Mounted Cossacks 17th century Orion/Haron No. ORI 72014 1:72](https://www.scalemates.com/kits/orion-haron-ori-72014-mounted-cossacks--1084146) - scalemates
+* Ukrainian Mounted Cossacks 17th century Orion/Haron No. ORI 72014 1:72
+    * [on scalemates](https://www.scalemates.com/kits/orion-haron-ori-72014-mounted-cossacks--1084146)
+
+### Research References
+
 * [Ukrainian Mounted Cossacks](http://www.plasticsoldierreview.com/review.aspx?id=1219) - plastic soldier review
 * [Walnut GB Album](https://www.facebook.com/media/set?set=oa.1377385686101154&type=3)
 * [Cossacks](https://en.wikipedia.org/wiki/Cossacks) - wikipedia

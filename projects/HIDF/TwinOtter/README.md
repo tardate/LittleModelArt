@@ -213,10 +213,13 @@ Mini-gun - LED rope driven by 555 timer.
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=152241)
 * DHC-6 Twin Otter Revell No. 04901 1:72
     * [on scalemates](https://www.scalemates.com/kits/revell-04901-dhc-6-twin-otter--607525)
+    * [instructions](./assets/04901-instructions.pdf)
 * Electronics:
     * [1PC DC 3V-3.7V Coreless Motor 0408,412,612,615,617.716,720,816,8520,1020 High Speed RC Drone Strong Magnetic DIY Aircraft](https://www.aliexpress.com/item/4001279573187.html)
     * [255mm Yellow LED Soft Silament / silicon rope DC3V](https://www.aliexpress.com/item/1005005242048043.html)
     * [LM555 Datasheet](https://www.futurlec.com/Linear/LM555CN.shtml)
-* Research:
-    * [Horizon Islands](https://armedassault.fandom.com/wiki/Horizon_Islands) - Armed Assault Wiki
-    * [Horizon Islands Defense Force](https://www.reddit.com/r/arma/comments/zpuc88/horizon_islands_defense_force/) - reddit
+
+### Research References
+
+* [Horizon Islands](https://armedassault.fandom.com/wiki/Horizon_Islands) - Armed Assault Wiki
+* [Horizon Islands Defense Force](https://www.reddit.com/r/arma/comments/zpuc88/horizon_islands_defense_force/) - reddit

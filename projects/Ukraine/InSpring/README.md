@@ -100,4 +100,5 @@ The broom is actually a rake from the MB kit with bristles added.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=132204)
-* [Civilians Western Region, WW II era Master Box No. MB3567 1:35](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)
+* Civilians Western Region, WW II era Master Box No. MB3567 1:35
+    * [on scalemates](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)

@@ -142,6 +142,10 @@ Testing the placement:
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=186999)
 * Antarctic Research Ship Soya 3rd-6th Corps Foresight No. SMP-006 1:700
     * [on scalemates](https://www.scalemates.com/kits/foresight-smp-006-antarctic-research-ship-soya-3rd-6th-corps--160687)
+    * [instructions](./assets/SMP-006-instructions.pdf)
+
+### Research References
+
 * [Sōya (PL107)](https://en.wikipedia.org/wiki/S%C5%8Dya_(PL107))
 * [Story of Antarctic research vessel Soya (宗谷)](https://www.kudan-japanese-school.com/blog/story-of-antarctic-research-vessel-soya.php)
 * [IJN SOYA: Tabular Record of Movement](http://www.combinedfleet.com/Soya_t.htm)

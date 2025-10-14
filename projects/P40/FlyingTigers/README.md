@@ -67,7 +67,12 @@ The Airfix 1/72 Flying Tigers P-40B joins its little brother - [AFVClub 1/144](h
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127983)
-* [Curtiss Hawk 81-A-2 Airfix No. A01003 1:72](https://www.scalemates.com/kits/airfix-a01003-curtiss-hawk-81-a-2--131395)
+* Curtiss Hawk 81-A-2 Airfix No. A01003 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a01003-curtiss-hawk-81-a-2--131395)
+    * [instructions](./assets/A01003-instructions.pdf)
+
+### Research References
+
 * [Curtiss P-40 Warhawk](https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk) - wikipedia
 * [P-40B](https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants#P-40B) - wikipedia
 * [Flying Tigers](https://en.wikipedia.org/wiki/Flying_Tigers) - wikipedia

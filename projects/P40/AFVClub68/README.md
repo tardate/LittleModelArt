@@ -113,7 +113,12 @@ The AFVClub 1/144 Flying Tigers P-40B joins its big brother - [Airfix 1/72](http
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127984)
-* [Flying Tigers P-40B/C Hawk-81A2 AFV Club No. AR144S01 1:144](https://www.scalemates.com/kits/afv-club-ar144s01-flying-tigers-p-40b-c-hawk-81a2--969209)
+* Flying Tigers P-40B/C Hawk-81A2 AFV Club No. AR144S01 1:144
+    * [on scalemates](https://www.scalemates.com/kits/afv-club-ar144s01-flying-tigers-p-40b-c-hawk-81a2--969209)
+    * [instructions](./assets/AR144S01-instructions.jpg)
+
+### Research References
+
 * [Curtiss P-40 Warhawk](https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk) - wikipedia
 * [P-40B](https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk_variants#P-40B) - wikipedia
 * [Flying Tigers](https://en.wikipedia.org/wiki/Flying_Tigers) - wikipedia

@@ -53,8 +53,13 @@ The finished Blériot XI "keeper of the spare keys"
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=136978)
-* [microWING Series Bleriot XI Cross-channel 1909 Aerobase No. B003](https://www.scalemates.com/kits/aerobase-b003-bleriot-xi-cross-channel-1909--1447018)
-* [Blériot XI](https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI) - wikipedia
-* [AEROBASE B003 ブレリオXI](https://www.aerobase.shop/product/81) - Aerobase
+* microWING Series Bleriot XI Cross-channel 1909 Aerobase No. B003
+    * [on scalemates](https://www.scalemates.com/kits/aerobase-b003-bleriot-xi-cross-channel-1909--1447018)
+    * [on AEROBASE site](https://www.aerobase.shop/product/81) - B003 ブレリオXI
+    * [instructions](./assets/B003-instructions.pdf)
 * [1KG CLEAR Epoxy Resin AB Glue Hard PVC Resin High Quality Crystal Clear Transparent Paint Mold Maker 3:1](https://shopee.sg/SG-READY-STOCK-1KG-CLEAR-Epoxy-Resin-AB-Glue-Hard-PVC-Resin-High-Quality-Crystal-Clear-Transparent-Paint-Mold-Maker-3-1-i.193616971.5442543063)
 * [Clear Silicone Cube Mold 6.5cm](https://www.aliexpress.com/item/1005004674628615.html)
+
+### Research References
+
+* [Blériot XI](https://en.wikipedia.org/wiki/Bl%C3%A9riot_XI) - wikipedia

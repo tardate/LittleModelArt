@@ -166,15 +166,22 @@ Checking the diorama layout before finalising..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=162930)
-* Kits and Parts
-    * [Roden ROD 733 FWD Model B-ton Lorry 1/72](https://www.scalemates.com/kits/roden-733-fwd-model-b-3-ton-lorry--961624)
-    * [Civilians, Set 4 FC Model Trend No. 72408 1:72](https://www.scalemates.com/kits/fc-model-trend-72408-civilians-set-4--1340588)
-    * [Drivers And Dignitaries Around The Kaiserwagen II Germania Figuren No. GF72-GER-004 1:72](https://www.scalemates.com/kits/germania-figuren-gf72-ger-004-drivers-and-dignitaries-around-kaiserwagen-ii--1537684)
-    * [British Infantry 1914/18 souvenir photo Germania Figuren No. GF72-WW1-312 1:72](https://www.scalemates.com/kits/germania-figuren-gf72-ww1-312-british-infantry-1914-18-souvenir-photo--1524973)
-    * [Ninja-cat Kato No. 28-853 1:87](https://www.scalemates.com/kits/kato-28-853-ninja-cat--1375033)
-* Research References
-    * [FWD Model B](https://en.wikipedia.org/wiki/FWD_Model_B) - wikipedia
-    * [Luella Bates](https://en.wikipedia.org/wiki/Luella_Bates)
-    * [HERstory: Luella Bates and Lillian Drennan](https://www.realwomenintrucking.org/post/herstory-luella-bates-and-lillian-drennan)
-    * [Luella Bates: “Our Girl Driver”](https://www.shipenergy.com/luella-bates-our-girl-driver/)
-    * [Women in Transportation History: Luella Bates, Pioneering Truckdriver](https://transportationhistory.org/2017/03/03/women-in-transportation-history-luella-bates-pioneering-truckdriver/)
+* Roden ROD 733 FWD Model B-ton Lorry 1/72
+    * [on scalemates](https://www.scalemates.com/kits/roden-733-fwd-model-b-3-ton-lorry--961624)
+    * [instructions](./assets/733-instructions.pdf)
+* Civilians, Set 4 FC Model Trend No. 72408 1:72
+    * [on scalemates](https://www.scalemates.com/kits/fc-model-trend-72408-civilians-set-4--1340588)
+* Drivers And Dignitaries Around The Kaiserwagen II Germania Figuren No. GF72-GER-004 1:72
+    * [on scalemates](https://www.scalemates.com/kits/germania-figuren-gf72-ger-004-drivers-and-dignitaries-around-kaiserwagen-ii--1537684)
+* British Infantry 1914/18 souvenir photo Germania Figuren No. GF72-WW1-312 1:72
+    * [on scalemates](https://www.scalemates.com/kits/germania-figuren-gf72-ww1-312-british-infantry-1914-18-souvenir-photo--1524973)
+* Ninja-cat Kato No. 28-853 1:87
+    * [on scalemates](https://www.scalemates.com/kits/kato-28-853-ninja-cat--1375033)
+
+### Research References
+
+* [FWD Model B](https://en.wikipedia.org/wiki/FWD_Model_B) - wikipedia
+* [Luella Bates](https://en.wikipedia.org/wiki/Luella_Bates)
+* [HERstory: Luella Bates and Lillian Drennan](https://www.realwomenintrucking.org/post/herstory-luella-bates-and-lillian-drennan)
+* [Luella Bates: “Our Girl Driver”](https://www.shipenergy.com/luella-bates-our-girl-driver/)
+* [Women in Transportation History: Luella Bates, Pioneering Truckdriver](https://transportationhistory.org/2017/03/03/women-in-transportation-history-luella-bates-pioneering-truckdriver/)

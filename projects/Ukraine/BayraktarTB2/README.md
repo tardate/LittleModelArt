@@ -68,8 +68,19 @@ an experimental presentation🤔
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=143607)
-* [Bayraktar TB2 Clear Prop! No. CP4809 1:48](https://www.scalemates.com/kits/clear-prop-cp4809-bayraktar-tb2--1408722)
-* [TB.2 PE parts Clear Prop! No. CPA48019 1:48](https://www.scalemates.com/kits/clear-prop-cpa48019-tb2-pe-parts--1457780)
-* [TB.2 wheel set Clear Prop! No. CPA48017 1:48](https://www.scalemates.com/kits/clear-prop-cpa48017-tb2-wheel-set--1457778)
-* [TB.2 Painting Mask for Clear Prop! No. CPA48018 1:48](https://www.scalemates.com/kits/clear-prop-cpa48018-tb2-painting-mask--1457779)
+* Bayraktar TB2 Clear Prop! No. CP4809 1:48
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp4809-bayraktar-tb2--1408722)
+    * [instructions](./assets/CP4809-instructions.pdf)
+* TB.2 PE parts Clear Prop! No. CPA48019 1:48
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48019-tb2-pe-parts--1457780)
+    * [instructions](./assets/CPA48019-instructions.pdf)
+* TB.2 wheel set Clear Prop! No. CPA48017 1:48
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48017-tb2-wheel-set--1457778)
+    * [instructions](./assets/CPA48017-instructions.pdf)
+* TB.2 Painting Mask for Clear Prop! No. CPA48018 1:48
+    * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48018-tb2-painting-mask--1457779)
+    * [instructions](./assets/CPA48018-instructions.pdf)
+
+### Research References
+
 * [Baykar Bayraktar TB2](https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2) - wikipedia

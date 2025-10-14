@@ -77,14 +77,18 @@ Basically complete...
 
 ## Credits and References
 
+* Trumpeter kit 01657: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:72:
+    * [scalemates](https://www.scalemates.com/kits/trumpeter-01657-chinese-fc-1-fierce-dragon--122516)
+    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2329&l=en)
+    * [instructions](./assets/01657-instructions.pdf)
+* Trumpeter kit 02815: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:48:
+    * [scalemates](https://www.scalemates.com/kits/trumpeter-02815-chinese-fc-1-fierce-dragon--102718)
+    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1134&l=en)
+* Trumpeter kit 01658: Chinese FC-1 Prototype 01 & 03 1:72:
+    * [scalemates](https://www.scalemates.com/kits/trumpeter-01658-fc-1--102880)
+    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=714&l=en)
+
+### Research References
+
 * [JF-17 Thunder (جے ایف-17 گرج‎)](https://en.wikipedia.org/wiki/CAC/PAC_JF-17_Thunder) - wikipedia
 * [World model Store on aliexpress](https://www.aliexpress.com/item/4000433706862.html)
-* Trumpeter kit 01657: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:72:
-    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2329&l=en)
-    * [scalemates](https://www.scalemates.com/kits/trumpeter-01657-chinese-fc-1-fierce-dragon--122516)
-* Trumpeter kit 02815: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:48:
-    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1134&l=en)
-    * [scalemates](https://www.scalemates.com/kits/trumpeter-02815-chinese-fc-1-fierce-dragon--102718)
-* Trumpeter kit 01658: Chinese FC-1 Prototype 01 & 03 1:72:
-    * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=714&l=en)
-    * [scalemates](https://www.scalemates.com/kits/trumpeter-01658-fc-1--102880)

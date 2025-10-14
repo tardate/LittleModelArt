@@ -65,6 +65,9 @@ Building the base
 
 ## Credits and References
 
-* [A1368 M7 Priest](https://uk.airfix.com/products/m7-priest-a1368) - airfix
-* [A1368 M7 Priest](https://www.scalemates.com/kits/airfix-a1368-m7-priest--1260500) - scalemates
-* [Civilians Western Region, WWII era Master Box - No. MB3567 - 1:35](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)
+* M7 Priest Airfix No. A1368 1:35
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a1368-m7-priest--1260500)
+    * [on Airfix site](https://uk.airfix.com/products/m7-priest-a1368)
+    * [instructions](./assets/A1368-instructions.pdf)
+* Civilians Western Region, WWII era Master Box - No. MB3567 - 1:35
+    * [on scalemates](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)

@@ -52,7 +52,12 @@ PZL P.7a, 123. Eskadra Myśliwska z Krakowa. Samolot dowódcy Eskadry kpt. pil. 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=107741)
-* [Arma Hobby 70006 PZL P.7a Expert Set 1/72](https://www.scalemates.com/kits/arma-hobby-70006-pzl-p7a--1026288) - scalemates
-* [Arma Hobby 70006 PZL P.7a Expert Set 1/72](https://www.armahobby.com/pzl-p-7a-expert-set.html)
+* PZL P.7a Expert Set Arma Hobby No. 70006 1:72
+    * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70006-pzl-p7a--1026288)
+    * [on Arma Hobby site](https://www.armahobby.com/pzl-p-7a-expert-set.html)
+    * [instructions](./assets/70005-instructions.pdf)
+
+### Research References
+
 * [Polish 123rd Fighter Escadrille](https://en.wikipedia.org/wiki/Polish_123rd_Fighter_Escadrille)
 * [PZL P.7a](https://en.wikipedia.org/wiki/PZL_P.7) - wikipedia

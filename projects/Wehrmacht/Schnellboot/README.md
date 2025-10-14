@@ -90,10 +90,13 @@ The final build uses a USB adapter module and the oscillator circuits are constr
     * [on scalemates](https://www.scalemates.com/kits/bronco-nb5004-german-s-100-class-schnellboot--224486)
     * [on Bronco site](http://www.cn-bronco.com/en/product/html/?316.html)
     * [aliexpress seller - Colorfulday Store](https://www.aliexpress.com/item/32975158986.html)
+    * [instructions](./assets/NB5004-instructions.pdf)
 * Electronics:
     * [LM324N Datasheet](https://www.futurlec.com/Linear/LM324N.shtml)
-* Research:
-    * <https://en.wikipedia.org/wiki/E-boat>
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/E-boat>
 
 ### Build References
 

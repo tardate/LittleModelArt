@@ -95,8 +95,12 @@ See also my [Notebook: Resin](/notebook/resin/).
 ## Credits and References
 
 * Ukrainian Submarine Project 641 Foxtrot Class - "Zaporizhzhia" MikroMir No. 350-019 1:350
-    * on [scalemates](https://www.scalemates.com/kits/mikromir-350-019-project-641-foxtrot-class-zaporizhzhia--949107)
-    * on [mikro-mir.com](http://mikro-mir.com/en/ships-scales/1-350/170-project-641.html)
+    * [on scalemates](https://www.scalemates.com/kits/mikromir-350-019-project-641-foxtrot-class-zaporizhzhia--949107)
+    * [on mikro-mir.com](http://mikro-mir.com/en/ships-scales/1-350/170-project-641.html)
+    * [instructions](./assets/350-019-instructions.pdf)
+
+### Research References
+
 * [Ukrainian submarine Zaporizhzhia](https://en.wikipedia.org/wiki/Ukrainian_submarine_Zaporizhzhia)
 * <https://laststandonzombieisland.com/2012/05/02/ukraines-only-sub-operational-now/>
 * <https://turkishnavy.net/2014/03/24/russians-doubled-their-submarine-force-in-the-black-sea/>

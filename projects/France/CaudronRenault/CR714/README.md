@@ -66,11 +66,14 @@ was a light fighter aircraft developed by Caudron-Renault for the French Air For
 * Caudron-Renault CR.714 Dora Wings No. DW48047 1:48
     * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw48047-caudron-renault-cr714--1307494)
     * [on dorawings.com](https://dorawings.com/index.php?route=product/product&product_id=125)
-* research:
-    * <https://en.wikipedia.org/wiki/Caudron_C.714>
+    * [instructions](./assets/DW48047-instructions.pdf)
 
-### Vide References
+### Research References
 
-#### The Caudron-Renault C.714 Cyclone; French Feather Weight - Ed Nash's Military Matters
+* <https://en.wikipedia.org/wiki/Caudron_C.714>
+
+#### The Caudron-Renault C.714 Cyclone; French Feather Weight
+
+YouTube by Ed Nash's Military Matters
 
 [![clip](https://img.youtube.com/vi/9-fla2i-8yc/0.jpg)](https://www.youtube.com/watch?v=9-fla2i-8yc)

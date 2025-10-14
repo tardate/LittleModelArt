@@ -72,5 +72,10 @@ Final water effects and toxic discharge...
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135059)
-* [HMS Revenge vs Soviet Victor III Dragon No. 7007 1:700](https://www.scalemates.com/kits/dragon-7007-hms-revenge-vs-soviet-victor-iii--1356080)
+* HMS Revenge vs Soviet Victor III Dragon No. 7007 1:700
+    * [on scalemates](https://www.scalemates.com/kits/dragon-7007-hms-revenge-vs-soviet-victor-iii--1356080)
+    * [instructions](./assets/7007-instructions.pdf)
+
+### Research References
+
 * [Victor-class submarine](https://en.wikipedia.org/wiki/Victor-class_submarine) - wikipedia

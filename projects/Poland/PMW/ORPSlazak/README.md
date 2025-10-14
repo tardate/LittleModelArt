@@ -86,7 +86,12 @@ A quick base: HD foam, tissue and glue
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=131455)
-* [ORP Ślązak 1943 Hunt II Class Destroyer Escort IBG Models No. 70001 1:700](https://www.scalemates.com/kits/ibg-models-70001-orp-l-zak-1943--969355) - scalemates
-* [70001 – 1/700 – ORP Ślązak 1943 Hunt II class](http://www.ibgmodels.com/70001-2/) - ibgmodels
+* ORP Ślązak 1943 Hunt II Class Destroyer Escort IBG Models No. 70001 1:700
+    * [on scalemates](https://www.scalemates.com/kits/ibg-models-70001-orp-l-zak-1943--969355)
+    * [on IBG site](http://www.ibgmodels.com/70001-2/)
+    * [instructions](./assets/70001-instructions.pdf)
+
+### Research References
+
 * [ORP Ślązak (L26)](https://en.wikipedia.org/wiki/ORP_%C5%9Al%C4%85zak_(L26)) - wikipedia
 * [Polish Navy](https://en.wikipedia.org/wiki/Polish_Navy)

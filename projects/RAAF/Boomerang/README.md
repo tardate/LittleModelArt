@@ -76,6 +76,11 @@ The Hep Cat nose art was apparently a very stylish nod to the Cats - the Geelong
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=129708)
-* [CAC CA-19 Boomerang 'Jungle Scouts' Special Hobby No. SH72426 1:72](https://www.scalemates.com/kits/special-hobby-sh72426-cac-ca-19-boomerang-jungle-scouts--1301672) - scalemates
-* [CAC CA-19 Boomerang 'Jungle Scouts' Special Hobby No. SH72426 1:72](https://www.specialhobby.eu/en/our-own-production/special-hobby/cac-ca-19-boomerang-jungle-scouts.html) - specialhobby
+* CAC CA-19 Boomerang 'Jungle Scouts' Special Hobby No. SH72426 1:72
+    * [on scalemates](https://www.scalemates.com/kits/special-hobby-sh72426-cac-ca-19-boomerang-jungle-scouts--1301672)
+    * [on Special Hobby site](https://www.specialhobby.eu/en/our-own-production/special-hobby/cac-ca-19-boomerang-jungle-scouts.html)
+    * [instructions](./assets/SH72426-instructions.pdf)
+
+### Research References
+
 * [CAC Boomerang](https://en.wikipedia.org/wiki/CAC_Boomerang) - wikipedia

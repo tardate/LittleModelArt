@@ -113,7 +113,12 @@ Matchstick for scale only! Some micro-surgery to add lighting and fibre optics, 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135775)
-* [Star Blazers 2202 Mecha Colle No.11 U.N.C.F. Dreadnought Class Set 2 Bandai Spirits No. 5056766](https://www.scalemates.com/kits/bandai-spirits-5056766-uncf-dreadnought-class-set-2--1200206)
+* Star Blazers 2202 Mecha Colle No.11 U.N.C.F. Dreadnought Class Set 2 Bandai Spirits No. 5056766
+    * [on scalemates](https://www.scalemates.com/kits/bandai-spirits-5056766-uncf-dreadnought-class-set-2--1200206)
+    * [instructions](./assets/5056766-instructions.jpg)
+
+### Research References
+
 * [Space Battleship Yamato](https://en.wikipedia.org/wiki/Space_Battleship_Yamato)
 * [Dreadnought-class battleship](https://yamato.fandom.com/wiki/Dreadnought-class_battleship)
 * [United Nations Cosmo Force (UNCF)](https://yamato.fandom.com/wiki/United_Nations_Cosmo_Force)

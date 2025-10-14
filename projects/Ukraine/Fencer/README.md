@@ -84,6 +84,11 @@ Ukrainian Su-24M Fencer on an ultra low-level raid. Inspired by [Taras on TikTok
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=154192)
-* [Sukhoj Su-24M Fencer Ukrainian Pixel Camo Armory No. 14704 1:144](https://www.scalemates.com/kits/armory-14704-sukhoj-su-24m-fencer--1169333)
+* Sukhoj Su-24M Fencer Ukrainian Pixel Camo Armory No. 14704 1:144
+    * [on scalemates](https://www.scalemates.com/kits/armory-14704-sukhoj-su-24m-fencer--1169333)
+    * [instructions](./assets/14704-instructions.pdf)
+
+### Research References
+
 * [Air Force shares video of Su-24M attack aircraft striking invaders](https://mil.in.ua/en/news/air-force-shares-video-of-su-24m-attack-aircraft-striking-invaders/)
 * [Sukhoi Su-24](https://en.wikipedia.org/wiki/Sukhoi_Su-24)

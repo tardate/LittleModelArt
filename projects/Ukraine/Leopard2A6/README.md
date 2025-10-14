@@ -167,15 +167,21 @@ I cut the box on a [Lionsforge Craftlaser at the library](https://leap.tardate.c
     * [on scalemates](https://www.scalemates.com/kits/icm-72820-leopard-2a6--1568423)
     * [on ICM site](https://icm.com.ua/technique/leopard-2a6/)
     * [instructions](./assets/72820-instructions.pdf)
-* Research:
-    * <https://en.wikipedia.org/wiki/Leopard_2>
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Leopard_2>
 
 ### Kit and Build References
 
-#### Leopard 2A6 Armed Forces of Ukraine #72820 Scale 1/72 - ICM
+#### Leopard 2A6 Armed Forces of Ukraine #72820 Scale 1/72
+
+YouTube by ICM
 
 [![clip](https://img.youtube.com/vi/0ugECDB1THc/0.jpg)](https://www.youtube.com/watch?v=0ugECDB1THc)
 
-#### ICM 1/72 Leopard 2A6 Ukraine armed forces (72820) - Peter Oxley
+#### ICM 1/72 Leopard 2A6 Ukraine armed forces (72820)
+
+YouTube by Peter Oxley
 
 [![clip](https://img.youtube.com/vi/C8Vd9cPPZ1I/0.jpg)](https://www.youtube.com/watch?v=C8Vd9cPPZ1I)
