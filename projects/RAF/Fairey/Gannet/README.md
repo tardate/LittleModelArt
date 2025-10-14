@@ -10,10 +10,6 @@ The Fairey Gannet was developed as a carrier-born anti-submarine warfare platfor
 It was used by the Royal Navy between 1953 and 1978.
 Other operators included Australia, West Germany, and Indonesia.
 
-Fairey Gannet - A Short History:
-
-[![clip](https://img.youtube.com/vi/sNHYDlL1S80/0.jpg)](https://www.youtube.com/watch?v=sNHYDlL1S80)
-
 ### Paint Scheme
 
 | Feature         | Color                | Recommended | Paint Used |
@@ -64,5 +60,16 @@ It needed Jupiter-grade levels of Liquid Gravity not to be a tail-sitter!
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126323)
-* [British "Gannet" AS.MK.1/4 Trumpeter No. 01629 1:72](https://www.scalemates.com/kits/trumpeter-01629-british-gannet-asmk1-4--104815)
+* British "Gannet" AS.MK.1/4 Trumpeter No. 01629 1:72
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-01629-british-gannet-asmk1-4--104815)
+    * [instructions](./assets/01629-instructions.pdf)
+
+### Research References
+
 * [Fairey Gannet](https://en.wikipedia.org/wiki/Fairey_Gannet) - wikipedia
+
+#### Fairey Gannet - A Short History
+
+YouTube by A Short History
+
+[![clip](https://img.youtube.com/vi/sNHYDlL1S80/0.jpg)](https://www.youtube.com/watch?v=sNHYDlL1S80)

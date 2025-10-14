@@ -69,7 +69,12 @@ Just remounted in a picture frame, and it's now hanging on my "wall of flight"ðŸ
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135719)
-* [Chinese J-20 Mighty Dragon Trumpeter No. 03923 1:144](https://www.scalemates.com/kits/trumpeter-03923-chinese-j-20-mighty-dragon--218736)
+* Chinese J-20 Mighty Dragon Trumpeter No. 03923 1:144
+  8 [on scalemates](https://www.scalemates.com/kits/trumpeter-03923-chinese-j-20-mighty-dragon--218736)
+    * [instructions](./assets/03923-instructions.pdf)
+
+### Research References
+
 * [Chengdu J-20](https://en.wikipedia.org/wiki/Chengdu_J-20) - wikipedia
 * [Fifth-generation fighter](https://en.wikipedia.org/wiki/Fifth-generation_fighter) - wikipedia
 * [People's Liberation Army Air Force](https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Air_Force) - wikipedia

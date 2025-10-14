@@ -58,7 +58,12 @@ and touched up with Vallejo Model Color gloss white.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=153807)
-* [Ukraine's Maritime Drone (USV) MikroMir No. 35-028 1:35](https://www.scalemates.com/kits/mikromir-35-028-ukraines-maritime-drone-usv--1481701)
+* Ukraine's Maritime Drone (USV) MikroMir No. 35-028 1:35
+    * [on scalemates](https://www.scalemates.com/kits/mikromir-35-028-ukraines-maritime-drone-usv--1481701)
+    * [instructions](./assets/35-028-instructions.pdf)
+
+### Research References
+
 * [MikroMir](http://mikro-mir.com/en/)
 * [Evolution of Ukraine's Maritime Drone](http://www.hisutton.com/Ukraine-Maritime-Drones-Evolution.html)
 * [Ukraine's Maritime Drones (USV) What You Need To Know](http://www.hisutton.com/Ukraine-Maritime-Drones.html)

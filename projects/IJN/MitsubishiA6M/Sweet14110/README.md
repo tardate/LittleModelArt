@@ -38,5 +38,9 @@ The detail is very impressive for the scale, despite this being one of their old
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145732)
-* [Zero Fighter & Flight Deck Set Sweet No. 14110 1:144](https://www.scalemates.com/kits/sweet-14110-zero-fighter-and-flight-deck-set--161467)
+* Zero Fighter & Flight Deck Set Sweet No. 14110 1:144
+    * [on scalemates](https://www.scalemates.com/kits/sweet-14110-zero-fighter-and-flight-deck-set--161467)
+
+### Research References
+
 * [Mitsubishi A6M Zero](https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero) - wikipedia

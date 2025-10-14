@@ -173,9 +173,14 @@ And here's a behind-the-scenes view of the box diorama in action:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=98268)
-* [日本客船 八幡丸 Yawatamaru Aoshima No. 045718 1:700](https://www.aoshima-bk.co.jp/product/4905083045718/)
-* [Japanese Pacific Ocean Liner Yawatamaru Aoshima No. 045718 1:700](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875) - scalemates
-* [日本海軍 航空母艦 雲鷹 Un'yō Aoshima No. 045220 1:700](https://www.aoshima-bk.co.jp/product/4905083045220/)
-* [Japanese Aircraft Carrier Un'yō Aoshima No. 045220 1:700](https://www.scalemates.com/kits/aoshima-045220-unyo--306524) - scalemates
+* Japanese Pacific Ocean Liner Yawatamaru Aoshima No. 045718 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
+    * [on Aoshima site](https://www.aoshima-bk.co.jp/product/4905083045718/)
+* Japanese Aircraft Carrier Un'yō Aoshima No. 045220 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
+    * [on Aoshima site](https://www.aoshima-bk.co.jp/product/4905083045220/)
+
+### Research References
+
 * [The Imperial Japanese Navy in the Pacific War](https://www.goodreads.com/book/show/23719933-the-imperial-japanese-navy-in-the-pacific-war) by Mark Stille
 * [Pepper's ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)

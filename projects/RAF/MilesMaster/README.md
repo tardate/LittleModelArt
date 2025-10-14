@@ -8,25 +8,9 @@ Building the Dora Wings Miles M.9 Master Mk. I in 1:48 for the Models for Heroes
 
 The Miles M.9 Master was a British two-seat monoplane advanced trainer designed and built by aviation company Miles Aircraft Ltd. It was inducted in large numbers into both the Royal Air Force (RAF) and Fleet Air Arm (FAA) during the Second World War.
 
-### Research
-
-The Miles Master, The plane that raised the RAF
-
-[![clip](https://img.youtube.com/vi/LrXab72cW1M/0.jpg)](https://www.youtube.com/watch?v=LrXab72cW1M)
-
 ### The Kit
 
 ![kit_parts](./assets/kit_parts.jpg)
-
-#### Tim’s Scale Modelling
-
-DoraWings I 1/48 Miles M.9 Master Mk.I I Kit Review I
-
-[![clip](https://img.youtube.com/vi/oRA6FGSLIJw/0.jpg)](https://www.youtube.com/watch?v=oRA6FGSLIJw)
-
-DoraWings 1/48 I Miles M.9 Master MkI I Video Build I Part One I
-
-[![clip](https://img.youtube.com/vi/Upl16KEscwo/0.jpg)](https://www.youtube.com/watch?v=Upl16KEscwo)
 
 ### Paint Scheme
 
@@ -58,7 +42,7 @@ where I got to after a few hours on day 1 - basically just cleaned up most of th
 
 ![build01a](./assets/build01a.jpg?raw=true)
 
-found a resin figure to pilot the aircraft. Only got one, so it's going to be a solo training flight! Quick slap dash paintjob..
+found a resin figure to pilot the aircraft. Only got one, so it's going to be a solo training flight! Quick slap dash paint job..
 
 ![build01b](./assets/build01b.jpg?raw=true)
 
@@ -150,7 +134,28 @@ Some final shots of the Dora Wings Miles M.9 Master Mk. I. Nice kit, took a few 
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=157052)
 * Miles M.9 Master Mk. I Dora Wings No. DW48033 1:48
-    * [scalemates](https://www.scalemates.com/kits/dora-wings-dw48033-miles-m9-master-mk-i--1290508)
-    * [dorawings.com](https://dorawings.com/index.php?route=product/product&product_id=91) - dorawings.com
-* References
-    * [Miles Master](https://en.wikipedia.org/wiki/Miles_Master) - wikipedia
+    * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw48033-miles-m9-master-mk-i--1290508)
+    * [on dorawings.com](https://dorawings.com/index.php?route=product/product&product_id=91)
+    * [instructions](./assets/DW48033-instructions.pdf)
+
+### Research References
+
+* [Miles Master](https://en.wikipedia.org/wiki/Miles_Master) - wikipedia
+
+#### The Miles Master, The plane that raised the RAF
+
+YouTube by Longtreader
+
+[![clip](https://img.youtube.com/vi/LrXab72cW1M/0.jpg)](https://www.youtube.com/watch?v=LrXab72cW1M)
+
+#### DoraWings I 1/48 Miles M.9 Master Mk.I Kit Review and Build
+
+YouTubes by Tim’s Scale Modelling
+
+Kit Review:
+
+[![clip](https://img.youtube.com/vi/oRA6FGSLIJw/0.jpg)](https://www.youtube.com/watch?v=oRA6FGSLIJw)
+
+Build Part One I:
+
+[![clip](https://img.youtube.com/vi/Upl16KEscwo/0.jpg)](https://www.youtube.com/watch?v=Upl16KEscwo)

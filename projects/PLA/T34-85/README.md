@@ -119,8 +119,15 @@ People's Volunteer Army T-34 No 215 (中国人民志愿军215号) is legendary f
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145041)
-* [T-34/85 Chinese Volunteer "215" Rye Field Model No. RM-5059 1:35](https://www.scalemates.com/kits/rye-field-model-rm-5059-t-34-85-chinese-volunteer-215--1301125)
-* [Thirty-Eight Degree Line - Chinese People's Volunteers YUFAN Model No. YFWW-1639 1:35](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
+*[T-34/85 Chinese Volunteer "215" Rye Field Model No. RM-5059 1:35
+    * [on scalemates](https://www.scalemates.com/kits/rye-field-model-rm-5059-t-34-85-chinese-volunteer-215--1301125)
+    * [](./assets/RM-5059-instructions.pdf)
+* Thirty-Eight Degree Line - Chinese People's Volunteers YUFAN Model No. YFWW-1639 1:35
+    * [on scalemates](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
+    * [instructions](./assets/yfww-1639-instructions.pdf)
+
+### Research References
+
 * [T-34](https://en.wikipedia.org/wiki/T-34) - wikipedia
 * [T-34 tank No.215, preserved in Chinese Revolutionary Military Museum, Dec. 2017](https://commons.wikimedia.org/wiki/File:T-34_tank_No.215,_preserved_in_Chinese_Revoluntionary_Military_Museum,_Dec._2017.jpg)
 * [T34/85 "Hero tank" 215](https://www.reddit.com/r/TankPorn/comments/nj3dd7/t3485_hero_tank_215/)

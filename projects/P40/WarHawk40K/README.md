@@ -102,6 +102,11 @@ With power applied, the LEDs all strobe at different rates for a pseudo-random e
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=132125)
-* [Curtiss P-40B Warhawk Airfix, No. A01003B 1:72](https://www.scalemates.com/kits/airfix-a01003b-curtiss-p-40b-warhawk--1260859)
+* Curtiss P-40B Warhawk Airfix, No. A01003B 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a01003b-curtiss-p-40b-warhawk--1260859)
+    * [instructions](./assets/A01003B-instructions.pdf)
+
+### Research References
+
 * [Curtiss P-40 Warhawk](https://en.wikipedia.org/wiki/Curtiss_P-40_Warhawk)
 * [CD4060 datasheet](https://www.futurlec.com/4000Series/CD4060.shtml)

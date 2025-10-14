@@ -82,7 +82,12 @@ the motor took most of a day to put together and paint
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=157053)
-* [Morane-Saulnier MS.230 Foreign Service Dora Wings | No. DW48037 | 1:48](https://www.scalemates.com/kits/dora-wings-dw48037-morane-saulnier-ms230--1343587)
-* [Morane Saulnier MS.230](https://dorawings.com/index.php?route=product/product&product_id=120) - dorawings.com
+* Morane-Saulnier MS.230 Foreign Service Dora Wings No. DW48037 1:48
+    * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw48037-morane-saulnier-ms230--1343587)
+    * [on Dora Wings site](https://dorawings.com/index.php?route=product/product&product_id=120)
+    * [instructions](./assets/DW48037-instructions.pdf)
+
+### Research References
+
 * [Morane-Saulnier MS.230](https://en.wikipedia.org/wiki/Morane-Saulnier_MS.230) - wikipedia
 * [Spanish Republican Air Force](https://en.wikipedia.org/wiki/Spanish_Republican_Air_Force)

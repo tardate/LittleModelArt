@@ -93,17 +93,29 @@ As far as I've taken it so far.
 The model base forms part of a [20 x 12 x 9cm acrylic display case](https://shopee.sg/-BLESIYA-Acrylic-Display-Box-Transparent-Plastic-Protection-Case-for-Toys-Collection-i.140392305.2995490477).
 
 ![build_08a](./assets/build_08a.jpg?raw=true)
+
 ![build_08b](./assets/build_08b.jpg?raw=true)
+
 ![build_08c](./assets/build_08c.jpg?raw=true)
+
 ![build_08d](./assets/build_08d.jpg?raw=true)
+
 ![build_08e](./assets/build_08e.jpg?raw=true)
+
 ![build_08f](./assets/build_08f.jpg?raw=true)
 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=104739)
-* [HMAS Vampire Tamiya Waterline Series No. 31910 1:700](https://www.scalemates.com/kits/tamiya-31910-vampire--171459) - scalemates
-* [V & W Class Destroyers For Tamiya HMS Vampire Kit White Ensign Models No. PE 791 1:700](https://www.scalemates.com/kits/white-ensign-models-pe-791-v-and-w-class-destroyers--310853)
+* HMAS Vampire Tamiya Waterline Series No. 31910 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-31910-vampire--171459)
+    * [instructions](./assets/31910-instructions.pdf)
+* V & W Class Destroyers For Tamiya HMS Vampire Kit White Ensign Models No. PE 791 1:700
+    * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-791-v-and-w-class-destroyers--310853)
+    * [instructions](./assets/PE791-instructions.pdf)
+
+### Research References
+
 * [V and W-class destroyer](https://en.wikipedia.org/wiki/V_and_W-class_destroyer)
 * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
 * [Force Z](https://en.wikipedia.org/wiki/Force_Z) - wikipedia

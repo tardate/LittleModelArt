@@ -86,7 +86,10 @@ And of course it now joins my wall of flight..
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145713)
 * Lord Flash 'Woof! Woof!' Elan13 Miniatures No. EL93 1:10
-    * on [scalemates](https://www.scalemates.com/kits/elan13-miniatures-el93-lord-flash--1450322)
-    * as [elan13.co.uk](https://elan13.co.uk/epages/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9.sf/en_GB/?ObjectPath=/Shops/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9/Products/EL93)
+    * [on scalemates](https://www.scalemates.com/kits/elan13-miniatures-el93-lord-flash--1450322)
+    * [on elan13.co.uk](https://elan13.co.uk/epages/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9.sf/en_GB/?ObjectPath=/Shops/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9/Products/EL93)
+
+### Research References
+
 * [About Lord Flashheart](https://blackadder.fandom.com/wiki/Wing_Commander_The_Lord_Flashheart)
 * [Blackadder Goes Forth](https://www.imdb.com/title/tt0096548/)

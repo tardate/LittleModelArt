@@ -207,12 +207,18 @@ Amazing - the model got featured as the Model Officers' Mess banner for April 20
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=141873)
-* [A5M2b "Claude" (early version) Wingsy Kits No. D5-03 1:48](https://www.scalemates.com/kits/wingsy-kits-d5-03-a5m2b-claude-early-version--1073901)
-* [D5-03 IJN Type 96 carrier-based fighter II A5M2b “Claude” (early) 1/48](https://www.wingsykits.com/product/d5-03-ijn-type-96-carrier-based-fighter-ii-a5m2b-claude-early-version-148/) - wingsykits
-* [Mitsubishi A5M](https://en.wikipedia.org/wiki/Mitsubishi_A5M) - wikipedia
-* [A5M2b 'Claude' (Early) D5-03 Build By Chris Meddings - Models for Ukraine Vol2 p114](https://www.insidethearmour.com/product-page/models-for-ukraine-vol-2-preorder)
-* [A5M4 D5-02 Build By Jeremy Moore - Models for Ukraine Vol1 p11](https://www.insidethearmour.com/product-page/models-for-ukraine-ebook)
-* [Kawasaki Ki-61-Id Hien (Tony) Tamiya No. 61115 1:48](https://www.scalemates.com/kits/tamiya-61115-kawasaki-ki-61-id-hien-tony--1017255)
+* A5M2b "Claude" (early version) Wingsy Kits No. D5-03 1:48
+    * [on scalemates](https://www.scalemates.com/kits/wingsy-kits-d5-03-a5m2b-claude-early-version--1073901)
+    * [on Wingsy Kits site](https://www.wingsykits.com/product/d5-03-ijn-type-96-carrier-based-fighter-ii-a5m2b-claude-early-version-148/)
 * [ATtiny85 datasheet](https://www.microchip.com/en-us/product/ATTINY85)
 * [2N7000 datasheet](https://www.futurlec.com/Transistors/2N7000.shtml)
 * [1N4001 Datasheet](https://www.futurlec.com/Diodes/1N4001.shtml)
+
+### Research References
+
+* [Mitsubishi A5M](https://en.wikipedia.org/wiki/Mitsubishi_A5M) - wikipedia
+
+### Build References
+
+* [A5M4 D5-02 Build By Jeremy Moore - Models for Ukraine Vol1 p11](https://www.insidethearmour.com/product-page/models-for-ukraine-ebook)
+* [A5M2b 'Claude' (Early) D5-03 Build By Chris Meddings - Models for Ukraine Vol2 p114](https://www.insidethearmour.com/product-page/models-for-ukraine-vol-2-preorder)

@@ -77,4 +77,6 @@ I have it flying over my desk now;-)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=131454)
-* [Concorde Gift Set Airfix No. A50189 1:144](https://www.scalemates.com/kits/airfix-a50189-concorde--1325492)
+* Concorde Gift Set Airfix No. A50189 1:144
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a50189-concorde--1325492)
+    * [instructions](./assets/A50189-instructions.pdf)

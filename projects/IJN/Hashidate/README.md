@@ -16,18 +16,18 @@ On May 22, 1944, she was torpedoed by USS Picuda (SS-382) in the South China Sea
 
 | Feature                 | Color                   | Recommended | Paint Used |
 |-------------------------|-------------------------|-------------|------------|
-| nav light port          | Red                     | H3             |            |
-|                         | Flat White              | H11             | H11           |
-| funnel, mast, guns      | Flat Black              | H12             | H12           |
-| nav light stbd          | Sky Blue                | H25             |            |
-| boats, main deck        | Tan                     | H27             | H27           |
-| upper deck              | Wood Brown              | H37             | H37           |
-| hull and superstructure | Dark Gray (2)           | H83             | H83            |
+| nav light port          | Red                     | H3          |            |
+|                         | Flat White              | H11         | H11        |
+| funnel, mast, guns      | Flat Black              | H12         | H12        |
+| nav light starboard     | Sky Blue                | H25         |            |
+| boats, main deck        | Tan                     | H27         | H27        |
+| upper deck              | Wood Brown              | H37         | H37        |
+| hull and superstructure | Dark Gray (2)           | H83         | H83        |
 
 ### Paint Scheme - Type 95 Light Tank
 
-| Feature               | Color                   | Recommended | Paint Used |
-|-----------------------|-------------------------|-------------|------------|
+| Feature               | Color                   | Recommended     | Paint Used |
+|-----------------------|-------------------------|-----------------|------------|
 |                       | Flat Yellow             | H4 + H40 4:1    |            |
 |                       | Flat Black              | H12             |            |
 |                       | Steel                   | H18             |            |
@@ -56,6 +56,10 @@ no crew or sea base for this build yet as I'm planning to add it to another dior
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145734)
-* [Water Line Series No. 553 IJN Gunboat Hashidate Aoshima No. 003657 1:700](https://www.scalemates.com/kits/aoshima-003657-ijn-gunboat-hashidate--306123)
+* Water Line Series No. 553 IJN Gunboat Hashidate Aoshima No. 003657 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-003657-ijn-gunboat-hashidate--306123)
+
+### Research References
+
 * [Hashidate-class gunboat](https://en.wikipedia.org/wiki/Hashidate-class_gunboat)
 * [IJN Gunboat HASHIDATE: Tabular Record of Movement](http://www.combinedfleet.com/HashidateG_t.htm)

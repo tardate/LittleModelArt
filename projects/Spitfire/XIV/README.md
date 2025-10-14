@@ -70,7 +70,12 @@ Loving that red -  Mr Hobby Aqueous H3.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=125161)
-* [Supermarine Spitfire Mk.XIV Civilian Schemes Airfix, No. A05139, 1:48](https://www.scalemates.com/kits/airfix-a05139-supermarine-spitfire-mkxiv-civilian-schemes--1260842) - scalemates
-* [A05139 Supermarine Spitfire MkXIV Civilian Schemes](https://uk.airfix.com/products/supermarine-spitfire-mkxiv-civilian-schemes-a05139) - airfix
+* Supermarine Spitfire Mk.XIV Civilian Schemes Airfix, No. A05139, 1:48
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a05139-supermarine-spitfire-mkxiv-civilian-schemes--1260842)
+    * [on Airfix site](https://uk.airfix.com/products/supermarine-spitfire-mkxiv-civilian-schemes-a05139)
+    * [instructions](./assets/A05139-instructions.pdf)
+
+### Research References
+
 * [The Ultimate G-FIRE thread - Spitfire Mk. XIV, Spencer Flack](https://www.britmodeller.com/forums/index.php?/topic/235085521-the-ultimate-g-fire-thread-spitfire-mk-xiv-spencer-flack/)
 * [G-FIRE registration, serial number NH904](http://www.warbirdregistry.org/spitregistry/spitfire-nh904.html)

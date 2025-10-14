@@ -53,8 +53,8 @@ The remote doorbell:
 * Arduino Nano to generate the ASK-encoded transmission
 * an auto-sleep circuit (the Arduino cuts power completely after transmission)
 * 9V battery power source
-  - used to power the transmitter at higher voltage for increased range
-  - connects to VIN of the Arduino to take advantage on the on-board regulator
+    * used to power the transmitter at higher voltage for increased range
+    * connects to VIN of the Arduino to take advantage on the on-board regulator
 
 ### Radio Module
 
@@ -73,7 +73,7 @@ The receiver is designed to operate at 5V. I have added the 32cm external antenn
 * Quiescent Current: 4MA
 * Receiving frequency: 433.92MHZ / 315Mhz (optional)
 * Receiver sensitivity: -105DB
-* Size: 30 * 14 * 7mm
+* Size: 30 *14* 7mm
 * External antenna: 32CM single core wire, wound into a spiral
 
 The transmitter can operate from 3.5-12V:
@@ -156,10 +156,16 @@ I'd like to look at some ways to improve that.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=157497)
-* [Soba Noodle Stall Micro Ace No. 81211 1:25](https://www.scalemates.com/kits/micro-ace-81211-soba-noodle-stall--1399547)
-* [Arii 812112 Japanese Ramen Stall 1/25 Scale Kit (Microace)](https://www.plazajapan.com/4968279812112/) plazajapan ¥1,130
-* [Micro ace (Arii)](http://www.microace-arii.co.jp/)
-* [433 Mhz RF Transmitter and Receiver Module Link Kit for ARM/MCU WL DIY 315MHZ/433MHZ Wireless Remote Control for arduino Diy Kit](https://www.aliexpress.com/item/32896035786.html) - from aliexpress seller
+* Soba Noodle Stall Micro Ace No. 81211 1:25
+    * [on scalemates](https://www.scalemates.com/kits/micro-ace-81211-soba-noodle-stall--1399547)
+    * [on PlazaJapan](https://www.plazajapan.com/4968279812112/), purchased for ¥1,130
+    * [instructions](./assets/81211-instructions.jpg)
+* Electronics
+    * [433 Mhz RF Transmitter and Receiver Module Link Kit for ARM/MCU WL DIY 315MHZ/433MHZ Wireless Remote Control for arduino Diy Kit](https://www.aliexpress.com/item/32896035786.html) - from aliexpress seller
+    * [RadioHead library](https://github.com/tardate/RadioHead)
+    * [TMRpcm library](https://github.com/TMRh20/TMRpcm)
+
+### Research References
+
 * [Yatai (food cart)](https://en.wikipedia.org/wiki/Yatai_(food_cart)) - wikipedia
-* [RadioHead library](https://github.com/tardate/RadioHead)
-* [TMRpcm library](https://github.com/TMRh20/TMRpcm)
+* [Micro ace (Arii)](http://www.microace-arii.co.jp/)

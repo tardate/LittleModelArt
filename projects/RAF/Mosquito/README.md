@@ -55,33 +55,48 @@ of the de Havilland Mosquito B Mk.XVI is a new tool from 2021.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135584)
-* [de Havilland Mosquito B Mk.XVI Airfix No. A04023 1:72](https://www.scalemates.com/kits/airfix-a04023-havilland-mosquito-b-mkxvi--1324974)
-* [de Havilland Mosquito](https://en.wikipedia.org/wiki/De_Havilland_Mosquito) - wikipedia
+* de Havilland Mosquito B Mk.XVI Airfix No. A04023 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a04023-havilland-mosquito-b-mkxvi--1324974)
+    * [instructions](./assets/A04023-instructions.pdf)
 
-### Video References
+### Research References
+
+* <https://en.wikipedia.org/wiki/De_Havilland_Mosquito>
 
 #### Mosquito: The RAF's Legendary Wooden Wonder
 
+YouTube by WW2TV
+
 [![clip](https://img.youtube.com/vi/Z5gWrdcxc_4/0.jpg)](https://www.youtube.com/watch?v=Z5gWrdcxc_4)
 
-#### Mosquito: The Story - The Great British Channel
+#### Mosquito: The Story
+
+YouTube by The Great British Channel
 
 [![clip](https://img.youtube.com/vi/d16aL3qKNkU/0.jpg)](https://www.youtube.com/watch?v=d16aL3qKNkU)
 
-### Kit Reviews
+### Build References
 
 #### AIRFIX - de Havilland Mosquito - 1:72 Scale
 
+YouTube by  Airfix
+
 [![clip](https://img.youtube.com/vi/GigldyHXE6E/0.jpg)](https://www.youtube.com/watch?v=GigldyHXE6E)
 
-#### Quick Snip Review: Airfix 1/72 DeHavilland Mosquito B Mk XVI - Jenesis Designs and Modelcraft
+#### Quick Snip Review: Airfix 1/72 DeHavilland Mosquito B Mk XVI
+
+YouTube by Jenesis Designs and Modelcraft
 
 [![clip](https://img.youtube.com/vi/5hh-VfGB4Q8/0.jpg)](https://www.youtube.com/watch?v=5hh-VfGB4Q8)
 
-#### Airfix 1/72 De Havilland Mosquito B.XVI review - florymodels
+#### Airfix 1/72 De Havilland Mosquito B.XVI review
+
+YouTube by florymodels
 
 [![clip](https://img.youtube.com/vi/vfmsFzdClJE/0.jpg)](https://www.youtube.com/watch?v=vfmsFzdClJE)
 
-#### De Havilland Mosquito B.XVI - Airfix 1/72 - Aircraft Model by PLASMO - plastic models
+#### De Havilland Mosquito B.XVI - Airfix 1/72 - Aircraft Model
+
+YouTube by PLASMO - plastic models
 
 [![clip](https://img.youtube.com/vi/iRsc73Cvsj4/0.jpg)](https://www.youtube.com/watch?v=iRsc73Cvsj4)

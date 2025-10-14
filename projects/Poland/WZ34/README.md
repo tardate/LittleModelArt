@@ -68,7 +68,14 @@ So as I was finish this up just before Christmas, I couldn't help myself and wen
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135057)
-* [Samochód pancerny wersja wz. 34-II Mirage Hobby No. 355020 1:35](https://www.scalemates.com/kits/mirage-hobby-355020-wersja-wz-34-ii--1020935) - scalemates
-* [Polish Tank Crew MiniArt No. 35267 1:35](https://www.scalemates.com/kits/miniart-35267-tank-crew--1119388) - scalemates
+* Samochód pancerny wersja wz. 34-II Mirage Hobby No. 355020 1:35
+    * [on scalemates](https://www.scalemates.com/kits/mirage-hobby-355020-wersja-wz-34-ii--1020935)
+    * [instructions](./assets/355020-instructions.pdf)
+* Polish Tank Crew MiniArt No. 35267 1:35
+    * [on scalemates](https://www.scalemates.com/kits/miniart-35267-tank-crew--1119388)
+    * [instructions](./assets/35267-instructions.pdf)
+
+### Research References
+
 * [Samochód pancerny wz. 34](https://en.wikipedia.org/wiki/Samoch%C3%B3d_pancerny_wz._34) - wikipedia
 * [Polish armoured car wz. 34](http://derela.pl/wz34.htm) - derela

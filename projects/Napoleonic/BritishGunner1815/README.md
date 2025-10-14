@@ -32,7 +32,11 @@ British Royal Artillery Gunner 1815 .. maybe finished, though I see some areas t
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145733)
-* [British Royal Artillery Gunner 1815 Elan13 Miniatures No. EL68](https://www.scalemates.com/kits/elan13-miniatures-el68-british-royal-artillery-gunner-1815--1450321)
-* [British Royal Artillery Gunner 1815](https://elan13.co.uk/Royal-Artillery-Gunner-181) - elan13
+* British Royal Artillery Gunner 1815 Elan13 Miniatures No. EL68
+    * [on scalemates](https://www.scalemates.com/kits/elan13-miniatures-el68-british-royal-artillery-gunner-1815--1450321)
+    * [on Elan13 site](https://elan13.co.uk/Royal-Artillery-Gunner-181)
+
+### Research References
+
 * [A Regency History guide to the British Army in 1815](https://www.regencyhistory.net/2022/07/british-army-in-1815-regency-history_1.html)
 * [Royal Artillery](https://en.wikipedia.org/wiki/Royal_Artillery)

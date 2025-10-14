@@ -99,6 +99,11 @@ Even though this Airfix Vintage Classic 2019 boxing was tooled way back in 1969,
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135759)
-* [Bristol Bulldog Airfix No. A01055V 1:72](https://www.scalemates.com/kits/airfix-a01055v-bristol-bulldog--1189995)
+* Bristol Bulldog Airfix No. A01055V 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a01055v-bristol-bulldog--1189995)
+    * [instructions](./assets/A01055V-instructions.pdf)
+
+### Research References
+
 * [Bristol Bulldog](https://en.wikipedia.org/wiki/Bristol_Bulldog) - wikipedia
 * [Bristol Bulldog Mk.IIA](https://thegreatcanadianmodelbuilderswebpage.blogspot.com/2017/10/bristol-bulldog-mkiia.html)

@@ -166,6 +166,11 @@ who said you couldn't paint electronic circuits?
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140334)
-* [Porco Rosso Savoia S.21 Idroplano da Caccia Sperimentale FineMolds No. FJ1 1:72](https://www.scalemates.com/kits/finemolds-fj1-savoia-s21--157816)
+* Porco Rosso Savoia S.21 Idroplano da Caccia Sperimentale FineMolds No. FJ1 1:72
+    * [on scalemates](https://www.scalemates.com/kits/finemolds-fj1-savoia-s21--157816)
+    * [instructions](./assets/FJ1-instructions.pdf)
+
+### Research References
+
 * [Porco Rosso](https://www.imdb.com/title/tt0104652/) - imdb
 * [Porco Rosso: meglio maiale che fascista](https://www.outcast.it/home/porco-rosso-meglio-maiale-che-fascista)

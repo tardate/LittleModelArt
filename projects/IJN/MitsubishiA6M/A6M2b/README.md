@@ -26,16 +26,6 @@ while visiting the
 It includes an extended range of 8 schemes and the
 ["Zero at War" photo-book](https://www.goodreads.com/book/show/50918831-fighting-zero-fight).
 
-## References
-
-The A6M Naval Carrier Fighter - Zero or Hero? - Drachinifel
-
-[![clip](https://img.youtube.com/vi/ApOfbxpL4Dg/0.jpg)](https://www.youtube.com/watch?v=ApOfbxpL4Dg)
-
-The A6M Naval Carrier Fighter - Homegrown or Copy?
-
-[![clip](https://img.youtube.com/vi/r1sn-1ZCmDg/0.jpg)](https://www.youtube.com/watch?v=r1sn-1ZCmDg)
-
 ### Kit Schemes
 
 * A: 真珠湾攻擊時/ PearlHarborAttack】 《第一航空戰隊一番艦•赤城搭載機》第二次攻擊隊制空隊•進藤三郎大刷
@@ -141,7 +131,26 @@ I've often heard the legend of the "best 1:72 kit ever made" - Tamiya A6M. Final
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=156539)
-* [Mitsubishi A6M2b Zero Fighter (Zeke) & "Zero at War" Photo-book Limited Edition Kit Tamiya No. 25165 1:72](https://www.scalemates.com/kits/tamiya-25165-mitsubishi-a6m2b-zero-fighter-zeke-and-zero-at-war-photobook-limited-edition-kit--233477)
-* [A6M2b for Tamiya Eduard No. CX337 1:72](https://www.scalemates.com/kits/eduard-cx337-a6m2b--185132)
-* [Japanese Kamikaze WWII Red Box No. RB72048 1:72](https://www.scalemates.com/kits/red-box-rb72048-japanese-kamikaze--407570)
+* Mitsubishi A6M2b Zero Fighter (Zeke) & "Zero at War" Photo-book Limited Edition Kit Tamiya No. 25165 1:72
+    * [on scalemates](https://www.scalemates.com/kits/tamiya-25165-mitsubishi-a6m2b-zero-fighter-zeke-and-zero-at-war-photobook-limited-edition-kit--233477)
+* A6M2b for Tamiya Eduard No. CX337 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx337-a6m2b--185132)
+* Japanese Kamikaze WWII Red Box No. RB72048 1:72
+    * [on scalemates](https://www.scalemates.com/kits/red-box-rb72048-japanese-kamikaze--407570)
+
+### Research References
+
+* [Mitsubishi A6M Zero](https://en.wikipedia.org/wiki/Mitsubishi_A6M_Zero) - wikipedia
 * ["Zero at War" photo-book](https://www.goodreads.com/book/show/50918831-fighting-zero-fight)
+
+#### The A6M Naval Carrier Fighter - Zero or Hero?
+
+YouTube by Drachinifel
+
+[![clip](https://img.youtube.com/vi/ApOfbxpL4Dg/0.jpg)](https://www.youtube.com/watch?v=ApOfbxpL4Dg)
+
+#### The A6M Naval Carrier Fighter - Homegrown or Copy?
+
+YouTube by Drachinifel
+
+[![clip](https://img.youtube.com/vi/r1sn-1ZCmDg/0.jpg)](https://www.youtube.com/watch?v=r1sn-1ZCmDg)

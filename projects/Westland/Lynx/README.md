@@ -49,7 +49,15 @@ The official color chart:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=120869)
-* [Royal Navy Westland Lynx HAS.3 HobbyBoss No. 87237, 1:72](https://www.scalemates.com/kits/hobbyboss-87237-royal-navy-westland-lynx-has3--106734)
+* Royal Navy Westland Lynx HAS.3 HobbyBoss No. 87237, 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hobbyboss-87237-royal-navy-westland-lynx-has3--106734)
+    * [instructions](./assets/87237-instructions.pdf)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Westland_Lynx>
 * [829 Naval Air Squadron](https://en.wikipedia.org/wiki/829_Naval_Air_Squadron) - wikipedia
-* [Westland Lynx](https://en.wikipedia.org/wiki/Westland_Lynx) - wikipedia
+
+### Build References
+
 * [Lynx HAS.3, Deadly Royal Navy Sub-Hunter](https://www.paulooimodelworks.com/lynx-has-3-deadly-royal-navy-sub-hunter/) - another nice build by Paul Ooi

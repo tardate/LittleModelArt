@@ -6,7 +6,9 @@ An Aichi D3A1 Val dive bomber attack launched from the Akagi. Featuring kits fro
 
 ## Notes
 
-The [Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A) "Val" dive bomber was one of the most significant Japanese planes of the early war.
+The [Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A) Navy designation "Type 99 Carrier Bomber"; Allied reporting name "Val" is a World War II carrier-borne dive bomber. It was the primary dive bomber of the Imperial Japanese Navy (IJN) and was involved in almost all IJN actions, including the attack on Pearl Harbor.
+
+The Aichi D3A  "Val" dive bomber was one of the most significant Japanese planes of the early war.
 Surprisingly though, there are scant good options in 1:72 scale.
 Wingsy Kits is working on a new 1:48 kit due in 2025, but I'm not aware of anything yet in 1:72.
 
@@ -16,15 +18,6 @@ I've long wanted to build the Aichi D3A in 1:72, and I got my hands on two conte
 * [Airfix No. A02014V](https://www.scalemates.com/kits/airfix-a02014v-aichi-d3a1-val--1325491) - 1965 tooling
 
 It didn't take me long to realise that neither of these kits are great. There are accuracy, detail and scaling issues with each. Fit and clear parts are also disappointing. As a result, I didn't stress too much about the build, and focused more on the presentation: both posed in a joint attack.
-
-### References
-
-[Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A)
-The Aichi D3A [Navy designation "Type 99 Carrier Bomber"; Allied reporting name "Val"](a) is a World War II carrier-borne dive bomber. It was the primary dive bomber of the Imperial Japanese Navy (IJN) and was involved in almost all IJN actions, including the attack on Pearl Harbor.
-
-#### Aichi D3A "Val" "Dive Bomber" - "Replica" AI-201
-
-[![ai201](./assets/ai201.jpg)](https://www.flickr.com/photos/yesiwood/37600605994)
 
 ## Kits
 
@@ -141,7 +134,16 @@ Perhaps Wingsy Kits' new 1:48 tooling in 2025 will shake things up a bit!
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=176847)
-* ["Midway" Type 99 Aichi D3-A1 Val ZTS Plastyk No. S055 1:72](https://www.scalemates.com/kits/zts-plastyk-s055-type-99-aichi-d3-a1-val--1073616)
-* [Aichi D3A1 'Val' Vintage Classics Airfix No. A02014V 1:72](https://www.scalemates.com/kits/airfix-a02014v-aichi-d3a1-val--1325491)
+* "Midway" Type 99 Aichi D3-A1 Val ZTS Plastyk No. S055 1:72
+    * [on scalemates](https://www.scalemates.com/kits/zts-plastyk-s055-type-99-aichi-d3-a1-val--1073616)
+* Aichi D3A1 'Val' Vintage Classics Airfix No. A02014V 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02014v-aichi-d3a1-val--1325491)
+
+### Research References
+
 * [Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A)
 * [#33 - PEARL HARBOR raid - Akagi's dive bombers](https://japanese-aviation.forumotion.com/t29-33-pearl-harbor-raid-akagi-s-dive-bombers)
+
+#### Aichi D3A "Val" "Dive Bomber" - "Replica" AI-201
+
+[![ai201](./assets/ai201.jpg)](https://www.flickr.com/photos/yesiwood/37600605994)

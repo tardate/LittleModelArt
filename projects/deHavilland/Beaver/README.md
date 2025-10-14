@@ -123,21 +123,28 @@ One of my most enjoyable "vintage classic" experiences. Get the motor running ..
 * DHC Beaver Vintage Classics Airfix No. A03017V 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a03017v-dhc-beaver--1396837)
     * [on airfix](https://uk.airfix.com/products/de-havilland-beaver-a03017v)
-* Research:
-    * <https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver>
+    * [instructions](./assets/A03017V-instructions.pdf)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/De_Havilland_Canada_DHC-2_Beaver>
+
+### Video References
+
+#### de Havilland Canada DHC 2 Beaver Newsreel 1950
+
+YouTube by Canadian Aviation History
+
+[![clip](https://img.youtube.com/vi/-MfHwJP9KQE/0.jpg)](https://www.youtube.com/watch?v=-MfHwJP9KQE)
+
+#### De Havilland Canada's DHC-2 Beaver
+
+YouTube by De Havilland Canada
+
+[![clip](https://img.youtube.com/vi/tDjnHoPiNVs/0.jpg)](https://www.youtube.com/watch?v=tDjnHoPiNVs)
 
 ### Build References
 
 #### warplane DeHavilland DHC-2 Beaver, JRV i PVO 1/72, Airfix, Full Video Build - MM Marko
 
 [![clip](https://img.youtube.com/vi/N7AXr2DpEcM/0.jpg)](https://www.youtube.com/watch?v=N7AXr2DpEcM)
-
-### Video References
-
-#### de Havilland Canada DHC 2 Beaver Newsreel 1950 - Canadian Aviation History
-
-[![clip](https://img.youtube.com/vi/-MfHwJP9KQE/0.jpg)](https://www.youtube.com/watch?v=-MfHwJP9KQE)
-
-#### De Havilland Canada's DHC-2 Beaver
-
-[![clip](https://img.youtube.com/vi/tDjnHoPiNVs/0.jpg)](https://www.youtube.com/watch?v=tDjnHoPiNVs)

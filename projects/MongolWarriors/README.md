@@ -77,11 +77,11 @@ I've prepared the ground, now I can start selecting final positioning of the rid
 
 The base:
 
-- high density foam roughly sculpted to an uneven hill side trail
-- plastered with grout
-- primed in black
-- airbrushed with varied Vallejo model colors
-- some pastels used as pigments
+* high density foam roughly sculpted to an uneven hill side trail
+* plastered with grout
+* primed in black
+* airbrushed with varied Vallejo model colors
+* some pastels used as pigments
 
 ![build04a](./assets/build04a.jpg?raw=true)
 
@@ -109,8 +109,12 @@ The overall effect is close to what I had intended, but the figures don't really
 
 ## Credits and References
 
-- [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127640)
-- [Huns HäT (Hat) No. 8298 1:72](https://www.scalemates.com/kits/haet-hat-8298-huns--1111298)
-- [HaT Set 8298 Huns](http://www.plasticsoldierreview.com/Review.aspx?id=2091) - plastic soldier review
-- [Huns](https://en.wikipedia.org/wiki/Huns)
-- [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire)
+* [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127640)
+* Huns HäT (Hat) No. 8298 1:72
+    * [on scalemates](https://www.scalemates.com/kits/haet-hat-8298-huns--1111298)
+
+### Research References
+
+* [HaT Set 8298 Huns](http://www.plasticsoldierreview.com/Review.aspx?id=2091) - plastic soldier review
+* [Huns](https://en.wikipedia.org/wiki/Huns)
+* [Mongol Empire](https://en.wikipedia.org/wiki/Mongol_Empire)

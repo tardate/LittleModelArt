@@ -59,7 +59,7 @@ Scheme 4: Fairey Flycatcher, s/n N9961/9, 403th Flight, HMS Hermes, China Statio
 
 I made the mistake of thinking the main fabric fuselage was white, and that's how I've finished the model.
 It wasn't particularly clear in the Armory instructions, but as I got towards the end of the build I started to doubt the choice.
-A little research confirmed that I as wrong, and that the main fuselage should be "silver dope".
+A little research confirmed that I was wrong, and that the main fuselage should be "silver dope".
 It was too late in the build to fix that without significant effort—I'd already laid down decals for instance—so
 I'll just notch this up as a "lesson learned", and appreciate the build for what it is: a somewhat "what if" representation.
 

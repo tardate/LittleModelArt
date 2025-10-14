@@ -216,8 +216,14 @@ Added to my "wall of flight" (getting a little full now).
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=167754)
-* [Mitsubishi G3M3 Type 96 Land-Based Attack Aircraft Model 23 'Kanoya Flying Corps' Hasegawa No. 02218 1:72](https://www.scalemates.com/kits/hasegawa-02218-mitsubishi-g3m3-type-96-land-based-attack-aircraft-model-23-kanoya-flying-corps--1007836)
-* [G3M Nell for Hasegawa Eduard No. CX114 1:72](https://www.scalemates.com/kits/eduard-cx114-g3m-nell--115946)
-* [Japanese Navy Airmen Set Hasegawa No. X72-16 1:72](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
+* Mitsubishi G3M3 Type 96 Land-Based Attack Aircraft Model 23 'Kanoya Flying Corps' Hasegawa No. 02218 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-02218-mitsubishi-g3m3-type-96-land-based-attack-aircraft-model-23-kanoya-flying-corps--1007836)
+* G3M Nell for Hasegawa Eduard No. CX114 1:72
+    * [on scalemates](https://www.scalemates.com/kits/eduard-cx114-g3m-nell--115946)
+* Japanese Navy Airmen Set Hasegawa No. X72-16 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
+
+### Research References
+
 * [Mitsubishi G3M](https://en.wikipedia.org/wiki/Mitsubishi_G3M)
 * [Kanoya Air Group](https://en.wikipedia.org/wiki/Kanoya_Air_Group)

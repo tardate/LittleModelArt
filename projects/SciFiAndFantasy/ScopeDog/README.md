@@ -177,7 +177,17 @@ Unbelievably, this picked up a guest's choice award at M Workshop's ["Anything S
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=211694)
-* [Armored Trooper Votoms Scope Dog Robot Hobby Life 003 Special Appendix, Plamax minimum factory Max Factory No. RHL-003](https://www.scalemates.com/kits/max-factory-rhl-003-armored-trooper-votoms-scope-dog--1557274)
+* Armored Trooper Votoms Scope Dog Robot Hobby Life 003 Special Appendix, Plamax minimum factory Max Factory No. RHL-003
+    * [on scalemates](https://www.scalemates.com/kits/max-factory-rhl-003-armored-trooper-votoms-scope-dog--1557274)
+* Electronics
+    * [LM555 Datasheet](https://www.futurlec.com/Linear/LM555CN.shtml)
+    * [CD4017 datasheet](https://www.futurlec.com/4000Series/CD4017.shtml)
+
+### Research References
+
+Absolute noobs like me need a little introduction to Armored Trooper VOTOMS!
+I found the following very useful!
+
 * About Armored Trooper Votoms
     * <https://en.wikipedia.org/wiki/Armored_Trooper_Votoms>
     * <https://votoms.fandom.com/wiki/VOTOMS_Wiki>
@@ -186,18 +196,11 @@ Unbelievably, this picked up a guest's choice award at M Workshop's ["Anything S
     * <https://myanimelist.net/character/21821/Fyana>
     * <https://super-robot-wars-gu-universe.fandom.com/wiki/Fyana>
     * [Final episode - dailymotion](https://www.dailymotion.com/video/x2oylud)
-* [LM555 Datasheet](https://www.futurlec.com/Linear/LM555CN.shtml)
-* [CD4017 datasheet](https://www.futurlec.com/4000Series/CD4017.shtml)
 
-## Video References
-
-Absolute noobs like me need a little introduction to Armored Trooper VOTOMS!
-I found the following very useful!
-
-### 5 Mecha Anime Better Than Gundam by Pixxellie
+#### 5 Mecha Anime Better Than Gundam by Pixxellie
 
 [![clip](https://img.youtube.com/vi/uYOSpnQT1VA/0.jpg)](https://www.youtube.com/watch?v=uYOSpnQT1VA&t=213s)
 
-### Armored Trooper VOTOMS | Retcon_404 (Anime Retrospective) by Retcon_404
+#### Armored Trooper VOTOMS | Retcon_404 (Anime Retrospective) by Retcon_404
 
 [![clip](https://img.youtube.com/vi/QPz8JMvwjI0/0.jpg)](https://www.youtube.com/watch?v=QPz8JMvwjI0)

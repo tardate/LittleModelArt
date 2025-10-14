@@ -63,7 +63,11 @@ On a wireless charging mat. The device sense protocol is probing for a device to
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=107099)
 * [this project on hackaday.io](https://hackaday.io/project/181712-the-red-eyed-space-marine)
+* Primaris Intercessors
+    * [on scalemates](https://www.scalemates.com/kits/games-workshop-48-75-primaris-intercessors--1266067)
+
+### Research References
+
 * [Primaris Intercessors](https://www.games-workshop.com/en-WW/Space-Marines-Primaris-Intercessors-2020?Pmp=classic&Pep=prod4210284,prod4210429-prod4210315,prod4210325) - games-workshop
-* [Primaris Intercessors](https://www.scalemates.com/kits/games-workshop-48-75-primaris-intercessors--1266067) - scalemates
 * [Intercessor](https://warhammer40k.fandom.com/wiki/Intercessor) - warhammer40k wiki
 * [Fall’s Space Marine Release Lineup - 2019](https://spikeybits.com/2019/09/falls-space-marine-release-lineup-coming-into-focus-now.html) - faction inspirations

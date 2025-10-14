@@ -101,7 +101,14 @@ from [@proper.plane](https://www.instagram.com/proper.plane/)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=134394)
-* [WWII German Military Vehicle Set 1 Pit-Road No. MI02 1:700](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
-* [MI02 1/700 WWII ドイツ軍用車両セット 1](https://pit-road.jp/mi02/)
-* [Chris Becker's armour chess in 1:100](https://www.instagram.com/p/Chbbw94r8Ze/)
+* WWII German Military Vehicle Set 1 Pit-Road No. MI02 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
+    * [on Pit-Road site](https://pit-road.jp/mi02/) - MI02 1/700 WWII ドイツ軍用車両セット 1
+    * [instructions](./assets/MI02-instructions.pdf)
 * [Proper Plane plywood decals](https://properplane.com/accessories_and_decal)
+
+### Research References
+
+### Build References
+
+* [Chris Becker's armour chess in 1:100](https://www.instagram.com/p/Chbbw94r8Ze/)

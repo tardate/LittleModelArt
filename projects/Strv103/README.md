@@ -60,5 +60,10 @@ On a small base with some mud and bushes. Needs more work I think to blend it al
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126921)
+* Strv 103 c MBT Trumpeter No. 07220 1:72
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-07220-strv-103-c--103671)
+    * [instructions](./assets/07220-instructions.pdf)
+
+### Research References
+
 * [Stridsvagn 103](https://en.wikipedia.org/wiki/Stridsvagn_103) - wikipedia
-* [Strv 103 c MBT Trumpeter No. 07220 1:72](https://www.scalemates.com/kits/trumpeter-07220-strv-103-c--103671)

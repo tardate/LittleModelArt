@@ -62,7 +62,12 @@ Nevertheless, I'm pretty happy with how it turned out. But now it may just go in
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135748)
-* [Aerospatiale SA365N Dauphin 2 Trumpeter No. 02818 1:48](https://www.scalemates.com/kits/trumpeter-02818-aerospatiale-sa365n-dauphin-2--149892)
-* [AEROSPATIALE AS365N DAUPHIN 2 02818](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2195&l=en) - trumpeter-china
+* Aerospatiale SA365N Dauphin 2 Trumpeter No. 02818 1:48
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-02818-aerospatiale-sa365n-dauphin-2--149892)
+    * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2195&l=en)
+    * [instructions](./assets/02818-instructions.pdf)
+
+### Research References
+
 * [Registration JA9648](https://flyteam.jp/registration/JA9648)
 * [Eurocopter AS365 Dauphin](https://en.wikipedia.org/wiki/Eurocopter_AS365_Dauphin) - wikipedia

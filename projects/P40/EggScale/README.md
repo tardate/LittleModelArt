@@ -65,5 +65,10 @@ Final shots after decalling...
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=131333)
-* [Curtiss P-40 Warhawk Tiger Model No. TM-106 1:Egg](https://www.scalemates.com/kits/tiger-model-tm-106-curtiss-p-40-warhawk--971184)
+* Curtiss P-40 Warhawk Tiger Model No. TM-106 1:Egg
+    * [on scalemates](https://www.scalemates.com/kits/tiger-model-tm-106-curtiss-p-40-warhawk--971184)
+    * [instructions](./assets/TM106-instructions.pdf)
+
+### Research References
+
 * [Flying Tigers](https://en.wikipedia.org/wiki/Flying_Tigers) - wikipedia

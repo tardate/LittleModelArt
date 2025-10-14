@@ -151,28 +151,38 @@ These kits were both tooled in 2014 and are a joy to build and were an early sig
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140044)
 * Boulton Paul Defiant Mk.I Airfix No. A02069 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02069-boulton-paul-defiant-mki--636182)
+    * [instructions](./assets/A02069-instructions.pdf)
 * Defiant Mk. I for Airfix Eduard No. CX414 1:72
     * [on scalemates](https://www.scalemates.com/kits/eduard-cx414-defiant-mk-i--943106)
+    * [instructions](./assets/CX414-instructions.pdf)
 * Dornier Do-17z Airfix No. A05010A 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a05010a-dornier-do-17z--1396804)
+    * [instructions](./assets/A05010A-instructions.pdf)
 * Do 17 Z for Airfix Eduard No. CX411 1:72
     * [on scalemates](https://www.scalemates.com/kits/eduard-cx411-do-17-z--940535)
-* Research:
-    * <https://en.wikipedia.org/wiki/Boulton_Paul_Defiant>
-    * <https://en.wikipedia.org/wiki/Dornier_Do_17>
+    * [instructions](./assets/CX411-instructions.pdf)
 
-### Video References - Boulton Paul Defiant
+### Research References
 
-#### Boulton Paul Defiant - The Unlucky Turret Fighter - Aircraft History #4 - Rex's Hangar
+* <https://en.wikipedia.org/wiki/Boulton_Paul_Defiant>
+* <https://en.wikipedia.org/wiki/Dornier_Do_17>
+
+#### Boulton Paul Defiant - The Unlucky Turret Fighter - Aircraft History #4
+
+YouTube by Rex's Hangar
 
 [![clip](https://img.youtube.com/vi/aIKMAujFfiQ/0.jpg)](https://www.youtube.com/watch?v=aIKMAujFfiQ)
 
-#### Scale Model Build. Airfix 1/72 Boulton Paul Defiant Mk 1. by Columbus Models
+#### Why Everyone Feared The "Flying Pencil" - Dornier Do 17
 
-[![clip](https://img.youtube.com/vi/7d2_EwJiZz4/0.jpg)](https://www.youtube.com/watch?v=7d2_EwJiZz4)
-
-### Video References - Do-17
-
-#### Why Everyone Feared The "Flying Pencil" - Dornier Do 17 - Rex's Hangar
+YouTube by Rex's Hangar
 
 [![clip](https://img.youtube.com/vi/grvkSRGIFu8/0.jpg)](https://www.youtube.com/watch?v=grvkSRGIFu8)
+
+### Build References
+
+#### Scale Model Build. Airfix 1/72 Boulton Paul Defiant Mk 1
+
+YouTube by by Columbus Models
+
+[![clip](https://img.youtube.com/vi/7d2_EwJiZz4/0.jpg)](https://www.youtube.com/watch?v=7d2_EwJiZz4)

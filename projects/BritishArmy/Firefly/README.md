@@ -145,18 +145,23 @@ Here's a demo of it on the base..
 * Sherman Firefly Vc Airfix No. A02341 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02341-sherman-firefly-vc--1260489)
     * [on airfix](https://uk.airfix.com/products/sherman-firefly-a02341)
+    * [instructions](./assets/A02341_instructions.pdf)
 * Electronics:
     * [TL072 datasheet](http://parts.io/detail/12204535/TL072)
     * [ATtiny85 datasheet](https://www.microchip.com/en-us/product/ATTINY85)
     * [Micro Linear Servo GS-1502](https://shopee.sg/2x-1.5g-Digital-Ultra-Micro-Linear-Servo-V-Tail-Function-GS-1502-Left-Right-i.70675888.1608865461)
-* Research:
-    * <https://en.wikipedia.org/wiki/Sherman_Firefly>
-    * <http://www.theshermantank.com/the-sherman-tank-variant-page-pages-for-each-type-of-sherman-tank/the-firefly-vc/>
-    * [Sherman Firefly](https://www.goodreads.com/book/show/13584144-sherman-firefly) (Osprey New Vanguard #141) by David Fletcher, Tony Bryan (Illustrations)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Sherman_Firefly>
+* <http://www.theshermantank.com/the-sherman-tank-variant-page-pages-for-each-type-of-sherman-tank/the-firefly-vc/>
+* [Sherman Firefly](https://www.goodreads.com/book/show/13584144-sherman-firefly) (Osprey New Vanguard #141) by David Fletcher, Tony Bryan (Illustrations)
 
 ### Build References
 
-#### Building and Finishing the Char B1 bis - Uncle Night Shift
+#### Building and Finishing the Char B1 bis
+
+YouTube by Uncle Night Shift
 
 For weathering tips..
 

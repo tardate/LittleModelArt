@@ -45,7 +45,15 @@ Main colours used:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=138996)
-* [British Light Utility Car Tilly 10HP ACE No. 72500 1:72](https://www.scalemates.com/kits/ace-72500-tilly-10hp--170588)
-* [British Light Utility Car 10HP (Tilly)](https://www.acemodel.com.ua/en/model/431)
+* British Light Utility Car Tilly 10HP ACE No. 72500 1:72
+    * [on scalemates](https://www.scalemates.com/kits/ace-72500-tilly-10hp--170588)
+    * [on ACE site](https://www.acemodel.com.ua/en/model/431)
+    * [instructions](./assets/72500-instructions.pdf)
+
+### Research References
+
 * [Tilly](https://en.wikipedia.org/wiki/Tilly_(vehicle)) - wikipedia
+
+### Build References
+
 * [Models from Ukraine podcast Episode 6: Ace Models](https://podtail.com/podcast/models-from-ukraine/episode-6-ace-models/)

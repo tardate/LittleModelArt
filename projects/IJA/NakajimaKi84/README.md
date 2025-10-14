@@ -77,10 +77,13 @@ As I work through my stash of @armahobby kits, I continue to be amazed by their 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135851)
-* [Nakajima Ki-84 Hayate Expert Set Arma Hobby No. 70051 1:72](https://www.scalemates.com/kits/arma-hobby-70051-nakajima-ki-84-hayate--1407849)
-* [70051 Nakajima Ki-84 Hayate Expert Set!](https://www.armahobby.com/70051-nakajima-ki-84-hayate-expert-set.html) - armahobby
+* Nakajima Ki-84 Hayate Expert Set Arma Hobby No. 70051 1:72
+    * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70051-nakajima-ki-84-hayate--1407849)
+    * [on Arma Hobby site](https://www.armahobby.com/70051-nakajima-ki-84-hayate-expert-set.html)
+* [Pébéo Drawing Gum Marker 0.7mm](https://en.pebeo.com/catalogue/drawing-gum-marker-blister-packed-nib-07-mm-07-mm-033102)
+
+### Research References
+
 * [HAYATE UNDER THE SIGN OF THE WHITE TIGER](http://armahobbynews.pl/blog/2022/05/06/hayate-spod-znaku-bialego-tygrysa/)
 * [Nakajima Ki-84](https://en.wikipedia.org/wiki/Nakajima_Ki-84) - wikipedia
 * [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa) - wikipedia
-* [Pébéo Drawing Gum Marker 0.7mm](https://en.pebeo.com/catalogue/drawing-gum-marker-blister-packed-nib-07-mm-07-mm-033102)
-

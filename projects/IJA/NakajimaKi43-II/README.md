@@ -1,6 +1,6 @@
 # #105 Nakajima Ki-43-II
 
-Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. the Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.
+Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. The Hasegawa 1:72 kit paired with a Pit-Road B-17, pictures somewhere over New Guinea in 1943.
 
 ![Build](./assets/NakajimaKi43-II_build.jpg?raw=true)
 
@@ -17,7 +17,7 @@ Kamikaze or Miscalculation - Mid-air Collision between Hayabusa and Flying Fortr
 |--------------------------------------------------|-------------------------|------------------|------------|
 | interior                                         | Nakajima Interior Green | H70 90% H80 10%  | C127       |
 | cowling interior, instrument panels and fittings | matt black              | H12              |            |
-| prop shaft, pito tube                            |                         | H8               |            |
+| prop shaft, pitot tube                           |                         | H8               |            |
 | engine                                           |                         | H18              |            |
 | exhaust                                          |                         | H76              |            |
 | propeller                                        |                         | H47              |            |
@@ -94,9 +94,15 @@ The scene here is made with the Hasegawa 1:72 Nakajima Ki-43-II, with the pilot 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=152234)
-* [Nakajima Ki-43-II Hayabusa (Oscar) Hasegawa No. A1 1:72](https://www.scalemates.com/kits/hasegawa-a1-nakajima-ki43-ii-hayabusa-oscar--1610527)
-* [Japanese Navy Airmen Set Hasegawa No. X72-16 1:72](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
+* Nakajima Ki-43-II Hayabusa (Oscar) Hasegawa No. A1 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-a1-nakajima-ki43-ii-hayabusa-oscar--1610527)
+* Japanese Navy Airmen Set Hasegawa No. X72-16 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
+* WWII US Warplanes 1 B-17 × 2, B-26, C-47 × 4 each, PBY-5A × 1 Pit-Road No. S-42 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-s-42-wwii-us-warplanes-1--1246895)
+
+### Research References
+
 * [Pacific Adversaries: Japanese Army Air Force vs The Allies: Volume 1 - New Guinea 1942-1944](https://www.goodreads.com/book/show/46160748-pacific-adversaries) Michael John Claringbould
-* [WWII US Warplanes 1 B-17 × 2, B-26, C-47 × 4 each, PBY-5A × 1 Pit-Road No. S-42 1:700](https://www.scalemates.com/kits/pit-road-s-42-wwii-us-warplanes-1--1246895)
 * [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa)
 * [Boeing B-17 Flying Fortress](https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress) - wikipedia

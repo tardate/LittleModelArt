@@ -116,5 +116,6 @@ On display at a show...
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=211751)
 * Fishing boat Green Max No. 2168 1:150
     * [on scalemates](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
+    * [instructions](./assets/2168-instructions.pdf)
 * Tomytec CN-NI118 Diorama Collection Sunbathers 1:150
     * [on scalemates](https://www.scalemates.com/kits/tomytec-per-118-sunbathers--1365502)

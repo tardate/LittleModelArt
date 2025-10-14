@@ -71,7 +71,12 @@ How it's going - very happy with the tarp. Now back on the shelf and I'll call t
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127982)
-* [Arii '57 Daihatsu Midget Owners Club Series Micro Ace No. 41007-800 1:32](https://www.scalemates.com/kits/micro-ace-41007-800-57-daihatsu-midget--276607) - scalemates
+* Arii '57 Daihatsu Midget Owners Club Series Micro Ace No. 41007-800 1:32
+    * [on scalemates](https://www.scalemates.com/kits/micro-ace-41007-800-57-daihatsu-midget--276607)
+    * [instructions](./assets/41007-800-instructions.pdf)
+
+### Research References
+
 * [Daihatsu history](https://www.daihatsu.com/company/history/E_history110/)
 * [Daihatsu Midget](https://en.wikipedia.org/wiki/Daihatsu_Midget) - wikipedia
 * [Daihatsu Midget DKA, 1959](https://auta5p.eu/lang/en/katalog/auto.php?idf=Daihatsu-Midget-DKA-3670) - AUTA 5P

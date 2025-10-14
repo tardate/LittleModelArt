@@ -12,20 +12,6 @@ Ki-27a had excellent maneuverability and was serious enemy for Soviet-built I-15
 
 [![Ki-27_2](./assets/Ki-27_2.jpg?raw=true)](https://en.wikipedia.org/wiki/Nakajima_Ki-27)
 
-### Some Resources
-
-Nakajima Ki-27 | The Nimble "Nate" [Aircraft Overview #14] - Rex's Hangar
-
-[![clip](https://img.youtube.com/vi/gBoIWbVDnk0/0.jpg)](https://www.youtube.com/watch?v=gBoIWbVDnk0)
-
-Ki-27 - Japan's Ultra Agile Fighter - AllthingsWW2
-
-[![clip](https://img.youtube.com/vi/L6vBSZ97NaE/0.jpg)](https://www.youtube.com/watch?v=L6vBSZ97NaE)
-
-build by まり模型
-
-[![clip](https://img.youtube.com/vi/q1qAz9lf-II/0.jpg)](https://www.youtube.com/watch?v=q1qAz9lf-II)
-
 ### Scheme A (selected scheme)
 
 Кi-27а, 1. Sentai Commander Toshio Kato, Nomonhan, June 1939.
@@ -137,8 +123,35 @@ and their diverse catalog is well represented in Models for Ukraine Vol 1 and 2:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=155377)
-* [Ki-27a Japan Army Fighter ICM No. 72201 1:72](https://www.scalemates.com/kits/icm-72201-ki-27a--1476522) - scalemates
-* [Japanese Army Aviation Pilots and Ground Crew WWII Red Box | No. RB72052 | 1:72](https://www.scalemates.com/kits/red-box-rb72052-japanese-army-aviation-pilots-and-ground-crew--952634)
-* [Nakajima Ki-27a/Ki-27b canopy paint mask DEAD Design Models No. VM72136 1:72](https://www.scalemates.com/kits/dead-design-models-vm72136-nakajima-ki-27a-ki-27b-canopy-paint-mask--1367760) - scalemates, not used
-* [Ki-27a](https://icm.com.ua/aviation/ki-27a-2/) - icm
+* Ki-27a Japan Army Fighter ICM No. 72201 1:72
+    * [on scalemates](https://www.scalemates.com/kits/icm-72201-ki-27a--1476522)
+    * [at ICM](https://icm.com.ua/aviation/ki-27a-2/)
+* Japanese Army Aviation Pilots and Ground Crew WWII Red Box No. RB72052 1:72
+    * [on scalemates](https://www.scalemates.com/kits/red-box-rb72052-japanese-army-aviation-pilots-and-ground-crew--952634)
+* Nakajima Ki-27a/Ki-27b canopy paint mask DEAD Design Models No. VM72136 1:72
+    * not used
+    * [on scalemates](https://www.scalemates.com/kits/dead-design-models-vm72136-nakajima-ki-27a-ki-27b-canopy-paint-mask--1367760)
+
+## Research References
+
 * [Nakajima Ki-27](https://en.wikipedia.org/wiki/Nakajima_Ki-27) - wikipedia
+
+### Nakajima Ki-27 | The Nimble "Nate" [Aircraft Overview #14]
+
+YouTube by Rex's Hangar
+
+[![clip](https://img.youtube.com/vi/gBoIWbVDnk0/0.jpg)](https://www.youtube.com/watch?v=gBoIWbVDnk0)
+
+### Ki-27 - Japan's Ultra Agile Fighter
+
+YouTube by AllthingsWW2
+
+[![clip](https://img.youtube.com/vi/L6vBSZ97NaE/0.jpg)](https://www.youtube.com/watch?v=L6vBSZ97NaE)
+
+## Build References
+
+### 【プラモデル製作】ICM　1/72　ki-27b　九七式戦闘機　を作る
+
+YouTube by まり模型
+
+[![clip](https://img.youtube.com/vi/q1qAz9lf-II/0.jpg)](https://www.youtube.com/watch?v=q1qAz9lf-II)

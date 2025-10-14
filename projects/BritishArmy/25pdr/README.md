@@ -77,8 +77,13 @@ Adding a simple display base. Maybe add some more detail to the base later..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=104319)
-* [25 PDR Field Gun and Quad A01305](https://www.scalemates.com/kits/airfix-a01305-25-pdr-field-gun-and-quad--164214) - scalemates
-* [25PDR Field Gun & Quad A01305V](https://uk.airfix.com/products/25pdr-field-gun-quad-a01305v) - current Airfix model
+* 25 PDR Field Gun and Quad A01305
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a01305-25-pdr-field-gun-and-quad--164214)
+    * [current A01305V kit on Airfix site](https://uk.airfix.com/products/25pdr-field-gun-quad-a01305v)
+    * [instructions](./assets/A01305V-instructions.pdf)
+
+### Research References
+
 * [Morris C8](https://en.wikipedia.org/wiki/Morris_C8)
 * [Ordnance QF 25-pounder](https://en.wikipedia.org/wiki/Ordnance_QF_25-pounder)
 * [Review - IPMS/USA](https://web.ipmsusa3.org/content/25pdr-field-gun-quad)

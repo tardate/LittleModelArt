@@ -59,7 +59,12 @@ First test of 77.701 Acrylic METALCOTE Aluminium... nice.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=117577)
-* [CAC CA-3/5 Wirraway "First Blood over Rabaul" Special Hobby No. SH72331, 1:72](https://www.scalemates.com/kits/special-hobby-sh72331-cac-ca-3-5-wirraway--966331) - scalemates
-* [CAC CA-3/5 Wirraway](https://www.specialhobby.eu/en/our-own-production/cac-ca-3-5-wirraway-first-blood-over-rabaul-1.html) - specialhobby
+* CAC CA-3/5 Wirraway "First Blood over Rabaul" Special Hobby No. SH72331, 1:72
+    * [on scalemates](https://www.scalemates.com/kits/special-hobby-sh72331-cac-ca-3-5-wirraway--966331)
+    * [on Special Hobby site](https://www.specialhobby.eu/en/our-own-production/cac-ca-3-5-wirraway-first-blood-over-rabaul-1.html)
+    * [instructions](./assets/SH72331-instructions.pdf)
+
+### Research References
+
 * [CAC Wirraway](https://en.wikipedia.org/wiki/CAC_Wirraway)
 * [No. 21 Squadron RAAF](https://en.wikipedia.org/wiki/No._21_Squadron_RAAF)

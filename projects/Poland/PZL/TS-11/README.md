@@ -94,7 +94,12 @@ Finally back to lay down a most interesting camo scheme on the Arma Hobby 1:72 P
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=126847)
-* [70010 TS-11 Iskra bis DF Expert Set!](https://www.armahobby.com/70010-ts-11-iskra-bis-df-expert-set.html) - armahobby
-* [TS-11 Iskra bis DF Expert Set Arma Hobby No. 70010 1:72](https://www.scalemates.com/kits/arma-hobby-70010-ts-11-iskra-bis-df--1026291) - scalemates
+* TS-11 Iskra bis DF Expert Set Arma Hobby No. 70010 1:72
+    * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70010-ts-11-iskra-bis-df--1026291)
+    * [on Arm Hobby site](https://www.armahobby.com/70010-ts-11-iskra-bis-df-expert-set.html)
+    * [instructions](./assets/70010-instructions.pdf)
+
+### Research References
+
 * [PZL TS-11 Iskra](https://en.wikipedia.org/wiki/PZL_TS-11_Iskra) - wikipedia
 * [PZL TS-11 Iskra Trainer Aircraft](https://www.airforce-technology.com/projects/pzl-ts-11-iskra-trainer-aircraft/)

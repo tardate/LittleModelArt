@@ -29,7 +29,7 @@ but I'm pretty impressed at the closeness of the model designer's approximation 
 
 ### Construction
 
-Following the [kit instructions](./assets/kit_instructions.pdf?raw=true)..
+Following the [kit instructions](./assets/PF-SV009-instructions.pdf)..
 the construction quality of the kit is excellent - all pieces perfectly laser cut.
 
 ![kit_unboxing](./assets/kit_unboxing.jpg?raw=true)

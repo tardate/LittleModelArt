@@ -74,6 +74,7 @@ And it closes too;-)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=141627)
-* [Teddy Bear Viking Aurora Model No. CT-026](https://www.scalemates.com/kits/aurora-model-ct-026-teddy-bear-viking--1469451)
-* [CT-026　Teddy Bear Viking (Mascot Miniatures)](https://aurora-model.jp/e-mascot-vol2.html) - aurora-model
+* Teddy Bear Viking Aurora Model No. CT-026
+    * [on scalemates](https://www.scalemates.com/kits/aurora-model-ct-026-teddy-bear-viking--1469451)
+    * [on Aurora Model site](https://aurora-model.jp/e-mascot-vol2.html) - aurora-model
 * [100PCS 5mm Blinking Candle LED](https://www.aliexpress.com/item/32782781815.html) - aliexpress

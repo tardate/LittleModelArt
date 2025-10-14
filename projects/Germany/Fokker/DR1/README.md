@@ -68,6 +68,10 @@ Not bad for a 1957 kit.. didn't try to do anything special with it.
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=160838)
 * Fokker DR.1 & Bristol F.2B Dogfight Doubles Vintage Classics Airfix No. A02141V 1:72
-    * on [scalemates](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
-    * on [airfix.com](https://uk.airfix.com/products/fokker-dr1-triplane-bristol-fighter-dogfight-double-a02141v?_br_psugg_q=a02141v)
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
+    * [on Airfix site](https://uk.airfix.com/products/fokker-dr1-triplane-bristol-fighter-dogfight-double-a02141v?_br_psugg_q=a02141v)
+    * [instructions](./assets/A02141V-instructions.pdf)
+
+### Research References
+
 * [Fokker Dr.I](https://en.wikipedia.org/wiki/Fokker_Dr.I) - wikipedia

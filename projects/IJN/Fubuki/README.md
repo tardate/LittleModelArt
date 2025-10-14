@@ -87,12 +87,20 @@ IJN Fubuki 吹雪 tooling along at flank speed. That would be about 38(!) knots.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=118035)
-* [IJN Destroyer Fubuki Yamashita Hobby - No. 020613 - 1:700](https://www.scalemates.com/kits/yamashita-hobby-020613-ijn-destroyer-fubuki--1326256)
-* [IJN Destroyer Fubuki 1941 Detail Up Set Tetra Model Works - No. SE-70007 - 1:700](https://www.scalemates.com/kits/tetra-model-works-se-70007-ijn-destroyer-fubuki-1941-detail-up-set--965743)
+* IJN Destroyer Fubuki Yamashita Hobby - No. 020613 - 1:700
+    * [on scalemates](https://www.scalemates.com/kits/yamashita-hobby-020613-ijn-destroyer-fubuki--1326256)
+* IJN Destroyer Fubuki 1941 Detail Up Set Tetra Model Works - No. SE-70007 - 1:700
+    * [on scalemates](https://www.scalemates.com/kits/tetra-model-works-se-70007-ijn-destroyer-fubuki-1941-detail-up-set--965743)
+* [QW-Model Q04004 0.047mm rubber rigging](http://www.qw-model.com/nd.jsp?id=59#_np=111_356)
 * [Inside the Armour](https://www.insidethearmour.com/yamashita-hobby-kits)
+* [Clear Acrylic Display Box 20x12x9cm](https://mall.shopee.sg/Clear-Acrylic-Display-Box-Dustproof-Case-Cube-for-Figure-Vehicle-Model-Doll-Toys-i.89114465.2587594181)
+
+### Research References
+
 * [Japanese destroyer Fubuki (1927)](https://en.wikipedia.org/wiki/Japanese_destroyer_Fubuki_(1927)) - wikipedia
 * [IJN Fubuki: Tabular Record of Movement](http://www.combinedfleet.com/fubuki_t.htm)
+
+### Build References
+
 * [Yamashita Hobby Fubuki review](http://www.modelwarships.com/reviews/ships/ijn/dd/Fubuki-700-yh-dk/index.htm) - modelwarships.com
-* [QW-Model Q04004 0.047mm rubber rigging](http://www.qw-model.com/nd.jsp?id=59#_np=111_356)
 * [Wave Patterns by Donald C. Simon](https://web.archive.org/web/20090124171948/http://steelnavy.com/WavePatterns.htm)
-* [Clear Acrylic Display Box 20x12x9cm](https://mall.shopee.sg/Clear-Acrylic-Display-Box-Dustproof-Case-Cube-for-Figure-Vehicle-Model-Doll-Toys-i.89114465.2587594181)

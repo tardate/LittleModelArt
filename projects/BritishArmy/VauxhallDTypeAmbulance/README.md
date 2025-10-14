@@ -65,6 +65,11 @@ Quick session in the spray booth..
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=120359)
-* [Vauxhall D-type Red cross Roden  No. 717 1:72](https://www.scalemates.com/kits/roden-717-vauxhall-d-type-red-cross--1048054)
-* [Vauxhall D-type Staff Ambulance](http://www.roden.eu/HTML/717.html) - roden
+* Vauxhall D-type Red cross Roden  No. 717 1:72
+    * [on scalemates](https://www.scalemates.com/kits/roden-717-vauxhall-d-type-red-cross--1048054)
+    * [on Roden site](http://www.roden.eu/HTML/717.html)
+    * [instructions](./assets/717-instructions.pdf)
+
+### Research References
+
 * [Vauxhall D-type](https://en.wikipedia.org/wiki/Vauxhall_D-Type) - wikipedia

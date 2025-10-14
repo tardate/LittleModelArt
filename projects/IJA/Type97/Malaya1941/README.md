@@ -50,6 +50,10 @@ No 3 Squadron No 1 Tank Division Malaya 1941/2
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=167701)
-* [Type 97 Medium Tank Chi-Ha Vintage Classics Airfix No. A01319V 1:76](https://www.scalemates.com/kits/airfix-a01319v-type-97-medium-tank-chi-ha--1403237)
-* [A01319V Type 97 Chi Ha Japanese Tank](https://uk.airfix.com/products/type-97-chi-ha-japanese-tank-a01319v)
+* Type 97 Medium Tank Chi-Ha Vintage Classics Airfix No. A01319V 1:76
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a01319v-type-97-medium-tank-chi-ha--1403237)
+    * [on Airfix site](https://uk.airfix.com/products/type-97-chi-ha-japanese-tank-a01319v)
+
+### Research References
+
 * [Type 97 Chi-Ha medium tank](https://en.wikipedia.org/wiki/Type_97_Chi-Ha_medium_tank) - wikipedia
