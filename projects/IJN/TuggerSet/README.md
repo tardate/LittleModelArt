@@ -1,4 +1,4 @@
-# #xxx IJN Tugger Set
+# #156 IJN Tugger Set
 
 Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!
 

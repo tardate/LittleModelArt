@@ -1,5 +1,15 @@
 [
     {
+        "name": "IJN Tugger Set",
+        "description": "Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!",
+        "categories": "Ships - military, Japan, IJN",
+        "relative_path": "projects/ijn/tuggerset",
+        "updated_at": "2025-10-21T16:33:00Z",
+        "created_at": "2025-10-21T16:33:00Z",
+        "id": "#156",
+        "original_relative_path": "projects/IJN/TuggerSet"
+    },
+    {
         "name": "Fairey Flycatcher",
         "description": "Building the Fairey Flycatcher stationed at HMS Hermes, China Station, 1930. This is the Armory Models Group kit in 1:48, with a hand carved prop and wood decals from Proper Plane of Ukraine. All upstaged by a couple of cheeky seagulls.",
         "categories": "Aircraft - military, UK",
