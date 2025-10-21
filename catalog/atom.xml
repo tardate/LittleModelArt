@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-10-12T03:06:00Z</updated>
+  <updated>2025-10-21T16:33:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/tuggerset/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/tuggerset/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/tuggerset/assets/tuggerset_build.jpg</g:image_link>
+    <updated>2025-10-21T16:33:00Z</updated>
+    <title>#156 IJN Tugger Set</title>
+    <summary>Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/tuggerset/assets/tuggerset_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Ships - military"/>
+    <category term="Japan"/>
+    <category term="IJN"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/royalnavy/fairey/flycatcher/</id>
     <link href="https://modelart.tardate.com/projects/royalnavy/fairey/flycatcher/"/>

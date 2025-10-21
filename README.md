@@ -1,6 +1,6 @@
-# 155 Little Model Art Projects
+# 156 Little Model Art Projects
 
-> Latest addition :sparkles: [Fairey Flycatcher](./projects/RoyalNavy/Fairey/Flycatcher) - Building the Fairey Flycatcher stationed at HMS Hermes, China Station, 1930. This is the Armory Models Group kit in 1:48, with a hand carved prop and wood decals from Proper Plane of Ukraine. All upstaged by a couple of cheeky seagulls.
+> Latest addition :sparkles: [IJN Tugger Set](./projects/IJN/TuggerSet) - Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
