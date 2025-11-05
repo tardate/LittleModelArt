@@ -1,4 +1,13 @@
 {
+    "/projects/japan/subaru360/": {
+        "id": 157,
+        "title": "Subaru 360 Young-SS",
+        "summary": "Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.",
+        "tags": [
+            "Vehicles - civil",
+            "Japan"
+        ]
+    },
     "/projects/ijn/tuggerset/": {
         "id": 156,
         "title": "IJN Tugger Set",

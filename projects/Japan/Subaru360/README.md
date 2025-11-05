@@ -1,4 +1,4 @@
-# #xxx Subaru 360 Young-SS
+# #157 Subaru 360 Young-SS
 
 Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.
 

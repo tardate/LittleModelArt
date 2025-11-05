@@ -7,12 +7,23 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-10-21T16:33:00Z</updated>
+  <updated>2025-11-05T09:51:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/japan/subaru360/</id>
+    <link href="https://modelart.tardate.com/projects/japan/subaru360/"/>
+    <g:image_link>https://modelart.tardate.com/projects/japan/subaru360/assets/subaru360_build.jpg</g:image_link>
+    <updated>2025-11-05T09:51:00Z</updated>
+    <title>#157 Subaru 360 Young-SS</title>
+    <summary>Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/japan/subaru360/assets/subaru360_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Vehicles - civil"/>
+    <category term="Japan"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/tuggerset/</id>
     <link href="https://modelart.tardate.com/projects/ijn/tuggerset/"/>
