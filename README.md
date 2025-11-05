@@ -1,6 +1,6 @@
-# 157 Little Model Art Projects
+# 158 Little Model Art Projects
 
-> Latest addition :sparkles: [Subaru 360 Young-SS](./projects/Japan/Subaru360) - Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.
+> Latest addition :sparkles: [Confrontation On Tarawa](./projects/IJA/ConfrontationOnTarawa) - US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

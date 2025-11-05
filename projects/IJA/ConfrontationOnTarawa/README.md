@@ -1,4 +1,4 @@
-# #xxx Confrontation On Tarawa
+# #158 Confrontation On Tarawa
 
 US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.
 

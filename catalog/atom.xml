@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-11-05T09:51:00Z</updated>
+  <updated>2025-11-05T16:42:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ija/confrontationontarawa/</id>
+    <link href="https://modelart.tardate.com/projects/ija/confrontationontarawa/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ija/confrontationontarawa/assets/confrontationontarawa_build.jpg</g:image_link>
+    <updated>2025-11-05T16:42:00Z</updated>
+    <title>#158 Confrontation On Tarawa</title>
+    <summary>US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/confrontationontarawa/assets/confrontationontarawa_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Figures"/>
+    <category term="Japan"/>
+    <category term="IJA"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/japan/subaru360/</id>
     <link href="https://modelart.tardate.com/projects/japan/subaru360/"/>
