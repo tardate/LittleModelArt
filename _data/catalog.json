@@ -1,5 +1,15 @@
 [
     {
+        "name": "Subaru 360 Young-SS",
+        "description": "Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.",
+        "categories": "Vehicles - civil, Japan",
+        "relative_path": "projects/japan/subaru360",
+        "updated_at": "2025-11-05T09:51:00Z",
+        "created_at": "2025-11-05T09:51:00Z",
+        "id": "#157",
+        "original_relative_path": "projects/Japan/Subaru360"
+    },
+    {
         "name": "IJN Tugger Set",
         "description": "Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!",
         "categories": "Ships - military, Japan, IJN",

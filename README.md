@@ -1,6 +1,6 @@
-# 156 Little Model Art Projects
+# 157 Little Model Art Projects
 
-> Latest addition :sparkles: [IJN Tugger Set](./projects/IJN/TuggerSet) - Building the Water Line Series 509 IJN Tugger Set in 1:700. I am sure these will be deployed for various dioramas in the future!
+> Latest addition :sparkles: [Subaru 360 Young-SS](./projects/Japan/Subaru360) - Building the Hasegawa 1:24 kit of the Subaru 360 Young-SS with figure.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
