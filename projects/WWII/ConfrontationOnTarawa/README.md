@@ -1,6 +1,6 @@
 # #158 Confrontation On Tarawa
 
-US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.
+Battle of Tarawa, 1943: US Marines land on Betio and engage forces including the 7th Sasebo Special Naval Landing Force that fight virtually to the last man. A scene with 1:35 figures from Master Box.
 
 ![Build](./assets/ConfrontationOnTarawa_build.jpg?raw=true)
 
