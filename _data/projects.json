@@ -1,12 +1,13 @@
 {
-    "/projects/ija/confrontationontarawa/": {
+    "/projects/wwii/confrontationontarawa/": {
         "id": 158,
         "title": "Confrontation On Tarawa",
-        "summary": "US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa, 1943. A scene with 1:35 figures from Master Box.",
+        "summary": "Battle of Tarawa, 1943: US Marines land on Betio and engage forces including the 7th Sasebo Special Naval Landing Force that fight virtually to the last man. A scene with 1:35 figures from Master Box.",
         "tags": [
             "Figures",
             "Japan",
-            "IJA"
+            "IJN",
+            "USMC"
         ]
     },
     "/projects/japan/subaru360/": {
@@ -586,7 +587,7 @@
             "Electronics"
         ]
     },
-    "/projects/defiantmkivdo17z/": {
+    "/projects/wwii/defiantmkivdo17z/": {
         "id": 97,
         "title": "Defiant v Do-17z",
         "summary": "Aces High! A Boulton Paul Defiant Mk.I bringing down a Dornier Do-17z 'flying pencil', built with the Airfix 1:72 kits from 2014.",
@@ -929,7 +930,7 @@
             "Destroyer"
         ]
     },
-    "/projects/axisofchess/": {
+    "/projects/wwii/axisofchess/": {
         "id": 62,
         "title": "Axis Of Chess",
         "summary": "Welcome to Axis of Chess, my little excuse for using up a bunch of spare Pit-Road 1:700 vehicles.",
@@ -1257,7 +1258,7 @@
             "Electronics"
         ]
     },
-    "/projects/thatisnotatoy/": {
+    "/projects/wwii/thatisnotatoy/": {
         "id": 28,
         "title": "That is not a toy, my boy!",
         "summary": "A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!",
