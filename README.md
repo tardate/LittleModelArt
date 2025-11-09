@@ -1,6 +1,6 @@
-# 158 Little Model Art Projects
+# 159 Little Model Art Projects
 
-> Latest addition :sparkles: [Confrontation On Tarawa](./projects/WWII/ConfrontationOnTarawa) - Battle of Tarawa, 1943: US Marines land on Betio and engage forces including the 7th Sasebo Special Naval Landing Force that fight virtually to the last man. A scene with 1:35 figures from Master Box.
+> Latest addition :sparkles: [Aichi E11A](./projects/IJN/AichiE11A/E11A) - Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

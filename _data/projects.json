@@ -1,4 +1,14 @@
 {
+    "/projects/ijn/aichie11a/e11a/": {
+        "id": 159,
+        "title": "Aichi E11A",
+        "summary": "Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.",
+        "tags": [
+            "Aircraft - military",
+            "Japan",
+            "IJN"
+        ]
+    },
     "/projects/wwii/confrontationontarawa/": {
         "id": 158,
         "title": "Confrontation On Tarawa",
@@ -663,7 +673,7 @@
             "Japan"
         ]
     },
-    "/projects/ija/racetojitra/": {
+    "/projects/wwii/racetojitra/": {
         "id": 89,
         "title": "Race To Jitra",
         "summary": "Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.",

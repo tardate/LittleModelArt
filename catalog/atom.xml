@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-11-05T16:42:00Z</updated>
+  <updated>2025-11-09T06:43:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/aichie11a/e11a/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/aichie11a/e11a/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/aichie11a/e11a/assets/e11a_build.jpg</g:image_link>
+    <updated>2025-11-09T06:43:00Z</updated>
+    <title>#159 Aichi E11A</title>
+    <summary>Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/aichie11a/e11a/assets/e11a_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Aircraft - military"/>
+    <category term="Japan"/>
+    <category term="IJN"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/wwii/confrontationontarawa/</id>
     <link href="https://modelart.tardate.com/projects/wwii/confrontationontarawa/"/>
@@ -816,13 +828,13 @@
     <category term="Japan"/>
   </entry>
   <entry>
-    <id>https://modelart.tardate.com/projects/ija/racetojitra/</id>
-    <link href="https://modelart.tardate.com/projects/ija/racetojitra/"/>
-    <g:image_link>https://modelart.tardate.com/projects/ija/racetojitra/assets/racetojitra_build.jpg</g:image_link>
+    <id>https://modelart.tardate.com/projects/wwii/racetojitra/</id>
+    <link href="https://modelart.tardate.com/projects/wwii/racetojitra/"/>
+    <g:image_link>https://modelart.tardate.com/projects/wwii/racetojitra/assets/racetojitra_build.jpg</g:image_link>
     <updated>2023-06-06T15:43:19Z</updated>
     <title>#089 Race To Jitra</title>
     <summary>Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ija/racetojitra/assets/racetojitra_build.jpg" /&gt;&lt;/div&gt;</content>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building a double-sided box diorama in mixed scales to capture the rapid advance of Japanese forces during the Invasion of Malaya. The Battle of Jitra was one of many engagements where the advancing force overwhelmed the under-prepared defenders on the peninsula.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/wwii/racetojitra/assets/racetojitra_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="Ships - military"/>
     <category term="Japan"/>
