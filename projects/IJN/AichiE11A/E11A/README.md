@@ -4,6 +4,10 @@ Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using th
 
 ![Build](./assets/E11A_build.jpg?raw=true)
 
+Here's a quick demo..
+
+[![clip](https://img.youtube.com/vi/cFa6tRoWu_c/0.jpg)](https://www.youtube.com/watch?v=cFa6tRoWu_c)
+
 ## Notes
 
 The [Aichi E11A](https://en.wikipedia.org/wiki/Aichi_E11A) Type 98 Reconnaissance Seaplane (九八夜偵, Kyū-hachi Yatei) was an Imperial Japanese Navy flying boat used during the first year of World War II for maritime patrol duties. The Allied reporting name for this type was "Laura".
