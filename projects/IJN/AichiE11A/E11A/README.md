@@ -1,6 +1,6 @@
-# #xxx Aichi E11A
+# #159 Aichi E11A
 
-Building the Aichi E11A Type 98 Reconnaissance Seaplane
+Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.
 
 ![Build](./assets/E11A_build.jpg?raw=true)
 
