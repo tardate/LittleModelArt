@@ -1,6 +1,6 @@
-# 159 Little Model Art Projects
+# 160 Little Model Art Projects
 
-> Latest addition :sparkles: [Aichi E11A](./projects/IJN/AichiE11A/E11A) - Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.
+> Latest addition :sparkles: [Gloster Javelin FAW.9R](./projects/RAF/Gloster/Javelin) - Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

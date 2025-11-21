@@ -1,4 +1,4 @@
-# #xxx Gloster Javelin FAW.9R
+# #160 Gloster Javelin FAW.9R
 
 Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah.
 

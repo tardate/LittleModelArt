@@ -7,12 +7,25 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2025-11-09T06:43:00Z</updated>
+  <updated>2025-11-21T03:25:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/raf/gloster/javelin/</id>
+    <link href="https://modelart.tardate.com/projects/raf/gloster/javelin/"/>
+    <g:image_link>https://modelart.tardate.com/projects/raf/gloster/javelin/assets/javelin_build.jpg</g:image_link>
+    <updated>2025-11-21T03:25:00Z</updated>
+    <title>#160 Gloster Javelin FAW.9R</title>
+    <summary>Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/javelin/assets/javelin_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Aircraft - military"/>
+    <category term="UK"/>
+    <category term="Singapore"/>
+    <category term="Gloster"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/aichie11a/e11a/</id>
     <link href="https://modelart.tardate.com/projects/ijn/aichie11a/e11a/"/>
@@ -396,6 +409,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/meteorfr9/assets/meteorfr9_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
+    <category term="Gloster"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/mitsubishia6m/a6m2b/</id>
@@ -958,6 +972,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/raf/gloster/pioneere.28-39/assets/pioneere.28-39_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Aircraft - military"/>
     <category term="UK"/>
+    <category term="Gloster"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/bellanca/pacemaker/</id>

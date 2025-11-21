@@ -1,4 +1,15 @@
 {
+    "/projects/raf/gloster/javelin/": {
+        "id": 160,
+        "title": "Gloster Javelin FAW.9R",
+        "summary": "Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah",
+        "tags": [
+            "Aircraft - military",
+            "UK",
+            "Singapore",
+            "Gloster"
+        ]
+    },
     "/projects/ijn/aichie11a/e11a/": {
         "id": 159,
         "title": "Aichi E11A",
@@ -314,7 +325,8 @@
         "summary": "Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.",
         "tags": [
             "Aircraft - military",
-            "UK"
+            "UK",
+            "Gloster"
         ]
     },
     "/projects/ijn/mitsubishia6m/a6m2b/": {
@@ -780,7 +792,8 @@
         "summary": "Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine",
         "tags": [
             "Aircraft - military",
-            "UK"
+            "UK",
+            "Gloster"
         ]
     },
     "/projects/bellanca/pacemaker/": {

@@ -1,5 +1,15 @@
 [
     {
+        "name": "Gloster Javelin FAW.9R",
+        "description": "Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah",
+        "categories": "Aircraft - military, UK, Singapore, Gloster",
+        "relative_path": "projects/raf/gloster/javelin",
+        "updated_at": "2025-11-21T03:25:00Z",
+        "created_at": "2025-11-21T03:25:00Z",
+        "id": "#160",
+        "original_relative_path": "projects/RAF/Gloster/Javelin"
+    },
+    {
         "name": "Aichi E11A",
         "description": "Building and motorising the Aichi E11A Type 98 Reconnaissance Seaplane, using the 2020 release of the Fujimi 1:72 kit.",
         "categories": "Aircraft - military, Japan, IJN",
@@ -323,7 +333,7 @@
         "id": "#127",
         "name": "Gloster Meteor FR.9",
         "description": "Building the 1:72 Airfix 2022 tooling of the Gloster Meteor FR.9.",
-        "categories": "Aircraft - military, UK",
+        "categories": "Aircraft - military, UK, Gloster",
         "relative_path": "projects/raf/gloster/meteorfr9",
         "updated_at": "2024-09-23T09:10:00Z",
         "created_at": "2024-09-23T09:10:00Z",
@@ -803,7 +813,7 @@
         "id": "#079",
         "name": "Gloster Pioneer E.28-39",
         "description": "Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine",
-        "categories": "Aircraft - military, UK",
+        "categories": "Aircraft - military, UK, Gloster",
         "relative_path": "projects/raf/gloster/pioneere.28-39",
         "updated_at": "2023-02-25T01:53:10Z",
         "created_at": "2023-02-25T01:53:10Z",
