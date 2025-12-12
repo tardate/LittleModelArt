@@ -60,7 +60,7 @@ I'll be depicting scheme B in this build.
 It didn't take long for me to realise that this build was going to be a challenge.
 The mould tolerances are a country mile!
 
-I son gave up any pretence of trying to deal with my seam-lines and allowed my to build this "old school"..
+I soon gave up any pretence of trying to deal with the seam lines and allowed my to build proceed "old school"..
 
 ![build01a](./assets/build01a.jpg?raw=true)
 
