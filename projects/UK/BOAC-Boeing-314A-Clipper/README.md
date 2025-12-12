@@ -1,4 +1,4 @@
-# #xxx BOAC Boeing 314A Clipper
+# #161 BOAC Boeing 314A Clipper
 
 Building the Airfix 1:144 Vintage Classic kit of the Boeing 314 Clipper, in the livery of BOAC 1941.
 
