@@ -1,6 +1,6 @@
-# 160 Little Model Art Projects
+# 161 Little Model Art Projects
 
-> Latest addition :sparkles: [Gloster Javelin FAW.9R](./projects/RAF/Gloster/Javelin) - Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah
+> Latest addition :sparkles: [BOAC Boeing 314A Clipper](./projects/UK/BOAC-Boeing-314A-Clipper) - Building the Airfix 1:144 Vintage Classic kit of the Boeing 314 Clipper, in the livery of BOAC 1941.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

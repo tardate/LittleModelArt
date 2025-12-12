@@ -1,4 +1,13 @@
 {
+    "/projects/uk/boac-boeing-314a-clipper/": {
+        "id": 161,
+        "title": "BOAC Boeing 314A Clipper",
+        "summary": "Building the Airfix 1:144 Vintage Classic kit of the Boeing 314 Clipper, in the livery of BOAC 1941.",
+        "tags": [
+            "Aircraft - civil",
+            "UK"
+        ]
+    },
     "/projects/raf/gloster/javelin/": {
         "id": 160,
         "title": "Gloster Javelin FAW.9R",
