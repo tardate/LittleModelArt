@@ -50,7 +50,7 @@ plane is basically finished, now thinking about the final presentation..
 ![build04f](./assets/build04f.jpg?raw=true)
 ![build04g](./assets/build04g.jpg?raw=true)
 
-The eye-catching @dorawings kit of the Bellanca CH-300 Pacemaker & my appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.
+The eye-catching Dora Wings kit of the Bellanca CH-300 Pacemaker & my appropriately? kitsch presentation: Inter Island Airways livery over the beaches of Hawaii.
 
 Dora Wings of Ukraine have a wonderfully eclectic range of aircraft from the "golden era" of flight.
 Eugen told his story to Chris Meddings on the Models from Ukraine podcast Episode 9 - it is well worth a listen if you are interested in how small kit business became one of the best in the world, and continues to do so in the middle of a war.

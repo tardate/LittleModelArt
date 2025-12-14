@@ -1,6 +1,6 @@
 # #068 In Spring
 
-Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..
+Perhaps my final build for 2022. Fittingly, figures from Master Box of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..
 
 ![InSpring_slide1](./assets/InSpring_slide1.jpg?raw=true)
 
@@ -10,7 +10,7 @@ Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, i
 
 Title: "In spring.."
 
-Perhaps my final build for 2022. Fittingly, figures from MasterBox of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..
+Perhaps my final build for 2022. Fittingly, figures from Master Box of Ukraine, in a diorama that attempts to capture my greatest hope for what will come in the new year..
 
 > "If we survive this winter, and we will definitely survive it, we will definitely win this war."
 
