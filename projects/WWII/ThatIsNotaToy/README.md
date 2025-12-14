@@ -1,6 +1,6 @@
 # #028 "That is not a toy, my boy!"
 
-A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some MasterBox figures and a bonsai tree!
+A somewhat unconventional diorama featuring an Airfix 1:35 M7 Priest, some Master Box figures and a bonsai tree!
 
 ![Build](./assets/ThatIsNotaToy_build.jpg?raw=true)
 
@@ -45,7 +45,7 @@ Adjusting some poses and attempting to youth-ify the "child" from a Master Box W
 
 ![build01a](./assets/build01a.jpg?raw=true)
 
-First pass painting these 1:35 MasterBox figures. Still trying to knock another few years off the "child", but pretty happy how they are turning out
+First pass painting these 1:35 Master Box figures. Still trying to knock another few years off the "child", but pretty happy how they are turning out
 
 ![build01b](./assets/build01b.jpg?raw=true)
 

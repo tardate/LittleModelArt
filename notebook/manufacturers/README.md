@@ -188,7 +188,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Ukraine          | [lemkits](http://lemkits.com/)                                           | resin kits |
 | Ukraine          | [Mars Figures](http://www.marsfigures.com/)                              | Figures |
 | Ukraine          | [Mars Models](http://www.marsmodels.eu/)                                 | Aftermarket, Kits, Tools |
-| Ukraine          | [MasterBox](http://www.mbltd.info/)                                      | figures, vehicles |
+| Ukraine          | [Master Box](http://www.mbltd.info/)                                      | figures, vehicles |
 | Ukraine          | [Metallic Details](http://metdetails.com/)                               | PE, resin |
 | Ukraine          | [Mikro Mir](http://mikro-mir.com)                                        | rare custom-made military equipment |
 | Ukraine          | [Mini World](https://miniworld.in.ua/en/)                                | high quality accessories for scale models|

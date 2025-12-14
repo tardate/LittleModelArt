@@ -1,6 +1,6 @@
 # #005 GoldenHind
 
-Building a mini metal model of the Golden Hind.
+Building a Mini Qute metal model of the Golden Hind.
 
 ![Build](./assets/GoldenHind_build.jpg?raw=true)
 
@@ -25,7 +25,7 @@ The [Golden Hind](https://en.wikipedia.org/wiki/Golden_Hind) was an English gall
 There is only so much detail you can pack into a 20-piece model no more than 10cm long,
 but I'm pretty impressed at the closeness of the model designer's approximation and the level of detail that has ben included.
 
-[![Golden_Hind_1581](https://upload.wikimedia.org/wikipedia/en/b/b8/Golden_Hind_1581.jpg)](https://en.wikipedia.org/wiki/File:Golden_Hind_1581.jpg#/media/File:Golden_Hind_1581.jpg)
+[![Golden_Hind_1581](./assets/Francis-drake-galleon-southwark-london-uk.jpg)](https://en.wikipedia.org/wiki/Golden_Hind#/media/File:Francis-drake-galleon-southwark-london-uk.jpg)
 
 ### Construction
 

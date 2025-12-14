@@ -1,6 +1,6 @@
 # #109 Caudron-Renault CR.714
 
-Building the DoraWings Caudron-Renault CR.714 with a little Christmas Spirit.
+Building the Dora Wings Caudron-Renault CR.714 with a little Christmas Spirit.
 
 ![Build](./assets/CR714_build.jpg?raw=true)
 

@@ -1,6 +1,6 @@
 # #079 Gloster Pioneer E.28-39
 
-Building the Gloster Pioneer E.28-39 from Clear Prop models of Ukraine.
+Building the Gloster Pioneer E.28-39 from ClearProp models of Ukraine.
 
 ![Build](./assets/PioneerE.28-39_build.jpg?raw=true)
 
@@ -16,7 +16,7 @@ In 1946, the first prototype (W4041) was placed in the Science Museum in Central
 
 The
 [Gloster E28/39 Pioneer CP72007 1:72](https://www.scalemates.com/kits/clear-prop-cp72007-gloster-e28-39-pioneer--1273951)
-kit in 1:72 scale is made by [Clear Prop models](https://clearpropmodels.com/) of Ukraine.
+kit in 1:72 scale is made by [ClearProp models](https://clearpropmodels.com/) of Ukraine.
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 
