@@ -1,6 +1,6 @@
 # 162 Little Model Art Projects
 
-> Latest addition :sparkles: [Kawanishi N1K2-J Prototype](./projects/IJN/KawanishiN1K/N1K2J) - The Kawanishi N1K2-J Prototype flying over Yokosuka 1944. This is the Platz PDR-2 kit in 1:144 with a pilot improvised from a Yamada Kagaku figure.
+> Latest addition :sparkles: [Kawanishi N1K2-J Prototype](./projects/IJN/KawanishiN1K/N1K2J/Prototype) - The Kawanishi N1K2-J Prototype flying over Yokosuka 1944. This is the Platz PDR-2 kit in 1:144 with a pilot improvised from a Yamada Kagaku figure.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
