@@ -1,4 +1,4 @@
-# #xxx Kawanishi N1K2-J Prototype
+# #162 Kawanishi N1K2-J Prototype
 
 The Kawanishi N1K2-J Prototype flying over Yokosuka 1944. This is the Platz PDR-2 kit in 1:144 with a pilot improvised from a Yamada Kagaku figure.
 
