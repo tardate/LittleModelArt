@@ -21,9 +21,9 @@ See also:
 | China/Hong Kong  | [LuckyModel](https://www.luckymodel.com/)                                          | online retailer |
 | China/Hong Kong  | [Plasmojo](https://www.plasmojo.com/)                                              | online retailer: new and old kits |
 | China/Hong Kong  | [Twinner Model](https://twinnermodel.com/)                                         | online retailer, mainly Japanese imports |
-| France           | [cults3d](https://cults3d.com/)                                                    | 3D model market |
-| France           | [sketchfab](https://sketchfab.com/features/free-3d-models)                         | 3D model market |
-| Germany          | [3dfindit](https://www.3dfindit.com/en/)                                           | 3D model market |
+| France           | [Cults](https://cults3d.com/)                                                      | 3D model market |
+| France           | [Sketchfab](https://sketchfab.com/features/free-3d-models)                         | 3D model market |
+| Germany          | [3Dfindit](https://www.3dfindit.com/en/)                                           | 3D model market |
 | Japan/online     | [Hobby Link Japan](https://www.hlj.com/)                                           |  |
 | Japan/online     | [Plaza Japan](https://www.plazajapan.com/)                               | great source for newer releases from all the main Japanese brands - incl Aoshima, Fine Molds, Fujimi, Hasegawa, Tamiya. Lately (2025), pricing has been a bit up and down - some kits are bargains, others priced way off market |
 | Japan/online     | [Sakatsu Global](https://sakatsuglobal.com/)                             | miniatures/diorama accessories online store esp for railways |
