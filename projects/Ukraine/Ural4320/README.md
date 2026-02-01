@@ -1,10 +1,13 @@
-# #xxx Ural-4320
+# #163 Ural-4320
 
 When "friends" take you for a ride... the Ural-4320 serving with the Armed Forces of Ukraine. An old but still decent 1:72 kit from ICM.
 
 ![Build](./assets/Ural4320_build.jpg?raw=true)
 
 ## Notes
+
+The Ural-4320 is a general purpose off-road 6×6 vehicle, produced from 1977 to the present  and widely used across the old Soviet-block.
+In recent times, it has seen service on both sides of the war in Ukraine.
 
 ### The Kit
 
@@ -13,7 +16,9 @@ is the 2023 boxing of a 1990's tooling.
 
 I purchased the kit from
 [hobby.dn.ua](https://www.hobby.dn.ua/en/icm-icm-72708-ural-4320-armed-forces-ukraine-p-107828.html)
-for €10.86 (Aug-2023)
+for €10.86 (Aug-2023).
+
+The kit was also the subject for the [Moosaroo Cup 2024](https://www.facebook.com/groups/786454763219788/).
 
 See [instructions](./assets/72708-instructions.pdf)
 
@@ -47,7 +52,8 @@ Schemes:
 ![build01c](./assets/build01c.jpg?raw=true)
 
 For the driver, I pinched and modified a figure from the
-[British Tank Riders WWII HäT No. 8264 1:72](https://www.scalemates.com/kits/haet-8264-british-tank-riders--186804) set.
+[British Tank Riders WWII HäT No. 8264 1:72](https://www.scalemates.com/kits/haet-8264-british-tank-riders--186804)
+set.
 
 ![build01d](./assets/build01d.jpg?raw=true)
 
@@ -66,6 +72,10 @@ The digital camo decals turned out to be quite easy to use.
 ![build02c](./assets/build02c.jpg?raw=true)
 
 I was inspired to create a little scene after a friend telling me of getting bounced around on forrest roads in Poland in the back of a Ural-4320.
+
+I picked some figures from the
+[WWII Partisans in Europe (French and Balkan) Caesar Miniatures No. H056 1:72](https://www.scalemates.com/kits/caesar-miniatures-h056-wwii-partisans-in-europe--233025)
+set to be the unlucky passengers on this wild ride.
 
 ![build03a](./assets/build03a.jpg?raw=true)
 
@@ -97,17 +107,30 @@ I was inspired to create a little scene after a friend telling me of getting bou
     * [instructions](./assets/72708-instructions.pdf)
 * British Tank Riders WWII HäT No. 8264 1:72
     * [on scalemates](https://www.scalemates.com/kits/haet-8264-british-tank-riders--186804)
+* WWII Partisans in Europe (French and Balkan) Caesar Miniatures No. H056 1:72
+    * [on scalemates](https://www.scalemates.com/kits/caesar-miniatures-h056-wwii-partisans-in-europe--233025)
 
 ### Research References
 
-* [name](url)
+* <https://en.wikipedia.org/wiki/Ural-4320>
+* [Moosaroo Cup 2024](https://www.facebook.com/groups/786454763219788/).
 
-#### Reference 1
+#### Ural Truck - Conquer off-road and survive a nuclear explosion
 
-[![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
+YouTube by Space of car history
+
+[![clip](https://img.youtube.com/vi/qyGQmXQmvvA/0.jpg)](https://www.youtube.com/watch?v=qyGQmXQmvvA)
 
 ### Build References
 
-#### Build Reference 1
+#### ICM 1/72 Ural 4320 Truck in Ukraine Service
 
-[![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
+YouTube by Blackfire Hobbies and Gaming
+
+[![clip](https://img.youtube.com/vi/qvvy4fPZX4E/0.jpg)](https://www.youtube.com/watch?v=qvvy4fPZX4E)
+
+#### ICM 1/72 Ural 4320 Truck in Ukraine Service
+
+YouTube by Blackfire Hobbies and Gaming
+
+[![clip](https://img.youtube.com/vi/qvvy4fPZX4E/0.jpg)](https://www.youtube.com/watch?v=qvvy4fPZX4E)
