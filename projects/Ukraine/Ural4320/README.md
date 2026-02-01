@@ -128,9 +128,3 @@ YouTube by Space of car history
 YouTube by Blackfire Hobbies and Gaming
 
 [![clip](https://img.youtube.com/vi/qvvy4fPZX4E/0.jpg)](https://www.youtube.com/watch?v=qvvy4fPZX4E)
-
-#### ICM 1/72 Ural 4320 Truck in Ukraine Service
-
-YouTube by Blackfire Hobbies and Gaming
-
-[![clip](https://img.youtube.com/vi/qvvy4fPZX4E/0.jpg)](https://www.youtube.com/watch?v=qvvy4fPZX4E)
