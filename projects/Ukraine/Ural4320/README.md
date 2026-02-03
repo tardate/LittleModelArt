@@ -73,7 +73,8 @@ The digital camo decals turned out to be quite easy to use.
 
 I was inspired to create a little scene after a friend telling me of getting bounced around on forrest roads in Poland in the back of a Ural-4320.
 
-I picked some figures from the
+I used one modified figure from the [California Gold Miners Pegasus Hobbies No. 7050 1:72](https://www.scalemates.com/kits/pegasus-hobbies-7050-california-gold-miners--227493) set,
+and some figures from the
 [WWII Partisans in Europe (French and Balkan) Caesar Miniatures No. H056 1:72](https://www.scalemates.com/kits/caesar-miniatures-h056-wwii-partisans-in-europe--233025)
 set to be the unlucky passengers on this wild ride.
 
@@ -109,6 +110,8 @@ set to be the unlucky passengers on this wild ride.
     * [on scalemates](https://www.scalemates.com/kits/haet-8264-british-tank-riders--186804)
 * WWII Partisans in Europe (French and Balkan) Caesar Miniatures No. H056 1:72
     * [on scalemates](https://www.scalemates.com/kits/caesar-miniatures-h056-wwii-partisans-in-europe--233025)
+* California Gold Miners Pegasus Hobbies No. 7050 1:72
+    * [on scalemates](https://www.scalemates.com/kits/pegasus-hobbies-7050-california-gold-miners--227493)
 
 ### Research References
 
