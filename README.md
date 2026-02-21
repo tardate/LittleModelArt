@@ -1,6 +1,6 @@
-# 163 Little Model Art Projects
+# 164 Little Model Art Projects
 
-> Latest addition :sparkles: [Ural-4320](./projects/Ukraine/Ural4320) - When 'friends' take you for a ride... the Ural-4320 serving with the Armed Forces of Ukraine. An old but still decent 1:72 kit from ICM.
+> Latest addition :sparkles: [A6M2-N Pacific Pit Stop](./projects/IJN/NakajimaA6M2N/PacificPitStop) - Building the 1:144 ARII kit of the Nakajima A6M2-N, staged in a little Pacific island diorama.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

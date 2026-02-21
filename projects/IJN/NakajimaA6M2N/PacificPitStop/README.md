@@ -1,4 +1,4 @@
-# #xxx A6M2-N Pacific Pit Stop
+# #164 A6M2-N Pacific Pit Stop
 
 Building the 1:144 ARII kit of the Nakajima A6M2-N, staged in a little Pacific island diorama.
 
