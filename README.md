@@ -1,6 +1,6 @@
 # 164 Little Model Art Projects
 
-> Latest addition :sparkles: [A6M2-N Pacific Pit Stop](./projects/IJN/NakajimaA6M2N/PacificPitStop) - Building the 1:144 ARII kit of the Nakajima A6M2-N, staged in a little Pacific island diorama.
+> Latest addition :sparkles: [A6M2-N Pacific Pit Stop](./projects/IJN/NakajimaA6M2N/PacificPitStop) - Building the old 1:144 ARII kit of the Nakajima A6M2-N, captured in a little diorama making a pit stop at an isolated Pacific island.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

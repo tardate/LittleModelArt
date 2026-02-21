@@ -1,12 +1,14 @@
 # #164 A6M2-N Pacific Pit Stop
 
-Building the 1:144 ARII kit of the Nakajima A6M2-N, staged in a little Pacific island diorama.
+Building the old 1:144 ARII kit of the Nakajima A6M2-N, captured in a little diorama making a pit stop at an isolated Pacific island.
 
 ![Build](./assets/PacificPitStop_build.jpg?raw=true)
 
 ## Notes
 
-notes here
+I originally started this kit as part of a batch build with some 1:144 A6M2-N kits by Sweet, but in comparison the ARII (originally Crown) kit really showed up as different and simplified. As a result, I split it off into its own project, and probably had more fun for it.
+
+There's something very satisfying about take a small, cheap kits and enjoying the process of turing it into a diorama over a few weeks.
 
 ### The Kit
 
@@ -32,17 +34,31 @@ See [instructions](./assets/23030-200-instructions.pdf).
 For such an old kit, it is quite a fine molding - simple but clean.
 
 ![build01a](./assets/build01a.jpg?raw=true)
+
+the kit is simplified, but the lines are clean and true.
+
 ![build01b](./assets/build01b.jpg?raw=true)
+
 ![build01c](./assets/build01c.jpg?raw=true)
+
 ![build01d](./assets/build01d.jpg?raw=true)
+
 ![build01e](./assets/build01e.jpg?raw=true)
+
+The kit unfortunately didn't come with decals for the tail,
+and I don't have any good replacements so it remains blank.
+
 ![build01f](./assets/build01f.jpg?raw=true)
 
 ### Base Construction
 
+I decided to mount the plane of a small base representing a beach landing.
+
 #### A Pacific Island Beach
 
 ![build02a](./assets/build02a.jpg?raw=true)
+
+For the water, I used paper and multiple layers of painted gloss mod-podge.
 
 ![build02b](./assets/build02b.jpg?raw=true)
 
@@ -51,6 +67,9 @@ For such an old kit, it is quite a fine molding - simple but clean.
 ![build02d](./assets/build02d.jpg?raw=true)
 
 #### Trees
+
+I used some trees I think I picked up from amazon.
+They are a little over-scale, but the main issue was to overcome their "plastic-ness" with a thorough repaint.
 
 ![build03a](./assets/build03a.jpg?raw=true)
 
