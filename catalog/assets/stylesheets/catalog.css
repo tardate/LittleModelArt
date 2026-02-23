@@ -15,7 +15,7 @@
 }
 
 body {
-  background-color: #07a0cf94;
+  background-color: #093272;
 }
 
 .navbar {
@@ -65,10 +65,15 @@ body {
   font-family: 'Russo One', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 26px;
 }
+
 .visible-xs-block .btn-tardate {
   font-size: 14px;
-  max-width: 280px;
+  min-width: 280px;
+  max-width: unset;
+  text-wrap: auto;
+  text-align: left;
 }
+
 .linked {
   cursor: pointer; cursor: hand;
 }
@@ -178,7 +183,7 @@ footer {
   padding: 40px;
   text-align: center;
   font-weight: 800;
-  color: #353255;
+  color: #FFD700;
   text-shadow: 3px 3px 4px #000;
 }
 
@@ -191,7 +196,7 @@ footer {
 .social-icons a:focus,
 .social-icons a:active {
   opacity: 0.8;
-  color: #353255;
+  color: #FFD700;
   background-image: none;
   text-shadow: none;
   text-decoration: none;
@@ -219,6 +224,8 @@ footer {
   background-color: #5cb85c;
   font-size: inherit;
   font-weight: 800;
+  float: none;
+  margin-right: 5px;
 }
 
 .project-gallery img {
