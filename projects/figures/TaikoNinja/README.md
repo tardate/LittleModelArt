@@ -2,8 +2,8 @@
 
 An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S).
 I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja!
-Conclusion? the AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts;
-the latest FDM printers are great for gaming figures and ornaments, but still not up the the standards expected in scale modeling.
+Conclusion? The AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts;
+the latest FDM printers are great for gaming figures and ornaments, but still not up to the standards expected in scale modeling.
 
 ![Build](./assets/TaikoNinja_build.jpg?raw=true)
 
@@ -82,7 +82,7 @@ Can AI generate good 3D models?
 * A qualified yes
 * I've used [Tripo3D](https://codingkata.tardate.com/ai/tripo3d/) here, but my latest tests with [Meshy](https://codingkata.tardate.com/ai/meshy/) give similar results
 * 3D models generated from photographs, or line drawings similar to recognisable IP, yield very high quality 3D models
-* but mode generation from text prompts is still highly prone to hallucination, and random, impossible results
+* but model generation from text prompts is still highly prone to hallucination, and random, impossible results
 
 Are the latest FDM printers (like the Bambu Lab P1S) good enough for printing scale model figures?
 
