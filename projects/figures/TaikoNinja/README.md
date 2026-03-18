@@ -1,4 +1,4 @@
-# #xxx Taiko Ninja
+# #165 Taiko Ninja
 
 An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S).
 I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja!
