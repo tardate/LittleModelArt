@@ -264,7 +264,7 @@ Walrus
 Modelled with TinkerCad, STL for printing available here:
 [HMS_Repulse_Nameplate_2.stl](./assets/HMS_Repulse_Nameplate_2.stl)
 
-I printed this on a PLA printer at the NLB Woodlands MakeIt centre (what a great resource!)
+I printed this on an FDM printer at the NLB Woodlands MakeIt centre (what a great resource!)
 
 Primed with lashes of My Hobby Surfacer to fill some of those print lines. Painted with SM206 Super Chrome Silver 2 and SM205 Super Titanium 2
 
