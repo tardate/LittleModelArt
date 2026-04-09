@@ -141,7 +141,7 @@ Perhaps Wingsy Kits' new 1:48 tooling in 2025 will shake things up a bit!
 
 ### Research References
 
-* [Aichi D3A](https://en.wikipedia.org/wiki/Aichi_D3A)
+* <https://en.wikipedia.org/wiki/Aichi_D3A>
 * [#33 - PEARL HARBOR raid - Akagi's dive bombers](https://japanese-aviation.forumotion.com/t29-33-pearl-harbor-raid-akagi-s-dive-bombers)
 
 #### Aichi D3A "Val" "Dive Bomber" - "Replica" AI-201

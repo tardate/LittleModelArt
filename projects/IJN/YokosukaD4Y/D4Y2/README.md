@@ -26,31 +26,31 @@ Two schemes are detailed in the kit:
 * 橫須賀海軍航空隊 - Yokosuka Naval Air Corps
 * 第523海軍航空隊「鷹部隊』- 523rd Naval Air Squadron "Eagle Force" (selected option)
 
-| Feature                           | Color                       | Recommended | Paint Used |
-|-----------------------------------|-----------------------------|-------------|------------|
+| Feature                           | Color                       | Recommended | Paint Used                   |
+|-----------------------------------|-----------------------------|-------------|------------------------------|
 | primer                            |                             |             | Aqueous Surfacer 500 (gray)  |
-| rear nav light                    | ホワイト White               | H1/C1    |   |
-| Yokosuka Naval Air Corps: spinner | シルバー Silver               | H8/C8    |   |
-| gunsight,guns,stick, instruments  | つや消しブラック Flat Black    | H12/C33  | H12  |
-| leading edge                      | オレンジイエロー Orange Yellow | H24/C58  | H24  |
-| prop                              | レッドブラウン Red Brown       | H47/C41  | H47  |
-| 523rd Naval Air Squadron: spinner | レッドブラウン Red Brown       | H47/C41  | H47  |
-| upper camo                        | 濃緑色（暗緑色）（1） IJN Green  | H59/C15  | H59  |
-| lower camo                        | 明灰白色（1） IJN Gray          | H61/C35  | H61   |
-| seats, interior                   | 青竹色 Blue Green             | H63/C57  | RCM029  |
-| exhausts                          | 焼鉄色 Burnt Iron            | H76/C61  | H18  |
-| tires                             | タイヤブラック Tire Black      | H77    | AK RCM001  |
-| port nav light                    | クリアーレッド Clear Red       | H90/C47  |   |
-| starboard nav light               | クルアーブルー Clear Blue      | H93/C50  |   |
+| rear nav light                    | White                       | H1/C1       |                              |
+| Yokosuka Naval Air Corps: spinner | Silver                      | H8/C8       |                              |
+| gunsight,guns,stick, instruments  | Flat Black                  | H12/C33     | H12                          |
+| leading edge                      | Orange Yellow               | H24/C58     | H24                          |
+| prop                              | Red Brown                   | H47/C41     | H47                          |
+| 523rd Naval Air Squadron: spinner | Red Brown                   | H47/C41     | H47                          |
+| upper camo                        |  IJN Green                  | H59/C15     | H59                          |
+| lower camo                        | IJN Gray                    | H61/C35     | H61                          |
+| seats, interior                   | Blue Green                  | H63/C57     | RCM029                       |
+| exhausts                          | Burnt Iron                  | H76/C61     | H18                          |
+| tires                             | Tire Black                  | H77         | AK RCM001                    |
+| port nav light                    | Clear Red                   | H90/C47     |                              |
+| starboard nav light               | Clear Blue                  | H93/C50     |                              |
 
 Pilot
 
 | Feature               | Color                    | Recommended | Paint Used |
 |-----------------------|------------------------- |-------------|------------|
-| face                  | はだ色 FLESH              | H44/C51     |   |
-| flight suit           | レッドブラウン RED BROWN    | H47/C41     |   |
-| harness               | カーキグリーン KHAKI GREEN  | H80/C54     |   |
-| boots, gloves, cap    | マホガニー MAHOGANY        | H84/C42     |   |
+| face                  | FLESH                    | H44/C51     |            |
+| flight suit           | RED BROWN                | H47/C41     |            |
+| harness               | KHAKI GREEN              | H80/C54     |            |
+| boots, gloves, cap    | MAHOGANY                 | H84/C42     |            |
 
 ### Build Log
 
