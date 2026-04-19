@@ -1,6 +1,6 @@
-# 165 Little Model Art Projects
+# 166 Little Model Art Projects
 
-> Latest addition :sparkles: [Taiko Ninja](./projects/figures/TaikoNinja) - An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S). I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja! Conclusion? The AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts; the latest FDM printers are great for gaming figures and ornaments, but still not up to the standards expected in scale modeling.
+> Latest addition :sparkles: [Shenyang J-5](./projects/PLAAF/J5) - Building the Shenyang J-5 (MiG-17F) as flown by Vietnam People's Air Force, 1969. This is the Airfix 1:72 kit.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

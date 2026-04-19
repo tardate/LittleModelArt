@@ -1,4 +1,4 @@
-# #xxx Shenyang J-5
+# #166 Shenyang J-5
 
 Building the Shenyang J-5 (MiG-17F) as flown by Vietnam People's Air Force, 1969. This is the Airfix 1:72 kit.
 
