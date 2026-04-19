@@ -1,4 +1,15 @@
 {
+    "/projects/plaaf/j5/": {
+        "id": 166,
+        "title": "Shenyang J-5",
+        "summary": "Building the Shenyang J-5 (MiG-17F) as flown by Vietnam People's Air Force, 1969. This is the Airfix 1:72 kit.",
+        "tags": [
+            "Aircraft - military",
+            "China",
+            "Vietnam",
+            "Airfix"
+        ]
+    },
     "/projects/figures/taikoninja/": {
         "id": 165,
         "title": "Taiko Ninja",
