@@ -1,4 +1,12 @@
 {
+    "/projects/wwii/bloodredskies/": {
+        "id": 167,
+        "title": "BloodRedSkies",
+        "summary": "description",
+        "tags": [
+            ""
+        ]
+    },
     "/projects/plaaf/j5/": {
         "id": 166,
         "title": "Shenyang J-5",

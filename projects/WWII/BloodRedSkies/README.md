@@ -1,4 +1,4 @@
-# #xxx Blood Red Skies
+# #167 Blood Red Skies
 
 Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale, and play test them with the Blood Red Skies game.
 

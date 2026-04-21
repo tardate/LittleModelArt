@@ -1,6 +1,6 @@
-# 166 Little Model Art Projects
+# 167 Little Model Art Projects
 
-> Latest addition :sparkles: [Shenyang J-5](./projects/PLAAF/J5) - Building the Shenyang J-5 (MiG-17F) as flown by Vietnam People's Air Force, 1969. This is the Airfix 1:72 kit.
+> Latest addition :sparkles: [BloodRedSkies](./projects/WWII/BloodRedSkies) - description
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
