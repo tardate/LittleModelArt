@@ -1,6 +1,6 @@
 # #167 Blood Red Skies
 
-Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale, and play test them with the Blood Red Skies game.
+Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale from the Airfix boxing of the Blood Red Skies tabletop game.
 
 ![Build](./assets/BloodRedSkies_build.jpg?raw=true)
 
@@ -13,6 +13,7 @@ Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale
 [Blood Red Skies: Battle of Britain Airfix No. A1500 1:72](https://www.scalemates.com/kits/airfix-a1500-blood-red-skies-battle-britain--1329856)
 is the Airfix boxing of Warlord Games 'Blood Red Skies' ruleset with
 four Airfix 1:72 models to be used in the game.
+I purchased this direct from Airfix for £16.66 (Jan-2024).
 
 See [instructions](./assets/A1500-instructions.pdf)
 
