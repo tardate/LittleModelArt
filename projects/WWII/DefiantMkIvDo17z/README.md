@@ -21,15 +21,15 @@ A02069 - Boulton Paul Defiant Mk1, No. 264 Squadron, July 1940 (A)
 
 | Feature               | Color                | Recommended | Paint Used |
 |-----------------------|----------------------|-------------|------------|
-|                       | Matt Yellow          | 24            |          |
-|                       | Matt Dark Earth      | 29            | H72 /H66  |
-|                       | Matt Dark Green      | 30            | H73 /H78  |
-|                       | Matt Black           | 33            |          |
-|                       | Matt White           | 34            |          |
-|                       | Gun Metal            | 53            |          |
-| cockpit interior      | Cockpit Green        | 78            | H73+H31  |
-| lower fuselage        | Matt Beige Green     | 90            | H74      |
-| turret interior       | Satin Coal Black     | 85            |          |
+|                       | Matt Yellow          | 24          |            |
+|                       | Matt Dark Earth      | 29          | H72 + H66  |
+|                       | Matt Dark Green      | 30          | H73 /H78   |
+|                       | Matt Black           | 33          |            |
+|                       | Matt White           | 34          |            |
+|                       | Gun Metal            | 53          |            |
+| cockpit interior      | Cockpit Green        | 78          | H73+H31    |
+| lower fuselage        | Matt Beige Green     | 90          | H74        |
+| turret interior       | Satin Coal Black     | 85          |            |
 
 #### Marking Scheme B
 
@@ -37,20 +37,20 @@ A02069 - Boulton Paul Defiant Mk1, No. 151 Squadron, February 1941 (B)
 
 | Feature               | Color                | Recommended | Paint Used |
 |-----------------------|----------------------|-------------|------------|
-|                       | Matt Yellow          | 24  | |
-|                       | Matt Black           | 33  | |
-|                       | Gun Metal            | 53  | |
+|                       | Matt Yellow          | 24          |            |
+|                       | Matt Black           | 33          |            |
+|                       | Gun Metal            | 53          |            |
 
 #### Figures
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-|                       | Matt Yellow          | 24          | 70.952 Lemon Yellow |
-|                       | Flesh - Matt         | 61          | AMMO flesh tones  |
+| Feature               | Color                | Recommended | Paint Used                |
+|-----------------------|----------------------|-------------|---------------------------|
+|                       | Matt Yellow          | 24          | 70.952 Lemon Yellow       |
+|                       | Flesh - Matt         | 61          | AMMO flesh tones          |
 |                       | RAF Blue - Matt      | 96          | 70.899 Dark Prussian Blue |
-|                       | Matt Black           | 33          | |
-| harness               | Khaki Drill - Matt   | 72          | 70.924 Russian Unf. WWII |
-|                       | Leather              | 62          | AMMO F552 |
+|                       | Matt Black           | 33          |                           |
+| harness               | Khaki Drill - Matt   | 72          | 70.924 Russian Unf. WWII  |
+|                       | Leather              | 62          | AMMO F552                 |
 
 #### Boulton Paul Defiant Mk 1 Build Log
 
@@ -96,12 +96,12 @@ The [Dornier Do 17](https://en.wikipedia.org/wiki/Dornier_Do_17) is a twin-engin
 
 aircrew
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-| helmet, boots         | Coal Black           |  85           | 70.950 Black           |
-| face, hands           | Flesh                |  61           |            |
-| straps                | Khaki                |  26           | 70.879 Green Brown           |
-| overall               | Desert Yellow        |  93           | 70.824 German Camo Orange Ochre           |
+| Feature               | Color                | Recommended | Paint Used                      |
+|-----------------------|----------------------|-------------|---------------------------------|
+| helmet, boots         | Coal Black           |  85         | 70.950 Black                    |
+| face, hands           | Flesh                |  61         |                                 |
+| straps                | Khaki                |  26         | 70.879 Green Brown              |
+| overall               | Desert Yellow        |  93         | 70.824 German Camo Orange Ochre |
 
 #### Do-17z Build Log
 
