@@ -1,10 +1,13 @@
 {
     "/projects/wwii/bloodredskies/": {
         "id": 167,
-        "title": "BloodRedSkies",
-        "summary": "description",
+        "title": "Blood Red Skies",
+        "summary": "Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale from the Airfix boxing of the Blood Red Skies tabletop game.",
         "tags": [
-            ""
+            "Aircraft - military",
+            "Nazi Germany",
+            "UK",
+            "Airfix"
         ]
     },
     "/projects/plaaf/j5/": {

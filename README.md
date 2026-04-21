@@ -1,6 +1,6 @@
 # 167 Little Model Art Projects
 
-> Latest addition :sparkles: [BloodRedSkies](./projects/WWII/BloodRedSkies) - description
+> Latest addition :sparkles: [Blood Red Skies](./projects/WWII/BloodRedSkies) - Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale from the Airfix boxing of the Blood Red Skies tabletop game.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
