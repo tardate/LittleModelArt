@@ -1,4 +1,4 @@
-# #084 Nakajima Ki84
+# #084 Nakajima Ki-84
 
 Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 疾風).
 
@@ -9,6 +9,16 @@ Building the Arma Hobby 1:72 representation of the Nakajima Ki-84 Hayate (キ84 
 The [Nakajima Ki-84 Hayate](https://en.wikipedia.org/wiki/Nakajima_Ki-84) (キ84 疾風)
 is a single-seat fighter flown by the Imperial Japanese Army Air Service between 1943 and 1945.
 It was designed as a replacement for the [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa).
+
+### The Kit
+
+[Nakajima Ki-84 Hayate Expert Set Arma Hobby No. 70051 1:72](https://www.scalemates.com/kits/arma-hobby-70051-nakajima-ki-84-hayate--1407849)
+is the original 2022 release.
+I purchased the kit direct from Arma Hobby in Jun-2022. It cost €33.44 in a 2-for-1  bundle with their [F4F-4 Wildcat® Expert Set No. 70047](https://www.scalemates.com/kits/arma-hobby-70047-f4f-4-wildcat--1323692).
+
+See [instructions](./assets/70051-instructions.pdf).
+
+![kit-box](./assets/70051-kit-box.jpg?raw=true)
 
 ### Marking Options
 
@@ -80,10 +90,23 @@ As I work through my stash of @armahobby kits, I continue to be amazed by their 
 * Nakajima Ki-84 Hayate Expert Set Arma Hobby No. 70051 1:72
     * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70051-nakajima-ki-84-hayate--1407849)
     * [on Arma Hobby site](https://www.armahobby.com/70051-nakajima-ki-84-hayate-expert-set.html)
+    * [instructions](./assets/70051-instructions.pdf)
 * [Pébéo Drawing Gum Marker 0.7mm](https://en.pebeo.com/catalogue/drawing-gum-marker-blister-packed-nib-07-mm-07-mm-033102)
 
 ### Research References
 
 * [HAYATE UNDER THE SIGN OF THE WHITE TIGER](http://armahobbynews.pl/blog/2022/05/06/hayate-spod-znaku-bialego-tygrysa/)
-* [Nakajima Ki-84](https://en.wikipedia.org/wiki/Nakajima_Ki-84) - wikipedia
-* [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa) - wikipedia
+* <https://en.wikipedia.org/wiki/Nakajima_Ki-84>
+* <https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa>
+
+#### Nakajima Ki-84 Hayate Frank, Japan's Best?
+
+YouTube by Greg's Airplanes and Automobiles
+
+[![clip](https://img.youtube.com/vi/gRQvnCfEbNA/0.jpg)](https://www.youtube.com/watch?v=gRQvnCfEbNA)
+
+#### Better Than Any Allied Fighter...On Paper: Nakajima Ki-84 Hayate
+
+YouTube by IHYLS
+
+[![clip](https://img.youtube.com/vi/mIRwVTuSKzo/0.jpg)](https://www.youtube.com/watch?v=mIRwVTuSKzo)
