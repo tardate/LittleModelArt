@@ -7,9 +7,20 @@ Nakajima Ki-43 Hayabusa (隼), doing what peregrine falcons do best. The Hasegaw
 ## Notes
 
 The Nakajima Ki-43 Hayabusa (隼, "Peregrine falcon"), formal Japanese designation Army Type 1 Fighter (一式戦闘機, Ichi-shiki sentōki)
+is a single-engine land-based tactical fighter that was used by the IJA from 1939 to 1945.
 
 Kamikaze or Miscalculation - Mid-air Collision between Hayabusa and Flying Fortress
 [Pacific Adversaries Volume 1 p35](https://www.goodreads.com/book/show/46160748-pacific-adversaries)
+
+### The Kit
+
+[Nakajima Ki-43-II Hayabusa (Oscar) Hasegawa No. 00131 1:72](https://www.scalemates.com/kits/hasegawa-00131-nakajima-ki-43-ii-hayabusa-oscar--172623)
+is the 1999 boxing of the 1982 tooling.
+I purchased the kit for SG$14.40 from Hobby Point in Jun-2023.
+
+See [instructions](./assets/00131-instructions.pdf).
+
+![kit-box](./assets/00131-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 
@@ -69,12 +80,18 @@ Kamikaze or Miscalculation - Mid-air Collision between Hayabusa and Flying Fortr
 ![build03e](./assets/build03e.jpg?raw=true)
 ![build03f](./assets/build03f.jpg?raw=true)
 
+I'm using a Pit-Road 1:700 B-17 for a forced-perspective presentation.
+
 ![build04a](./assets/build04a.jpg?raw=true)
 ![build04b](./assets/build04b.jpg?raw=true)
+
+Mounting the planes on a quick background painting..
 
 ![build05a](./assets/build05a.jpg?raw=true)
 ![build05b](./assets/build05b.jpg?raw=true)
 ![build05c](./assets/build05c.jpg?raw=true)
+
+### Final Gallery
 
 ![build06a](./assets/build06a.jpg?raw=true)
 ![build06b](./assets/build06b.jpg?raw=true)
@@ -94,8 +111,9 @@ The scene here is made with the Hasegawa 1:72 Nakajima Ki-43-II, with the pilot 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=152234)
-* Nakajima Ki-43-II Hayabusa (Oscar) Hasegawa No. A1 1:72
-    * [on scalemates](https://www.scalemates.com/kits/hasegawa-a1-nakajima-ki43-ii-hayabusa-oscar--1610527)
+* Nakajima Ki-43-II Hayabusa (Oscar) Hasegawa No. 00131 1:72
+    * [on scalemates](https://www.scalemates.com/kits/hasegawa-00131-nakajima-ki-43-ii-hayabusa-oscar--172623)
+    * [instructions](./assets/00131-instructions.pdf)
 * Japanese Navy Airmen Set Hasegawa No. X72-16 1:72
     * [on scalemates](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
 * WWII US Warplanes 1 B-17 × 2, B-26, C-47 × 4 each, PBY-5A × 1 Pit-Road No. S-42 1:700
@@ -104,5 +122,22 @@ The scene here is made with the Hasegawa 1:72 Nakajima Ki-43-II, with the pilot 
 ### Research References
 
 * [Pacific Adversaries: Japanese Army Air Force vs The Allies: Volume 1 - New Guinea 1942-1944](https://www.goodreads.com/book/show/46160748-pacific-adversaries) Michael John Claringbould
+    * Kamikaze or Miscalculation - Mid-air Collision between Hayabusa and Flying Fortress, p35
 * [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa)
 * [Boeing B-17 Flying Fortress](https://en.wikipedia.org/wiki/Boeing_B-17_Flying_Fortress) - wikipedia
+
+#### Ki 43 Oscar, Japan's Dominant Early War Fighter
+
+YouTube by Greg's Airplanes and Automobiles
+
+[![clip](https://img.youtube.com/vi/Enff_CVSoC0/0.jpg)](https://www.youtube.com/watch?v=Enff_CVSoC0)
+
+#### How Chasing Agility Broke Japan’s Best Fighter | Nakajima Ki-43 Hayabusa
+
+YouTube by Rex's Hangar
+
+[![clip](https://img.youtube.com/vi/Mo0P-taNhnM/0.jpg)](https://www.youtube.com/watch?v=Mo0P-taNhnM)
+
+#### Kato Hayabusa Sento-tai (1944) w/ English Subtitles (complete)
+
+[![clip](https://img.youtube.com/vi/NdD6DezelBs/0.jpg)](https://www.youtube.com/watch?v=NdD6DezelBs)

@@ -10,6 +10,18 @@ The [Nakajima Ki-84](https://en.wikipedia.org/wiki/Nakajima_Ki-84) (キ84 疾風
 is a single-seat fighter flown by the Imperial Japanese Army Air Service between 1943 and 1945.
 It was designed as a replacement for the [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa).
 
+See [#084 Nakajima Ki-84](../) for my "non-egg-scale" 1:72 build of the Ki-84.
+
+### The Kit
+
+[WWII Japanese Nakajima Ki-84 Hayate Tiger Model No. TM-102 1:Egg](https://www.scalemates.com/kits/tiger-model-tm-102-nakajima-ki-84-hayate--938381)
+is the original 2016 boxing of the kit.
+I purchased the kit from the "Colorfulday Store" on aliexpress for SG$14.94 in Jul-2022.
+
+See [instructions](./assets/TM-102-instructions.pdf).
+
+![kit-box](./assets/TM-102-kit-box.jpg?raw=true)
+
 ### Paint Scheme
 
 | Feature                   | Color                   | Paint Used |
@@ -34,6 +46,8 @@ Quick snap-fit test before moving on to painting.. a fun little 15 minutes;-)
 ![build02b](./assets/build02b.jpg?raw=true)
 ![build02c](./assets/build02c.jpg?raw=true)
 
+### Final Gallery
+
 ![build03a](./assets/build03a.jpg?raw=true)
 ![build03b](./assets/build03b.jpg?raw=true)
 ![build03c](./assets/build03c.jpg?raw=true)
@@ -44,6 +58,11 @@ Quick snap-fit test before moving on to painting.. a fun little 15 minutes;-)
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=140416)
-* [WWII Japanese Nakajima Ki-84 Hayate Tiger Model No. TM-102 1:Egg](https://www.scalemates.com/kits/tiger-model-tm-102-nakajima-ki-84-hayate--938381)
-* [Nakajima Ki-84](https://en.wikipedia.org/wiki/Nakajima_Ki-84) - wikipedia
-* [Nakajima Ki-43 Hayabusa](https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa) - wikipedia
+* WWII Japanese Nakajima Ki-84 Hayate Tiger Model No. TM-102 1:Egg
+    * [on scalemates](https://www.scalemates.com/kits/tiger-model-tm-102-nakajima-ki-84-hayate--938381)
+    * [instructions](./assets/TM-102-instructions.pdf)
+
+### Research References
+
+* <https://en.wikipedia.org/wiki/Nakajima_Ki-84>
+* <https://en.wikipedia.org/wiki/Nakajima_Ki-43_Hayabusa>
