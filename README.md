@@ -1,6 +1,6 @@
-# 167 Little Model Art Projects
+# 168 Little Model Art Projects
 
-> Latest addition :sparkles: [Blood Red Skies](./projects/WWII/BloodRedSkies) - Building the Messerschmitt Bf109E-4 and Supermarine Spitfire Mk.Ia in 1:72 scale from the Airfix boxing of the Blood Red Skies tabletop game.
+> Latest addition :sparkles: [IJN Destroyer Asagumo](./projects/IJN/Asagumo) - Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo 朝雲. Just a basic out of the box build without PE or rigging for now.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -1,12 +1,12 @@
 # #044 IJN Fubuki
 
-Building the Japanese destroyer Fubuki (吹雪, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE.
+Building the Japanese destroyer Fubuki (吹雪 / キブフ, 1927) from a beautifully detailed 1:700 Yamashita Hobby kit with Tetra Model Works PE.
 
 ![Build](./assets/Fubuki_build.jpg?raw=true)
 
 ## Notes
 
-The IJN Fubuki (吹雪, "Blizzard") was one of the most advanced destroyers when she launched in 1927. Sunk 11 October 1942 in the Battle of Cape Esperance, there were 109 survivors rescued by US ships but her captain, Lieutenant Commander Shizuo Yamashita was killed in action.
+The IJN Fubuki (吹雪 / キブフ, "Blizzard") was one of the most advanced destroyers when she launched in 1927. Sunk 11 October 1942 in the Battle of Cape Esperance, there were 109 survivors rescued by US ships but her captain, Lieutenant Commander Shizuo Yamashita was killed in action.
 
 Fubuki was the lead ship of twenty-four Fubuki-class destroyers. They served as first-line destroyers through the 1930s, and remained formidable weapons systems well into the Pacific War.
 
@@ -97,8 +97,16 @@ IJN Fubuki 吹雪 tooling along at flank speed. That would be about 38(!) knots.
 
 ### Research References
 
-* [Japanese destroyer Fubuki (1927)](https://en.wikipedia.org/wiki/Japanese_destroyer_Fubuki_(1927)) - wikipedia
+* <https://en.wikipedia.org/wiki/Japanese_destroyer_Fubuki_(1927)>
+* <https://ja.wikipedia.org/wiki/%E5%90%B9%E9%9B%AA_(%E5%90%B9%E9%9B%AA%E5%9E%8B%E9%A7%86%E9%80%90%E8%89%A6)>
 * [IJN Fubuki: Tabular Record of Movement](http://www.combinedfleet.com/fubuki_t.htm)
+* <http://www.niehorster.org/014_japan/navy-commanders/dd.html>
+
+#### Developing Fubuki
+
+YouTube by CentralCrossing
+
+[![clip](https://img.youtube.com/vi/iCTnfJsaQgc/0.jpg)](https://www.youtube.com/watch?v=iCTnfJsaQgc)
 
 ### Build References
 

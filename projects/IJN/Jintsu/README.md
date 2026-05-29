@@ -54,6 +54,11 @@ The Wreck of IJN Jintsu – Blown in Two, Yet Remarkably Preserved
 
 The [Fujimi Kit No. 40123](https://www.scalemates.com/kits/fujimi-40123-ijn-light-cruiser-jintsu--323315)
 is a 1st generation tooling from 1973.
+I purchased the kit for ¥1,480 at Yodobashi Shinjuku (Dec-2022).
+
+See [instructions](./assets/40123-instructions.pdf).
+
+![30062-kit-box](./assets/40123-kit-box.jpg?raw=true)
 
 I've used a few upgrades, though these are far from essential:
 
@@ -66,13 +71,13 @@ I've used a few upgrades, though these are far from essential:
 
 | Feature               | Color                | Recommended | Paint Used |
 |-----------------------|----------------------|-------------|------------|
-|                       |                      | H8          |            |
-|                       |                      | H11         |            |
-|                       |                      | H12         |            |
-| hull                  |                      | H17         | H17        |
-|                       |                      | H18         |            |
-| Deck                  |                      | H37         | H37        |
-| Superstructure        |                      | H83         | H83        |
+|                       | Silver               | H8          |            |
+|                       | Flat White           | H11         |            |
+| funnel tops           | Flat Black           | H12         | H12        |
+| underwater hull       | Cocoa Brown          | H17         | H17        |
+|                       | Metallic Steel       | H18         |            |
+| deck                  | Wood Brown           | H37         | H37        |
+| hull, superstructure  | Dark Gray (2)        | H83         | H83        |
 |                       | flat red             | H13/H3+H20  |            |
 
 ### Paint Scheme - E7K1
@@ -105,23 +110,33 @@ Although a tooling from 1973, the kits is still remarkably buildable. Superstruc
 This time I am experimenting with a hand-carved wooden base to simulate the sea.
 
 ![build02a](./assets/build02a.jpg?raw=true)
+
 ![build02b](./assets/build02b.jpg?raw=true)
 
 Working up the sea surface. Painted with Vallejo Model Color with layers of Mod Podge Gloss. Cotton wool for the foam and crests of the wake.
 
 ![build02c](./assets/build02c.jpg?raw=true)
+
 ![build02d](./assets/build02d.jpg?raw=true)
 
 The final gallery shots:
 
 ![build03a](./assets/build03a.jpg?raw=true)
+
 ![build03b](./assets/build03b.jpg?raw=true)
+
 ![build03c](./assets/build03c.jpg?raw=true)
+
 ![build03d](./assets/build03d.jpg?raw=true)
+
 ![build03e](./assets/build03e.jpg?raw=true)
+
 ![build03f](./assets/build03f.jpg?raw=true)
+
 ![build03g](./assets/build03g.jpg?raw=true)
+
 ![build03h](./assets/build03h.jpg?raw=true)
+
 ![build03i](./assets/build03i.jpg?raw=true)
 
 ## Credits and References
