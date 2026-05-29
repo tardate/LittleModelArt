@@ -1,6 +1,9 @@
 {
     "name": "IJN Destroyer Asagumo",
-    "description": "Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo 朝雲. Just a basic out of the box build without PE or rigging for now.",
+    "description": "Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo \u671d\u96f2. Just a basic out of the box build without PE or rigging for now.",
     "categories": "Ships - military, Japan, IJN, Destroyer, Hasegawa",
-    "relative_path": "projects/IJN/Asagumo"
+    "relative_path": "projects/IJN/Asagumo",
+    "updated_at": "2026-05-29T05:48:00Z",
+    "created_at": "2026-05-29T05:48:00Z",
+    "id": "#168"
 }

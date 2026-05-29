@@ -1,4 +1,16 @@
 {
+    "/projects/ijn/asagumo/": {
+        "id": 168,
+        "title": "IJN Destroyer Asagumo",
+        "summary": "Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo \u671d\u96f2. Just a basic out of the box build without PE or rigging for now.",
+        "tags": [
+            "Ships - military",
+            "Japan",
+            "IJN",
+            "Destroyer",
+            "Hasegawa"
+        ]
+    },
     "/projects/wwii/bloodredskies/": {
         "id": 167,
         "title": "Blood Red Skies",

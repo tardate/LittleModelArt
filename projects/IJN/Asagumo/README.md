@@ -1,4 +1,4 @@
-# #xxx IJN Destroyer Asagumo
+# #168 IJN Destroyer Asagumo
 
 Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo 朝雲. Just a basic out of the box build without PE or rigging for now.
 
