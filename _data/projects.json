@@ -1,4 +1,15 @@
 {
+    "/projects/ijn/aichid3a/zuikakud3a2/": {
+        "id": 169,
+        "title": "Aichi D3A2 from Zuikaku",
+        "summary": "Building and motorising the Aichi D3A2 Type 99 Carrier Bomber as flown from Zuikaku in 1943, using the 2020 release of the Fujimi 1:72 kit.",
+        "tags": [
+            "Aircraft - military",
+            "Japan",
+            "IJN",
+            "Fujimi"
+        ]
+    },
     "/projects/ijn/asagumo/": {
         "id": 168,
         "title": "IJN Destroyer Asagumo",
