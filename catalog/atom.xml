@@ -7,12 +7,25 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2026-05-29T05:48:00Z</updated>
+  <updated>2026-05-31T15:19:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/assets/zuikakud3a2_build.jpg</g:image_link>
+    <updated>2026-05-31T15:19:00Z</updated>
+    <title>#169 Aichi D3A2 from Zuikaku</title>
+    <summary>Building and motorising the Aichi D3A2 Type 99 Carrier Bomber as flown from Zuikaku in 1943, using the 2020 release of the Fujimi 1:72 kit.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building and motorising the Aichi D3A2 Type 99 Carrier Bomber as flown from Zuikaku in 1943, using the 2020 release of the Fujimi 1:72 kit.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/assets/zuikakud3a2_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Aircraft - military"/>
+    <category term="Japan"/>
+    <category term="IJN"/>
+    <category term="Fujimi"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/asagumo/</id>
     <link href="https://modelart.tardate.com/projects/ijn/asagumo/"/>

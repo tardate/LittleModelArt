@@ -1,4 +1,4 @@
-# #xxx Aichi D3A2 from Zuikaku
+# #169 Aichi D3A2 from Zuikaku
 
 Building and motorising the Aichi D3A2 Type 99 Carrier Bomber as flown from Zuikaku in 1943, using the 2020 release of the Fujimi 1:72 kit.
 

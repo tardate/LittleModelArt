@@ -1,6 +1,6 @@
-# 168 Little Model Art Projects
+# 169 Little Model Art Projects
 
-> Latest addition :sparkles: [IJN Destroyer Asagumo](./projects/IJN/Asagumo) - Building the Hasegawa 1:700 representation of the IJN Destroyer Asagumo 朝雲. Just a basic out of the box build without PE or rigging for now.
+> Latest addition :sparkles: [Aichi D3A2 from Zuikaku](./projects/IJN/AichiD3A/ZuikakuD3A2) - Building and motorising the Aichi D3A2 Type 99 Carrier Bomber as flown from Zuikaku in 1943, using the 2020 release of the Fujimi 1:72 kit.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
