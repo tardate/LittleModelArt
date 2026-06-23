@@ -16,8 +16,6 @@ notes here
 
 description
 
-See [instructions](./assets)
-
 ![kit-box](./assets/kit-box.jpg?raw=true)
 
 ### Paint Scheme
@@ -36,6 +34,7 @@ See [instructions](./assets)
 * kit name
     * [on scalemates](url)
     * [instructions](./assets)
+    * Purchased from AAA for 999 (Mmm-YYYY).
 
 ### Research References
 

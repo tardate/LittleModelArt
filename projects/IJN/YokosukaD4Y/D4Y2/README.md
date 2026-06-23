@@ -104,6 +104,7 @@ The big experiment this time was a new technique for props in flight. Just some 
 * Suisei D4Y2 Mk12 (Judy) Micro Ace No. 53003-800 1:72
     * [on scalemates](https://www.scalemates.com/kits/micro-ace-53003-800-suisei-d4y2-mk12-judy--1108381)
     * [instructions](./assets/53003-800-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥762 (Sep-2023)
 
 ### Research References
 
