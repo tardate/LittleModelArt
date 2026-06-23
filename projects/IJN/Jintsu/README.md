@@ -144,14 +144,21 @@ The final gallery shots:
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=139014)
 * Sea Way Model (EX) Series IJN Light Cruiser Jintsu Fujimi No. 40123 1:700
     * [on scalemates](https://www.scalemates.com/kits/fujimi-40123-ijn-light-cruiser-jintsu--323315)
+    * [instructions](./assets/40123-instructions.pdf)
 * Upgrades Series IJN Catapult Ocean Spirit No. H034 1:700
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h034-ijn-catapult--967904)
+    * [instructions](../../accessories/H034/assets/H034-instructions.jpg)
+    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
 * WWII Japanese Navy Fine Rail Set (0.1mm) Tetra Model Works No. SA-70016 1:700
     * [on scalemates](https://www.scalemates.com/kits/tetra-model-works-sa-70016-wwii-japanese-navy-fine-rail-set--1281563)
 * Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
+    * [instructions](../../accessories/E12/assets/E12-instructions.pdf)
+    * Purchased from Yodobashi Akihabara for ¥1,028 (May-2024).
 * Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
+    * [instructions](../../accessories/H049/assets//H049-instructions.jpg)
+    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
 
 ### Research References
 
