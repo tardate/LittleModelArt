@@ -171,8 +171,6 @@ Three floatplanes catapulted from Tone at 0630
 
 There is some disagreement in the sources as to which actual planes were used, but consensus appears to be two E13A1 (Jake) floatplanes and one E8N2 (Dave).
 
-# ijn #700scale #scalemodels #scalemodel #tone
-
 ![build04a](./assets/build04a.jpg?raw=true)
 ![build04b](./assets/build04b.jpg?raw=true)
 ![build04c](./assets/build04c.jpg?raw=true)
@@ -189,6 +187,7 @@ There is some disagreement in the sources as to which actual planes were used, b
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=139011)
 * Japanese Heavy Cruiser Tone 1944 Super Detail with photo-etched parts Aoshima No. 026977 1:700
     * [on scalemates](https://www.scalemates.com/kits/aoshima-026977-tone-1944-super-detail--1073367)
+    * Purchased from Leonardo LG2 for ¥2500 (Dec-2022)
 * IJN Figures Eduard No. 17505 1:700
     * [on scalemates](https://www.scalemates.com/kits/eduard-17505-ijn-figures--120103)
 

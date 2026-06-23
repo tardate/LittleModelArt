@@ -90,6 +90,7 @@ Found a space on the bookshelf pending a proper home..
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=131456)
 * Tachikawa KKY-1 Amodel No. 72243 1:72
     * [on scalemates](https://www.scalemates.com/kits/amodel-72243-tachikawa-kky-1--177982)
+    * Purchased from IBG Models for €15.90 (Aug-2022).
 * [proper.plane decals](https://properplane.com/accessories_and_decal)
 
 ### Research References

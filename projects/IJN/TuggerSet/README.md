@@ -199,6 +199,7 @@ As built:
     * [HASEGAWA Official Web Site](http://www.hasegawa-model.co.jp/product_g/509/)
     * [on Tamiya](https://tamiya.com/english/products/31509/index.html)
     * [instructions](./assets/31509-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥442 (Dec-2022).
 
 ### Research References
 
