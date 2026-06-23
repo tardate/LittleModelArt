@@ -1,4 +1,16 @@
 {
+    "/projects/ijn/hayasui/": {
+        "id": 170,
+        "title": "IJN Oil Supply Ship Hayasui",
+        "summary": "Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui \u901f\u5438, enhanced with additional PE and rigging.",
+        "tags": [
+            "Ships - military",
+            "Japan",
+            "IJN",
+            "Support Vessel",
+            "Aoshima"
+        ]
+    },
     "/projects/ijn/aichid3a/zuikakud3a2/": {
         "id": 169,
         "title": "Aichi D3A2 from Zuikaku",
@@ -148,6 +160,7 @@
             "Ships - military",
             "Japan",
             "IJN",
+            "Support Vessel",
             "Tamiya",
             "Hasegawa",
             "Aoshima"
@@ -802,6 +815,7 @@
         "tags": [
             "Ships - military",
             "Japan",
+            "Support Vessel",
             "IJN",
             "IJA",
             "Tamiya"

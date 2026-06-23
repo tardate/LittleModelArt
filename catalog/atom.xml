@@ -7,12 +7,26 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2026-05-31T15:19:00Z</updated>
+  <updated>2026-06-23T08:39:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/ijn/hayasui/</id>
+    <link href="https://modelart.tardate.com/projects/ijn/hayasui/"/>
+    <g:image_link>https://modelart.tardate.com/projects/ijn/hayasui/assets/hayasui_build.jpg</g:image_link>
+    <updated>2026-06-23T08:39:00Z</updated>
+    <title>#170 IJN Oil Supply Ship Hayasui</title>
+    <summary>Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/hayasui/assets/hayasui_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Ships - military"/>
+    <category term="Japan"/>
+    <category term="IJN"/>
+    <category term="Support Vessel"/>
+    <category term="Aoshima"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/</id>
     <link href="https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/"/>
@@ -191,6 +205,7 @@
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
+    <category term="Support Vessel"/>
     <category term="Tamiya"/>
     <category term="Hasegawa"/>
     <category term="Aoshima"/>
@@ -967,6 +982,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;Building the No.1 and No.101 landing ships 輸送艦 from the Tamiya Military Transport set. Saving for use in future dioramas.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/militarytransports/assets/militarytransports_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
+    <category term="Support Vessel"/>
     <category term="IJN"/>
     <category term="IJA"/>
     <category term="Tamiya"/>
