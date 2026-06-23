@@ -1,6 +1,6 @@
 # 170 Little Model Art Projects
 
-> Latest addition :sparkles: [IJN Oil Supply Ship Hayasui](./projects/IJN/Hayasui) - Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE or rigging.
+> Latest addition :sparkles: [IJN Oil Supply Ship Hayasui](./projects/IJN/Hayasui) - Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
