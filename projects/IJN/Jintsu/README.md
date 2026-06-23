@@ -160,6 +160,10 @@ The final gallery shots:
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
     * [instructions](../../accessories/H049/assets//H049-instructions.jpg)
     * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
+* Upgrades Series IJN Vessels Sail Beams & Propeller Cage Ocean Spirit No. H055 1:700
+    * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h055-ijn-vessels-sail-beams-and-propeller-cage--967927)
+    * [instructions](../../accessories/H055/assets/H055-instructions.jpg)
+    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
 
 ### Research References
 
