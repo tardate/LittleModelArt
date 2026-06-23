@@ -145,6 +145,7 @@ The final gallery shots:
 * Sea Way Model (EX) Series IJN Light Cruiser Jintsu Fujimi No. 40123 1:700
     * [on scalemates](https://www.scalemates.com/kits/fujimi-40123-ijn-light-cruiser-jintsu--323315)
     * [instructions](./assets/40123-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,480 (Dec-2022).
 * Upgrades Series IJN Catapult Ocean Spirit No. H034 1:700
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h034-ijn-catapult--967904)
     * [instructions](../../accessories/H034/assets/H034-instructions.jpg)
