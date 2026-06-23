@@ -113,10 +113,16 @@ Planning some additional railings and rigging:
 ![build02e](./assets/build02e.jpg?raw=true)
 
 First, I've selected some rails and replacement ladders
-from [Master Tools Handrails & Ladders for 1/700 model ship Trumpeter No. 06634 1:700](https://www.scalemates.com/kits/trumpeter-06634-handrails-and-ladders-1-700-model-ship--700008)
+from the
+[Master Tools Handrails & Ladders for 1/700 model ship Trumpeter No. 06634 1:700](https://www.scalemates.com/kits/trumpeter-06634-handrails-and-ladders-1-700-model-ship--700008)
 set.
 
 ![build02b](./assets/build02b.jpg?raw=true)
+
+Signal flag lines attached using some pullies
+from the
+[Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
+set.
 
 ![build02c](./assets/build02c.jpg?raw=true)
 
