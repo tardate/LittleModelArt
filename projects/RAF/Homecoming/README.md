@@ -6,7 +6,7 @@ A little vignette featuring figures from ICM and a Lancaster and Spitfires from 
 
 ## Notes
 
-I have some spare figures from the ICM diorama set [WWII RAF Airfield No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442), in particular and office and dog, that I've always had an eye on for a diroama.
+I have some spare figures from the ICM diorama set [WWII RAF Airfield No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442), in particular and office and dog, that I've always had an eye on for a diorama.
 
 "Homecoming" is a little vignette idea, pairing the figures with a Lancaster and Spitfires flying home,
 from the [WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373).
@@ -84,6 +84,7 @@ Spitfire Mk.Ia
 * WWII RAF Airfield ICM No. DS4802 1:48
     * [on scalemates](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
     * [on icm.com.ua](https://icm.com.ua/pack/wwii-raf-airfield-spitfire-mk-ix-spitfire-mk-vii-raf-pilots-and-ground-personnel/)
+    * Purchased from IBG Models for €25.00 (Jun-2021)
     * includes
         * RAF Pilots and Ground Personnel (1939-1945) ICM No. 48081 1:48
             * [on scalemates](https://www.scalemates.com/kits/icm-48081-raf-pilots-and-ground-personnel--211639)
@@ -92,3 +93,4 @@ Spitfire Mk.Ia
 * WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
     * [instructions](./assets/S32-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (Dec-2022)

@@ -26,18 +26,18 @@ This was my first experience of IBG's ship kits and I as very impressed.
 The moulding is very crisp and detailed for 1:700, and the kit comes with all the parts needed to create a very nice model, including
 a PE set with railings and other details designed specifically for the model.
 
-[![70001](./assets/70001.jpg)](http://www.ibgmodels.com/70001-2/)
+[![kit-box](./assets/70001.jpg)](http://www.ibgmodels.com/70001-2/)
 
 ### Paint Scheme
 
 The basic scheme. As usual for ships in 1:700, I applied final effects with oil paints.
 
-| Feature                    | Color                     | Recommended | Paint Used |
-|----------------------------|---------------------------|-------------|------------|
-| A funnel                   | Black                     | HTK-A041    | 70.950 Black           |
-| B superstructure/hull camo | Admiralty Light Grey 507C | HTK-A503    | 70.990 Light Grey           |
+| Feature                    | Color                     | Recommended | Paint Used                                |
+|----------------------------|---------------------------|-------------|-------------------------------------------|
+| A funnel                   | Black                     | HTK-A041    | 70.950 Black                              |
+| B superstructure/hull camo | Admiralty Light Grey 507C | HTK-A503    | 70.990 Light Grey                         |
 | C hull camo                | Dark Blue-grey B5         | HTK-A504    | 70.868 Dark Seagreen + 70.963 Medium Blue |
-| D deck                     | Admiralty Dark Grey 507A  | HTK-A501    | 70.870 Medium Sea Grey           |
+| D deck                     | Admiralty Dark Grey 507A  | HTK-A501    | 70.870 Medium Sea Grey                    |
 
 ### Build Log
 
@@ -90,6 +90,7 @@ A quick base: HD foam, tissue and glue
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-70001-orp-l-zak-1943--969355)
     * [on IBG site](http://www.ibgmodels.com/70001-2/)
     * [instructions](./assets/70001-instructions.pdf)
+    * Purchased from IBG Models for €11.50 (Aug-2022)
 
 ### Research References
 
