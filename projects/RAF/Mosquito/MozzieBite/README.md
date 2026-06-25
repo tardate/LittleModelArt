@@ -22,20 +22,20 @@ from the
 
 Mosquito
 
-| Feature               | Color                 | Recommended | Paint Used |
-|-----------------------|-----------------------|-------------|------------|
+| Feature               | Color                 | Recommended | Paint Used             |
+|-----------------------|-----------------------|-------------|------------------------|
 | upper camo            | DARK GREEN BS641      | C361        | Humbrol 163            |
 | upper camo            | OCEAN GRAY            | C362        | Humbrol 106            |
 | lower                 | MEDIUM SEA GRAY BS637 | C363        | 70.870 Medium Sea Grey |
-| guns                  | STEEL                 | C28         | Humbrol 53         |
+| guns                  | STEEL                 | C28         | Humbrol 53             |
 
 Tiger I
 
-| Feature               | Color                    | Recommended | Paint Used |
-|-----------------------|--------------------------|-------------|------------|
-| seats and trim        | Flat Black               | H12/C33     | Humbrol 33            |
-| tires and tracks      | Steel                    | H18/C28     | Humbrol 53        |
-| Europe Camo           | Field Grey               | H32/C40     | 70.992 Neutral Grey + 70.994 Dark Grey (~ 4:1)|
+| Feature               | Color                    | Recommended | Paint Used                                     |
+|-----------------------|--------------------------|-------------|------------------------------------------------|
+| seats and trim        | Flat Black               | H12/C33     | Humbrol 33                                     |
+| tires and tracks      | Steel                    | H18/C28     | Humbrol 53                                     |
+| Europe Camo           | Field Grey               | H32/C40     | 70.992 Neutral Grey + 70.994 Dark Grey (~ 4:1) |
 
 ### Build Log
 
@@ -87,9 +87,11 @@ Mozzie Bite! Having fun making little dioramas in resin: Pit-Road 1:700 Mosquito
 * WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
     * [instructions](./assets/S32-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (Dec-2022)
 * WWII German Military Vehicle Set 1 Pit-Road No. MI02 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
     * [instructions](./assets/MI02-instructions.pdf)
+    * Purchased from Plaza Japan for ¥1,725 (Apr-2022)
 * [Crystal Clear](https://shopee.sg/SG-READY-STOCK-1KG-CLEAR-Epoxy-Resin-AB-Glue-Hard-PVC-Resin-High-Quality-Crystal-Clear-Transparent-Paint-Mold-Maker-3-1-i.193616971.5442543063) epoxy resin
 
 ### Research References

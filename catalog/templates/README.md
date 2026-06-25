@@ -16,7 +16,7 @@ notes here
 
 description
 
-![kit-box](./assets/kit-box.jpg?raw=true)
+[![kit-box](./assets/kit-box.jpg?raw=true)](url)
 
 ### Paint Scheme
 
@@ -42,10 +42,14 @@ description
 
 #### Reference 1
 
+YouTube by AAA
+
 [![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)
 
 ### Build References
 
 #### Build Reference 1
+
+YouTube by AAA
 
 [![clip](https://img.youtube.com/vi/video_id/0.jpg)](https://www.youtube.com/watch?v=video_id)

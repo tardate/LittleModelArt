@@ -31,13 +31,13 @@ I purchased the kit direct from [IBG models](http://www.ibgmodels.com/72502-2/).
 
 ### Paint
 
-| Color/Part                           | Recommended Paint           | Paint Used |
-|--------------------------------------|-----------------------------|------------|
-| scarlet (nose)                       | 70.817 Vellejo Model Color  | 70.909 Vermillion  |
-| white grey (wings and rear fuselage) | 70.993 Vellejo Model Color  | 70.907 Pale Grey Blue |
-| black (prop and wheels)              | 70.950 Vellejo Model Color  | 70.950 Black       |
-| interior                             |                             | 70.843 Cork Brown  |
-| seat                                 |                             | 70.941 Burnt Umber |
+| Color/Part                           | Recommended Paint           | Paint Used            |
+|--------------------------------------|-----------------------------|-----------------------|
+| scarlet (nose)                       | 70.817 Vallejo Model Color  | 70.909 Vermillion     |
+| white grey (wings and rear fuselage) | 70.993 Vallejo Model Color  | 70.907 Pale Grey Blue |
+| black (prop and wheels)              | 70.950 Vallejo Model Color  | 70.950 Black          |
+| interior                             |                             | 70.843 Cork Brown     |
+| seat                                 |                             | 70.941 Burnt Umber    |
 
 Sealed with with Mr Hobby Flat Matt Topcoat.
 
@@ -82,6 +82,8 @@ Or perhaps another RWD-8 from the 4 variants IBG have to choose from, along with
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72502-rwd-8-dwl--938420)
     * [on IBG site](http://www.ibgmodels.com/72502-2/)
     * [instructions](./assets/72502-instructions.pdf)
+    * Purchased from IBG Models for €10.00 (Dec-2020)
+
 * [PART S72086 1/72 RWD-8 Siedlce](http://en.ibg.com.pl/en,part-s72086-1-72-rwd-8-siedlce,3,82,84,86,2880.html#.YCPpiukzaL4) - photoetch
 * [QW-Model Q04004 0.047mm rubber rigging](http://www.qw-model.com/nd.jsp?id=59#_np=111_356)
 

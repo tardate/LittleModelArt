@@ -11,37 +11,41 @@ The Hurricane Mk.I was the first production version of the iconic fabric-covered
 The first few hundred had a wooden two-bladed, fixed-pitch propeller and 1,030 hp (770 kW) Rolls-Royce Merlin Mk.II engine.
 These were followed b the more common three blade two-pitch propeller and Merlin Mk.III engines.
 
-### Markings
+### The Kit
 
 The [Arma Hobby 70019 kit](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781) offers 4 schemes:
 
 * Hurricane MkI , serial P3059, fuselage code SD-N from 501 Squadron RAF, August 1940. Aeroplane piloted, among others by Polish fighter pilot Sgt Antoni Głowacki
-* Hurricane MkI , serial V7234, SD-A from 501 Squadron RAF, August 1940. The most successful aeroplane of Sgt Antoni Głowacki. Credited with six shoots down and one damaged aircraft of the Luftwaffe. Glowacki has achieved five kills in one day (24 August 1940) and became the only „one day ace” in Battle of Britain **select scheme**
-* Hurricane MkI , serial R4175, fuselage code RF-R From 303 Polish/RAF Squadron, pilot Sgt Josef Frantisek has shot down seven of his seventeen kills during the Battle of Britain. Unfortunately, he was killed when accidentally crashed this aeroplane on the ground during patrol flight on 8th October 1940.
+* Hurricane MkI, serial V7234, SD-A from 501 Squadron RAF, August 1940. The most successful aeroplane of Sgt Antoni Głowacki. Credited with six shoots down and one damaged aircraft of the Luftwaffe. Glowacki has achieved five kills in one day (24 August 1940) and became the only „one day ace” in Battle of Britain
+* Hurricane MkI, serial R4175, fuselage code RF-R From 303 Polish/RAF Squadron, pilot Sgt Josef Frantisek has shot down seven of his seventeen kills during the Battle of Britain. Unfortunately, he was killed when accidentally crashed this aeroplane on the ground during patrol flight on 8th October 1940.
 * Hurricane MkI trop, serial 284, fuselage code „yellow J”, 3 Squadron SAAF, Kenia 1941. Pilot Lt. Robert Kershaw has rescued his shot down commander, Cpt. John Frost, after Diredawa (Ethiopia) air raid on 15 March 1941.
+
+[![kit-box](./assets/70019-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781)
 
 ### Paint Scheme
 
-| Feature               | Color                | Recommended   | Paint Used |
-|-----------------------|----------------------|---------------|------------|
-| A Interior Grey Green | FS34226              | HTK-A025/C025 | H73 |
-| B Night Black         | FS37038              | HTK-A041/C041 | 70.950 Black |
-| C Gun metal           | FS17178+FS37038      | HTK-A106      | H76 |
+Selected scheme: Hurricane MkI, serial V7234, SD-A from 501 Squadron RAF, August 1940
+
+| Feature               | Color                | Recommended   | Paint Used        |
+|-----------------------|----------------------|---------------|-------------------|
+| A Interior Grey Green | FS34226              | HTK-A025/C025 | H73               |
+| B Night Black         | FS37038              | HTK-A041/C041 | 70.950 Black      |
+| C Gun metal           | FS17178+FS37038      | HTK-A106      | H76               |
 | D Matt Silver         | FS37178              | HTK-A003/C003 | H8, 70.997 Silver |
-| E Sky type S          | FS34583              | HTK-A026/C026 | H74 |
-| F Dark Green          | FS34092              | HTK-A016/C016 | H64 |
-| G Dark Earth          | FS30118              | HTK-A009/C009 | H72 + drop of H6 |
+| E Sky type S          | FS34583              | HTK-A026/C026 | H74               |
+| F Dark Green          | FS34092              | HTK-A016/C016 | H64               |
+| G Dark Earth          | FS30118              | HTK-A009/C009 | H72 + drop of H6  |
 | H Insignia Red        | FS11136              | HTK-A219/C219 | 70.909 Vermillion |
-| prop tips             | Yellow               |               | H4 |
+| prop tips             | Yellow               |               | H4                |
 
 ### RAF Schemes?
 
-| Color               | AK      | Hataka   | Mr Color | Aqueous          | Vallejo Model Color |
-|---------------------|---------|----------|----------|------------------|---------------------|
-| Interior grey-green | AK-2018 | HTK-A025 | C025     | H73              | |
-| Raf Sky             | AK-2015 | HTK-A026 | C026     | H74              | 70.885 Pastel Green|
+| Color               | AK      | Hataka   | Mr Color | Aqueous          | Vallejo Model Color           |
+|---------------------|---------|----------|----------|------------------|-------------------------------|
+| Interior grey-green | AK-2018 | HTK-A025 | C025     | H73              |                               |
+| Raf Sky             | AK-2015 | HTK-A026 | C026     | H74              | 70.885 Pastel Green           |
 | Raf Dark Green      | AK-2011 | HTK-A016 | C016     | H64/H330         | 70.894 Cam Olive Green RLM 80 |
-| Raf Dark Earth      | AK-2012 | HTK-A009 | C009     | H72 + drop of H6 | 70.921 English Uniform |
+| Raf Dark Earth      | AK-2012 | HTK-A009 | C009     | H72 + drop of H6 | 70.921 English Uniform        |
 
 References:
 
@@ -99,9 +103,11 @@ Some better(?) shots:
     * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781)
     * [on Arma Hobby site](https://www.armahobby.com/70019-hurricane-mk-i-expert-set.html)
     * [instructions](./assets/70019-instructions.pdf)
+    * Purchased from Arma Hobby for €17.10 (Jan-2021)
 * WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
     * [instructions](./assets/S32-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (Dec-2022)
 
 ### Research References
 

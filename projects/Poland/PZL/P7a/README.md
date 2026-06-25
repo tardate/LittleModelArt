@@ -15,7 +15,7 @@ is the first kit I've bought from this manufacturer. I have heard really good th
 and I was certainly not disappointed. The expert set is beautifully put together and includes everything needed
 to produce a great rendering of this interesting aircraft from the interwar years.
 
-[![kit-box](./assets/kit-box.jpg?raw=true)](https://www.armahobby.com/pzl-p-7a-expert-set.html)
+[![kit-box](./assets/70006-kit-box.jpg?raw=true)](https://www.armahobby.com/pzl-p-7a-expert-set.html)
 
 ### Marking Option
 
@@ -24,13 +24,13 @@ There are four schemes offered in the kit. I've decided to build:
 PZL P.7a, 123. Eskadra Myśliwska z Krakowa. Samolot dowódcy Eskadry kpt. pil. Mieczysława Wiórkiewicza, 1935-1936.
 (PZL P.7a, 123. Fighter Squadron from Cracow. The aeroplane of the Squadron commander, Cpt.  Mieczysław Wiórkiewicz, 1935-1936)
 
-| Feature                     | Colour Name            | Recommended Paint       | Paint Used |
-|-----------------------------|------------------------|-------------------------|------------|
-| A                           | Matt Silver            | FS37178 - C003          | 70.997 Silver |
-| B                           | NATO Black             | FS37030 - C125          | 70.950 Black |
-| C                           | NATO Brown             | FS30051 - C188          | 70.941 Burnt Umber |
+| Feature                     | Colour Name            | Recommended Paint       | Paint Used             |
+|-----------------------------|------------------------|-------------------------|------------------------|
+| A                           | Matt Silver            | FS37178 - C003          | 70.997 Silver          |
+| B                           | NATO Black             | FS37030 - C125          | 70.950 Black           |
+| C                           | NATO Brown             | FS30051 - C188          | 70.941 Burnt Umber     |
 | D - underbody               | Polish Light Blue-Grey | FS36473 - HTK-A036/C036 | 79.907 Pale Grey Blue  |
-| E - unused                  | Dark Polish Khaki      | FS30118 - HTK-A010/C010 | 70.873 US Field Drab |
+| E - unused                  | Dark Polish Khaki      | FS30118 - HTK-A010/C010 | 70.873 US Field Drab   |
 | F - main fuselage and wings | Light Polish Khaki     | FS30095 - HTK-A011/C011 | 70.921 English Uniform |
 
 ### Construction
@@ -56,6 +56,7 @@ PZL P.7a, 123. Eskadra Myśliwska z Krakowa. Samolot dowódcy Eskadry kpt. pil. 
     * [on scalemates](https://www.scalemates.com/kits/arma-hobby-70006-pzl-p7a--1026288)
     * [on Arma Hobby site](https://www.armahobby.com/pzl-p-7a-expert-set.html)
     * [instructions](./assets/70005-instructions.pdf)
+    * Purchased from Arma Hobby for €12.35 (Jan-2021)
 
 ### Research References
 

@@ -36,15 +36,15 @@ An older scheme was used between 1932 and 1936 aka "Japanese camouflage":
 
 It was the bizarre "Japanese camouflage" scheme that initially caught my eye, so I'm going with that, using the following colours:
 
-| Feature              | Color                   | Recommended | Paint Used |
-|----------------------|-------------------------|-------------|------------|
-| camo                 | Sand Yellow             | 70.916      | Hunbrol 110 + 70.917 Beige |
-| camo                 | Olive Grey              | 70.888      | 70.893 US Dark Green |
+| Feature              | Color                   | Recommended | Paint Used                                  |
+|----------------------|-------------------------|-------------|---------------------------------------------|
+| camo                 | Sand Yellow             | 70.916      | Hunbrol 110 + 70.917 Beige                  |
+| camo                 | Olive Grey              | 70.888      | 70.893 US Dark Green                        |
 | camo                 | Beige Brown             | 70.875      | 70.981 Orange Brown + 70.846 Mahogany Brown |
-| camo                 | German Grey             | 70.995      |  |
-| tires                | Black Grey              | 70.862      | 70.862 |
-| gun barrel           |                         | 70.073      |  |
-| tool handles         | Refractive Green        | 70.890      |  |
+| camo                 | German Grey             | 70.995      |                                             |
+| tires                | Black Grey              | 70.862      | 70.862                                      |
+| gun barrel           |                         | 70.073      |                                             |
+| tool handles         | Refractive Green        | 70.890      |                                             |
 
 ## Build Log
 
@@ -71,9 +71,11 @@ So as I was finish this up just before Christmas, I couldn't help myself and wen
 * Samochód pancerny wersja wz. 34-II Mirage Hobby No. 355020 1:35
     * [on scalemates](https://www.scalemates.com/kits/mirage-hobby-355020-wersja-wz-34-ii--1020935)
     * [instructions](./assets/355020-instructions.pdf)
+    * Purchased from Kit for Kids for SG$5 (Jun-2022)
 * Polish Tank Crew MiniArt No. 35267 1:35
     * [on scalemates](https://www.scalemates.com/kits/miniart-35267-tank-crew--1119388)
     * [instructions](./assets/35267-instructions.pdf)
+    * Purchased from Miniature Hobby for SG$13.10 (Jul-2022)
 
 ### Research References
 
