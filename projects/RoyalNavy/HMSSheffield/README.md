@@ -18,7 +18,7 @@ The kit I have is from around 1996 I think. The decals died long ago, but the mo
 Modern re-boxings are still available with some extras like PE for fittings including the big ass radar.
 I used some generic 1:700 left-over PE for railings etc, but that radar would have been a nice addition.
 
-[![kit_box](./assets/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/dragon-7016-hms-sheffield--955083)
+[![box-art](./assets/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/dragon-7016-hms-sheffield--955083)
 
 ### About the HMS Sheffield
 

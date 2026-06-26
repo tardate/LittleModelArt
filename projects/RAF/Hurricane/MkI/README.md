@@ -20,7 +20,7 @@ The [Arma Hobby 70019 kit](https://www.scalemates.com/kits/arma-hobby-70019-hurr
 * Hurricane MkI, serial R4175, fuselage code RF-R From 303 Polish/RAF Squadron, pilot Sgt Josef Frantisek has shot down seven of his seventeen kills during the Battle of Britain. Unfortunately, he was killed when accidentally crashed this aeroplane on the ground during patrol flight on 8th October 1940.
 * Hurricane MkI trop, serial 284, fuselage code „yellow J”, 3 Squadron SAAF, Kenia 1941. Pilot Lt. Robert Kershaw has rescued his shot down commander, Cpt. John Frost, after Diredawa (Ethiopia) air raid on 15 March 1941.
 
-[![kit-box](./assets/70019-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781)
+[![box-art](./assets/70019-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/arma-hobby-70019-hurricane-mk-i--1153781)
 
 ### Paint Scheme
 

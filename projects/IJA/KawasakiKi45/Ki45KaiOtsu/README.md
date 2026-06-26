@@ -16,7 +16,7 @@ kit at Hobby Mate ホビーメイト in Osaka.
 
 The tooling comes from 1995, and Hasegawa have been re-releasing every few years (the last in 2019).
 
-[![kit-box](./assets/51270-kit-box.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
+[![box-art](./assets/51270-kit-box.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
 
 ### Schemes
 

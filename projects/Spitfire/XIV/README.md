@@ -13,7 +13,7 @@ Not doing anything special with it - just a clean out-of-the-box build that I've
 
 The [Airfix Supermarine Spitfire Mk.XIV](https://www.scalemates.com/kits/airfix-a05139-supermarine-spitfire-mkxiv-civilian-schemes--1260842) comes with a couple of striking civilian schemes. The kit goes together beautifully and is reasonably well detailed. I think the tool is from 2019, while these schemes are in the 2020 boxing.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ### The Subject
 

@@ -38,7 +38,7 @@ I picked up
 [No. 01644](https://www.scalemates.com/kits/trumpeter-01644-j-10s-fighter--107127)
 which includes a Ba Yi Aerobatics Team scheme
 
-![kit-box](./assets/kit-box.jpg?raw=true)
+![box-art](./assets/kit-box.jpg?raw=true)
 
 As I wanted to display the craft in flight, I needed some pilot figures. These are not included in the kit.
 

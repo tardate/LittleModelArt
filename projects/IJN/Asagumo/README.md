@@ -37,7 +37,7 @@ purchased from Hobby Point for SG$79.20 in Jun-2022.
 
 See [instructions](./assets/30062-instructions.pdf).
 
-![30062-kit-box](./assets/30062-kit-box.jpg?raw=true)
+![box-art](./assets/30062-kit-box.jpg?raw=true)
 
 The Asagumo appears to be an updated (or at least significantly refurbished) mold of the Asashio from 2017:
 [Japanese Navy Destroyer Asashio Hasegawa No. 463 1:700](https://www.scalemates.com/kits/hasegawa-463-japanese-navy-destroyer-asashio--1097976).

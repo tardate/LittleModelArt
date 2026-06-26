@@ -19,7 +19,7 @@ The [Blackburn Buccaneer S.2C Airfix No. A06021 1:72](https://www.scalemates.com
 kit is a relatively new tool (2019)
 and proved to be exceptionally well engineered. It is a great build.
 
-[![kit_box](./assets/kit_box.jpg?raw=true)](https://uk.airfix.com/products/blackburn-buccaneer-s2-rn-a06021)
+[![box-art](./assets/kit_box.jpg?raw=true)](https://uk.airfix.com/products/blackburn-buccaneer-s2-rn-a06021)
 
 Since the kit-supplied aircrew are identical and not pose-able,
 I picked up some replacements from PJ Productions.

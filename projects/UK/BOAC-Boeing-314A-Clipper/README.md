@@ -24,7 +24,7 @@ It is based on the 1967 tooling .. as old as me!
 
 See [instructions](./assets/A04172V-instructions.pdf).
 
-![A04172V-kit-box](./assets/A04172V-kit-box.jpg?raw=true)
+![box-art](./assets/A04172V-kit-box.jpg?raw=true)
 
 There are two schemes in this release:
 

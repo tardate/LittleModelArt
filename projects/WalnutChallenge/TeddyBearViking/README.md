@@ -14,7 +14,7 @@ I picked up this little
 [Teddy Bear Viking Aurora Model No. CT-026](https://www.scalemates.com/kits/aurora-model-ct-026-teddy-bear-viking--1469451)
 on a whim from Volks in Tokyo.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ### Circuit Design
 

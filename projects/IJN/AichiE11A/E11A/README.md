@@ -33,7 +33,7 @@ I bought the kit on Plaza Japan for ¥1,890 in Jun-2025.
 
 See [instructions](./assets/72331-instructions.pdf)
 
-![72331-kit-box](./assets/72331-kit-box.jpg?raw=true)
+![box-art](./assets/72331-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

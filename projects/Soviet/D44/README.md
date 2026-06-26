@@ -19,7 +19,7 @@ It was re-boxed as the [PLA Type 56 Divisional Gun in 2013](https://www.scalemat
 
 See [instructions](./assets/02339-instructions.pdf)
 
-[![02339-kit-box](./assets/02339-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/trumpeter-02339-85mm-d-44-divisional-gun--158148)
+[box-art](./assets/02339-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/trumpeter-02339-85mm-d-44-divisional-gun--158148)
 
 ### Paint Scheme
 

@@ -19,7 +19,7 @@ was tooled and released in 2013. It was re-released in a new box in 2020.
 
 See [instructions](./assets/A12007-instructions.pdf).
 
-![A12007-kit-box](./assets/A12007-kit-box.jpg?raw=true)
+![box-art](./assets/A12007-kit-box.jpg?raw=true)
 
 #### Scheme A Gloster Javelin FAW.9R (XH893)
 

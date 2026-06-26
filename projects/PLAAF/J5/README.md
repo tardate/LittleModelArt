@@ -15,7 +15,7 @@ is the new 2019 tooling. I purchased it from Hobby Bounties for SGD$42.25 in Apr
 
 See [instructions](./assets/A03091-instructions.pdf)
 
-![A03091-kit-box](./assets/A03091-kit-box.jpg?raw=true)
+![box-art](./assets/A03091-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

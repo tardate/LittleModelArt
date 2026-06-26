@@ -22,7 +22,7 @@ The sprues even include the little cat mascot.
 
 See [instructions](./assets/14103-instructions.pdf)
 
-![14103-kit-box](./assets/14103-kit-box.jpg?raw=true)
+![box-art](./assets/14103-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

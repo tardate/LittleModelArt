@@ -30,7 +30,7 @@ waiting for me to come and tweak the effect. Which I finally did today (2023-01-
 The Aoshima kit No. 045718 of the liner Yawatamaru (日本客船 八幡丸) is available in recent boxing but is a 1982 tool.
 It is however reasonably well detailed and goes together just fine.
 
-[![kit_box](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
+[![box-art](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
 
 | Feature                                | Gunze MrHobby  | Paint Used   |
 |----------------------------------------|----------------|--------------|
@@ -57,7 +57,7 @@ Still got some tidying up to do - windows, weathering, rigging
 The Aoshima kit No. 045220 of the escort carrier Un'yō (日本海軍 航空母艦 雲鷹 ) is available in recent boxing but is also a 1982 tool.
 Like the Yawatamaru it is reasonably well detailed and goes together just fine.
 
-[![kit_box](./assets/unyo/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
+[![box-art](./assets/unyo/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
 
 | Feature                                     | Gunze MrHobby  | Paint Used                  |
 |---------------------------------------------|----------------|-----------------------------|

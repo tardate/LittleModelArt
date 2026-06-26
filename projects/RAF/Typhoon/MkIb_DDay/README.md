@@ -18,7 +18,7 @@ is I believe a repackaging of the
 [Airfix kit A02041](https://www.scalemates.com/kits/airfix-a02041-hawker-typhoon-ib--173943)
 kit.
 
-![A73016-kit-box](./assets/A73016-kit-box.jpg)
+![box-art](./assets/A73016-kit-box.jpg)
 
 ### Paint Scheme
 

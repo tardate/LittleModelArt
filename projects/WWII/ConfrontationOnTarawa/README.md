@@ -33,7 +33,7 @@ I purchased the kit at Miniature Hobby Singapore in Apr 2024 for SGD$15.50.
 
 See [instructions](./assets/MB3544-instructions.jpg)
 
-![kit-box](./assets/MB3544-kit-box.jpg?raw=true)
+![box-art](./assets/MB3544-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

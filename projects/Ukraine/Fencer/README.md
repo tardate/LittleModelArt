@@ -17,7 +17,7 @@ This is an amazing 1:144 kit from Armory Model Group of Ukraine, displayed with 
 I think my first introduction to Armory was picking my jaw off the floor looking at the Fairey Flycatcher build by Piotr SŁomiński in Models for Ukraine Vol 1.
 Taras Karabyn and Ilya Sobolev told the Armory story on Episode 3 of the Models From Ukraine podcast hosted by @chris.meddings
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ### Sukhoj Su-24M Fencer
 

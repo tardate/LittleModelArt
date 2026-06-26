@@ -19,7 +19,7 @@ The scene was set for a period of unrelenting aerial combat, as both sides strug
 The [Fokker DR.1 & Bristol F.2B Dogfight Doubles](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
 kit from Airfix (No. A02141V in 1:72) is a Vintage Classics boxing of toolings that date from as early as 1957.
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
 
 ### Paint Scheme
 

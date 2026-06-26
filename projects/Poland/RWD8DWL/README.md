@@ -19,7 +19,7 @@ I picked up this kit for a couple of reasons:
 
 I purchased the kit direct from [IBG models](http://www.ibgmodels.com/72502-2/). Very reasonable pricing, including shipping (Poland to Singapore).
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_box_contents](./assets/kit_box_contents.jpg?raw=true)
 

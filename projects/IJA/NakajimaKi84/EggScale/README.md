@@ -20,7 +20,7 @@ I purchased the kit from the "Colorfulday Store" on aliexpress for SG$14.94 in J
 
 See [instructions](./assets/TM-102-instructions.pdf).
 
-![kit-box](./assets/TM-102-kit-box.jpg?raw=true)
+![box-art](./assets/TM-102-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

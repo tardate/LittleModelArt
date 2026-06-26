@@ -19,7 +19,7 @@ kit at the "kits for Kids" charity event for SGD$10. A very nice price given tha
 * 2 x gato-class subs; can be built with full hull or waterline
 * 2 x No.13; waterline
 
-![kit-box](./assets/kit-box.jpg?raw=true)
+![box-art](./assets/kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

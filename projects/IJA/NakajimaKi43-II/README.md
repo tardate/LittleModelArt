@@ -20,7 +20,7 @@ I purchased the kit for SG$14.40 from Hobby Point in Jun-2023.
 
 See [instructions](./assets/00131-instructions.pdf).
 
-![kit-box](./assets/00131-kit-box.jpg?raw=true)
+![box-art](./assets/00131-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

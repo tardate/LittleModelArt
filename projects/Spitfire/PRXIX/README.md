@@ -16,7 +16,7 @@ included in the
 is I believe a repackaging of the
 [Airfix kit A02017B](https://www.scalemates.com/kits/airfix-a02017b-supermarine-spitfire-prxix--1523804) kit.
 
-![A73016-kit-box](./assets/A73016-kit-box.jpg)
+![box-art](./assets/A73016-kit-box.jpg)
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 

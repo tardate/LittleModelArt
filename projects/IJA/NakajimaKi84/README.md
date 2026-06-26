@@ -18,7 +18,7 @@ I purchased the kit direct from Arma Hobby in Jun-2022. It cost €33.44 in a 2-
 
 See [instructions](./assets/70051-instructions.pdf).
 
-![kit-box](./assets/70051-kit-box.jpg?raw=true)
+![box-art](./assets/70051-kit-box.jpg?raw=true)
 
 ### Marking Options
 

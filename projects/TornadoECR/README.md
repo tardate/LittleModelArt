@@ -37,7 +37,7 @@ because of those tiger stripes and also because I was interested to try somethin
 * Length: 118 mm
 * Wingspan: 85 mm
 
-[![kit_box](./assets/kit_box.jpg?raw=true)](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
+[![box-art](./assets/kit_box.jpg?raw=true)](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
 
 This is my first Revell kit and I couldn't have been more impressed:
 

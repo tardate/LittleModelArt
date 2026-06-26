@@ -28,7 +28,7 @@ The kit contains:
 * metal axles (allows the wheels to rotate in the final model)
 * decals
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 
 ## Model Construction

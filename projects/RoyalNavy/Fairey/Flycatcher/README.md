@@ -27,7 +27,7 @@ packaged with some extras by Proper Plane:
 * Proper Plywood Decals
 * Proper Wooden propeller
 
-![AR48003-kit-box](./assets/AR48003-kit-box.jpg)
+![box-art](./assets/AR48003-kit-box.jpg)
 
 ![AR48003-kit-parts](./assets/AR48003-kit-parts.jpg)
 

@@ -10,7 +10,7 @@ Building a diorama inspired by the box-art of Airfix's 1:72 scale Spitfire Mk.Vc
 
 The kit - [Supermarine Spitfire Mk.Vc; Airfix No. A02108, 1:72](https://www.scalemates.com/kits/airfix-a02108-supermarine-spitfire-mkvc--1260494) - is a nice new mould from 2020.
 
-![A02108-kit-box](./assets/A02108-kit-box.jpg?raw=true)
+![box-art](./assets/A02108-kit-box.jpg?raw=true)
 
 I'm modelling ER180 - US Army Air Force 307 FS, 31 FG MX-P / ER180
 

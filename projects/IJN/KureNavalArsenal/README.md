@@ -44,7 +44,7 @@ Notable projects:
 
 This is one of the series of 1:3000 scale port dioramas that Fujimi have produced.
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/fujimi-40131-kure-naval-port--993916)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/fujimi-40131-kure-naval-port--993916)
 
 Photo-etch detail sets are available from Fujimi for the
 [gantries](https://www.scalemates.com/kits/fujimi-11503-ijn-kure-naval-port-gantry-crane-photo-etched-parts--1028650)

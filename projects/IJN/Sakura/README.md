@@ -45,7 +45,7 @@ This kit was originally tooled by Fujimi in 1972. I picked up a 1994 boxing at t
 
 See [instructions](./assets/40045-instructions.pdf)
 
-![40045-kit-box](./assets/40045-kit-box.jpg?raw=true)
+![box-art](./assets/40045-kit-box.jpg?raw=true)
 
 ![build01a](./assets/build01a.jpg?raw=true)
 

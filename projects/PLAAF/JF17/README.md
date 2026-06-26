@@ -30,7 +30,7 @@ Trumpeter also have a few other versions:
 I purchased this kit from [World model Store on aliexpress](https://www.aliexpress.com/item/4000433706862.html)
 in late 2020 but I notice prices have rising considerably in the meantime.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_contents](./assets/kit_contents.jpg?raw=true)
 

@@ -20,7 +20,7 @@ The FR.9 was retired from active service by the late 1950s but played a signific
 is the club boxing of the 2022 tool [Gloster Meteor F.8 No. A04064](https://www.scalemates.com/kits/airfix-a04064-gloster-meteor-f8--1396777).
 It contains some new parts and schemes.
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
 
 ### Scheme A
 

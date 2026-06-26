@@ -30,7 +30,7 @@ It includes:
 * Tug Boat (150 tons Type) 臭船（150トン型夕グポート)
 * Tug Boat (300 Tons Type) 虫船（300トン型タグボート）
 
-![kit-box](./assets/31509-kit-box.jpg?raw=true)
+![box-art](./assets/31509-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

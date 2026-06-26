@@ -21,7 +21,7 @@ The
 [Airfix A1368 1:35 M7 Priest](https://www.scalemates.com/kits/airfix-a1368-m7-priest--1260500)
 is an Academy re-boxing
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 #### Schemes
 

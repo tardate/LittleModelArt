@@ -19,7 +19,7 @@ includes 2 planes and 5 schemes.
 
 See [instructions](./assets/PDR2-instructions.pdf)
 
-![PDR2-kit-box](./assets/PDR2-kit-box.jpg?raw=true)
+![box-art](./assets/PDR2-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

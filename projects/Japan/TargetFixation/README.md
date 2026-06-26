@@ -18,7 +18,7 @@ Fishing boat Green Max No. 2168 1:150.
 I got the kit at Yodobashi Akihabara for ¥919 in May 2025.
 See the [instructions](./assets/2168-instructions.pdf).
 
-[![2168-kit-box](./assets/2168-kit-box.jpg)](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
+[box-art](./assets/2168-kit-box.jpg)](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
 
 ### Paint Scheme
 

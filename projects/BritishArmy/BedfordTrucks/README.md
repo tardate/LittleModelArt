@@ -23,7 +23,7 @@ The most recent boxing is the 2025 release A03306A, now named "WWII 3-Ton G.S. A
 
 See [instructions](./assets/A03306-instructions.pdf)
 
-![A03306-kit-box](./assets/A03306-kit-box.jpg?raw=true)
+![box-art](./assets/A03306-kit-box.jpg?raw=true)
 
 ### A - QLT Troop Carrier and QLD General Purpose Cargo Truck, British Army, Northern Europe, 1944-1945
 

@@ -15,7 +15,7 @@ It served with the Royal Navy and British Army amongst other operators. The Roya
 The [HobbyBoss No. 87237, 1:72](https://www.scalemates.com/kits/hobbyboss-87237-royal-navy-westland-lynx-has3--106734)
 kit portrays the Royal Navy Westland Lynx HAS.3.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ## Paint
 

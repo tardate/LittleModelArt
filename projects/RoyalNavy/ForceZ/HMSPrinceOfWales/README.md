@@ -62,7 +62,7 @@ The
 is a in 1:700 waterline rendition of the HMS Prince of Wales.
 This is an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
 
-[![kit-box](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
+[![box-art](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
 
 #### Photo-etch Customization
 

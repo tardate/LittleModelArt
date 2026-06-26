@@ -30,7 +30,7 @@ Those were the basics used, plus some oils for weathering.
 
 The kit has beautifully detailed plastic.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 

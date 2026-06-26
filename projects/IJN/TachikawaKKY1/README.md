@@ -24,7 +24,7 @@ the only manufacturer to have produced a model of the KKY.
 Amodel is a Ukrainian model company. Their kits are distributed by IBG of Poland
 and available direct from [IBG](http://en.ibg.com.pl/en,producent,amodel,7,1,name,asc.html).
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 

@@ -85,7 +85,7 @@ I purchased it for ¥2,610 from Yodobashi Shinjuku in Mar-2026.
 
 See [instructions](./assets/72333-instructions.pdf)
 
-![72333-kit-box](./assets/72333-kit-box.jpg?raw=true)
+![box-art](./assets/72333-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

@@ -15,7 +15,7 @@ The
 [70010 TS-11 Iskra bis DF Expert Set](https://www.armahobby.com/70010-ts-11-iskra-bis-df-expert-set.html)
 boxing I have here was produced in 2021 and included new decals.
 
-[![kit-box](./assets/70010-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/arma-hobby-70010-ts-11-iskra-bis-df--1026291)
+[![box-art](./assets/70010-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/arma-hobby-70010-ts-11-iskra-bis-df--1026291)
 
 ### Paint Scheme
 
