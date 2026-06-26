@@ -31,20 +31,20 @@ Gloster Meteor FR.9 VZ603/W, No.8 Squadron Royal Air Force, Sharjah, Trucial Sta
 ![scheme-a](./assets/scheme-a.jpg)
 ![scheme-a-key](./assets/scheme-a-key.jpg)
 
-| Feature               | Color                    | Recommended | Paint Used |
-|-----------------------|--------------------------|-------------|------------|
-| cockpit interior      | Coal Black               | 85          |            |
-| cockpit fittings      | Matt Black               | 33          |            |
-| ejector seat strap    | Gloss Bright Red         | 19          |            |
-| seat                  | Matt WW1 Blue            | 109         | H26        |
-| jet interiors         | Super Duralumin          |             | SM208      |
-| pitot tube            | Silver                   | 11          |            |
-| nose cone             | Matt Black               | 33          | H12        |
-| nose cone             | Matt White               | 34          | H11        |
-| jet exhausts          | Gun Metal                | 53          |            |
+| Feature               | Color                    | Recommended | Paint Used             |
+|-----------------------|--------------------------|-------------|------------------------|
+| cockpit interior      | Coal Black               | 85          |                        |
+| cockpit fittings      | Matt Black               | 33          |                        |
+| ejector seat strap    | Gloss Bright Red         | 19          |                        |
+| seat                  | Matt WW1 Blue            | 109         | H26                    |
+| jet interiors         | Super Duralumin          |             | SM208                  |
+| pitot tube            | Silver                   | 11          |                        |
+| nose cone             | Matt Black               | 33          | H12                    |
+| nose cone             | Matt White               | 34          | H11                    |
+| jet exhausts          | Gun Metal                | 53          |                        |
 | upper fuselage camo 1 | Dark Green BS381C 241    | 163         | H73, highlights w/H27  |
 | upper fuselage camo 2 | Dark Sea Grey BS381C 638 | 164         | H331, highlights w/H27 |
-| lower fuselage        | Prussian Blue BS381C 636 | 230         | H56        |
+| lower fuselage        | Prussian Blue BS381C 636 | 230         | H56                    |
 
 ### Scheme B
 

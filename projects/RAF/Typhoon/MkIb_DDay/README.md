@@ -22,21 +22,21 @@ kit.
 
 ### Paint Scheme
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-| cockpit fittings      | Silver               | 11          | 70.997     |
-|                       | Matt Yellow          | 24          | H4 + H104  |
-|                       | Dark Green           | 30          | H73        |
-| cockpit fittings      | Matt Black           | 33          | 70.950     |
-| spinner               | Matt Beige           | 90          | H74        |
-| upper camouflage 1    | Ocean Grey           | 106         | H69        |
-| upper camouflage 2    | Matt Olive Drab      | 155         | H52        |
-| lower fuselage        | Medium Sea Grey      | 165         | H335       |
-| interior              |                      | 78          | H73        |
+| Feature               | Color                | Recommended | Paint Used                |
+|-----------------------|----------------------|-------------|---------------------------|
+| cockpit fittings      | Silver               | 11          | 70.997                    |
+|                       | Matt Yellow          | 24          | H4 + H104                 |
+|                       | Dark Green           | 30          | H73                       |
+| cockpit fittings      | Matt Black           | 33          | 70.950                    |
+| spinner               | Matt Beige           | 90          | H74                       |
+| upper camouflage 1    | Ocean Grey           | 106         | H69                       |
+| upper camouflage 2    | Matt Olive Drab      | 155         | H52                       |
+| lower fuselage        | Medium Sea Grey      | 165         | H335                      |
+| interior              |                      | 78          | H73                       |
 | pilot uniform         | RAF Blue             | 96          | 70.899 Dark Prussian Blue |
-| pilot uniform         | Leather              | 62          | 70.846, 70.981           |
-| pilot                 | Flesh                | 61          | AMMO F-550    |
-| exhausts              | Gunmetal             | 53          | H18           |
+| pilot uniform         | Leather              | 62          | 70.846, 70.981            |
+| pilot                 | Flesh                | 61          | AMMO F-550                |
+| exhausts              | Gunmetal             | 53          | H18                       |
 
 ### Build Log
 

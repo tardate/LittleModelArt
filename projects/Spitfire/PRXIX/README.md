@@ -24,16 +24,16 @@ is I believe a repackaging of the
 
 In the  D-Day Duo kit, there is one decal scheme that I have followed: No 541 Squadron RAF Benson Oxfordshire 1944
 
-| Feature               | Color                    | Recommended | Paint Used |
-|-----------------------|--------------------------|-------------|------------|
-| cockpit fittings      | Silver                   | 11          | 70.997     |
-|                       | Matt Yellow              | 24          |            |
-| cockpit fittings      | Matt Black               | 33          | 70.950     |
-| fuselage              | Prussian Blue BS381C 636 | 230         | H56        |
-| interior              |                          | 78          | H73        |
+| Feature               | Color                    | Recommended | Paint Used                |
+|-----------------------|--------------------------|-------------|---------------------------|
+| cockpit fittings      | Silver                   | 11          | 70.997                    |
+|                       | Matt Yellow              | 24          |                           |
+| cockpit fittings      | Matt Black               | 33          | 70.950                    |
+| fuselage              | Prussian Blue BS381C 636 | 230         | H56                       |
+| interior              |                          | 78          | H73                       |
 | pilot uniform         | RAF Blue                 | 96          | 70.899 Dark Prussian Blue |
-| pilot uniform         | Leather                  | 62          |            |
-| pilot                 | Flesh                    | 61          | AMMO F-550           |
+| pilot uniform         | Leather                  | 62          |                           |
+| pilot                 | Flesh                    | 61          | AMMO F-550                |
 
 ### Build Log
 

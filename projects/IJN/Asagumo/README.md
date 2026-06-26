@@ -44,22 +44,22 @@ The Asagumo appears to be an updated (or at least significantly refurbished) mol
 
 ### Paint Scheme
 
-| Feature                                                      | Color                | Recommended   | Paint Used |
-|--------------------------------------------------------------|----------------------|---------------|------------|
-| navigation light port                                        | Red                  | C3/H3         | H3         |
-|                                                              | Yellow               | C4/H4         |            |
-| navigation light starboard                                   | Green                | C6/H6         | H6         |
-|                                                              | Silver               | C8/H8         |            |
-| underwater hull                                              | Cocoa Brown          | C29/H17       |            |
-| hull, superstructure, cutter/launch/landing craft hull       | Dark Grey (2)        | C32/H83       | H83        |
-| funnel tops, bridge windows                                  | Flat Black           | C33/H12       | H12        |
-| launch/landing craft decking                                 | Wood Brown           | C43/H37       | H37        |
-| cutter slats/interior                                        | Tan                  | C44/H27       | H37        |
-| gun baffles                                                  | Sail Color           | C62-97%+C4-3% | H85        |
-|                                                              | Sail Color           | C45/H85       |            |
-| launch/landing craft canopy, funnel band                     | Flat White           | C62/H11       |            |
+| Feature                                                      | Color                | Recommended   | Paint Used            |
+|--------------------------------------------------------------|----------------------|---------------|-----------------------|
+| navigation light port                                        | Red                  | C3/H3         | H3                    |
+|                                                              | Yellow               | C4/H4         |                       |
+| navigation light starboard                                   | Green                | C6/H6         | H6                    |
+|                                                              | Silver               | C8/H8         |                       |
+| underwater hull                                              | Cocoa Brown          | C29/H17       |                       |
+| hull, superstructure, cutter/launch/landing craft hull       | Dark Grey (2)        | C32/H83       | H83                   |
+| funnel tops, bridge windows                                  | Flat Black           | C33/H12       | H12                   |
+| launch/landing craft decking                                 | Wood Brown           | C43/H37       | H37                   |
+| cutter slats/interior                                        | Tan                  | C44/H27       | H37                   |
+| gun baffles                                                  | Sail Color           | C62-97%+C4-3% | H85                   |
+|                                                              | Sail Color           | C45/H85       |                       |
+| launch/landing craft canopy, funnel band                     | Flat White           | C62/H11       |                       |
 | deck (lighter, less red than C29)                            | Linoleum Deck Color  | C606          | H37+H17(5%)+flat base |
-|                                                              |                      |               |            |
+|                                                              |                      |               |                       |
 
 ### Build Log
 
@@ -97,6 +97,7 @@ no sea base for now as I have plans for this to end up in a diorama.
 * Japanese Navy Destroyer Yugumo, Kazagumo & Asagumo "Withdrawal strategy from Kiska Island" Hasegawa No. 30062 1:700
     * [on scalemates](https://www.scalemates.com/kits/hasegawa-30062-yugumo-kazagumo-and-asagumo--1225647)
     * [instructions](./assets/30062-instructions.pdf)
+    * Purchased from Hobby Point for SG$79.20 (Jun-2022).
 * Japanese Navy Destroyer Asashio Hasegawa No. 463 1:700
     * [on scalemates](https://www.scalemates.com/kits/hasegawa-463-japanese-navy-destroyer-asashio--1097976)
 

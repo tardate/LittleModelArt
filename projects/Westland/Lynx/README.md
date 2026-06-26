@@ -23,18 +23,18 @@ I've chosen the scheme as used by [829 Naval Air Squadron](https://en.wikipedia.
 
 The official color chart:
 
-| Ref | Color           | Feature           | Recommended Vallejo | Used |
-|-----|-----------------|-------------------|---------------------|---------|
-| A   | medium sea grey | body              | 70.870              | 70.870 |
-| B   | black           | tires etc         | 70.861              | 70.950 |
+| Ref | Color           | Feature           | Recommended Vallejo | Used        |
+|-----|-----------------|-------------------|---------------------|-------------|
+| A   | medium sea grey | body              | 70.870              | 70.870      |
+| B   | black           | tires etc         | 70.861              | 70.950      |
 | C   | red             | doors, nose, tail | 70.908              | Mr Hobby H3 |
-| D   | copper          | n/a               | 70.999              | |
-| E   | white           | n/a               | 70.842              | |
-| F   | grey            | n/a               | 70.990              | |
-| G   | blue            | n/a               |                     | |
-| H   | clear orange    | n/a               | 70.935              | |
+| D   | copper          | n/a               | 70.999              |             |
+| E   | white           | n/a               | 70.842              |             |
+| F   | grey            | n/a               | 70.990              |             |
+| G   | blue            | n/a               |                     |             |
+| H   | clear orange    | n/a               | 70.935              |             |
 | I   | blue            | torpedo           | 70.899              | Mr Hobby H5 |
-|     | Bronce Green    | interior seats    |                     | 70.897 |
+|     | Bronce Green    | interior seats    |                     | 70.897      |
 
 ## Construction
 

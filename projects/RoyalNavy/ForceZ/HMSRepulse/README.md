@@ -102,81 +102,81 @@ I'm using a pretty good photo-etch set from
 
 Here are my notes on how the PE was applied:
 
-| PE | Name                                                  | Used |
-|----|-------------------------------------------------------|------|
-| 1  | Railings (Bow Sections)                               | √ |
-| 2  | Railings (Fo'c's'le Sections)                         | √ |
-| 3  | Railings (Mainmast Starfish)                          | add to B30 |
-| 4  | Railings (Catapult Forward)                           | √ |
-| 5  | Railings (Catapult Aft)                               | √ |
-| 6  | Railings (Lower Forward Superstructure)               | √ |
-| 7  | Railings (Part B43)                                   | √ add to B43 |
-| 8  | Foretop Yardarm Foot Ropes                            | √ add to B3 |
-| 9  | Railings (Quarterdeck Aft Sections)                   | √ |
-| 10 | Railings (Upper Boat Deck Canvassed)                  | not used - use open instead |
-| 11 | Railings (Upper Boat Deck Open)                       | √ add to rear of C27 |
-| 12 | Railings (Flag Signal Deck Canvassed)                 | not used - use open instead |
-| 13 | Railings (Flag Signal Deck Open)                      | √ |
-| 14 | Railings (Lower Boat Deck)                            | √ |
-| 15 | Railings (Part B31)                                   | √ add to B31 |
-| 16 | Railings (Lower Aft Superstructure)                   | √ add to  B29|
-| 17 | Railings (Forward Superstructure 02 Deck)             | √ |
-| 18 | Railings (Part B2)                                    | √ |
-| 19 | Railings (Upper Áft Superstructure)                   | √ add to B45|
-| 20 | Anchor Chain                                          | not used - use kit part |
-| 21 | 27' Whaler Cradles                                    | add to C21 - mounting on C22 |
-| 22 | Anchors                                               | not used - use kit parts C4 |
-| 23 | Mainmast DF Antenna                                   | √ add to B49 |
-| 24 | Foretop Signal Platforms                              | √ add to B34, B35 |
-| 25 | Crane Base Frame                                      | √ replace C9 |
-| 26 | Foretop Upper Yardarm Supports                        | √ add to B1 |
-| 27 | Railing (Part B19)                                    | √ add to B19 |
-| 28 | Main Crane Jib                                        | √ replace C8, C10 |
-| 29 | Crane Hooks                                           | √ replace C8, C10 |
-| 30 | 8-Barrel Pom-Pom Assembly                             | replaces C5, C7 x 3 - partial replacement |
-| 31 | 20mm Single Oerlikons                                 | replaces C25 x 8 - partial replacement |
-| 32 | Quad 5* MG Mountings                                  | replaces C6 x 4 - not used |
-| 33 | Main Director Arm Supports                            | √ add to B36 |
-| 34 | Port Vent Box Boat Cradles                            | √ replace cradles on 38  |
-| 35 | Jack Staff (bow)                                      | √ add |
-| 36 | Ensign Staff (stern)                                  | √ replace B48 |
-| 37 | Starboard Vent Box Boat Cradles                       | √ replace cradles on 39 |
-| 38 | Port Vent Box                                         | √ replace part on A7 |
-| 39 | Starboard Vent Box                                    | √ replace part on A7 |
-| 40 | Foretop Light & Antenna                               | √ add to B1  |
-| 41 | Aft HACS Director Supports                            | √ add to B15 |
-| 42 | Mainmast Starfish Assembly                            | not used - replaces B30 |
+| PE | Name                                                  | Used                                             |
+|----|-------------------------------------------------------|--------------------------------------------------|
+| 1  | Railings (Bow Sections)                               | √                                                |
+| 2  | Railings (Fo'c's'le Sections)                         | √                                                |
+| 3  | Railings (Mainmast Starfish)                          | add to B30                                       |
+| 4  | Railings (Catapult Forward)                           | √                                                |
+| 5  | Railings (Catapult Aft)                               | √                                                |
+| 6  | Railings (Lower Forward Superstructure)               | √                                                |
+| 7  | Railings (Part B43)                                   | √ add to B43                                     |
+| 8  | Foretop Yardarm Foot Ropes                            | √ add to B3                                      |
+| 9  | Railings (Quarterdeck Aft Sections)                   | √                                                |
+| 10 | Railings (Upper Boat Deck Canvassed)                  | not used - use open instead                      |
+| 11 | Railings (Upper Boat Deck Open)                       | √ add to rear of C27                             |
+| 12 | Railings (Flag Signal Deck Canvassed)                 | not used - use open instead                      |
+| 13 | Railings (Flag Signal Deck Open)                      | √                                                |
+| 14 | Railings (Lower Boat Deck)                            | √                                                |
+| 15 | Railings (Part B31)                                   | √ add to B31                                     |
+| 16 | Railings (Lower Aft Superstructure)                   | √ add to  B29                                    |
+| 17 | Railings (Forward Superstructure 02 Deck)             | √                                                |
+| 18 | Railings (Part B2)                                    | √                                                |
+| 19 | Railings (Upper Áft Superstructure)                   | √ add to B45                                     |
+| 20 | Anchor Chain                                          | not used - use kit part                          |
+| 21 | 27' Whaler Cradles                                    | add to C21 - mounting on C22                     |
+| 22 | Anchors                                               | not used - use kit parts C4                      |
+| 23 | Mainmast DF Antenna                                   | √ add to B49                                     |
+| 24 | Foretop Signal Platforms                              | √ add to B34, B35                                |
+| 25 | Crane Base Frame                                      | √ replace C9                                     |
+| 26 | Foretop Upper Yardarm Supports                        | √ add to B1                                      |
+| 27 | Railing (Part B19)                                    | √ add to B19                                     |
+| 28 | Main Crane Jib                                        | √ replace C8, C10                                |
+| 29 | Crane Hooks                                           | √ replace C8, C10                                |
+| 30 | 8-Barrel Pom-Pom Assembly                             | replaces C5, C7 x 3 - partial replacement        |
+| 31 | 20mm Single Oerlikons                                 | replaces C25 x 8 - partial replacement           |
+| 32 | Quad 5* MG Mountings                                  | replaces C6 x 4 - not used                       |
+| 33 | Main Director Arm Supports                            | √ add to B36                                     |
+| 34 | Port Vent Box Boat Cradles                            | √ replace cradles on 38                          |
+| 35 | Jack Staff (bow)                                      | √ add                                            |
+| 36 | Ensign Staff (stern)                                  | √ replace B48                                    |
+| 37 | Starboard Vent Box Boat Cradles                       | √ replace cradles on 39                          |
+| 38 | Port Vent Box                                         | √ replace part on A7                             |
+| 39 | Starboard Vent Box                                    | √ replace part on A7                             |
+| 40 | Foretop Light & Antenna                               | √ add to B1                                      |
+| 41 | Aft HACS Director Supports                            | √ add to B15                                     |
+| 42 | Mainmast Starfish Assembly                            | not used - replaces B30                          |
 | 43 | Mainmast Top Platform Assembly                        | √ partially used - replace upper platform on B49 |
-| 44 | Upper Boat Deck Outer Cradles                         | √ replace cradles on A7 |
-| 45 | Forward Funnel Cap Grille                             | √ add to A13 |
-| 46 | Aft Funnel Cap Grille                                 | √ add to A12 |
-| 47 | Lower 284 Radar Antenna                               | √ add to B27 |
-| 48 | Upper Boat Deck Centre Cradles                        | √ replace cradles on A7 |
-| 49 | Aft Accommodation Ladder Handrails                    | not required - only used at anchor |
-| 50 | Aft Accommodation Ladder                              | not required - only used at anchor |
-| 51 | Accommodation Ladder Davits                           | not required - only used at anchor |
-| 52 | Forward Accommodation Ladder                          | not required - only used at anchor |
-| 53 | Forward Accommodation Ladder Handrails                | not required - only used at anchor |
-| 54 | Accommodation Ladder Davits                           | not required - only used at anchor |
-| 55 | Quarterdeck Officers' Stairs                          | √ add to B29 |
-| 56 | Main Crane Rigging                                    | √ add to C8, C9, C10 |
-| 57 | 27' Whaler Thwarts, Rudders and Oars                  | √ add to C21 |
-| 58 | 30' Gig Thwarts, Rudders and Oars                     | √ add to C22 |
-| 59 | 32' Cutter Thwarts, Rudders and Oars                  | √ add to C23 |
-| 60 | Sea Boat Embarkation Nets                             | √ add to C1 |
-| 61 | Crane Jib Stowage Cradle Supports                     | √ add to underside aft A7 |
-| 62 | Walrus Amphibian Fittings                             | √ add to C16 |
-| 63 | Walrus Amphibian Launch Cradles                       | √ add to C16 |
-| 64 | 42' Launch Thwarts and Rudder                         | √ add to B26 |
-| 65 | Bridge Windows                                        | √ add to B42 |
-| 66 | Vertical Ladder Stock                                 | √ used on turrets |
-| 67 | Boat Davit Rigging                                    | √ add to C1 |
-| 68 | Inclined Ladders (Midships)                           | |
-| 69 | Inclined Ladder (Flag Signal Deck/Bridge)             | |
-| 70 | Inclined Ladder (Part B37)                            | √ add to B37 |
-| 71 | Inclined Ladders (Standard Length)                    | √ add to B29 |
-| 72 | 30' Gig Cradles                                       | add to C22 - not used |
-| 73 | Searchlight Lens Crosses                              | √ add to C36 x 6 |
+| 44 | Upper Boat Deck Outer Cradles                         | √ replace cradles on A7                          |
+| 45 | Forward Funnel Cap Grille                             | √ add to A13                                     |
+| 46 | Aft Funnel Cap Grille                                 | √ add to A12                                     |
+| 47 | Lower 284 Radar Antenna                               | √ add to B27                                     |
+| 48 | Upper Boat Deck Centre Cradles                        | √ replace cradles on A7                          |
+| 49 | Aft Accommodation Ladder Handrails                    | not required - only used at anchor               |
+| 50 | Aft Accommodation Ladder                              | not required - only used at anchor               |
+| 51 | Accommodation Ladder Davits                           | not required - only used at anchor               |
+| 52 | Forward Accommodation Ladder                          | not required - only used at anchor               |
+| 53 | Forward Accommodation Ladder Handrails                | not required - only used at anchor               |
+| 54 | Accommodation Ladder Davits                           | not required - only used at anchor               |
+| 55 | Quarterdeck Officers' Stairs                          | √ add to B29                                     |
+| 56 | Main Crane Rigging                                    | √ add to C8, C9, C10                             |
+| 57 | 27' Whaler Thwarts, Rudders and Oars                  | √ add to C21                                     |
+| 58 | 30' Gig Thwarts, Rudders and Oars                     | √ add to C22                                     |
+| 59 | 32' Cutter Thwarts, Rudders and Oars                  | √ add to C23                                     |
+| 60 | Sea Boat Embarkation Nets                             | √ add to C1                                      |
+| 61 | Crane Jib Stowage Cradle Supports                     | √ add to underside aft A7                        |
+| 62 | Walrus Amphibian Fittings                             | √ add to C16                                     |
+| 63 | Walrus Amphibian Launch Cradles                       | √ add to C16                                     |
+| 64 | 42' Launch Thwarts and Rudder                         | √ add to B26                                     |
+| 65 | Bridge Windows                                        | √ add to B42                                     |
+| 66 | Vertical Ladder Stock                                 | √ used on turrets                                |
+| 67 | Boat Davit Rigging                                    | √ add to C1                                      |
+| 68 | Inclined Ladders (Midships)                           |                                                  |
+| 69 | Inclined Ladder (Flag Signal Deck/Bridge)             |                                                  |
+| 70 | Inclined Ladder (Part B37)                            | √ add to B37                                     |
+| 71 | Inclined Ladders (Standard Length)                    | √ add to B29                                     |
+| 72 | 30' Gig Cradles                                       | add to C22 - not used                            |
+| 73 | Searchlight Lens Crosses                              | √ add to C36 x 6                                 |
 
 ### HMS Repulse's camouflage scheme during her final sortie with Force Z
 
@@ -219,23 +219,23 @@ Link: [NAS Photo](https://www.nas.gov.sg/archivesonline/photographs/record-detai
 
 ### Paint Scheme
 
-| Feature                                        | Color            | Recommended      | Paint Used |
-|------------------------------------------------|------------------|------------------|------------|
+| Feature                                        | Color            | Recommended      | Paint Used             |
+|------------------------------------------------|------------------|------------------|------------------------|
 | wooden main deck                               | Wooden Deck Tan  | TS-68            | H27 overspray with H53 |
-|                                                | Gun Metal        | X-10             |            |
-|                                                | Chrome Silver    | X-11             |            |
-| funnel tops                                    | Flat Black       | XF-1             |            |
-| gun shrouds                                    | Flat White       | XF-2             |            |
-| boat hulls                                     | Dark Grey        | XF-24            | H305       |
-| fwd deck, floatplane tracks                    | Neutral Grey     | XF-53            | H305       |
-|                                                | Dark Sea Grey    | XF-54            |            |
-| superstructure decks                           | Light Sea Grey   | XF-54:2 + XF-2:1 | H53        |
-|                                                | Deck Tan         | XF-55            |            |
-| anchor chains                                  | Metallic Grey    | XF-56            |            |
-| hull camo 1, superstructure, fwd turrets+hull  | Royal Light grey | TS-81 / XF-80    | H335       |
-| hull camo 2, dark bands, aft turret            | dark grey        | XF-1:2 + XF-2:1  | H333       |
-| hull camo 3, central band                      |                  |                  | H338       |
-| hull camo 4, aft hull                          |                  |                  | H334       |
+|                                                | Gun Metal        | X-10             |                        |
+|                                                | Chrome Silver    | X-11             |                        |
+| funnel tops                                    | Flat Black       | XF-1             |                        |
+| gun shrouds                                    | Flat White       | XF-2             |                        |
+| boat hulls                                     | Dark Grey        | XF-24            | H305                   |
+| fwd deck, floatplane tracks                    | Neutral Grey     | XF-53            | H305                   |
+|                                                | Dark Sea Grey    | XF-54            |                        |
+| superstructure decks                           | Light Sea Grey   | XF-54:2 + XF-2:1 | H53                    |
+|                                                | Deck Tan         | XF-55            |                        |
+| anchor chains                                  | Metallic Grey    | XF-56            |                        |
+| hull camo 1, superstructure, fwd turrets+hull  | Royal Light grey | TS-81 / XF-80    | H335                   |
+| hull camo 2, dark bands, aft turret            | dark grey        | XF-1:2 + XF-2:1  | H333                   |
+| hull camo 3, central band                      |                  |                  | H338                   |
+| hull camo 4, aft hull                          |                  |                  | H334                   |
 
 Walrus
 

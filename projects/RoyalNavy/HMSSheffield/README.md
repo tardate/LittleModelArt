@@ -48,17 +48,17 @@ The fact I've only seem this in B&W meant that certain artistic license was requ
 
 To the extent I kept track of this...
 
-| Feature         | Color                | Recommended | Paint Used |
-|-----------------|----------------------|-------------|------------|
-| fittings etc    | Silver               | H8          | |
-| propeller       | Gold                 | H9          | |
-| lower hull      | Flat Black           | H12         | |
-| ship's boats    | Wood Brown           | H37         | |
-| deck            | dark grey            | H82         | |
-| life rafts      | grey                 | H325        | |
+| Feature         | Color                | Recommended | Paint Used                                    |
+|-----------------|----------------------|-------------|-----------------------------------------------|
+| fittings etc    | Silver               | H8          |                                               |
+| propeller       | Gold                 | H9          |                                               |
+| lower hull      | Flat Black           | H12         |                                               |
+| ship's boats    | Wood Brown           | H37         |                                               |
+| deck            | dark grey            | H82         |                                               |
+| life rafts      | grey                 | H325        |                                               |
 | upper hull      | Grey Blue            | H337        | 70.989 Sky Grey + smidgen 70.992 Neutral Grey |
-| superstructure  |                      |             | 70.973 Light Sea Grey |
-| various details |                      |             | 70.992 Neutral Grey, 70.993 White Grey |
+| superstructure  |                      |             | 70.973 Light Sea Grey                         |
+| various details |                      |             | 70.992 Neutral Grey, 70.993 White Grey        |
 
 ### Construction Log
 

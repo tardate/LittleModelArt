@@ -54,15 +54,15 @@ single 25 mm (1 in) AA gun placement for example.
 
 ### Armament and Equipment
 
-| Item                                                                               | Kit Parts            | Upgrade Part?                           |
-|------------------------------------------------------------------------------------|----------------------|-----------------------------------------|
-| 1 × twin Type 89 12.7cm [DP gun](https://en.wikipedia.org/wiki/Dual-purpose_gun)   | 6+21                 | √ W35+W30                               |
-| 1 × single Type 89 12.7cm [DP gun](https://en.wikipedia.org/wiki/Dual-purpose_gun) | 4+22                 | √ replace gun barrel from spares box    |
-| 4 × triple Type 96 25mm AA guns                                                    | 24 x 4               | √ W40                                   |
-| 13 × single Type 96 25mm AA guns                                                   | not included         | E12: 39+40 x 13                         |
-| 1 × quadruple Type 92 61cm torpedo launcher for Type 93 torpedoes                  | 10                   | √ X24                                   |
-| 2 × rails, 2 × Type 94 throwers for 36 depth charges                               | molded into the hull |                                         |
-| Type 22-GO Radar                                                                   | 20                   | √ X9                                    |
+| Item                                                                               | Kit Parts            | Upgrade Part?                             |
+|------------------------------------------------------------------------------------|----------------------|-------------------------------------------|
+| 1 × twin Type 89 12.7cm [DP gun](https://en.wikipedia.org/wiki/Dual-purpose_gun)   | 6+21                 | √ W35+W30                                 |
+| 1 × single Type 89 12.7cm [DP gun](https://en.wikipedia.org/wiki/Dual-purpose_gun) | 4+22                 | √ replace gun barrel from spares box      |
+| 4 × triple Type 96 25mm AA guns                                                    | 24 x 4               | √ W40                                     |
+| 13 × single Type 96 25mm AA guns                                                   | not included         | E12: 39+40 x 13                           |
+| 1 × quadruple Type 92 61cm torpedo launcher for Type 93 torpedoes                  | 10                   | √ X24                                     |
+| 2 × rails, 2 × Type 94 throwers for 36 depth charges                               | molded into the hull |                                           |
+| Type 22-GO Radar                                                                   | 20                   | √ X9                                      |
 | Type 13-GO Radar                                                                   | mounted on 28        | √ X15                                     |
 | 2x 6m cutter                                                                       | 2                    | √ X13 (7m cutter, but looks close enough) |
 | 2x 10m motor launch                                                                | 1                    | √ X12                                     |

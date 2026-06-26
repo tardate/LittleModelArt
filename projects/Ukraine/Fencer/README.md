@@ -38,13 +38,13 @@ Air Force shares video of Su-24M attack aircraft striking invaders:
 
 Main colors used:
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-|                       | primer               |             | Mr Surfacer Black 1000           |
-| cockpit interior      |                      |             | H325           |
-| A upper fuselage      | light gull grey      | Humbrol 129 | H325       |
-| B lower fuselage      | neutral grey         | Humbrol 176 | H82           |
-| C nose                | mouse grey           | Humbrol 246 | H69           |
+| Feature               | Color                | Recommended | Paint Used             |
+|-----------------------|----------------------|-------------|------------------------|
+|                       | primer               |             | Mr Surfacer Black 1000 |
+| cockpit interior      |                      |             | H325                   |
+| A upper fuselage      | light gull grey      | Humbrol 129 | H325                   |
+| B lower fuselage      | neutral grey         | Humbrol 176 | H82                    |
+| C nose                | mouse grey           | Humbrol 246 | H69                    |
 
 ### Circuit Design
 

@@ -39,21 +39,21 @@ in late 2020 but I notice prices have rising considerably in the meantime.
 I'm following the dramatic green white and red display scheme.
 The kit provides painting and marking guide for Chinese and Pakistani operational schemes.
 
-| Feature                | Color             | Recommended                     | Paint Used |
-|------------------------|-------------------|---------------------------------|------------|
+| Feature                | Color             | Recommended                     | Paint Used                                     |
+|------------------------|-------------------|---------------------------------|------------------------------------------------|
 | Upper Fuselage         | Super Italian Red | C158                            | 70.909 Vermillion  + ~10% 70.851 Bright Orange |
-| Upper Fuselage         | Gloss White       | H1, C1, X2, Vallejo 70.842      | 70.951 White|
-| Upper Fuselage         | Gloss Green       | H6, C6, X5, Vallejo 70.969      | 70.891 Intermediate Green |
-| silver stuff;-)        | silver            | H8 C8 Vallejo 70.967            | 70.997 Silver |
-|                        | steel             | H18 C28 Vallejo 70.864          | |
-| wheel wells            | blue grey         | H42 C72 Vallejo 70.903          | 70.992 Neutral Grey |
-| jet nozzle             | burnt iron        | H76 C61 X10 Vallejo 70.863      | 60% Humbrol 53 + 40% 70.985 Hull Red |
-| nav lights             | clear red         | H90 C47 X27 Vallejo 70.934      | |
-| nav lights             | clear green       | C138 X25 Vallejo 70.936         | |
-| cockpit interior, nose | Medium Gray       | H306 C306, XF20, Vallejo 70.870 | 70.870 Medium Sea Grey|
-|                        | Gray              | H307 C307, XF22                 | |
-|                        | white insignia    | H316 C316, X2, Vallejo 70.991   | |
-| seat                   | khaki green       | H80                             | 70.924 Russian Unf. WWII |
+| Upper Fuselage         | Gloss White       | H1, C1, X2, Vallejo 70.842      | 70.951 White                                   |
+| Upper Fuselage         | Gloss Green       | H6, C6, X5, Vallejo 70.969      | 70.891 Intermediate Green                      |
+| silver stuff;-)        | silver            | H8 C8 Vallejo 70.967            | 70.997 Silver                                  |
+|                        | steel             | H18 C28 Vallejo 70.864          |                                                |
+| wheel wells            | blue grey         | H42 C72 Vallejo 70.903          | 70.992 Neutral Grey                            |
+| jet nozzle             | burnt iron        | H76 C61 X10 Vallejo 70.863      | 60% Humbrol 53 + 40% 70.985 Hull Red           |
+| nav lights             | clear red         | H90 C47 X27 Vallejo 70.934      |                                                |
+| nav lights             | clear green       | C138 X25 Vallejo 70.936         |                                                |
+| cockpit interior, nose | Medium Gray       | H306 C306, XF20, Vallejo 70.870 | 70.870 Medium Sea Grey                         |
+|                        | Gray              | H307 C307, XF22                 |                                                |
+|                        | white insignia    | H316 C316, X2, Vallejo 70.991   |                                                |
+| seat                   | khaki green       | H80                             | 70.924 Russian Unf. WWII                       |
 
 ![01657_scheme_B](./assets/01657_scheme_B.jpg?raw=true)
 

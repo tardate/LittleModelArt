@@ -55,14 +55,14 @@ I used 5 patterns, and just masked the fuselage stripes by eye.
 
 Main colours used:
 
-| Colour       | Recommended | Used                         | Feature |
-|--------------|-------------|------------------------------|---------|
-| IJN Grey     | H61         | 70.989 Sky Grey                               | cockpit interior |
-| Flat Black   | H12         | 70.950 Black                                  | cockpit seats |
-| Khaki Green  | H80         | 70.924 Russian Unf. WWII                      | cockpit seats |
-| White        | H1          | 70.951 White                                  | fuselage |
-| Red          | H3          | 70.909 Vermillion + 70.956 Clear Orange (~3:1) | fuselage |
-| Blue         | H5          | 70.963 Medium Blue                            | fuselage |
+| Colour       | Recommended | Used                                           | Feature          |
+|--------------|-------------|------------------------------------------------|------------------|
+| IJN Grey     | H61         | 70.989 Sky Grey                                | cockpit interior |
+| Flat Black   | H12         | 70.950 Black                                   | cockpit seats    |
+| Khaki Green  | H80         | 70.924 Russian Unf. WWII                       | cockpit seats    |
+| White        | H1          | 70.951 White                                   | fuselage         |
+| Red          | H3          | 70.909 Vermillion + 70.956 Clear Orange (~3:1) | fuselage         |
+| Blue         | H5          | 70.963 Medium Blue                             | fuselage         |
 
 For the pilots I used 70.893 US Dark Green as the base colour for the flight suits and a bunch of other colours for detail.
 
@@ -148,6 +148,7 @@ Trying again in daylight and after losing the acrylic protective sheet over the 
 * Chinese J-10S fighter Twin seater Trumpeter - No. 01644 - 1:72
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-01644-j-10s-fighter--107127)
     * [instructions](./assets/01644-instructions.pdf)
+    * Purchased from Miniature Hobby for SG$15.54 (Apr-2021).
 * US Pilots with JHMCS helmet seated in a/c PJ Production - No. 721142 - 1:72
     * [on scalemates](https://www.scalemates.com/kits/pj-production-721142-us-pilots-with-jhmcs-helmet-seated-in-a-c--1313013)
 

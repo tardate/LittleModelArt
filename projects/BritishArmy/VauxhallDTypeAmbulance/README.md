@@ -26,19 +26,19 @@ I can't find words strong enough.. so instead I choose to celebrate Valery's cre
 
 ### Paint Scheme
 
-| Ref | Colour            | Recommended | Paint Used  | Feature       |
-|-----|-------------------|-------------|-------------|---------------|
-| A   | Deep Green        | 70.970      | 70.969 Park Green Flat + 70.897 Bronce Green             | main body              |
-| B   | Gold              | 70.996      | 70.996            | grille and fittings              |
-| C   | Gloss Black       | 70.950      | 70.950 Black      | tyres; steering column; levers               |
-| D   | Rust              | 70.080      |             | muffler              |
-| E   | Leather           | 70.818      |             | seats              |
-| F   | Matt Neutral Wood | 70.077      |             | stretcher handles; steering wheel; bed base              |
-| G   | Steel             | 70.065      |             | exhaust pipe; pedals; running board              |
-| H   | Silver            | 70.997      |             |               |
-| I   | Dark Grey         | 70.994      |             |               |
-| J   | Stone Grey        | 70.882      | 70.887 + 70.870 (2:1)            | canvas              |
-|     |                   |             | 70.993 + 70.923 (10:1)           | stretcher canvas              |
+| Ref | Colour            | Recommended | Paint Used                                   | Feature                                      |
+|-----|-------------------|-------------|----------------------------------------------|----------------------------------------------|
+| A   | Deep Green        | 70.970      | 70.969 Park Green Flat + 70.897 Bronce Green | main body                                    |
+| B   | Gold              | 70.996      | 70.996                                       | grille and fittings                          |
+| C   | Gloss Black       | 70.950      | 70.950 Black                                 | tyres; steering column; levers               |
+| D   | Rust              | 70.080      |                                              | muffler                                      |
+| E   | Leather           | 70.818      |                                              | seats                                        |
+| F   | Matt Neutral Wood | 70.077      |                                              | stretcher handles; steering wheel; bed base  |
+| G   | Steel             | 70.065      |                                              | exhaust pipe; pedals; running board          |
+| H   | Silver            | 70.997      |                                              |                                              |
+| I   | Dark Grey         | 70.994      |                                              |                                              |
+| J   | Stone Grey        | 70.882      | 70.887 + 70.870 (2:1)                        | canvas                                       |
+|     |                   |             | 70.993 + 70.923 (10:1)                       | stretcher canvas                             |
 
 ### The Build
 

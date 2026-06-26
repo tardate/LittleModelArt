@@ -81,6 +81,7 @@ Adding a simple display base. Maybe add some more detail to the base later..
     * [on scalemates](https://www.scalemates.com/kits/airfix-a01305-25-pdr-field-gun-and-quad--164214)
     * [current A01305V kit on Airfix site](https://uk.airfix.com/products/25pdr-field-gun-quad-a01305v)
     * [instructions](./assets/A01305V-instructions.pdf)
+    * Purchased from Hobby Bounties for SG$22.50 (Mar-2021).
 
 ### Research References
 

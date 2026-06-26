@@ -32,16 +32,16 @@ It has tail code 11 under an inverted V.
 USS Manila Bay (CVE-61) was a Casablanca-class escort carrier of the United States Navy.
 Operations: Gilbert and Marshall Islands campaign, Western New Guinea campaign, Battle off Samar, Battle of Mindoro, Invasion of Lingayen Gulf, Operation Magic Carpet
 
-| Feature               | Color                      | Recommended | Paint Used |
-|-----------------------|----------------------------|-------------|------------|
-| camo 1                | FS 15042 Gloss Sea Blue    | H54         | AK11864    |
-| camo 2                | FS 35164 Intermediate Blue | H56         | AK11865    |
-| lower fuselage        | FS 37925 White             | H316        | AK11868    |
-| n/a                   | FS 36231 Dk Gull Gray      |             |            |
+| Feature               | Color                      | Recommended | Paint Used              |
+|-----------------------|----------------------------|-------------|-------------------------|
+| camo 1                | FS 15042 Gloss Sea Blue    | H54         | AK11864                 |
+| camo 2                | FS 35164 Intermediate Blue | H56         | AK11865                 |
+| lower fuselage        | FS 37925 White             | H316        | AK11868                 |
+| n/a                   | FS 36231 Dk Gull Gray      |             |                         |
 | prop hub              | Silver                     |             | SM204 Super Stainless 2 |
-| prop tips             | Orange Yellow              |             | RCM004     |
-| prop and tires        | Black                      |             | H12        |
-|                       |                            |             |            |
+| prop tips             | Orange Yellow              |             | RCM004                  |
+| prop and tires        | Black                      |             | H12                     |
+|                       |                            |             |                         |
 
 ### Build Log
 

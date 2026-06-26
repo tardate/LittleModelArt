@@ -24,8 +24,8 @@ See [instructions](./assets/TM-102-instructions.pdf).
 
 ### Paint Scheme
 
-| Feature                   | Color                   | Paint Used |
-|---------------------------|-------------------------|------------|
+| Feature                   | Color                   | Paint Used       |
+|---------------------------|-------------------------|------------------|
 | cockpit                   | Nakajima Interior Green | H60 + H31        |
 | main camo                 | DARK GREEN(NAKAJIMA)    | C129             |
 | lower fuselage            | IJA Gray Green          | C128             |

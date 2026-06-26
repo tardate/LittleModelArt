@@ -16,18 +16,18 @@ I'm modelling ER180 - US Army Air Force 307 FS, 31 FG MX-P / ER180
 
 Main paint scheme:
 
-| Feature                     | Colour                 | Recommended  | Paint Used  |
-|-----------------------------|------------------------|--------------|-------------|
-| cockpit detail              | Black                  | Humbrol 33   | 70.950 |
-| cockpit interior            | Aluminium              | Humbrol 56   | Humbrol 56 |
-| seat                        | Leather                | Humbrol 62   | 70.843 Cork Brown ? |
-| cockpit interior            | Cockpit Green          | Humbrol 78   | Humbrol 78  |
-| prop tips                   | Yellow                 | Humbrol 24   | |
-| upper camo                  | Dark Earth             | Humbrol 29   | 70.921 English Uniform |
-| spinner nose                | Matt White             | Humbrol 34   | 70.951 White |
-| exhaust                     | Gun metal              | Humbrol 53   | Humbrol 53 |
-| spinner nose trim           | Brick Red              | Humbrol 70   | 70.909 vermillion |
-| lower camo                  | Middle Blue/Azure Blue | Humbrol 89   | 70.907 Pale Gre Blue + 70.839 Ultramarine ~ 1:1 |
+| Feature                     | Colour                 | Recommended  | Paint Used                                                                                    |
+|-----------------------------|------------------------|--------------|-----------------------------------------------------------------------------------------------|
+| cockpit detail              | Black                  | Humbrol 33   | 70.950                                                                                        |
+| cockpit interior            | Aluminium              | Humbrol 56   | Humbrol 56                                                                                    |
+| seat                        | Leather                | Humbrol 62   | 70.843 Cork Brown ?                                                                           |
+| cockpit interior            | Cockpit Green          | Humbrol 78   | Humbrol 78                                                                                    |
+| prop tips                   | Yellow                 | Humbrol 24   |                                                                                               |
+| upper camo                  | Dark Earth             | Humbrol 29   | 70.921 English Uniform                                                                        |
+| spinner nose                | Matt White             | Humbrol 34   | 70.951 White                                                                                  |
+| exhaust                     | Gun metal              | Humbrol 53   | Humbrol 53                                                                                    |
+| spinner nose trim           | Brick Red              | Humbrol 70   | 70.909 vermillion                                                                             |
+| lower camo                  | Middle Blue/Azure Blue | Humbrol 89   | 70.907 Pale Gre Blue + 70.839 Ultramarine ~ 1:1                                               |
 | upper camo                  | Middle Stone           | Humbrol 225  | blend 70.843 cork brown, 70.824 German Camo Orange Ochre, 70.917 Beige, 70.907 Pale Grey Blue |
 
 Recommended colours for the pilot:

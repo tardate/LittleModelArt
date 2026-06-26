@@ -146,6 +146,7 @@ Here's a demo of it on the base..
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02341-sherman-firefly-vc--1260489)
     * [on airfix](https://uk.airfix.com/products/sherman-firefly-a02341)
     * [instructions](./assets/A02341_instructions.pdf)
+    * Purchased from Hobby Bounties for SG$24.00 (Apr-2021).
 * Electronics:
     * [TL072 datasheet](http://parts.io/detail/12204535/TL072)
     * [ATtiny85 datasheet](https://www.microchip.com/en-us/product/ATTINY85)

@@ -139,32 +139,32 @@ Here are my notes on how the PE was applied:
 
 ##### Paint
 
-| feature                       | recommended                     | used |
-|-------------------------------|---------------------------------|------|
-|                               | X-11 Chrome Silver              |  |
-|                               | X-14 Sky Blue                   |  |
-|                               | XF-1 Flat Black                 |  |
-|                               | XF-2 Flat White                 | 70.951 white |
-|                               | XF-7 Flat Red                   |  |
-|                               | XF-8 Flat Blue                  |  |
-| Plane camo                    | XF-11 IJN Green                 | 70.897 Bronze Green |
-|                               | XF-12 IJN Grey                  |  |
-|                               | XF-20 Medium Grey               |  |
-|                               | XF-21 Sky                       |  |
-|                               | XF-24 Dark Grey                 |  |
-|                               | XF-53 Neutral Grey              |  |
-|                               | XF-54 Dark Sea Grey             |  |
-| deck                          | XF-55 Deck Tan                  | 70.843 Cork Brown |
-|                               | XF-56 Metallic Grey             |  |
-| Plane camo                    | XF-64 Red Brown                 |  |
-|                               | XF-66 Light Grey                | 70.990 Light Grey |
-| Camo A: Dark Ultramarine Blue | XF-1:1 + XF-8:4                 | 70.839 ultramarine + 70.950 black (8:1)  |
-| Camo B: Dark Grey Green       | XF-24:2 + XF-55:1               | 70.868 Dark Sea Green + 70.893 US Dark Green (6:1) |
-| Camo C: Medium Grey           | XF-2:1 + XF-54:2                | 70.992 Neutral Grey + 70.963 Medium Blue (8:1) |
-| Camo D: Medium Blue           | X-14:1 + XF-2:2 + XF-7:smidgeon | 70.963 Medium Blue + 70.989 Sky Grey (1:1) |
+| feature                       | recommended                     | used                                                |
+|-------------------------------|---------------------------------|-----------------------------------------------------|
+|                               | X-11 Chrome Silver              |                                                     |
+|                               | X-14 Sky Blue                   |                                                     |
+|                               | XF-1 Flat Black                 |                                                     |
+|                               | XF-2 Flat White                 | 70.951 white                                        |
+|                               | XF-7 Flat Red                   |                                                     |
+|                               | XF-8 Flat Blue                  |                                                     |
+| Plane camo                    | XF-11 IJN Green                 | 70.897 Bronze Green                                 |
+|                               | XF-12 IJN Grey                  |                                                     |
+|                               | XF-20 Medium Grey               |                                                     |
+|                               | XF-21 Sky                       |                                                     |
+|                               | XF-24 Dark Grey                 |                                                     |
+|                               | XF-53 Neutral Grey              |                                                     |
+|                               | XF-54 Dark Sea Grey             |                                                     |
+| deck                          | XF-55 Deck Tan                  | 70.843 Cork Brown                                   |
+|                               | XF-56 Metallic Grey             |                                                     |
+| Plane camo                    | XF-64 Red Brown                 |                                                     |
+|                               | XF-66 Light Grey                | 70.990 Light Grey                                   |
+| Camo A: Dark Ultramarine Blue | XF-1:1 + XF-8:4                 | 70.839 ultramarine + 70.950 black (8:1)             |
+| Camo B: Dark Grey Green       | XF-24:2 + XF-55:1               | 70.868 Dark Sea Green + 70.893 US Dark Green (6:1)  |
+| Camo C: Medium Grey           | XF-2:1 + XF-54:2                | 70.992 Neutral Grey + 70.963 Medium Blue (8:1)      |
+| Camo D: Medium Blue           | X-14:1 + XF-2:2 + XF-7:smidgeon | 70.963 Medium Blue + 70.989 Sky Grey (1:1)          |
 | Camo E: Light Grey Green      | XF-2:1 + XF-21:2                | 70.870 Medium Sea Grey + 70.893 US Dark Green (6:1) |
-| Camo F: Light Grey            | XF-2:1 + XF-12:1                | 70.990 Light Grey |
-| life rafts                    | XF-2                            | 70.993 White Grey |
+| Camo F: Light Grey            | XF-2:1 + XF-12:1                | 70.990 Light Grey                                   |
+| life rafts                    | XF-2                            | 70.993 White Grey                                   |
 
 ###### Figures
 

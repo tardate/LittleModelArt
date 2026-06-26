@@ -32,13 +32,13 @@ It is however reasonably well detailed and goes together just fine.
 
 [![box-art](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
 
-| Feature                                | Gunze MrHobby  | Paint Used   |
-|----------------------------------------|----------------|--------------|
-| Flat White: upper hull, superstructure | H11            | Vallejo 70.951 White |
-| Flat Black: funnel, hull               | H12            | Vallejo 70.950 Black |
-| Tan: hatches                           | H27            | Vallejo 70.941 Burnt Umber |
+| Feature                                | Gunze MrHobby  | Paint Used                  |
+|----------------------------------------|----------------|-----------------------------|
+| Flat White: upper hull, superstructure | H11            | Vallejo 70.951 White        |
+| Flat Black: funnel, hull               | H12            | Vallejo 70.950 Black        |
+| Tan: hatches                           | H27            | Vallejo 70.941 Burnt Umber  |
 | Wood Brown: deck, masts, spars         | H37            | Vallejo 70.981 Orange Brown |
-| Sail Color                             | H85            | Vallejo 70.951 White |
+| Sail Color                             | H85            | Vallejo 70.951 White        |
 
 Before I knew it I'd decided to do a pretty much full build before painting
 

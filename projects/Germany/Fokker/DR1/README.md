@@ -29,14 +29,14 @@ kit from Airfix (No. A02141V in 1:72) is a Vintage Classics boxing of toolings t
 
 | Feature                | Color                  | Recommended | Paint Used |
 |------------------------|------------------------|-------------|------------|
-|                        | Black - Matt           | No 33       | |
-|                        | Gunmetal - Metallic    | No 53       | H18 |
-|                        | Brass Metallic         | No 54       | |
-|                        | Light Grey - Matt      | No 64       | |
-|                        | Cream - Matt           | No 103      | |
-| Interior, prop, struts | Natural Wood - Matt    | No 110      | H37 |
-|                        | Matt Olive Drab - Matt | No 155      | |
-| fuselage               | Signal Red - Satin     | No 174      | H13 |
+|                        | Black - Matt           | No 33       |            |
+|                        | Gunmetal - Metallic    | No 53       | H18        |
+|                        | Brass Metallic         | No 54       |            |
+|                        | Light Grey - Matt      | No 64       |            |
+|                        | Cream - Matt           | No 103      |            |
+| Interior, prop, struts | Natural Wood - Matt    | No 110      | H37        |
+|                        | Matt Olive Drab - Matt | No 155      |            |
+| fuselage               | Signal Red - Satin     | No 174      | H13        |
 
 ### Build Log
 
@@ -71,6 +71,7 @@ Not bad for a 1957 kit.. didn't try to do anything special with it.
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
     * [on Airfix site](https://uk.airfix.com/products/fokker-dr1-triplane-bristol-fighter-dogfight-double-a02141v?_br_psugg_q=a02141v)
     * [instructions](./assets/A02141V-instructions.pdf)
+    * Purchased from Hobby Bounties for SG$38.00 (Oct-2023).
 
 ### Research References
 

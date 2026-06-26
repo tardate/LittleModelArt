@@ -31,29 +31,29 @@ OF the two schemes detailed in the kit, I chose: 809 NAS R-021/XV154 January 197
 
 Main colours used:
 
-| Colour                    | Recommended | Used                         | Feature |
-|---------------------------|-------------|------------------------------|---------|
-| Silver                    | Humbrol 11  |                              | Exterior |
-| Matt Black                | Humbrol 33  |                              | Exterior |
-| Gun Metal                 | Humbrol 53  |                              | Exterior |
-| Matt Desert Yellow        | Humbrol 93  | 70.917 Beige                 | Exterior |
-| Satin Extra Dark Sea Grey | Humbrol 123 |                              | Exterior |
-| Satin US Ghost Grey       | Humbrol 127 |                              | Exterior |
-| Dark Green BS381C 241     | Humbrol 163 | Humbrol 163                  | Exterior |
-| Satin Light Grey          | Humbrol 196 |                              | wheel bays |
-| Coal Black                | Humbrol 85  |  Humbrol 85                  | seat |
-| Olive Drab                | Humbrol 155 | 70.887 US Olive Drab         | seat |
+| Colour                    | Recommended | Used                         | Feature          |
+|---------------------------|-------------|------------------------------|------------------|
+| Silver                    | Humbrol 11  |                              | Exterior         |
+| Matt Black                | Humbrol 33  |                              | Exterior         |
+| Gun Metal                 | Humbrol 53  |                              | Exterior         |
+| Matt Desert Yellow        | Humbrol 93  | 70.917 Beige                 | Exterior         |
+| Satin Extra Dark Sea Grey | Humbrol 123 |                              | Exterior         |
+| Satin US Ghost Grey       | Humbrol 127 |                              | Exterior         |
+| Dark Green BS381C 241     | Humbrol 163 | Humbrol 163                  | Exterior         |
+| Satin Light Grey          | Humbrol 196 |                              | wheel bays       |
+| Coal Black                | Humbrol 85  |  Humbrol 85                  | seat             |
+| Olive Drab                | Humbrol 155 | 70.887 US Olive Drab         | seat             |
 | Medium Sea Grey           | Humbrol 165 | 70.870 Medium Sea Grey       | cockpit interior |
-| Light Aircraft Grey       | Humbrol 166 | Humbrol 166                  | seat |
+| Light Aircraft Grey       | Humbrol 166 | Humbrol 166                  | seat             |
 
 Pilots
 
-| Colour                    | Recommended | Used                         | Feature |
-|---------------------------|-------------|------------------------------|---------|
-| Flesh                     | Humbrol 61  | 70.845 Sunny Skin Tone       |  skin |
-| Coal Black                | Humbrol 85  |                              |  boots |
-| Steel Grey                | Humbrol 87  | 70.973 Light Sea Grey        |  breathing |
-| Khaki Drab                | Humbrol 159 | 70.924 Russian Unf. WWII     |  uniform |
+| Colour                    | Recommended | Used                         | Feature   |
+|---------------------------|-------------|------------------------------|-----------|
+| Flesh                     | Humbrol 61  | 70.845 Sunny Skin Tone       | skin      |
+| Coal Black                | Humbrol 85  |                              | boots     |
+| Steel Grey                | Humbrol 87  | 70.973 Light Sea Grey        | breathing |
+| Khaki Drab                | Humbrol 159 | 70.924 Russian Unf. WWII     | uniform   |
 
 ## Construction Gallery
 
@@ -110,8 +110,10 @@ before final finishing
     * [on scalemates](https://www.scalemates.com/kits/airfix-a06021-blackburn-buccaneer-s2c--1190161)
     * [on Airfix site](https://uk.airfix.com/products/blackburn-buccaneer-s2-rn-a06021)
     * [instructions](./assets/A06021-instructions.pdf)
+    * Purchased from Hobby Bounties for SG$98.00 (Apr-2021).
 * Modern RAF seated in aircraft PJ Production No. 721118 1:72
     * [on scalemates](https://www.scalemates.com/kits/pj-production-721118-modern-raf-seated-in-aircraft--180890)
+    * Purchased from HPM Hobbies for SG$8.80 (Dec-2021).
 
 ### Research References
 
