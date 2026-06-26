@@ -11,10 +11,6 @@ is a single-engine, multirole fighter that was declared operational in 2003 afte
 
 It is currently one of the main aircraft of the [PLAAF](https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Air_Force#Current_inventory)
 
-NB: Binkov's Battlegrounds provided an interesting comparison of where the JF-17 and J-10 fit into China's domestic and export situation:
-
-[![clip](https://img.youtube.com/vi/4TFrYgg7_aU/0.jpg)](https://www.youtube.com/watch?v=4TFrYgg7_aU)
-
 ### August 1st or Ba Yi Aerobatics Team (Chinese: 八一飞行表演队)
 
 The [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
@@ -151,6 +147,7 @@ Trying again in daylight and after losing the acrylic protective sheet over the 
     * Purchased from Miniature Hobby for SG$15.54 (Apr-2021).
 * US Pilots with JHMCS helmet seated in a/c PJ Production - No. 721142 - 1:72
     * [on scalemates](https://www.scalemates.com/kits/pj-production-721142-us-pilots-with-jhmcs-helmet-seated-in-a-c--1313013)
+    * Purchased from HPM Hobbies for SG$8.80 (Dec-2021).
 
 ### Research References
 
@@ -158,3 +155,11 @@ Trying again in daylight and after losing the acrylic protective sheet over the 
 * [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
 * [Yu Xu 余旭](https://en.wikipedia.org/wiki/Yu_Xu)
 * [Tao Jiali 陶佳莉](https://en.wikipedia.org/wiki/Tao_Jiali) - [hudong.com](https://www.hudong.com/wiki/%E9%99%B6%E4%BD%B3%E8%8E%89?view_id=23kv09bcpdq800)
+
+#### Why is no one buying modern Chinese fighter jets?
+
+YouTube by Binkov's Battlegrounds
+
+Binkov's Battlegrounds provided an interesting comparison of where the JF-17 and J-10 fit into China's domestic and export situation.
+
+[![clip](https://img.youtube.com/vi/4TFrYgg7_aU/0.jpg)](https://www.youtube.com/watch?v=4TFrYgg7_aU)
