@@ -13,7 +13,7 @@ Not doing anything special with it - just a clean out-of-the-box build that I've
 
 The [Airfix Supermarine Spitfire Mk.XIV](https://www.scalemates.com/kits/airfix-a05139-supermarine-spitfire-mkxiv-civilian-schemes--1260842) comes with a couple of striking civilian schemes. The kit goes together beautifully and is reasonably well detailed. I think the tool is from 2019, while these schemes are in the 2020 boxing.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ### The Subject
 
@@ -27,23 +27,23 @@ for aircraft [serial number NH904](http://www.warbirdregistry.org/spitregistry/s
 
 A05139 Supermarine Spitfire FR Mk.XIV G-Fire, Duxford, Cambridgeshire, England, 1988. (A)
 
-| Recommended | Used | Features |
-|-------------|------|----------|
-| Humbrol 11 Metallic Silver          | 77.701 | wheel well |
-| Humbrol 19 Red - Gloss              | Mr Hobby Aqueous H3 | fuselage |
-| Humbrol 21 Black - Gloss            | 70.950 Black |  |
-| Humbrol 22 White - Gloss            | 70.951 White | spinner, undercarriage |
-| Humbrol 24 Trainer Yellow - Matt    | 70.952 Lemon Yellow | prop tips |
-| Humbrol 26 Khaki - Matt             | | |
-| Humbrol 33 Black - Matt             | 70.950 Black | propeller, tires |
-| Humbrol 53 Gunmetal - Metallic      | Humbrol 53 | wheel rims |
-| Humbrol 56 Aluminium - Metallic     | Humbrol 56 | fuselage interior |
-| Humbrol 61 Flesh - Matt             | | |
-| Humbrol 62 Leather - Matt           | 70.843 Cork Brown | seat walls |
-| Humbrol 78 Cockpit Green            | Humbrol 78 | cockpit walls, chair frame |
-| Humbrol 85 Black - Satin            | 70.950 Black | cockpit controls|
-| Humbrol 155 Matt Olive Drab - Matt  | | |
-|                                     | 77.701 Aluminium | wheel wells |
+| Features                   | Recommended                         | Used                |
+|----------------------------|-------------------------------------|---------------------|
+| wheel well                 | Humbrol 11 Metallic Silver          | 77.701              |
+| fuselage                   | Humbrol 19 Red - Gloss              | Mr Hobby Aqueous H3 |
+|                            | Humbrol 21 Black - Gloss            | 70.950 Black        |
+| spinner, undercarriage     | Humbrol 22 White - Gloss            | 70.951 White        |
+| prop tips                  | Humbrol 24 Trainer Yellow - Matt    | 70.952 Lemon Yellow |
+|                            | Humbrol 26 Khaki - Matt             |                     |
+| propeller, tires           | Humbrol 33 Black - Matt             | 70.950 Black        |
+| wheel rims                 | Humbrol 53 Gunmetal - Metallic      | Humbrol 53          |
+| fuselage interior          | Humbrol 56 Aluminium - Metallic     | Humbrol 56          |
+|                            | Humbrol 61 Flesh - Matt             |                     |
+| seat walls                 | Humbrol 62 Leather - Matt           | 70.843 Cork Brown   |
+| cockpit walls, chair frame | Humbrol 78 Cockpit Green            | Humbrol 78          |
+| cockpit controls           | Humbrol 85 Black - Satin            | 70.950 Black        |
+|                            | Humbrol 155 Matt Olive Drab - Matt  |                     |
+| wheel wells                |                                     | 77.701 Aluminium    |
 
 ### Construction
 

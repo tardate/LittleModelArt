@@ -49,6 +49,7 @@ Main colours used:
     * [on scalemates](https://www.scalemates.com/kits/ace-72500-tilly-10hp--170588)
     * [on ACE site](https://www.acemodel.com.ua/en/model/431)
     * [instructions](./assets/72500-instructions.pdf)
+    * Purchased from hobby.dn.ua for US$7.42 (Nov-2022).
 
 ### Research References
 

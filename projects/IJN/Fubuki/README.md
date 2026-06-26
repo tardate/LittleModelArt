@@ -16,13 +16,13 @@ This is my first kit from Yamashita Hobby, along with Tetra Model Works PE, afte
 
 ## Paint Scheme
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-| cables and chains     | silver               | H8          | Humbrol 53 gunmetal |
-| canopy, blast bags    | flat white           | H11         | 70.993 white grey |
-| mast head, funnel top | flat black           | H12         | 70.950 Black |
+| Feature               | Color                | Recommended | Paint Used               |
+|-----------------------|----------------------|-------------|--------------------------|
+| cables and chains     | silver               | H8          | Humbrol 53 gunmetal      |
+| canopy, blast bags    | flat white           | H11         | 70.993 white grey        |
+| mast head, funnel top | flat black           | H12         | 70.950 Black             |
 | deck                  | wood brown           | H37         | Humbrol 110 natural wood |
-| hull, superstructure  | dark grey            | H83         | 70.992 Neutral Grey |
+| hull, superstructure  | dark grey            | H83         | 70.992 Neutral Grey      |
 
 Those were the basics used, plus some oils for weathering.
 
@@ -30,7 +30,7 @@ Those were the basics used, plus some oils for weathering.
 
 The kit has beautifully detailed plastic.
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 

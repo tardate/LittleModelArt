@@ -27,7 +27,7 @@ packaged with some extras by Proper Plane:
 * Proper Plywood Decals
 * Proper Wooden propeller
 
-![AR48003-kit-box](./assets/AR48003-kit-box.jpg)
+![box-art](./assets/AR48003-kit-box.jpg)
 
 ![AR48003-kit-parts](./assets/AR48003-kit-parts.jpg)
 
@@ -35,27 +35,27 @@ packaged with some extras by Proper Plane:
 
 Scheme 4: Fairey Flycatcher, s/n N9961/9, 403th Flight, HMS Hermes, China Station, 1930
 
-| Feature                       | Color                | Recommended | Paint Used |
-|-------------------------------|----------------------|-------------|------------|
-| cockpit frame and detail      | Silver               | C8/H8       | MC213 Stainless |
-| cowling                      | Polished Aluminum    | LP70        | SM204 Super Stainless 2 |
-|                               | Yellow               | C329/H329   |             |
-| fuselage                      | White                | C62/H11     | H11         |
-|                               | Black                | C33/H12     |             |
-|                               | Red                  | H013        |             |
-|                               | Navy Blue            | C14/H54     |             |
-|                               | Wood brown           | C310/H310   |             |
-|                               | Rust                 | H344,H453   |             |
-| cockpit fittings, instruments | Old Gold             |             | 70.878      |
-| engine features               | Steel                |             | H18         |
-| push rods                     |                      |             | RCM011      |
-| window frame, prop nuts       | Copper               |             | H10         |
-| fuselage tint 1               |                      |             | H11+H51     |
-| fuselage tint 2               |                      |             | H11+H51+H34 |
-| insignia 1                    | Bright Blue          |             | H15         |
-| insignia 2                    | Shine Red            |             | H23         |
-| Port wingtip light            | Red                  |             | 70.909      |
-| Starboard  wingtip light      | Green                |             | 70.891      |
+| Feature                       | Color                | Recommended | Paint Used              |
+|-------------------------------|----------------------|-------------|-------------------------|
+| cockpit frame and detail      | Silver               | C8/H8       | MC213 Stainless         |
+| cowling                       | Polished Aluminum    | LP70        | SM204 Super Stainless 2 |
+|                               | Yellow               | C329/H329   |                         |
+| fuselage                      | White                | C62/H11     | H11                     |
+|                               | Black                | C33/H12     |                         |
+|                               | Red                  | H013        |                         |
+|                               | Navy Blue            | C14/H54     |                         |
+|                               | Wood brown           | C310/H310   |                         |
+|                               | Rust                 | H344,H453   |                         |
+| cockpit fittings, instruments | Old Gold             |             | 70.878                  |
+| engine features               | Steel                |             | H18                     |
+| push rods                     |                      |             | RCM011                  |
+| window frame, prop nuts       | Copper               |             | H10                     |
+| fuselage tint 1               |                      |             | H11+H51                 |
+| fuselage tint 2               |                      |             | H11+H51+H34             |
+| insignia 1                    | Bright Blue          |             | H15                     |
+| insignia 2                    | Shine Red            |             | H23                     |
+| Port wingtip light            | Red                  |             | 70.909                  |
+| Starboard  wingtip light      | Green                |             | 70.891                  |
 
 I made the mistake of thinking the main fabric fuselage was white, and that's how I've finished the model.
 It wasn't particularly clear in the Armory instructions, but as I got towards the end of the build I started to doubt the choice.
@@ -235,6 +235,7 @@ Fairey Flycatcher, China Station, 1930. This is the Armory Models Group kit in 1
     * [on armory models](https://armorymodels.com/product/1-48-fairey-flycatcher-british-faa-inter-war-floatplane-fighter-on-wooden-floats/)
     * [on proper plane](https://properplane.com/proper_sets?product_id=280) with extras (this is the version I bought)
     * [instructions](./assets/AR48003-instructions.pdf)
+    * Purchased from ProperPlane for US$98.10 (Jul-2023).
 
 ### Research References
 

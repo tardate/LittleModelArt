@@ -58,7 +58,7 @@ I purchased the kit for ¥1,480 at Yodobashi Shinjuku (Dec-2022).
 
 See [instructions](./assets/40123-instructions.pdf).
 
-![30062-kit-box](./assets/40123-kit-box.jpg?raw=true)
+![box-art](./assets/40123-kit-box.jpg?raw=true)
 
 I've used a few upgrades, though these are far from essential:
 

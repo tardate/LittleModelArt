@@ -18,7 +18,7 @@ I purchased the kit for ¥620 from Leonardo LG2 in Sep-2023.
 
 See [instructions](./assets/23030-200-instructions.pdf).
 
-![23030-200-kit-box](./assets/23030-200-kit-box.jpg?raw=true)
+![box-art](./assets/23030-200-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

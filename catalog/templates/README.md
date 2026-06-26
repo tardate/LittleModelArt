@@ -16,7 +16,7 @@ notes here
 
 description
 
-[![kit-box](./assets/kit-box.jpg?raw=true)](url)
+[![box-art](./assets/box-art.jpg?raw=true)](url)
 
 ### Paint Scheme
 

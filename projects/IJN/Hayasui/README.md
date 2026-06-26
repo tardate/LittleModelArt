@@ -57,7 +57,7 @@ The kit includes 8 aircraft to be carried aboard:
 
 See [instructions](./assets/012109-instructions.pdf).
 
-![kit-box](./assets/012109-kit-box.jpg?raw=true)
+![box-art](./assets/012109-kit-box.jpg?raw=true)
 
 From the kit notes:
 

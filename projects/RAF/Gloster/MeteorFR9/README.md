@@ -20,7 +20,7 @@ The FR.9 was retired from active service by the late 1950s but played a signific
 is the club boxing of the 2022 tool [Gloster Meteor F.8 No. A04064](https://www.scalemates.com/kits/airfix-a04064-gloster-meteor-f8--1396777).
 It contains some new parts and schemes.
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a73015-gloster-meteor-fr9--1412592)
 
 ### Scheme A
 
@@ -31,20 +31,20 @@ Gloster Meteor FR.9 VZ603/W, No.8 Squadron Royal Air Force, Sharjah, Trucial Sta
 ![scheme-a](./assets/scheme-a.jpg)
 ![scheme-a-key](./assets/scheme-a-key.jpg)
 
-| Feature               | Color                    | Recommended | Paint Used |
-|-----------------------|--------------------------|-------------|------------|
-| cockpit interior      | Coal Black               | 85          |            |
-| cockpit fittings      | Matt Black               | 33          |            |
-| ejector seat strap    | Gloss Bright Red         | 19          |            |
-| seat                  | Matt WW1 Blue            | 109         | H26        |
-| jet interiors         | Super Duralumin          |             | SM208      |
-| pitot tube            | Silver                   | 11          |            |
-| nose cone             | Matt Black               | 33          | H12        |
-| nose cone             | Matt White               | 34          | H11        |
-| jet exhausts          | Gun Metal                | 53          |            |
+| Feature               | Color                    | Recommended | Paint Used             |
+|-----------------------|--------------------------|-------------|------------------------|
+| cockpit interior      | Coal Black               | 85          |                        |
+| cockpit fittings      | Matt Black               | 33          |                        |
+| ejector seat strap    | Gloss Bright Red         | 19          |                        |
+| seat                  | Matt WW1 Blue            | 109         | H26                    |
+| jet interiors         | Super Duralumin          |             | SM208                  |
+| pitot tube            | Silver                   | 11          |                        |
+| nose cone             | Matt Black               | 33          | H12                    |
+| nose cone             | Matt White               | 34          | H11                    |
+| jet exhausts          | Gun Metal                | 53          |                        |
 | upper fuselage camo 1 | Dark Green BS381C 241    | 163         | H73, highlights w/H27  |
 | upper fuselage camo 2 | Dark Sea Grey BS381C 638 | 164         | H331, highlights w/H27 |
-| lower fuselage        | Prussian Blue BS381C 636 | 230         | H56        |
+| lower fuselage        | Prussian Blue BS381C 636 | 230         | H56                    |
 
 ### Scheme B
 

@@ -18,7 +18,7 @@ Fishing boat Green Max No. 2168 1:150.
 I got the kit at Yodobashi Akihabara for ¥919 in May 2025.
 See the [instructions](./assets/2168-instructions.pdf).
 
-[![2168-kit-box](./assets/2168-kit-box.jpg)](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
+[![box-art](./assets/2168-kit-box.jpg)](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
 
 ### Paint Scheme
 
@@ -117,5 +117,6 @@ On display at a show...
 * Fishing boat Green Max No. 2168 1:150
     * [on scalemates](https://www.scalemates.com/kits/green-max-2168-fishing-boat--1371995)
     * [instructions](./assets/2168-instructions.pdf)
+    * Purchased from Yodobashi Akihabara for ¥919 (May-2025).
 * Tomytec CN-NI118 Diorama Collection Sunbathers 1:150
     * [on scalemates](https://www.scalemates.com/kits/tomytec-per-118-sunbathers--1365502)

@@ -20,7 +20,7 @@ I purchased the kit for SG$14.40 from Hobby Point in Jun-2023.
 
 See [instructions](./assets/00131-instructions.pdf).
 
-![kit-box](./assets/00131-kit-box.jpg?raw=true)
+![box-art](./assets/00131-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 
@@ -40,21 +40,21 @@ See [instructions](./assets/00131-instructions.pdf).
 
 [Japanese Navy Airmen Set Hasegawa No. X72-16 1:72](https://www.scalemates.com/kits/hasegawa-x72-16-japanese-navy-airmen-set--1123725)
 
-| Feature                                         | Color                    | Recommended | Paint Used |
-|-------------------------------------------------|--------------------------|-------------|------------|
-| goggle frames                                   | Silver                   | C8/H8       |            |
-| goggle frames (alt)                             | Copper                   | C10/H10     |            |
-| goggle straps                                   | Sandy Brown              | C19/H66     |            |
-| webbing/life jacket                             | Dark Earth               | C22/H72     | 70.921 English Uniform |
-|                                                 | Flat Base                | C30/H40     |            |
-| helmet                                          | Red Brown                | C41/H47     |            |
-|                                                 | Mahogany                 | C42/H84     | 70.846 Mahogany Brown |
-| helmet inner                                    | Tan                      | C44/H27     |            |
-|                                                 | Flesh                    | C51/H44     |            |
-| scarf                                           | Flat White               | C62/H11     |            |
-| boots                                           | Semi gloss black         | C92         |            |
-|                                                 | Mitsubishi Cockpit Color | C126        |            |
-| flight suit and gloves                          |                          | C22/H72 (70%) + C42/H84 (30%) |            |
+| Feature                                         | Color                    | Recommended                   | Paint Used             |
+|-------------------------------------------------|--------------------------|-------------------------------|------------------------|
+| goggle frames                                   | Silver                   | C8/H8                         |                        |
+| goggle frames (alt)                             | Copper                   | C10/H10                       |                        |
+| goggle straps                                   | Sandy Brown              | C19/H66                       |                        |
+| webbing/life jacket                             | Dark Earth               | C22/H72                       | 70.921 English Uniform |
+|                                                 | Flat Base                | C30/H40                       |                        |
+| helmet                                          | Red Brown                | C41/H47                       |                        |
+|                                                 | Mahogany                 | C42/H84                       | 70.846 Mahogany Brown  |
+| helmet inner                                    | Tan                      | C44/H27                       |                        |
+|                                                 | Flesh                    | C51/H44                       |                        |
+| scarf                                           | Flat White               | C62/H11                       |                        |
+| boots                                           | Semi gloss black         | C92                           |                        |
+|                                                 | Mitsubishi Cockpit Color | C126                          |                        |
+| flight suit and gloves                          |                          | C22/H72 (70%) + C42/H84 (30%) |                        |
 
 ### Paint Scheme - B-17
 

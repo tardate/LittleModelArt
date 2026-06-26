@@ -15,7 +15,7 @@ T-34 Model 1942 was equipped with a 76.2 mm F-34 main gun. It is common referred
 I picked up the kit at a very good price:
 [Russian T-34/76 1942 Trumpeter No. 07206 1:72](https://www.scalemates.com/kits/trumpeter-07206-t-34-76-1942--105599)
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 I chose some crw figures from the CMK figure set:
 [CCCP T-34 War Tank Crew and Infantry (4pcs) CMK No. F72281 1:72](https://www.scalemates.com/kits/cmk-f72281-cccp-t-34-war-tank-crew-and-infantry-4pcs--959370)

@@ -22,7 +22,7 @@ The kit was also the subject for the [Moosaroo Cup 2024](https://www.facebook.co
 
 See [instructions](./assets/72708-instructions.pdf)
 
-![72708-kit-box](./assets/72708-kit-box.jpg?raw=true)
+![box-art](./assets/72708-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

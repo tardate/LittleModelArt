@@ -15,7 +15,7 @@ is the first kit I've bought from this manufacturer. I have heard really good th
 and I was certainly not disappointed. The expert set is beautifully put together and includes everything needed
 to produce a great rendering of this interesting aircraft from the interwar years.
 
-[![kit-box](./assets/70006-kit-box.jpg?raw=true)](https://www.armahobby.com/pzl-p-7a-expert-set.html)
+[![box-art](./assets/70006-kit-box.jpg?raw=true)](https://www.armahobby.com/pzl-p-7a-expert-set.html)
 
 ### Marking Option
 

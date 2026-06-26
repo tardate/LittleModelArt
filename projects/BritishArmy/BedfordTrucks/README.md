@@ -23,21 +23,21 @@ The most recent boxing is the 2025 release A03306A, now named "WWII 3-Ton G.S. A
 
 See [instructions](./assets/A03306-instructions.pdf)
 
-![A03306-kit-box](./assets/A03306-kit-box.jpg?raw=true)
+![box-art](./assets/A03306-kit-box.jpg?raw=true)
 
 ### A - QLT Troop Carrier and QLD General Purpose Cargo Truck, British Army, Northern Europe, 1944-1945
 
 ![A03306_SCH_A](./assets/A03306_SCH_A.png)
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
-| camo, covers          | Matt Black           | No 33       | H12        |
+| Feature               | Color                | Recommended | Paint Used     |
+|-----------------------|----------------------|-------------|----------------|
+| camo, covers          | Matt Black           | No 33       | H12            |
 | canvas panels         | Ochre                | No 83       | H79 + H71 tint |
-| seats                 | Ochre                | No 83       | H79        |
-| body, interior        | Khaki Drab           | No 159      | H80        |
-| exhaust pipes         | Red Brick            | No 70       |         |
-| headlight cover       | Gloss Yellow         | No 69       |         |
-| instruments           | Gloss Black          | No 21       |         |
+| seats                 | Ochre                | No 83       | H79            |
+| body, interior        | Khaki Drab           | No 159      | H80            |
+| exhaust pipes         | Red Brick            | No 70       |                |
+| headlight cover       | Gloss Yellow         | No 69       |                |
+| instruments           | Gloss Black          | No 21       |                |
 
 ### Build Log
 
@@ -75,6 +75,7 @@ Hopefully these will end up in a diorama one day.
     * [on scalemates](https://www.scalemates.com/kits/airfix-a03306-bedford-qlt-and-bedford-qld-trucks--109371)
     * [on airfix](https://uk.airfix.com/products/bedford-qldqlt-trucks-a03306)
     * [instructions](./assets/A03306-instructions.pdf)
+    * Purchased from Airfix for £14.99 (Jan-2024).
 
 ### Research References
 

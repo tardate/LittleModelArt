@@ -19,7 +19,7 @@ The scene was set for a period of unrelenting aerial combat, as both sides strug
 The [Fokker DR.1 & Bristol F.2B Dogfight Doubles](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
 kit from Airfix (No. A02141V in 1:72) is a Vintage Classics boxing of toolings that date from as early as 1957.
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
 
 ### Paint Scheme
 
@@ -27,16 +27,16 @@ kit from Airfix (No. A02141V in 1:72) is a Vintage Classics boxing of toolings t
 
 ![A02141V_SCH_A](./assets/A02141V_SCH_A.png)
 
-| Feature                | Color                  | Recommended | Paint Used |
-|------------------------|------------------------|-------------|------------|
-|                        | Black - Matt           |  No 33      | 70.950     |
-|                        | Gunmetal - Metallic    |  No 53      | H18        |
-| manifold bracing?      | Brass Metallic         |  No 54      | 70.878     |
-|                        | Light Grey - Matt      |  No 64      | H61        |
+| Feature                | Color                  | Recommended | Paint Used       |
+|------------------------|------------------------|-------------|------------------|
+|                        | Black - Matt           |  No 33      | 70.950           |
+|                        | Gunmetal - Metallic    |  No 53      | H18              |
+| manifold bracing?      | Brass Metallic         |  No 54      | 70.878           |
+|                        | Light Grey - Matt      |  No 64      | H61              |
 |                        | Cream - Matt           |  No 103     | H34 + H21 + H104 |
-| Interior, prop, struts | Natural Wood - Matt    |  No 110     | H37           |
-|                        | Matt Olive Drab - Matt |  No 155     | H52        |
-|                        | Signal Red - Satin     |  No 174     |            |
+| Interior, prop, struts | Natural Wood - Matt    |  No 110     | H37              |
+|                        | Matt Olive Drab - Matt |  No 155     | H52              |
+|                        | Signal Red - Satin     |  No 174     |                  |
 
 ### Build Log
 
@@ -95,6 +95,7 @@ Now joining my wall of flight..
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
     * [on Airfix site](https://uk.airfix.com/products/fokker-dr1-triplane-bristol-fighter-dogfight-double-a02141v?_br_psugg_q=a02141v)
     * [instructions](./assets/A02141V-instructions.pdf)
+    * Purchased from Hobby Bounties for SG$38.00 (Oct-2023).
 
 ### Research References
 

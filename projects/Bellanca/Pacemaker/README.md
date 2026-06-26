@@ -64,6 +64,7 @@ Eugen told his story to Chris Meddings on the Models from Ukraine podcast Episod
 * Bellanca CH-300 Pacemaker Dora Wings No. DW72022 1:72
     * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw72022-bellanca-ch-300-pacemaker--1211956)
     * [instructions](./assets/DW72022-instructions.pdf)
+    * Purchased from Dora Wings for €16.00 (Feb-2022).
 
 ### Research References
 

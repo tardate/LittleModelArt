@@ -26,7 +26,7 @@ This was my first experience of IBG's ship kits and I as very impressed.
 The moulding is very crisp and detailed for 1:700, and the kit comes with all the parts needed to create a very nice model, including
 a PE set with railings and other details designed specifically for the model.
 
-[![kit-box](./assets/70001.jpg)](http://www.ibgmodels.com/70001-2/)
+[![box-art](./assets/70001.jpg)](http://www.ibgmodels.com/70001-2/)
 
 ### Paint Scheme
 

@@ -17,7 +17,7 @@ I purchased this direct from Airfix for £16.66 (Jan-2024).
 
 See [instructions](./assets/A1500-instructions.pdf)
 
-![A1500-kit-box](./assets/A1500-kit-box.jpg?raw=true)
+![box-art](./assets/A1500-kit-box.jpg?raw=true)
 
 Contents:
 

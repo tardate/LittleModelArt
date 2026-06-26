@@ -29,7 +29,7 @@ I bought the kit in Dec 2022 for ¥2,100 at Yamada Denki LABI Shinjuku.
 
 See [instructions](./assets/52291-instructions.pdf)
 
-![kit-box](./assets/52291-kit-box.jpg?raw=true)
+![box-art](./assets/52291-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 

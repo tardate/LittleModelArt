@@ -30,15 +30,15 @@ waiting for me to come and tweak the effect. Which I finally did today (2023-01-
 The Aoshima kit No. 045718 of the liner Yawatamaru (日本客船 八幡丸) is available in recent boxing but is a 1982 tool.
 It is however reasonably well detailed and goes together just fine.
 
-[![kit_box](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
+[![box-art](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
 
-| Feature                                | Gunze MrHobby  | Paint Used   |
-|----------------------------------------|----------------|--------------|
-| Flat White: upper hull, superstructure | H11            | Vallejo 70.951 White |
-| Flat Black: funnel, hull               | H12            | Vallejo 70.950 Black |
-| Tan: hatches                           | H27            | Vallejo 70.941 Burnt Umber |
+| Feature                                | Gunze MrHobby  | Paint Used                  |
+|----------------------------------------|----------------|-----------------------------|
+| Flat White: upper hull, superstructure | H11            | Vallejo 70.951 White        |
+| Flat Black: funnel, hull               | H12            | Vallejo 70.950 Black        |
+| Tan: hatches                           | H27            | Vallejo 70.941 Burnt Umber  |
 | Wood Brown: deck, masts, spars         | H37            | Vallejo 70.981 Orange Brown |
-| Sail Color                             | H85            | Vallejo 70.951 White |
+| Sail Color                             | H85            | Vallejo 70.951 White        |
 
 Before I knew it I'd decided to do a pretty much full build before painting
 
@@ -57,7 +57,7 @@ Still got some tidying up to do - windows, weathering, rigging
 The Aoshima kit No. 045220 of the escort carrier Un'yō (日本海軍 航空母艦 雲鷹 ) is available in recent boxing but is also a 1982 tool.
 Like the Yawatamaru it is reasonably well detailed and goes together just fine.
 
-[![kit_box](./assets/unyo/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
+[![box-art](./assets/unyo/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
 
 | Feature                                     | Gunze MrHobby  | Paint Used                  |
 |---------------------------------------------|----------------|-----------------------------|

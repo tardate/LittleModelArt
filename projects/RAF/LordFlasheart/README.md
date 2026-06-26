@@ -88,6 +88,11 @@ And of course it now joins my wall of flight..
 * Lord Flash 'Woof! Woof!' Elan13 Miniatures No. EL93 1:10
     * [on scalemates](https://www.scalemates.com/kits/elan13-miniatures-el93-lord-flash--1450322)
     * [on elan13.co.uk](https://elan13.co.uk/epages/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9.sf/en_GB/?ObjectPath=/Shops/8ddd0c5f-33bc-47f3-92b7-7e1177bf5cd9/Products/EL93)
+    * Purchased from elan13 for £24.00 (Nov-2022).
+* Fokker DR.1 & Bristol F.2B Dogfight Doubles Vintage Classics Airfix No. A02141V 1:72
+    * [on scalemates](https://www.scalemates.com/kits/airfix-a02141v-fokker-dr1-and-bristol-f2b--1460227)
+    * [on Airfix site](https://uk.airfix.com/products/fokker-dr1-triplane-bristol-fighter-dogfight-double-a02141v?_br_psugg_q=a02141v)
+    * Purchased from Hobby Bounties for SG$38.00 (Oct-2023).
 
 ### Research References
 

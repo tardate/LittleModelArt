@@ -18,7 +18,7 @@ The kit I have is from around 1996 I think. The decals died long ago, but the mo
 Modern re-boxings are still available with some extras like PE for fittings including the big ass radar.
 I used some generic 1:700 left-over PE for railings etc, but that radar would have been a nice addition.
 
-[![kit_box](./assets/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/dragon-7016-hms-sheffield--955083)
+[![box-art](./assets/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/dragon-7016-hms-sheffield--955083)
 
 ### About the HMS Sheffield
 
@@ -48,17 +48,17 @@ The fact I've only seem this in B&W meant that certain artistic license was requ
 
 To the extent I kept track of this...
 
-| Feature         | Color                | Recommended | Paint Used |
-|-----------------|----------------------|-------------|------------|
-| fittings etc    | Silver               | H8          | |
-| propeller       | Gold                 | H9          | |
-| lower hull      | Flat Black           | H12         | |
-| ship's boats    | Wood Brown           | H37         | |
-| deck            | dark grey            | H82         | |
-| life rafts      | grey                 | H325        | |
+| Feature         | Color                | Recommended | Paint Used                                    |
+|-----------------|----------------------|-------------|-----------------------------------------------|
+| fittings etc    | Silver               | H8          |                                               |
+| propeller       | Gold                 | H9          |                                               |
+| lower hull      | Flat Black           | H12         |                                               |
+| ship's boats    | Wood Brown           | H37         |                                               |
+| deck            | dark grey            | H82         |                                               |
+| life rafts      | grey                 | H325        |                                               |
 | upper hull      | Grey Blue            | H337        | 70.989 Sky Grey + smidgen 70.992 Neutral Grey |
-| superstructure  |                      |             | 70.973 Light Sea Grey |
-| various details |                      |             | 70.992 Neutral Grey, 70.993 White Grey |
+| superstructure  |                      |             | 70.973 Light Sea Grey                         |
+| various details |                      |             | 70.992 Neutral Grey, 70.993 White Grey        |
 
 ### Construction Log
 

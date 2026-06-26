@@ -20,12 +20,12 @@ I purchased the kit from the "Colorfulday Store" on aliexpress for SG$14.94 in J
 
 See [instructions](./assets/TM-102-instructions.pdf).
 
-![kit-box](./assets/TM-102-kit-box.jpg?raw=true)
+![box-art](./assets/TM-102-kit-box.jpg?raw=true)
 
 ### Paint Scheme
 
-| Feature                   | Color                   | Paint Used |
-|---------------------------|-------------------------|------------|
+| Feature                   | Color                   | Paint Used       |
+|---------------------------|-------------------------|------------------|
 | cockpit                   | Nakajima Interior Green | H60 + H31        |
 | main camo                 | DARK GREEN(NAKAJIMA)    | C129             |
 | lower fuselage            | IJA Gray Green          | C128             |

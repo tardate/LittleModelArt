@@ -24,7 +24,7 @@ Nevertheless, I'm now quite enamoured with this ship, and look forward to adding
 
 I got my kit from the [Colorfulday Store on Aliexpress](https://www.aliexpress.com/item/4001315096301.html). All arrived in good order..
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ## Paint
 

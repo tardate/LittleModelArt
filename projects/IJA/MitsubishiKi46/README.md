@@ -21,7 +21,7 @@ for SG$5 at a charity sale. Not a bad deal!
 
 I subsequently discovered that the kit is available in new boxing off the shelf in Japan for I think around ¥1400.
 
-![53016-kit_box](./assets/53016-kit_box.jpg?raw=true)
+![box-art](./assets/53016-kit_box.jpg?raw=true)
 
 ![53016-kit_parts](./assets/53016-kit_parts.jpg?raw=true)
 
@@ -40,7 +40,7 @@ I selected a couple of figures from the
 to replace the very poorly molded figures that are included in the ARII kit.
 Navy not army, but after all the careful painting, not really visible through the canopy anyway!
 
-![X72-16-kit_box](./assets/X72-16-kit_box.jpg?raw=true)
+![box-art](./assets/X72-16-kit_box.jpg?raw=true)
 
 ### Paint Scheme
 

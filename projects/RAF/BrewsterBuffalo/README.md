@@ -20,7 +20,7 @@ The fighter would also attract strong international sales support, with Britain,
 
 [Brewster Buffalo Airfix No. A02050V 1:72](https://www.scalemates.com/kits/airfix-a02050v-brewster-buffalo--1460251)
 
-![kit-box](./assets/kit-box.jpg)
+![box-art](./assets/kit-box.jpg)
 
 ### Scheme A
 

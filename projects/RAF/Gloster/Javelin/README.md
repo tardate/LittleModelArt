@@ -19,7 +19,7 @@ was tooled and released in 2013. It was re-released in a new box in 2020.
 
 See [instructions](./assets/A12007-instructions.pdf).
 
-![A12007-kit-box](./assets/A12007-kit-box.jpg?raw=true)
+![box-art](./assets/A12007-kit-box.jpg?raw=true)
 
 #### Scheme A Gloster Javelin FAW.9R (XH893)
 
@@ -176,9 +176,11 @@ I realised I don't really have the space or lights to capture the build in my wo
 * Gloster Javelin FAW.9/9R Airfix No. A12007 1:48
     * [on scalemates](https://www.scalemates.com/kits/airfix-a12007-gloster-javelin-faw9-9r--173954)
     * [instructions](./assets/A12007-instructions.pdf)
+    * Received as a prize from Hobby Bounties
 * Gloster Javelin FAW.9/9R for Airfix Eduard No. EX411 1:48
     * [on scalemates](https://www.scalemates.com/kits/eduard-ex411-gloster-javelin-faw9-9r--266023)
     * [instructions](./assets/EX411-instructions.pdf)
+    * Purchased from hobby.dn.ua for €10.67 (Nov-2023).
 * FPJ Model BY1S48 1/48 Scale Resin Model 6 Jet Pilots
     * [on aliexpress](https://www.aliexpress.com/item/1005007523380220.html)
 
@@ -206,13 +208,13 @@ YouTube by florymodels
 
 [![clip](https://img.youtube.com/vi/uk2iUKrRP5g/0.jpg)](https://www.youtube.com/watch?v=uk2iUKrRP5g)
 
-#### Build Playlist
+#### Building a Javelin 1/48 Pt1 by Airfix
 
 YouTube by Dansmodelworx
 
 [![clip](https://img.youtube.com/vi/lxnU6y5Ruwc/0.jpg)](https://www.youtube.com/watch?v=lxnU6y5Ruwc&list=PLS0fw2Xpi1GQKGXiwi6-XQLHeyEdWF5K2&index=1)
 
-#### Build Playlist
+#### 1/48 AIRFIX GLOSTER JAVELIN Build Pt. 1
 
 YouTube by Mojo Rising Modelling
 

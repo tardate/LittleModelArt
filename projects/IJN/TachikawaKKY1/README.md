@@ -24,21 +24,21 @@ the only manufacturer to have produced a model of the KKY.
 Amodel is a Ukrainian model company. Their kits are distributed by IBG of Poland
 and available direct from [IBG](http://en.ibg.com.pl/en,producent,amodel,7,1,name,asc.html).
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
 
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 
 ### Paint Scheme
 
-| Feature               | Color                | Recommended | Paint Used |
-|-----------------------|----------------------|-------------|------------|
+| Feature               | Color                | Recommended | Paint Used                                      |
+|-----------------------|----------------------|-------------|-------------------------------------------------|
 | A fuselage            | Light Grey           | humbrol 147 | 70.951 white with pre-shading 70.843 Cork Brown |
-| B                     | Black                | humbrol 33  |            |
-| C exhaust             | Rust                 | humbrol 113 | Humbrol 56 +  AK Light Rust wash |
-| D                     | Wood                 | humbrol 110 |            |
-| E                     | Interior Green       | humbrol 158 | 70.893 US Dark Green |
-| F                     | Brown                | humbrol 186 |            |
-| engine block          |                      | -           | Humbrol 53           |
+| B                     | Black                | humbrol 33  |                                                 |
+| C exhaust             | Rust                 | humbrol 113 | Humbrol 56 +  AK Light Rust wash                |
+| D                     | Wood                 | humbrol 110 |                                                 |
+| E                     | Interior Green       | humbrol 158 | 70.893 US Dark Green                            |
+| F                     | Brown                | humbrol 186 |                                                 |
+| engine block          |                      | -           | Humbrol 53                                      |
 
 ### Build Log
 

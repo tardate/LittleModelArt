@@ -37,7 +37,7 @@ because of those tiger stripes and also because I was interested to try somethin
 * Length: 118 mm
 * Wingspan: 85 mm
 
-[![kit_box](./assets/kit_box.jpg?raw=true)](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
+[![box-art](./assets/kit_box.jpg?raw=true)](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
 
 This is my first Revell kit and I couldn't have been more impressed:
 
@@ -50,20 +50,20 @@ This is my first Revell kit and I couldn't have been more impressed:
 
 Tornado ECR, 1. Staffel, JaboG 32, Lechfeld AB, 1994
 
-| Key | Application                 | Name                                    | Paint Used |
-|-----|-----------------------------|-----------------------------------------|------------|
-| A   | fuselage, cockpit details   | anthracite grey, matt                   | 70.992 Neutral Grey |
-| B   | fuselage                    | dark green, matt 80% + yellow, matt 20% | 70.893 US Dark Green + 70.953 Flat Yellow (4:1) |
-| C   | tail tip                    | mouse grey, matt                        | 70.870 Medium Sea Grey |
-| D   | nose, trim                  | black, matt                             | 70.950 Black |
-| E   | fuselage, cockpit details   | dark green, matt                        | 70.893 US Dark Green |
-| F   | landing gear, missiles      | white, matt                             | 70.951 White |
-| G   | cockpit details, inner wing | light grey, matt                        | 70.990 Light Grey |
-| H   |                             | bronze green, matt                      | |
-| I   | tailpipe                    | steel, metallic                         | |
-| K   | landing gear, spigots       | aluminium, metallic                     | |
-| L   | nav lights                  | leaf green, satin                       | |
-| M   | nav lights                  | fiery red, satin                        | |
+| Key | Application                 | Name                                    | Paint Used                                                                     |
+|-----|-----------------------------|-----------------------------------------|--------------------------------------------------------------------------------|
+| A   | fuselage, cockpit details   | anthracite grey, matt                   | 70.992 Neutral Grey                                                            |
+| B   | fuselage                    | dark green, matt 80% + yellow, matt 20% | 70.893 US Dark Green + 70.953 Flat Yellow (4:1)                                |
+| C   | tail tip                    | mouse grey, matt                        | 70.870 Medium Sea Grey                                                         |
+| D   | nose, trim                  | black, matt                             | 70.950 Black                                                                   |
+| E   | fuselage, cockpit details   | dark green, matt                        | 70.893 US Dark Green                                                           |
+| F   | landing gear, missiles      | white, matt                             | 70.951 White                                                                   |
+| G   | cockpit details, inner wing | light grey, matt                        | 70.990 Light Grey                                                              |
+| H   |                             | bronze green, matt                      |                                                                                |
+| I   | tailpipe                    | steel, metallic                         |                                                                                |
+| K   | landing gear, spigots       | aluminium, metallic                     |                                                                                |
+| L   | nav lights                  | leaf green, satin                       |                                                                                |
+| M   | nav lights                  | fiery red, satin                        |                                                                                |
 | O   | fuselage near cockpit       | yellow, matt                            | 70.953 Flat Yellow over pink undercoat (70.951 white + 70.909 vermillion, 3:1) |
 
 ### Wireless LEDs in the Tailpipe

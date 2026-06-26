@@ -28,7 +28,8 @@ The kit contains:
 * metal axles (allows the wheels to rotate in the final model)
 * decals
 
-![kit_box](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/kit_box.jpg?raw=true)
+
 ![kit_parts](./assets/kit_parts.jpg?raw=true)
 
 ## Model Construction
@@ -41,10 +42,10 @@ Primed with Vallejo Surface Primer 70.601:
 
 ## Paint
 
-| Part                               | Recommended              | Used |
-|------------------------------------|--------------------------|------|
-| misc metal features and chipping   | H8 or X11 Silver         | Humbrol 11 |
-| fire extinguisher                  | H13 or XF7 flat red      | Vallejo 70.909 Vermillion |
+| Part                               | Recommended              | Used                                                                       |
+|------------------------------------|--------------------------|----------------------------------------------------------------------------|
+| misc metal features and chipping   | H8 or X11 Silver         | Humbrol 11                                                                 |
+| fire extinguisher                  | H13 or XF7 flat red      | Vallejo 70.909 Vermillion                                                  |
 | body                               | H304, FS34087 olive drab | Vallejo 70.891 Intermediate Green + ~30% 70.889 Olive Brown/USA Olive Drab |
 | tires                              | H77 tire black           | Vallejo 70.950 Black + chalk effects/weathering with 70.907 Pale Grey Blue |
 
@@ -78,6 +79,7 @@ Would/could I electrify this? Perhaps LED headlights and/or interior dome lighti
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-01104-jiefang-ca-30--195821)
     * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2796&l=en)
     * [instructions](./assets/01104-instructions.pdf)
+    * Purchased from New Toy Center (aliexpress) for SG$16.32 (Dec-2020).
 
 ### Research References
 

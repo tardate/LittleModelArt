@@ -11,10 +11,6 @@ is a single-engine, multirole fighter that was declared operational in 2003 afte
 
 It is currently one of the main aircraft of the [PLAAF](https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Air_Force#Current_inventory)
 
-NB: Binkov's Battlegrounds provided an interesting comparison of where the JF-17 and J-10 fit into China's domestic and export situation:
-
-[![clip](https://img.youtube.com/vi/4TFrYgg7_aU/0.jpg)](https://www.youtube.com/watch?v=4TFrYgg7_aU)
-
 ### August 1st or Ba Yi Aerobatics Team (Chinese: 八一飞行表演队)
 
 The [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
@@ -38,7 +34,7 @@ I picked up
 [No. 01644](https://www.scalemates.com/kits/trumpeter-01644-j-10s-fighter--107127)
 which includes a Ba Yi Aerobatics Team scheme
 
-![kit-box](./assets/kit-box.jpg?raw=true)
+![box-art](./assets/kit-box.jpg?raw=true)
 
 As I wanted to display the craft in flight, I needed some pilot figures. These are not included in the kit.
 
@@ -55,14 +51,14 @@ I used 5 patterns, and just masked the fuselage stripes by eye.
 
 Main colours used:
 
-| Colour       | Recommended | Used                         | Feature |
-|--------------|-------------|------------------------------|---------|
-| IJN Grey     | H61         | 70.989 Sky Grey                               | cockpit interior |
-| Flat Black   | H12         | 70.950 Black                                  | cockpit seats |
-| Khaki Green  | H80         | 70.924 Russian Unf. WWII                      | cockpit seats |
-| White        | H1          | 70.951 White                                  | fuselage |
-| Red          | H3          | 70.909 Vermillion + 70.956 Clear Orange (~3:1) | fuselage |
-| Blue         | H5          | 70.963 Medium Blue                            | fuselage |
+| Colour       | Recommended | Used                                           | Feature          |
+|--------------|-------------|------------------------------------------------|------------------|
+| IJN Grey     | H61         | 70.989 Sky Grey                                | cockpit interior |
+| Flat Black   | H12         | 70.950 Black                                   | cockpit seats    |
+| Khaki Green  | H80         | 70.924 Russian Unf. WWII                       | cockpit seats    |
+| White        | H1          | 70.951 White                                   | fuselage         |
+| Red          | H3          | 70.909 Vermillion + 70.956 Clear Orange (~3:1) | fuselage         |
+| Blue         | H5          | 70.963 Medium Blue                             | fuselage         |
 
 For the pilots I used 70.893 US Dark Green as the base colour for the flight suits and a bunch of other colours for detail.
 
@@ -148,8 +144,10 @@ Trying again in daylight and after losing the acrylic protective sheet over the 
 * Chinese J-10S fighter Twin seater Trumpeter - No. 01644 - 1:72
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-01644-j-10s-fighter--107127)
     * [instructions](./assets/01644-instructions.pdf)
+    * Purchased from Miniature Hobby for SG$15.54 (Apr-2021).
 * US Pilots with JHMCS helmet seated in a/c PJ Production - No. 721142 - 1:72
     * [on scalemates](https://www.scalemates.com/kits/pj-production-721142-us-pilots-with-jhmcs-helmet-seated-in-a-c--1313013)
+    * Purchased from HPM Hobbies for SG$8.80 (Dec-2021).
 
 ### Research References
 
@@ -157,3 +155,11 @@ Trying again in daylight and after losing the acrylic protective sheet over the 
 * [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
 * [Yu Xu 余旭](https://en.wikipedia.org/wiki/Yu_Xu)
 * [Tao Jiali 陶佳莉](https://en.wikipedia.org/wiki/Tao_Jiali) - [hudong.com](https://www.hudong.com/wiki/%E9%99%B6%E4%BD%B3%E8%8E%89?view_id=23kv09bcpdq800)
+
+#### Why is no one buying modern Chinese fighter jets?
+
+YouTube by Binkov's Battlegrounds
+
+Binkov's Battlegrounds provided an interesting comparison of where the JF-17 and J-10 fit into China's domestic and export situation.
+
+[![clip](https://img.youtube.com/vi/4TFrYgg7_aU/0.jpg)](https://www.youtube.com/watch?v=4TFrYgg7_aU)

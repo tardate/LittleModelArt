@@ -24,7 +24,7 @@ As of 29 December 2020, Google Maps imagery showed U-01 afloat and pier-side in 
 
 Ukrainian Submarine Project 641 Foxtrot Class - "Zaporizhzhia" MikroMir No. 350-019 1:350
 
-[![kit_box](./assets/kit_box.jpg)](https://www.scalemates.com/kits/mikromir-350-019-project-641-foxtrot-class-zaporizhzhia--949107)
+[![box-art](./assets/kit_box.jpg)](https://www.scalemates.com/kits/mikromir-350-019-project-641-foxtrot-class-zaporizhzhia--949107)
 
 ### Paint Scheme
 
