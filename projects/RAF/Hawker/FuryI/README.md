@@ -1,6 +1,6 @@
-# #xxx Hawker Fury I
+# #171 Hawker Fury I
 
-description here
+Building the Hawker Fury I from Airfix in 1:48. It's a pretty old tooling now, but scrubs up nicely with metallic finish and rigging.
 
 ![Build](./assets/FuryI_build.jpg?raw=true)
 
