@@ -1,4 +1,14 @@
 {
+    "/projects/raf/hawker/furyi/": {
+        "id": 171,
+        "title": "Hawker Fury I",
+        "summary": "Building the Hawker Fury I from Airfix in 1:48. It's a pretty old tooling now, but scrubs up nicely with metallic finish and rigging.",
+        "tags": [
+            "Aircraft - military",
+            "UK",
+            "Airfix"
+        ]
+    },
     "/projects/ijn/hayasui/": {
         "id": 170,
         "title": "IJN Oil Supply Ship Hayasui",
