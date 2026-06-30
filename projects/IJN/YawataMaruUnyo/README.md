@@ -30,7 +30,7 @@ waiting for me to come and tweak the effect. Which I finally did today (2023-01-
 The Aoshima kit No. 045718 of the liner Yawatamaru (日本客船 八幡丸) is available in recent boxing but is a 1982 tool.
 It is however reasonably well detailed and goes together just fine.
 
-[![box-art](./assets/yawatamaru/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
+[![box-art](./assets/yawatamaru/045718-box-art.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
 
 | Feature                                | Gunze MrHobby  | Paint Used                  |
 |----------------------------------------|----------------|-----------------------------|
@@ -57,17 +57,17 @@ Still got some tidying up to do - windows, weathering, rigging
 The Aoshima kit No. 045220 of the escort carrier Un'yō (日本海軍 航空母艦 雲鷹 ) is available in recent boxing but is also a 1982 tool.
 Like the Yawatamaru it is reasonably well detailed and goes together just fine.
 
-[![box-art](./assets/unyo/kit_box.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
+[![box-art](./assets/unyo//045220-box-art.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
 
-| Feature                                     | Gunze MrHobby  | Paint Used                  |
-|---------------------------------------------|----------------|-----------------------------|
-| Flat White: boat covers                     | H11            | Vallejo 70.951 White        |
-| Flat Black: funnel; plane engines           | H12            | Vallejo 70.950 Black        |
-| Cocoa Brown: lower hull                     | H17            | Vallejo 70.985 Hull Red     |
-| Wood Brown: boat decks                      | H37            | Vallejo 70.941 Burnt Umber  |
-| IJN Green: plane upper surfaces             | H59            | Vallejo 70.897 Bronze Green |
-| IJN Gray: plane lower surfaces              | H61            | Vallejo 70.989 Sky Grey     |
-| IJN Gray: flight deck                       | H61            | Vallejo 70.990 Light Grey   |
+| Feature                                     | Gunze MrHobby  | Paint Used                                         |
+|---------------------------------------------|----------------|----------------------------------------------------|
+| Flat White: boat covers                     | H11            | Vallejo 70.951 White                               |
+| Flat Black: funnel; plane engines           | H12            | Vallejo 70.950 Black                               |
+| Cocoa Brown: lower hull                     | H17            | Vallejo 70.985 Hull Red                            |
+| Wood Brown: boat decks                      | H37            | Vallejo 70.941 Burnt Umber                         |
+| IJN Green: plane upper surfaces             | H59            | Vallejo 70.897 Bronze Green                        |
+| IJN Gray: plane lower surfaces              | H61            | Vallejo 70.989 Sky Grey                            |
+| IJN Gray: flight deck                       | H61            | Vallejo 70.990 Light Grey                          |
 | Dark Gray: upper hull                       | H83            | Vallejo 70.992 Neutral Grey + 30% 70.994 Dark Grey |
 
 Starting the Un'yō..
@@ -144,23 +144,23 @@ I transferred the design to a small piece of protoboard. Layout sketch:
 
 Internal layout showing the one-way mirror on 45˚ angle in front of the Yawatamaru is a piece of acrylic with silver insulation window film applied to the rear.
 
-![build_06a](./assets/yawatamaru/build_06a.jpg?raw=true)
+![build_06a](./assets/build_06a.jpg?raw=true)
 
 The finished box
 
-![build_06b](./assets/yawatamaru/build_06b.jpg?raw=true)
+![build_06b](./assets/build_06b.jpg?raw=true)
 
 Power jack and switch on the rear..
 
-![build_06c](./assets/yawatamaru/build_06c.jpg?raw=true)
+![build_06c](./assets/build_06c.jpg?raw=true)
 
 Looking through the window when the Yawatamaru is illuminated:
 
-![build_07a](./assets/yawatamaru/build_07a.jpg?raw=true)
+![build_07a](./assets/build_07a.jpg?raw=true)
 
 Looking through the window when the Un'yō is illuminated:
 
-![build_07b](./assets/yawatamaru/build_07b.jpg?raw=true)
+![build_07b](./assets/build_07b.jpg?raw=true)
 
 Here's a demo of the final effect:
 
@@ -176,11 +176,17 @@ And here's a behind-the-scenes view of the box diorama in action:
 * Japanese Pacific Ocean Liner Yawatamaru Aoshima No. 045718 1:700
     * [on scalemates](https://www.scalemates.com/kits/aoshima-045718-yawatamaru--323875)
     * [on Aoshima site](https://www.aoshima-bk.co.jp/product/4905083045718/)
+    * Purchased from Hobby Point for SG$24.80 (Apr-2021)
 * Japanese Aircraft Carrier Un'yō Aoshima No. 045220 1:700
     * [on scalemates](https://www.scalemates.com/kits/aoshima-045220-unyo--306524)
     * [on Aoshima site](https://www.aoshima-bk.co.jp/product/4905083045220/)
+    * Purchased from Plaza Japan for ¥1,418 (Jun-2021)
 
 ### Research References
 
 * [The Imperial Japanese Navy in the Pacific War](https://www.goodreads.com/book/show/23719933-the-imperial-japanese-navy-in-the-pacific-war) by Mark Stille
 * [Pepper's ghost](https://en.wikipedia.org/wiki/Pepper%27s_ghost)
+* [Japanese aircraft carrier Un'yō](https://en.wikipedia.org/wiki/Japanese_aircraft_carrier_Un%27y%C5%8D) - wikipedia
+* [Nitta Maru-class cargo liner](https://en.wikipedia.org/wiki/Nitta_Maru-class_cargo_liner) - wikipedia
+* [YAWATA MARU: Tabular Record of Movement](https://www.combinedfleet.com/yawata_t.htm)
+* [IJN Unyo: Tabular Record of Movement](https://www.combinedfleet.com/unyo.htm)
