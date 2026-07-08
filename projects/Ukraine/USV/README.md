@@ -61,6 +61,7 @@ and touched up with Vallejo Model Color gloss white.
 * Ukraine's Maritime Drone (USV) MikroMir No. 35-028 1:35
     * [on scalemates](https://www.scalemates.com/kits/mikromir-35-028-ukraines-maritime-drone-usv--1481701)
     * [instructions](./assets/35-028-instructions.pdf)
+    * Purchased from hobby.dn.ua for US$21.67 (May-2023)
 
 ### Research References
 

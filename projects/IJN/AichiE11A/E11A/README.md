@@ -176,8 +176,10 @@ The Aichi E11A Type 98 on reconnaissance. Motorised Fujimi 1:72 kit.
 * Aichi Type 98 Reconnaissance Seaplane (Yatei) Fujimi No. 72331 1:72
     * [on scalemates](https://www.scalemates.com/kits/fujimi-72331-aichi-type-98-reconnaissance-seaplane-yatei--1282823)
     * [instructions](./assets/72331-instructions.pdf)
+    * Purchased from Plaza Japan for ¥1,890 (Jun-2025)
 * IJN Pilots and Ground Crew WWII Red Box No. RB72053 1:72
     * [on scalemates](https://www.scalemates.com/kits/red-box-rb72053-ijn-pilots-and-ground-crew--952630)
+    * Purchased from hobby.dn.ua for €6.22 (Aug-2023)
 
 ### Research References
 

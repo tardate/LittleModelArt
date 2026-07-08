@@ -106,6 +106,7 @@ set to be the unlucky passengers on this wild ride.
     * [on ICM](https://icm.com.ua/technique/ural-4320-military-truck-of-the-armed-forces-of-ukraine/)
     * [on hobby.dn.ua](https://www.hobby.dn.ua/en/icm-icm-72708-ural-4320-armed-forces-ukraine-p-107828.html)
     * [instructions](./assets/72708-instructions.pdf)
+    * Purchased from hobby.dn.ua for €10.86 (Aug-2023)
 * British Tank Riders WWII HäT No. 8264 1:72
     * [on scalemates](https://www.scalemates.com/kits/haet-8264-british-tank-riders--186804)
 * WWII Partisans in Europe (French and Balkan) Caesar Miniatures No. H056 1:72

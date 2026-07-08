@@ -98,6 +98,7 @@ See also my [Notebook: Resin](/notebook/resin/).
     * [on scalemates](https://www.scalemates.com/kits/mikromir-350-019-project-641-foxtrot-class-zaporizhzhia--949107)
     * [on mikro-mir.com](http://mikro-mir.com/en/ships-scales/1-350/170-project-641.html)
     * [instructions](./assets/350-019-instructions.pdf)
+    * Purchased from hobby.dn.ua for €18.33 (Oct-2023)
 
 ### Research References
 

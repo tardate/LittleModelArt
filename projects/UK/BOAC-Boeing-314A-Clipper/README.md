@@ -98,6 +98,7 @@ The main experiment with this build was to use plastic disks to simulate props-i
     * [on scalemates](https://www.scalemates.com/kits/airfix-a04172v-boeing-314-clipper--1594506)
     * [on Airfix site](https://uk.airfix.com/products/boeing-314-clipper-a04172v)
     * [instructions](./assets/A04172V-instructions.pdf)
+    * Received as a gift.
 
 ### Research References
 

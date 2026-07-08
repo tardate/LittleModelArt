@@ -71,15 +71,19 @@ an experimental presentation🤔
 * Bayraktar TB2 Clear Prop! No. CP4809 1:48
     * [on scalemates](https://www.scalemates.com/kits/clear-prop-cp4809-bayraktar-tb2--1408722)
     * [instructions](./assets/CP4809-instructions.pdf)
+    * Purchased from Clear Prop! for €20.00 (Feb-2023)
 * TB.2 PE parts Clear Prop! No. CPA48019 1:48
     * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48019-tb2-pe-parts--1457780)
     * [instructions](./assets/CPA48019-instructions.pdf)
+    * Purchased from Clear Prop! for €4.00 (Feb-2023)
 * TB.2 wheel set Clear Prop! No. CPA48017 1:48
     * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48017-tb2-wheel-set--1457778)
     * [instructions](./assets/CPA48017-instructions.pdf)
+    * Purchased from Clear Prop! for €4.50 (Feb-2023)
 * TB.2 Painting Mask for Clear Prop! No. CPA48018 1:48
     * [on scalemates](https://www.scalemates.com/kits/clear-prop-cpa48018-tb2-painting-mask--1457779)
     * [instructions](./assets/CPA48018-instructions.pdf)
+    * Purchased from Clear Prop! for €4.00 (Feb-2023)
 
 ### Research References
 

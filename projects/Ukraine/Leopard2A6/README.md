@@ -167,6 +167,7 @@ I cut the box on a [Lionsforge Craftlaser at the library](https://leap.tardate.c
     * [on scalemates](https://www.scalemates.com/kits/icm-72820-leopard-2a6--1568423)
     * [on ICM site](https://icm.com.ua/technique/leopard-2a6/)
     * [instructions](./assets/72820-instructions.pdf)
+    * Purchased from hobby.dn.ua for US$14.47 (Oct-2024)
 
 ### Research References
 

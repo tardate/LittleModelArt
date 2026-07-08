@@ -130,6 +130,7 @@ The money shot - tailpipes light up when the plane is on the base...
     * [on scalemates](https://www.scalemates.com/kits/revell-04048-tornado-ecr--104311)
     * [on Revell site](https://www.revell.de/en/produkte/modellbau/flugzeuge/militaer-modern-revell/tornado-ecr.html)
     * [instructions](./assets/04048-instructions.pdf)
+    * Purchased from Hobby Point for SG$14.45 (Oct-2021)
 
 ### Research References
 

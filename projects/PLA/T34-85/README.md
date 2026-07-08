@@ -121,10 +121,12 @@ People's Volunteer Army T-34 No 215 (中国人民志愿军215号) is legendary f
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145041)
 *[T-34/85 Chinese Volunteer "215" Rye Field Model No. RM-5059 1:35
     * [on scalemates](https://www.scalemates.com/kits/rye-field-model-rm-5059-t-34-85-chinese-volunteer-215--1301125)
-    * [](./assets/RM-5059-instructions.pdf)
+    * [instructions](./assets/RM-5059-instructions.pdf)
+    * Purchased from Hobby Point for SG$48.00 (Jun-2021)
 * Thirty-Eight Degree Line - Chinese People's Volunteers YUFAN Model No. YFWW-1639 1:35
     * [on scalemates](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
     * [instructions](./assets/yfww-1639-instructions.pdf)
+    * Purchased from Real-toys Store (aliexpress seller) for SG$30.71 (Apr-2023)
 
 ### Research References
 

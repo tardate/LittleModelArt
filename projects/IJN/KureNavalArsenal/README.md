@@ -128,6 +128,8 @@ Final shots.
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=191837)
 * Kure Naval Port Fujimi No. 40131 1:3000
     * [on scalemates](https://www.scalemates.com/kits/fujimi-40131-kure-naval-port--993916)
+    * [instructions](./assets/40131-instructions.pdf)
+    * Purchased from Joshin ōji for ¥1,976 (Dec-2024)
 * Upgrade/detail sets (not used in the build):
     * Detail Up Parts Series IJN Kure Naval Port/Gantry Crane Photo-Etched Parts Fujimi No. 11503 1:3000
         * [on scalemates](https://www.scalemates.com/kits/fujimi-11503-ijn-kure-naval-port-gantry-crane-photo-etched-parts--1028650)

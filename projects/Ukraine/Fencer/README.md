@@ -87,6 +87,7 @@ Ukrainian Su-24M Fencer on an ultra low-level raid. Inspired by [Taras on TikTok
 * Sukhoj Su-24M Fencer Ukrainian Pixel Camo Armory No. 14704 1:144
     * [on scalemates](https://www.scalemates.com/kits/armory-14704-sukhoj-su-24m-fencer--1169333)
     * [instructions](./assets/14704-instructions.pdf)
+    * Purchased from Armory Models for US$32.00 (Jun-2023)
 
 ### Research References
 

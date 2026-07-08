@@ -8,7 +8,7 @@ Building the Airfix 1:43 kit of the Jaguar E-Type
 
 ### The Kit
 
-![A55009-box](./assets/A55009-box.jpg)
+![box-art](./assets/A55009-box.jpg)
 
 Starter Set Jaguar E-Type
 
@@ -110,3 +110,4 @@ Building up the underlying groundwork:
     * [on scalemates](https://www.scalemates.com/kits/airfix-a55009-jaguar-e-type--1439995)
     * [on airfix](https://uk.airfix.com/products/small-starter-set-jaguar-e-type-a55009)
     * [instructions](./assets/A55009-instructions.pdf)
+    * Purchased from Hobby Bounties for $39.90 (Mar-2025)

@@ -20,9 +20,7 @@ At first, GM produced the FM-1, identical to the F4F-4, but reduced the number o
 Sweet kit No. 14103 includes two 1:144 U.S. Navy Fighter GM FM-2 Wildcats.
 The sprues even include the little cat mascot.
 
-See [instructions](./assets/14103-instructions.pdf)
-
-![box-art](./assets/14103-kit-box.jpg?raw=true)
+[![box-art](./assets/14103-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/sweet-14103-gm-fm-2-wildcat--161462)
 
 ### Paint Scheme
 
@@ -142,6 +140,7 @@ Checkout a quick demo..
 * U.S. Navy Fighter GM FM-2 Wildcat Sweet No. 14103 1:144
     * [on scalemates](https://www.scalemates.com/kits/sweet-14103-gm-fm-2-wildcat--161462)
     * [instructions](./assets/14103-instructions.pdf)
+    * Purchased from Joshin ōji for ¥855 (Dec-2024)
 
 ### Research References
 
