@@ -1,6 +1,6 @@
 # #170 IJN Oil Supply Ship Hayasui
 
-Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.
+Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.
 
 ![Build](./assets/Hayasui_build.jpg?raw=true)
 
@@ -93,6 +93,8 @@ From the kit notes:
 
 ![build01a](./assets/build01a.jpg?raw=true)
 
+I got the idea of foiling the hull for detail from [タナカホビー_@tanakahobby](https://www.youtube.com/watch?v=SivPbCPM2QY).
+
 ![build01b](./assets/build01b.jpg?raw=true)
 
 ![build01c](./assets/build01c.jpg?raw=true)
@@ -148,6 +150,8 @@ Painting up the air wing...
 
 ### Enhanced Build Gallery
 
+IJN Hayasui 速吸 was a fast fleet oiler fitted with aviation facilities capable of handling the Aichi B7A Ryūsei, as depicted with this Aoshima 1:700 kit. I've not found any evidence she ever got to carry the new B7A before she was sunk though.
+
 ![build04a](./assets/build04a.jpg?raw=true)
 
 ![build04b](./assets/build04b.jpg?raw=true)
@@ -178,21 +182,166 @@ Painting up the air wing...
 
 ![build05h](./assets/build05h.jpg?raw=true)
 
+### Presentation Case
+
+I'm experimenting with some new ideas to present and store ship models.
+For the Hayasui, I'm going to try a laser cut case:
+
+* closed inner frame
+    * open on both sides for either viewing or posing with a backdrop on one side
+    * LED strip installed in the top
+* box top that fits over the frame for dust-free storage
+
+#### Case Design
+
+I used [MakerCase](https://en.makercase.com/) to generate a simple parametric design for the inner frame:
+
+* material thickness: 3mm
+* inside dimensions:
+    * width: 110mm
+    * height: 55mm
+    * depth: 270mm
+* closed box
+* edge joints: flat
+* panel labels: enabled (to be excluded from cutting)
+* cut line width: 1mm
+* kerf: 0.2mm
+* panel layout: separate, single file
+* exported as [box-template.svg](./case/box-template.svg)
+* refined in Affinity Designer as [box.afdesign](./case/box.afdesign)
+* exported for cutting as [box.svg](./case/box.svg)
+* finalised in xTool Studio as [box.xs](./case/box.xs)
+
+I used [MakerCase](https://en.makercase.com/) to generate a simple parametric design for the outer cover:
+
+* material thickness: 3mm
+* inside dimensions:
+    * width: 276mm (270mm internal width + 2 x 3mm material)
+    * height: 116mm (110mm internal height + 3mm material + 1mm tolerance)
+    * depth: 62.7mm (55mm internal depth + 2 x 3mm material + 1.7mm tolerance)
+* closed box
+* edge joints: finger
+* panel labels: enabled (to be excluded from cutting)
+* cut line width: 1mm
+* kerf: 0.2mm
+* panel layout: separate, single file
+* exported as [cover-template.svg](./case/cover-template.svg)
+* refined in Affinity Designer as [cover.afdesign](./case/cover.afdesign)
+* exported for cutting as [cover.svg](./case/cover.svg)
+* finalised in xTool Studio as [cover.xs](./case/cover.xs)
+
+#### Building the Case
+
+I cut the box with an [xTool S1 Laser Cutter at the library](https://leap.tardate.com/equipment/nlb/xtools1/).
+
+Inner case:
+
+![box.svg](./case/box.svg)
+
+Outer cover:
+
+![cover.svg](./case/cover.svg)
+
+Inner case cut from 3mm MDF:
+
+![build06a](./assets/build06a.jpg?raw=true)
+
+Cover cut from 3mm MDF:
+
+![build06b](./assets/build06b.jpg?raw=true)
+
+Test assembly with lighting:
+
+![build07a](./assets/build07a.jpg?raw=true)
+
+Lighting:
+
+* I have installed a length of 5V high density LED COB, cut from:
+    * ["DC5V USB Powered LED COB Strip Light with ON/OFF Switch Dimmable LED Tape High Density 320Leds Ribbon FOB Linear Light for Decor" (aliexpress seller listing)](https://www.aliexpress.com/item/1005003347111892.html)
+    * Purchased 5m cool white from XUNATA Light-Life Discount Store (aliexpress) for SG$19.54 (Nov-2021)
+* Soldered to a Micro USB connector:
+    * ["10PCS MICRO USB To DIP Adapter 5pin Female Connector B Type PCB Converter Breadboard Switch Board SMT Mother Seat"  (aliexpress seller listing)](https://www.aliexpress.com/item/4000484202812.html)
+    * Purchased 10 pieces from GuoQi Pneumatic Store (aliexpress) for SG$1.15 (Apr-2021)
+
+### Preparing the Sea Base
+
+Gloss Mod Podge and tissue for sculpting the sea surface:
+
+![build07b](./assets/build07b.jpg?raw=true)
+
+Prepared with Vallejo black primer 74.602. People love to hate on this primer, but for scenic bases the acrylic-polyurethane composition is ideal.
+
+![build07c](./assets/build07c.jpg?raw=true)
+
+Sea surface built up with layers of 70.899 Prussian Blue, 70.891 Intermediate Green, and further layers of Gloss Mod Podge.
+
+![build07d](./assets/build07d.jpg?raw=true)
+
+Installed in the case:
+
+![build07e](./assets/build07e.jpg?raw=true)
+
+Cover, with replaceable background installed and clear acrylic front window:
+
+![build07f](./assets/build07f.jpg?raw=true)
+
+Box and cover in unassembled state. Cover can be removed for optimal viewing and display.
+
+![build07g](./assets/build07g.jpg?raw=true)
+
+Displayed with cover installed (lights off):
+
+![build07h](./assets/build07h.jpg?raw=true)
+
+Displayed with cover installed (lights on):
+
+![build07i](./assets/build07i.jpg?raw=true)
+
+### Final Gallery with Case
+
+The background picture is not glued in, so it can be replaced:
+
+![build08a](./assets/build08a.jpg?raw=true)
+
+![build08b](./assets/build08b.jpg?raw=true)
+
+![build08c](./assets/build08c.jpg?raw=true)
+
+![build08d](./assets/build08d.jpg?raw=true)
+
+![build08e](./assets/build08e.jpg?raw=true)
+
+![build08f](./assets/build08f.jpg?raw=true)
+
+![build08g](./assets/build08g.jpg?raw=true)
+
+![build08h](./assets/build08h.jpg?raw=true)
+
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=209509)
 * Water Line Series Super Detail IJN Oil Supply Ship Hayasui SD w/Photo-etched Parts Aoshima No. 012109 1:700
     * [on scalemates](https://www.scalemates.com/kits/aoshima-012109-ijn-oil-supply-ship-hayasui-sd--991964)
     * [instructions](./assets/012109-instructions.pdf)
+    * Purchased from Hobby Mate ホビーメイト Osaka for ¥3,060 (Jan-2024).
 * Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
+    * [instructions](../../accessories/E12/assets/E12-instructions.pdf)
+    * Purchased from Yodobashi Akihabara for ¥1,028 (May-2024).
     * used for: replacement Aichi E13A1 Type 0 Jake planes
 * Master Tools Handrails & Ladders for 1/700 model ship Trumpeter No. 06634 1:700
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-06634-handrails-and-ladders-1-700-model-ship--700008)
+    * Purchased from Miniature Hobby for SG$5.90 (Jul-2022).
     * used for: rails and replacement ladders
 * Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
+    * [instructions](../../accessories/H049/assets//H049-instructions.jpg)
+    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
     * used for: signal flag lines
+* ["DC5V USB Powered LED COB Strip Light with ON/OFF Switch Dimmable LED Tape High Density 320Leds Ribbon FOB Linear Light for Decor" (aliexpress seller listing)](https://www.aliexpress.com/item/1005003347111892.html)
+    * Purchased 5m cool white from XUNATA Light-Life Discount Store (aliexpress) for SG$19.54 (Nov-2021)
+* ["10PCS MICRO USB To DIP Adapter 5pin Female Connector B Type PCB Converter Breadboard Switch Board SMT Mother Seat"  (aliexpress seller listing)](https://www.aliexpress.com/item/4000484202812.html)
+    * Purchased 10 pieces from GuoQi Pneumatic Store (aliexpress) for SG$1.15 (Apr-2021)
 
 ### Research References
 
@@ -238,3 +387,11 @@ Complete:
 YouTube by Amegraphy
 
 [![clip](https://img.youtube.com/vi/65uzyNhKgUs/0.jpg)](https://www.youtube.com/watch?v=65uzyNhKgUs)
+
+#### 1/700 軽巡洋艦「長良」を作る Building a 1/700 scale model of the light cruiser "Nagara" #長良　#軽巡洋艦　#艦船　#模型
+
+YouTube by タナカホビー_@tanakahobby
+
+This is where I got the foil hull idea from.
+
+[![clip](https://img.youtube.com/vi/SivPbCPM2QY/0.jpg)](https://www.youtube.com/watch?v=SivPbCPM2QY)

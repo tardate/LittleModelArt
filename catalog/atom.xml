@@ -31,13 +31,15 @@
     <g:image_link>https://modelart.tardate.com/projects/ijn/hayasui/assets/hayasui_build.jpg</g:image_link>
     <updated>2026-06-23T08:39:00Z</updated>
     <title>#170 IJN Oil Supply Ship Hayasui</title>
-    <summary>Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.</summary>
-    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/hayasui/assets/hayasui_build.jpg" /&gt;&lt;/div&gt;</content>
+    <summary>Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/ijn/hayasui/assets/hayasui_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Ships - military"/>
     <category term="Japan"/>
     <category term="IJN"/>
     <category term="Support Vessel"/>
     <category term="Aoshima"/>
+    <category term="Electronics"/>
+    <category term="Laser Cut Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/aichid3a/zuikakud3a2/</id>
@@ -102,6 +104,7 @@
     <content type="html">&lt;div&gt;&lt;p&gt;An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S). I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja! Conclusion? The AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts; the latest FDM printers are great for gaming figures and ornaments, but still not up to the standards expected in scale modeling.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/figures/taikoninja/assets/taikoninja_build.jpg" /&gt;&lt;/div&gt;</content>
     <category term="Figures"/>
     <category term="Japan"/>
+    <category term="3D Print Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/nakajimaa6m2n/pacificpitstop/</id>
@@ -166,6 +169,7 @@
     <category term="UK"/>
     <category term="Singapore"/>
     <category term="Gloster"/>
+    <category term="Laser Cut Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/aichie11a/e11a/</id>
@@ -310,6 +314,7 @@
     <category term="AFV"/>
     <category term="Ukraine"/>
     <category term="ICM"/>
+    <category term="Laser Cut Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/japan/targetfixation/</id>
@@ -370,6 +375,7 @@
     <category term="Ships - civil"/>
     <category term="Japan"/>
     <category term="Foresight"/>
+    <category term="Laser Cut Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/uk/jaguaretype/</id>
@@ -382,6 +388,7 @@
     <category term="Vehicles - civil"/>
     <category term="UK"/>
     <category term="Airfix"/>
+    <category term="Laser Cut Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ijn/kurenavalarsenal/</id>
@@ -422,6 +429,8 @@
     <category term="USA"/>
     <category term="Roden"/>
     <category term="Germania Figuren"/>
+    <category term="Laser Cut Design"/>
+    <category term="3D Print Design"/>
   </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/ija/kawasakiki45/ki45kaiotsu/</id>
