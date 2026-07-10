@@ -11,8 +11,8 @@
     },
     {
         "name": "IJN Oil Supply Ship Hayasui",
-        "description": "Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui \u901f\u5438, enhanced with additional PE and rigging.",
-        "categories": "Ships - military, Japan, IJN, Support Vessel, Aoshima",
+        "description": "Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui \u901f\u5438, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.",
+        "categories": "Ships - military, Japan, IJN, Support Vessel, Aoshima, Electronics, Laser Cut Design",
         "relative_path": "projects/ijn/hayasui",
         "updated_at": "2026-06-23T08:39:00Z",
         "created_at": "2026-06-23T08:39:00Z",
@@ -62,7 +62,7 @@
     {
         "name": "Taiko Ninja",
         "description": "An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S). I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja! Conclusion? The AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts; the latest FDM printers are great for gaming figures and ornaments, but still not up to the standards expected in scale modeling.",
-        "categories": "Figures, Japan",
+        "categories": "Figures, Japan, 3D Print Design",
         "relative_path": "projects/figures/taikoninja",
         "updated_at": "2026-03-18T11:21:00Z",
         "created_at": "2026-03-18T11:21:00Z",
@@ -112,7 +112,7 @@
     {
         "name": "Gloster Javelin FAW.9R",
         "description": "Building the Airfix 1:48 Gloster Javelin FAW.9R (XH893) transferred to 64 Squadron in 1965 and based at RAF Tengah",
-        "categories": "Aircraft - military, UK, Singapore, Gloster",
+        "categories": "Aircraft - military, UK, Singapore, Gloster, Laser Cut Design",
         "relative_path": "projects/raf/gloster/javelin",
         "updated_at": "2025-11-21T03:25:00Z",
         "created_at": "2025-11-21T03:25:00Z",
@@ -222,7 +222,7 @@
     {
         "name": "Leopard 2A6 Armed Forces of Ukraine",
         "description": "Building the ICM 1:72 model of the Leopard 2A6 deployed with the Armed Forces of Ukraine.",
-        "categories": "Vehicles - military, AFV, Ukraine, ICM",
+        "categories": "Vehicles - military, AFV, Ukraine, ICM, Laser Cut Design",
         "relative_path": "projects/ukraine/leopard2a6",
         "updated_at": "2025-08-14T15:00:00Z",
         "created_at": "2025-08-14T15:00:00Z",
@@ -272,7 +272,7 @@
     {
         "name": "Antarctic Research Ship S\u014dya",
         "description": "Building the 1:700 Foresight model of the Antarctic Research Ship S\u014dya \u5b97\u8c37 (PL107)",
-        "categories": "Ships - civil, Japan, Foresight",
+        "categories": "Ships - civil, Japan, Foresight, Laser Cut Design",
         "relative_path": "projects/japan/soya",
         "updated_at": "2025-05-09T14:31:00Z",
         "created_at": "2025-05-09T14:31:00Z",
@@ -282,7 +282,7 @@
     {
         "name": "1967 Jaguar E-Type",
         "description": "Building the Airfix 1:43 kit of the Jaguar E-Type",
-        "categories": "Vehicles - civil, UK, Airfix",
+        "categories": "Vehicles - civil, UK, Airfix, Laser Cut Design",
         "relative_path": "projects/uk/jaguaretype",
         "updated_at": "2025-04-20T13:10:00Z",
         "created_at": "2025-04-20T13:10:00Z",
@@ -312,7 +312,7 @@
     {
         "name": "Luella Bates and the FWD Model B",
         "description": "Celebrating the life of Luella Bates, one of the first women to professionally drive and test heavy-duty trucks, paving the way for future generations in transportation and heavy industry. Features the Roden FWD Model B in 1:72.",
-        "categories": "Vehicles - civil, Vehicles - military, Figures, USA, Roden, Germania Figuren",
+        "categories": "Vehicles - civil, Vehicles - military, Figures, USA, Roden, Germania Figuren, Laser Cut Design, 3D Print Design",
         "relative_path": "projects/usa/luellabates",
         "updated_at": "2025-03-11T11:41:00Z",
         "created_at": "2025-03-11T11:41:00Z",

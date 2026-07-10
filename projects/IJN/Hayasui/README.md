@@ -1,6 +1,6 @@
 # #170 IJN Oil Supply Ship Hayasui
 
-Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging.
+Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui 速吸, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.
 
 ![Build](./assets/Hayasui_build.jpg?raw=true)
 

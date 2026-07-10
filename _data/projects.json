@@ -12,13 +12,15 @@
     "/projects/ijn/hayasui/": {
         "id": 170,
         "title": "IJN Oil Supply Ship Hayasui",
-        "summary": "Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui \u901f\u5438, enhanced with additional PE and rigging.",
+        "summary": "Building the Aoshima 1:700 representation of the IJN Oil Supply Ship Hayasui \u901f\u5438, enhanced with additional PE and rigging. Fitted on a sea base in a custom laser-cut case with built-in LED lighting for storage and display.",
         "tags": [
             "Ships - military",
             "Japan",
             "IJN",
             "Support Vessel",
-            "Aoshima"
+            "Aoshima",
+            "Electronics",
+            "Laser Cut Design"
         ]
     },
     "/projects/ijn/aichid3a/zuikakud3a2/": {
@@ -72,7 +74,8 @@
         "summary": "An experiment in generating a 54mm figure with Tripo3D AI and printing it on a relatively high-resolution FDM printer (the Bambu Lab P1S). I asked for a Taiko player but what I got was more like a martial arts street fighter.. hence the name: Taiko Ninja! Conclusion? The AI 3D model generation tools are good if given recognisable IP or detailed photographs, but sub-par with pure text prompts; the latest FDM printers are great for gaming figures and ornaments, but still not up to the standards expected in scale modeling.",
         "tags": [
             "Figures",
-            "Japan"
+            "Japan",
+            "3D Print Design"
         ]
     },
     "/projects/ijn/nakajimaa6m2n/pacificpitstop/": {
@@ -126,7 +129,8 @@
             "Aircraft - military",
             "UK",
             "Singapore",
-            "Gloster"
+            "Gloster",
+            "Laser Cut Design"
         ]
     },
     "/projects/ijn/aichie11a/e11a/": {
@@ -248,7 +252,8 @@
             "Vehicles - military",
             "AFV",
             "Ukraine",
-            "ICM"
+            "ICM",
+            "Laser Cut Design"
         ]
     },
     "/projects/japan/targetfixation/": {
@@ -298,7 +303,8 @@
         "tags": [
             "Ships - civil",
             "Japan",
-            "Foresight"
+            "Foresight",
+            "Laser Cut Design"
         ]
     },
     "/projects/uk/jaguaretype/": {
@@ -308,7 +314,8 @@
         "tags": [
             "Vehicles - civil",
             "UK",
-            "Airfix"
+            "Airfix",
+            "Laser Cut Design"
         ]
     },
     "/projects/ijn/kurenavalarsenal/": {
@@ -342,7 +349,9 @@
             "Figures",
             "USA",
             "Roden",
-            "Germania Figuren"
+            "Germania Figuren",
+            "Laser Cut Design",
+            "3D Print Design"
         ]
     },
     "/projects/ija/kawasakiki45/ki45kaiotsu/": {
