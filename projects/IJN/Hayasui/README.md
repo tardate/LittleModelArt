@@ -250,9 +250,18 @@ Cover cut from 3mm MDF:
 
 ![build06b](./assets/build06b.jpg?raw=true)
 
-Test assembly:
+Test assembly with lighting:
 
 ![build07a](./assets/build07a.jpg?raw=true)
+
+Lighting:
+
+* I have installed a length of 5V high density LED COB, cut from:
+    * ["DC5V USB Powered LED COB Strip Light with ON/OFF Switch Dimmable LED Tape High Density 320Leds Ribbon FOB Linear Light for Decor" (aliexpress seller listing)](https://www.aliexpress.com/item/1005003347111892.html)
+    * Purchased 5m cool white from XUNATA Light-Life Discount Store (aliexpress) for SG$19.54 (Nov-2021)
+* Soldered to a Micro USB connector:
+    * ["10PCS MICRO USB To DIP Adapter 5pin Female Connector B Type PCB Converter Breadboard Switch Board SMT Mother Seat"  (aliexpress seller listing)](https://www.aliexpress.com/item/4000484202812.html)
+    * Purchased 10 pieces from GuoQi Pneumatic Store (aliexpress) for SG$1.15 (Apr-2021)
 
 ### Preparing the Sea Base
 
@@ -329,6 +338,10 @@ The background picture is not glued in, so it can be replaced:
     * [instructions](../../accessories/H049/assets//H049-instructions.jpg)
     * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
     * used for: signal flag lines
+* ["DC5V USB Powered LED COB Strip Light with ON/OFF Switch Dimmable LED Tape High Density 320Leds Ribbon FOB Linear Light for Decor" (aliexpress seller listing)](https://www.aliexpress.com/item/1005003347111892.html)
+    * Purchased 5m cool white from XUNATA Light-Life Discount Store (aliexpress) for SG$19.54 (Nov-2021)
+* ["10PCS MICRO USB To DIP Adapter 5pin Female Connector B Type PCB Converter Breadboard Switch Board SMT Mother Seat"  (aliexpress seller listing)](https://www.aliexpress.com/item/4000484202812.html)
+    * Purchased 10 pieces from GuoQi Pneumatic Store (aliexpress) for SG$1.15 (Apr-2021)
 
 ### Research References
 
