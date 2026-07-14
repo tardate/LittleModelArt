@@ -53,13 +53,14 @@ Primed and partially assembled:
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=94508)
-* Trumpeter PLA Navy Type 054A Frigate Trumpeter No. 06727 1:700
+* PLA Navy Type 054A FF Trumpeter No. 06727 1:700
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-06727-pla-navy-type-054a-ff-1-700--1275839)
     * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=3519&l=en)
     * [instructions](./assets/06727-instructions.pdf)
+    * Purchased from Colorfulday Store (aliexpress) for SG$29.30 (Nov-2020).
+        ["Trumpeter 1/350 04529 PLA Type 051C Shenyang DDG-115" (aliexpress seller listing)](https://www.aliexpress.com/item/4001315096301.html)
 
 ### Research References
 
 * [People's Liberation Army Navy Surface Force](https://en.wikipedia.org/wiki/People%27s_Liberation_Army_Navy_Surface_Force)
 * [Type 054A Frigate](https://en.wikipedia.org/wiki/Type_054A_frigate)
-* [Trumpeter PLA Navy Type 054A Frigate](https://www.aliexpress.com/item/4001315096301.html) - Colorfulday Store on Aliexpress
