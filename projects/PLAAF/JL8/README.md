@@ -16,8 +16,16 @@ K-8: Original variant powered by the Garrett TFE731-2A turbofan engine
 
 The JL-8, for the Chinese domestic market, was originally powered by the Ukrainian Ivchenko-Progress AI-25TLK turbofan jet engine with 16.9 kN of thrust, but this has been replaced by the WS-11, the Chinese-manufactured version of the AI-25TLK.
 
-![K8-001](./assets/K8-001.jpg)
-![K8-001-hanger](./assets/K8-001-hanger.jpg)
+![K8-001](./references/K8-001.jpg)
+
+![K8-001-hanger](./references/K8-001-hanger.jpg)
+
+### The Kit
+
+[Chinese JL-8/K-8 Karakorum Trumpeter No. 01636 1:72](https://www.scalemates.com/kits/trumpeter-01636-chinese-jl-8-k-8-karakorum--166713)
+is the 2009 re-boxing of the 2008 tooling.
+
+[![box-art](./assets/01636-box-art.jpg?raw=true)]([url](https://www.scalemates.com/kits/trumpeter-01636-chinese-jl-8-k-8-karakorum--166713))
 
 ### Paint Scheme
 
@@ -61,8 +69,10 @@ The build depicts K8-001, the first prototype to fly.
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-01636-chinese-jl-8-k-8-karakorum--166713)
     * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1637&l=en)
     * [instructions](./assets/01636-instructions.pdf)
+    * Purchased from Miniature Hobby for SG$13.10 (Apr-2024).
 * F-16 / F-18 Pilots seated in a/c PJ Production No. 721124 1:72
     * [on scalemates](https://www.scalemates.com/kits/pj-production-721124-f-16-f-18-pilots--165456)
+    * Purchased from HPM Hobbies for SG$8.99 (Aug-2023).
 
 ### Research References
 
