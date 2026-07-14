@@ -18,6 +18,8 @@ It is currently in service with the [People's Liberation Army Air Force](https:/
 Trumpeter have 5 different kits of the J-20 at the moment in 1:48, 1:72 and 1:144.
 This is the 1:144 kit which is a cheap but fantastic buy - brilliant detail and a relatively easy build although in-flight conversion wasn't really anticipated by the kit.
 
+[![box-art](./assets/03923-box-art.jpg?raw=true)](https://www.scalemates.com/kits/trumpeter-03923-chinese-j-20-mighty-dragon--218736)
+
 ### Paint Scheme
 
 | Feature               | Color                | Recommended | Paint Used |
@@ -70,8 +72,9 @@ Just remounted in a picture frame, and it's now hanging on my "wall of flight"ðŸ
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=135719)
 * Chinese J-20 Mighty Dragon Trumpeter No. 03923 1:144
-  8 [on scalemates](https://www.scalemates.com/kits/trumpeter-03923-chinese-j-20-mighty-dragon--218736)
+    * [on scalemates](https://www.scalemates.com/kits/trumpeter-03923-chinese-j-20-mighty-dragon--218736)
     * [instructions](./assets/03923-instructions.pdf)
+    * Purchased from Miniature Hobby for SG$13.10 (Nov-2022).
 
 ### Research References
 
