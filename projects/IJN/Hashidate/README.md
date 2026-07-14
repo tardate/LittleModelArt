@@ -1,4 +1,4 @@
-# #083 IJN Hashidate
+# #083 IJN Gunboat Hashidate
 
 Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate 橋立
 
@@ -11,6 +11,15 @@ Hashidate (橋立, Standing Bridge) was the lead vessel in the Hashidate-class g
 She was intended initially for support of combat operations by the Imperial Japanese Army in the Second Sino-Japanese War off the coast of China. At the time of the attack on Pearl Harbor, Hashidate was assigned to the China Area Fleet as part of the 2nd China Expeditionary Fleet's 15th Escort Group. With the start of the Pacific War, she was assigned to ”Operation C” – the invasion of Hong Kong. She remained based at Hong Kong for most of the war. At some point in 1943, five additional Type 96 25 mm AT/AA Guns were added, along with depth charges in 1944.
 
 On May 22, 1944, she was torpedoed by USS Picuda (SS-382) in the South China Sea off Pratas Island while towing the crippled merchant passenger/cargo ship Tsukuba Maru
+
+### The Kit
+
+[Water Line Series No. 553 IJN Gunboat Hashidate Aoshima No. 003657 1:700](https://www.scalemates.com/kits/aoshima-003657-ijn-gunboat-hashidate--306123)
+is an interesting 2012 tooling, featuring the
+IJN Gunboat Hashidate
+and also a couple of Type 95 light tanks.
+
+[![box-art](./assets/003657-box-art.jpg?raw=true)](https://www.scalemates.com/kits/aoshima-003657-ijn-gunboat-hashidate--306123)
 
 ### Paint Scheme
 
@@ -58,6 +67,8 @@ no crew or sea base for this build yet as I'm planning to add it to another dior
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=145734)
 * Water Line Series No. 553 IJN Gunboat Hashidate Aoshima No. 003657 1:700
     * [on scalemates](https://www.scalemates.com/kits/aoshima-003657-ijn-gunboat-hashidate--306123)
+    * [instructions](./assets/003657-instructions.pdf)
+    * Purchased from Hobby Point for SG$32.40 (Mar-2023).
 
 ### Research References
 
