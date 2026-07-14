@@ -974,13 +974,14 @@
     "/projects/ijn/hashidate/": {
         "id": 83,
         "title": "IJN Hashidate",
-        "summary": "Building the Tamiya 1:700 kit of the IJN Gunboat Hashidate \u6a4b\u7acb",
+        "summary": "Building the Tamiya 1:700 kit of the IJN Gunboat \u6a4b\u7acb Hashidate, presented in a laser cut case with figures from ION Model.",
         "tags": [
             "Ships - military",
             "Japan",
             "IJN",
             "Gunboat",
-            "Tamiya"
+            "Tamiya",
+            "Laser Cut Design"
         ]
     },
     "/projects/ijn/mitsubishia6m/sweet14110/": {

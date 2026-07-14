@@ -198,9 +198,9 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
 
 * material thickness: 3mm
 * inside dimensions:
-    * width: 110mm
-    * height: 55mm
-    * depth: 270mm
+    * width: 270mm
+    * height: 110mm
+    * depth: 55mm
 * closed box
 * edge joints: flat
 * panel labels: enabled (to be excluded from cutting)
@@ -219,8 +219,8 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
     * width: 276mm (270mm internal width + 2 x 3mm material)
     * height: 116mm (110mm internal height + 3mm material + 1mm tolerance)
     * depth: 62.7mm (55mm internal depth + 2 x 3mm material + 1.7mm tolerance)
-* closed box
-* edge joints: finger
+* open box
+* edge joints: finger 9mm
 * panel labels: enabled (to be excluded from cutting)
 * cut line width: 1mm
 * kerf: 0.2mm
