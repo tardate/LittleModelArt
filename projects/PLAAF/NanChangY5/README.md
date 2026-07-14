@@ -47,16 +47,16 @@ This aircraft was used so widely, there are literally hundreds of possible schem
 
 I decided to follow the suggested Nanchang Y-5 080
 
-| Part                         | Paint Used |
-|------------------------------|------|
+| Part                         | Paint Used            |
+|------------------------------|-----------------------|
 | interior walls               | 70.907 Pale Grey Blue |
-| body                         | 70.842 Gloss White |
-| prop, engine cowling, wheels | 70.861 Black |
-| engine                       | Humbrol 53 Gunmetal |
-| livery stripes               | 70.909 Vermillion |
-| livery stripes               | 70.963 Medium Blue |
-| prop tips                    | 70.953 Flat Yellow |
-| gloss finish                 | Humbrol Clear Gloss |
+| body                         | 70.842 Gloss White    |
+| prop, engine cowling, wheels | 70.861 Black          |
+| engine                       | Humbrol 53 Gunmetal   |
+| livery stripes               | 70.909 Vermillion     |
+| livery stripes               | 70.963 Medium Blue    |
+| prop tips                    | 70.953 Flat Yellow    |
+| gloss finish                 | Humbrol Clear Gloss   |
 
 A couple of new techniques I practiced on this build:
 
@@ -100,10 +100,11 @@ Perhaps Trumpeter will one day do a new tool for the 1:72 kit. IT might also be 
 * Trumpeter Antonov An-2 Colt/Nanchang Y-5 Trumpeter No. 01602 1:72
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-01602-antonov-an-2-colt-nanchang-y-5--102676)
     * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2333&l=en)
-    * [aliexpress seller](https://www.aliexpress.com/item/32972860834.html)
     * [instructions](./assets/01602-instructions.pdf)
+    * Purchased from New Toy Center (aliexpress) for SG$23.92 (Dec-2020).
+        * ["1:72 China Antonov An-2 Colt/Nanchang Y-5 Military Assembled Aircraft Model Toy" (aliexpress seller listing)](https://www.aliexpress.com/item/32972860834.html)
 
 ### Research References
 
-* [Antonov An-2](https://en.wikipedia.org/wiki/Antonov_An-2) - wikipedia
+* <https://en.wikipedia.org/wiki/Antonov_An-2>
 * [Hongdu Aviation Industry Group Ltd.](https://en.wikipedia.org/wiki/Hongdu) - wikipedia, formerly China Nanchang Aircraft Manufacturing Corporation
