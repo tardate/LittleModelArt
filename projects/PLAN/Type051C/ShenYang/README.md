@@ -1,8 +1,8 @@
-# #063 PLAN Type 051C
+# #063 PLAN Type 051C DDG 115 沈阳 Shenyang
 
 Building the PLAN Type 051C destroyer DDG 115 沈阳 (Shenyang) with a little LED illumination.
 
-![Build](./assets/Type051C_build.jpg?raw=true)
+![Build](./assets/ShenYang_build.jpg?raw=true)
 
 ## Notes
 
@@ -55,6 +55,8 @@ mainly because they are a large canvas that demands detail - detail that is not 
 
 I compensated somewhat by adding greeblies, railings and rigging.
 
+[![box-art](./assets/04529-box-art.jpg?raw=true)]([url](https://www.scalemates.com/kits/trumpeter-04529-type-051c-ddg-115-shenyang--106439))
+
 ### Paint Scheme
 
 | Feature              | Color                | Recommended | Paint Used        |
@@ -73,7 +75,9 @@ I installed a series of red LEDs (0604 SMD) powered by a CR2032 coin cell:
 * 2 in the bridge, diffused with some translucent model clay
 * 5 along the exposed corridors
 
-![schematic](./assets/Type051C_schematic.jpg?raw=true)
+Designed with Fritzing: see [ShenYang.fzz](./ShenYang.fzz).
+
+![schematic](./assets/ShenYang_schematic.jpg?raw=true)
 
 ![build03d](./assets/build03d.jpg?raw=true)
 
@@ -119,11 +123,13 @@ tbh, I think this one convinced me that 1:350 not really my scale - too much bla
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-04529-ddg-115-shenyang-plan--106439)
     * [on Trumpeter site](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1547&l=en)
     * [instructions](./assets/04529-instructions.pdf)
+    * Purchased from Colorfulday Store (aliexpress) for SG$46.66 (Feb-2021).
 * Handrails & Ladders for model ship Trumpeter  No. 06636 1:350
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-06636-handrails-and-ladders-model-ship--700010)
     * [instructions](./assets/06636-instructions.jpg)
+    * Purchased from ModelFans Store (aliexpress) for SG$22.57 (Apr-2022).
 
 ### Research References
 
-* [Type 051C destroyer](https://en.wikipedia.org/wiki/Type_051C_destroyer) - wikipedia
-* [DDG 115 沈阳 / Shenyang](https://en.wikipedia.org/wiki/Chinese_destroyer_Shenyang_(115)) - wikipedia
+* <https://en.wikipedia.org/wiki/Type_051C_destroyer>
+* <https://en.wikipedia.org/wiki/Chinese_destroyer_Shenyang_(115)>

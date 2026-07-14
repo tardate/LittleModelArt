@@ -30,7 +30,7 @@ Trumpeter also have a few other versions:
 I purchased this kit from [World model Store on aliexpress](https://www.aliexpress.com/item/4000433706862.html)
 in late 2020 but I notice prices have rising considerably in the meantime.
 
-![box-art](./assets/kit_box.jpg?raw=true)
+![box-art](./assets/01657-box-art.jpg?raw=true)
 
 ![kit_contents](./assets/kit_contents.jpg?raw=true)
 
@@ -77,10 +77,13 @@ Basically complete...
 
 ## Credits and References
 
-* Trumpeter kit 01657: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:72:
+* [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=111846)
+* Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) Trumpeter No. 01657 1:72
     * [scalemates](https://www.scalemates.com/kits/trumpeter-01657-chinese-fc-1-fierce-dragon--122516)
     * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=2329&l=en)
     * [instructions](./assets/01657-instructions.pdf)
+    * Purchased from World model Store (aliexpress) for SG$29.14 (Dec-2020).
+        * ["Trumpeter 01657 1/72 Chinese FC-1 Fierce Dragon(Pakistani JF-17 Thunder) Fighter" (aliexpress seller listing)](https://www.aliexpress.com/item/4000433706862.html)
 * Trumpeter kit 02815: Chinese FC-1 Fierce Dragon (Pakistani JF-17 Thunder) 1:48:
     * [scalemates](https://www.scalemates.com/kits/trumpeter-02815-chinese-fc-1-fierce-dragon--102718)
     * [trumpeter-china.com](http://www.trumpeter-china.com/index.php?g=home&m=product&a=show&id=1134&l=en)

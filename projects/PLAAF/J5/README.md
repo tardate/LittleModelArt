@@ -93,6 +93,7 @@ An now mounted to my "Wall of Flight"
     * [on scalemates](https://www.scalemates.com/kits/airfix-a03091-mikoyan-gurevich-mig-17f-fresco-shenyang-j-5--1189943)
     * [instructions](./assets/A03091-instructions.pdf)
     * [on airfix](https://uk.airfix.com/products/mig-17f-a03091)
+    * Purchased from Hobby Bounties for SG$42.25 (Apr-2021).
 
 ### Research References
 
