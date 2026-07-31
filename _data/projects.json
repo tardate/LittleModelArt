@@ -1,4 +1,14 @@
 {
+    "/projects/plaaf/j7eb/": {
+        "id": 172,
+        "title": "Chengdu J-7EB",
+        "summary": "Building the Chengdu J-7EB as flown by the PLAAF Ba Yi Aerobatic Team. This is the Trumpeter 1:144 kit.",
+        "tags": [
+            "Aircraft - military",
+            "China",
+            "Trumpeter"
+        ]
+    },
     "/projects/raf/hawker/furyi/": {
         "id": 171,
         "title": "Hawker Fury I",

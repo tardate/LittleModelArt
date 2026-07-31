@@ -1,4 +1,4 @@
-# #xxx Chengdu J-7EB
+# #172 Chengdu J-7EB
 
 Building the Chengdu J-7EB as flown by the PLAAF Ba Yi Aerobatic Team. This is the Trumpeter 1:144 kit.
 

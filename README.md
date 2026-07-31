@@ -1,6 +1,6 @@
-# 171 Little Model Art Projects
+# 172 Little Model Art Projects
 
-> Latest addition :sparkles: [Hawker Fury I](./projects/RAF/Hawker/FuryI) - Building the Hawker Fury I from Airfix in 1:48. It's a pretty old tooling now, but scrubs up nicely with metallic finish and rigging.
+> Latest addition :sparkles: [Chengdu J-7EB](./projects/PLAAF/J7EB) - Building the Chengdu J-7EB as flown by the PLAAF Ba Yi Aerobatic Team. This is the Trumpeter 1:144 kit.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
