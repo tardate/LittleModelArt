@@ -6,7 +6,22 @@ Building the Chengdu J-7EB as flown by the PLAAF Ba Yi Aerobatic Team. This is t
 
 ## Notes
 
-The Chengdu J-7EB is a specialized, unarmed aerobatic variant of the Chinese J-7 fighter jet (a derivative of the Soviet MiG-21). Built by the Chengdu Aircraft Corporation, it was exclusively used by the People's Liberation Army Air Force's (PLAAF) August 1st Aerobatic Team
+The Chengdu J-7EB is a specialized, unarmed aerobatic variant of the Chinese J-7 fighter jet (a derivative of the Soviet MiG-21). Built by the Chengdu Aircraft Corporation, it was exclusively used by the People's Liberation Army Air Force's (PLAAF)
+[Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
+in the late 90s, from 1995/1996 to 2000.
+
+Compared with standard operational J-7Es, the J-7EB is distinguished by:
+
+* Removal of combat equipment (radar, cannon, missile systems) to reduce weight.
+* Installation of smoke generation equipment.
+* Optimized weight distribution for formation aerobatics.
+* Distinctive red-and-white aerobatic paint scheme.
+* Some aircraft reportedly had additional instrumentation for display flying.
+
+The aircraft retained the double-delta ("cranked") wing introduced on the J-7E, giving substantially better low-speed handling and turn performance than earlier MiG-21-derived J-7 variants.
+
+The J-7EB was superseded by the J-7GB, an improved aerobatic version with revised avionics and systems.
+The J-7GB was used by the Ba Yi (August 1st) Aerobatics Team between 2001 and 2009.
 
 [![j-7eb-03](references/j-7eb-03.jpg)](https://aerobaticteams.net/en/resources/i23/August-1st-Chengdu-F-7EB-Gallery.html)
 
@@ -52,13 +67,23 @@ Fashioned a pilot with one of the figures from
 
 ![build01c](assets/build01c.jpg?raw=true)
 
+In-flight conversion requires closing the under carriage bays and filling hard mounting points:
+
+* front wheel bay can be filled with kit part A4 (lugs trimmed)
+* rear wheel bays largely filled by kit part A9 (cut in half, one for each side)
+* mounting lugs from A15, A16 used to fill receptor holes
+
 ![build01b](assets/build01b.jpg?raw=true)
 
 ![build01d](assets/build01d.jpg?raw=true)
 
 ![build01e](assets/build01e.jpg?raw=true)
 
+A bit of fit and fettling required to get the cockpit looking OK:
+
 ![build01f](assets/build01f.jpg?raw=true)
+
+Primed and white all over:
 
 ![build01g](assets/build01g.jpg?raw=true)
 
@@ -108,6 +133,7 @@ Mounted in a frame from Daiso:
 * [Chengdu J-7 variants](https://en.wikipedia.org/wiki/List_of_Chengdu_J-7_variants#J-7E_series)
 * [PLAAF August 1st Aerobatic Team](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
 * [August 1st Chengdu F-7EB Gallery](https://aerobaticteams.net/en/resources/i23/August-1st-Chengdu-F-7EB-Gallery.html)
+* [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipedia.org/wiki/August_1st_(aerobatic_team))
 
 #### Chinese PLAAF Chengdu J-7
 

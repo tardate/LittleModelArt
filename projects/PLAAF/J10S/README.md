@@ -17,7 +17,7 @@ The [Ba Yi (August 1st) Aerobatics Team 八一飞行表演队](https://en.wikipe
 is the aerobatic demonstration team of the People's Liberation Army Air Force (PLAAF).
 It was founded in 1962 and named after the date of founding of the People's Liberation Army (PLA), August 1, 1927.
 
-The Aerobatics Team is notable for their female recuits.
+The Aerobatics Team is notable for their female recruits.
 Four of the team's first female pilots were
 盛懿绯 (Sheng Yifei),
 [余旭 (Yu Xu)](https://en.wikipedia.org/wiki/Yu_Xu),
