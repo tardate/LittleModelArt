@@ -216,23 +216,17 @@ Other options but not used in the build:
 
 [![clip](https://img.youtube.com/vi/8dRfWnxDG0E/0.jpg)](https://www.youtube.com/watch?v=8dRfWnxDG0E)
 
-### Build Resources
-
-Build by Bilal Jamri
-
-[![clip](https://img.youtube.com/vi/cGGfL1WInIM/0.jpg)](https://www.youtube.com/watch?v=cGGfL1WInIM)
-
 ### Paint Scheme - Kamikawa Maru
 
 | Feature                  | Color                | Recommended | Paint Used |
 |--------------------------|----------------------|-------------|------------|
-|                          | Silver               | H8          |  |
-| boat covers              | Flat White           | H11         |  |
-| funnel top               | Flat Black           | H12         |  |
-| rear deck                | Tan                  | H27         | H27 |
-|                          | Wood Brown           | H37         |  |
-| forward deck, upper hull | Dark Gray (2)        | H83         | H83 |
-| guns                     | Steel                |             | H18 |
+|                          | Silver               | H8          |            |
+| boat covers              | Flat White           | H11         |            |
+| funnel top               | Flat Black           | H12         |            |
+| rear deck                | Tan                  | H27         | H27        |
+|                          | Wood Brown           | H37         |            |
+| forward deck, upper hull | Dark Gray (2)        | H83         | H83        |
+| guns                     | Steel                |             | H18        |
 
 ### Paint Schemes - Kamikawa Maru Planes
 
@@ -242,19 +236,19 @@ Build by Bilal Jamri
 
 | Feature                  | Color                | Recommended | Paint Used |
 |--------------------------|----------------------|-------------|------------|
-| prop warning rings       | Red                  | H3          |  |
-| leading wing trim        | Yellow               | H4          |  |
-| upper camo               | IJN Green            | H59         | H73 |
-| lower camo               | IJN Gray             | H61         | H61 |
+| prop warning rings       | Red                  | H3          |            |
+| leading wing trim        | Yellow               | H4          |            |
+| upper camo               | IJN Green            | H59         | H73        |
+| lower camo               | IJN Gray             | H61         | H61        |
 
 #### Paint Scheme - Mitsubishi F1M2 Pete
 
 | Feature                  | Color                | Recommended | Paint Used |
 |--------------------------|----------------------|-------------|------------|
-| prop warning rings       | Red                  | H3          |  |
-| leading wing trim        | Yellow               | H4          |  |
-| upper camo               | IJN Green            | H59         | H73 + H74 |
-| lower camo               | IJN Gray             | H61         | H61 |
+| prop warning rings       | Red                  | H3          |            |
+| leading wing trim        | Yellow               | H4          |            |
+| upper camo               | IJN Green            | H59         | H73 + H74  |
+| lower camo               | IJN Gray             | H61         | H61        |
 
 ### Build Log
 
@@ -386,15 +380,40 @@ The build is based around the Aoshima 1:700 kit.
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=127045)
-* Kits:
-    * [Water Line Series No. 560 Japanese Seaplane Tender Kamikawamaru Aoshima No. 009741 1:700](https://www.scalemates.com/kits/aoshima-009741-japanese-seaplane-tender-kamikawamaru--638934)
-    * [Water Line Series Seaplane Tender Photo Etched Set Aoshima No. 009727 1:700](https://www.scalemates.com/kits/aoshima-009727-seaplane-tender-photo-etched-set--581787)
-    * [Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
-    * [WWII IJN Type Zero Water Plane (x4) 3D Printed Seed Hobby No. SH700048 1:700](https://www.scalemates.com/kits/seed-hobby-sh700048-wwii-ijn-type-zero-water-plane-x4--1518615)
-    * [IJN Aircraft Set III Seaplane details Rainbow No. Rb7022 1:700](https://www.scalemates.com/kits/rainbow-rb7022-ijn-aircraft-set-iii--956000)
-    * [WWII IJN 11m Motor Boat (8set) 3D Printed Five Star Model No. FS710360 1:700](https://www.scalemates.com/kits/five-star-model-fs710360-wwii-ijn-11m-motor-boat-8set--1507608)
-    * [WWII IJN 6m Traffic Boat (8set) 3D Printed Five Star Model No. FS710362 1:700](https://www.scalemates.com/kits/five-star-model-fs710362-wwii-ijn-6m-traffic-boat-8set--1507610)
-    * [WWII IJN 7.5m Motor Boat (for destroyers and smaller vessels) (6 set) Five Star Model No. FS710353 1:700](https://www.scalemates.com/kits/five-star-model-fs710353-wwii-ijn-75m-motor-boat-destroyers-and-smaller-vessels-6-set--1486116)
+* Water Line Series No. 560 Japanese Seaplane Tender Kamikawamaru Aoshima No. 009741 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-009741-japanese-seaplane-tender-kamikawamaru--638934)
+    * [instructions](./assets/009741-instructions.pdf)
+    * Purchased from Hobby Point for SG$44.80 (Apr-2021)
+* Water Line Series Seaplane Tender Photo Etched Set Aoshima No. 009727 1:700
+    * [on scalemates](https://www.scalemates.com/kits/aoshima-009727-seaplane-tender-photo-etched-set--581787)
+    * [instructions](./assets/009727-instructions.pdf)
+    * Purchased from Plaza Japan for ¥1,575 (Aug-2023)
+* Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
+    * [instructions](../../accessories/E12/assets/E12-instructions.pdf)
+    * Purchased from Yodobashi Akihabara for ¥1,028 (May-2024)
+* Imperial Japanese Navy - Chilling on Deck (92 figures) ION Model No. J700-001 1:700
+    * [on scalemates](https://www.scalemates.com/kits/ion-model-j700-001-imperial-japanese-navy-chilling-on-deck--1352342)
+    * Purchased from Super Hobby for SG$18.96 (Jan-2023)
+* WWII IJN Type Zero Water Plane (x4) 3D Printed Seed Hobby No. SH700048 1:700
+    * [on scalemates](https://www.scalemates.com/kits/seed-hobby-sh700048-wwii-ijn-type-zero-water-plane-x4--1518615)
+    * Purchased from Spacefire Store (aliexpress) for SG$16.11 (Mar-2024)
+* IJN Aircraft Set III Seaplane details Rainbow No. Rb7022 1:700
+    * [on scalemates](https://www.scalemates.com/kits/rainbow-rb7022-ijn-aircraft-set-iii--956000)
+    * [instructions](./assets/Rb7022-instructions.jpg)
+    * Purchased from modelarena--flagship store Store (aliexpress) for SG$20.41 (Feb-2024)
+* WWII IJN 11m Motor Boat (8set) 3D Printed Five Star Model No. FS710360 1:700
+    * [on scalemates](https://www.scalemates.com/kits/five-star-model-fs710360-wwii-ijn-11m-motor-boat-8set--1507608)
+    * Purchased from Spacefire Store (aliexpress) for SG$12.12 (Mar-2024)
+* WWII IJN 6m Traffic Boat (8set) 3D Printed Five Star Model No. FS710362 1:700
+    * [on scalemates](https://www.scalemates.com/kits/five-star-model-fs710362-wwii-ijn-6m-traffic-boat-8set--1507610)
+    * Purchased from Spacefire Store (aliexpress) for SG$7.00 (Mar-2024)
+* WWII IJN 7.5m Motor Boat (for destroyers and smaller vessels) (6 set) Five Star Model No. FS710353 1:700
+    * [on scalemates](https://www.scalemates.com/kits/five-star-model-fs710353-wwii-ijn-75m-motor-boat-destroyers-and-smaller-vessels-6-set--1486116)
+    * Purchased from Spacefire Store (aliexpress) for SG$4.97 (Mar-2024)
+
+### Research References
+
 * [Kamikawa Maru-class seaplane tenders](https://en.wikipedia.org/wiki/Kamikawa_Maru-class_seaplane_tender) - wikipedia
 * [Japanese seaplane tender Kamikawa Maru](https://en.wikipedia.org/wiki/Japanese_seaplane_tender_Kamikawa_Maru) - wikipedia
 * [IJN Seaplane Tender KAMIKAWA MARU: Tabular Record of Movement](http://www.combinedfleet.com/Kamikawa%20Maru_t.htm)
@@ -403,3 +422,11 @@ The build is based around the Aoshima 1:700 kit.
 * [South Pacific Air War Volume 3: Coral Sea & Aftermath May - June 1942](https://www.goodreads.com/book/show/43728230-south-pacific-air-war-volume-3)
 * [World War II Aviation Capable Ships Aviation Battleships, Aviation Cruisers, Seaplane Tenders 第２次大戦　航空能力艦　航空戦艦・航空巡洋艦・水上機母艦](https://www.ships-net.co.jp/ships/202406z/)
 * [Operation MO](https://en.wikipedia.org/wiki/Operation_Mo)
+
+### Build References
+
+#### IJN Seaplane Tender Kimikawa Maru 君川丸 1/700 Aoshima
+
+YouTube by Bilal Jamri
+
+[![clip](https://img.youtube.com/vi/cGGfL1WInIM/0.jpg)](https://www.youtube.com/watch?v=cGGfL1WInIM)

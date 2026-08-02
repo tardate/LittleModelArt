@@ -198,9 +198,9 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
 
 * material thickness: 3mm
 * inside dimensions:
-    * width: 110mm
-    * height: 55mm
-    * depth: 270mm
+    * width: 270mm
+    * height: 110mm
+    * depth: 55mm
 * closed box
 * edge joints: flat
 * panel labels: enabled (to be excluded from cutting)
@@ -219,8 +219,8 @@ I used [MakerCase](https://en.makercase.com/) to generate a simple parametric de
     * width: 276mm (270mm internal width + 2 x 3mm material)
     * height: 116mm (110mm internal height + 3mm material + 1mm tolerance)
     * depth: 62.7mm (55mm internal depth + 2 x 3mm material + 1.7mm tolerance)
-* closed box
-* edge joints: finger
+* open box
+* edge joints: finger 9mm
 * panel labels: enabled (to be excluded from cutting)
 * cut line width: 1mm
 * kerf: 0.2mm
@@ -327,16 +327,16 @@ The background picture is not glued in, so it can be replaced:
 * Sky Wave Series Equipment For Japanese Navy Ships-WW2 (Set 7) Pit-Road No. E12 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-e12-equipment-japanese-navy-ships-ww2-set-7--1245027)
     * [instructions](../../accessories/E12/assets/E12-instructions.pdf)
-    * Purchased from Yodobashi Akihabara for ¥1,028 (May-2024).
+    * Purchased from Yodobashi Akihabara for ¥1,028 (May-2024)
     * used for: replacement Aichi E13A1 Type 0 Jake planes
 * Master Tools Handrails & Ladders for 1/700 model ship Trumpeter No. 06634 1:700
     * [on scalemates](https://www.scalemates.com/kits/trumpeter-06634-handrails-and-ladders-1-700-model-ship--700008)
-    * Purchased from Miniature Hobby for SG$5.90 (Jul-2022).
+    * Purchased from Miniature Hobby for SG$5.90 (Jul-2022)
     * used for: rails and replacement ladders
 * Upgrades Series Pullies for Signal Flag Strings Ocean Spirit No. H049 1:700
     * [on scalemates](https://www.scalemates.com/kits/ocean-spirit-h049-pullies-signal-flag-strings--967910)
     * [instructions](../../accessories/H049/assets//H049-instructions.jpg)
-    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024).
+    * Purchased from JZ Hobby Store (aliexpress) for SG$5.94 (Jun-2024)
     * used for: signal flag lines
 * ["DC5V USB Powered LED COB Strip Light with ON/OFF Switch Dimmable LED Tape High Density 320Leds Ribbon FOB Linear Light for Decor" (aliexpress seller listing)](https://www.aliexpress.com/item/1005003347111892.html)
     * Purchased 5m cool white from XUNATA Light-Life Discount Store (aliexpress) for SG$19.54 (Nov-2021)
