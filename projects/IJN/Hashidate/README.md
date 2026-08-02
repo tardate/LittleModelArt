@@ -185,6 +185,8 @@ Inspiration:
 
 ![build08d](assets/build08d.jpg?raw=true)
 
+I've fitted clear acrylic on the front pane, but left the rear open, so the background can be replaced by another picture of clear acrylic as my mood dictates!
+
 ![build08e](assets/build08e.jpg?raw=true)
 
 ## Credits and References
