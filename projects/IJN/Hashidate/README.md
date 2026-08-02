@@ -185,7 +185,7 @@ Inspiration:
 
 ![build08d](assets/build08d.jpg?raw=true)
 
-I've fitted clear acrylic on the front pane, but left the rear open, so the background can be replaced by another picture of clear acrylic as my mood dictates!
+I've fitted clear acrylic in the front window of the outer case, but left the rear open, so the background can be replaced with another picture or clear acrylic. The ships can also be displayed with the outer case removed. The micro USB connector in the base can be powered to light the box.
 
 ![build08e](assets/build08e.jpg?raw=true)
 
