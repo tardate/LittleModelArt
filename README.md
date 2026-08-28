@@ -1,6 +1,6 @@
-# 172 Little Model Art Projects
+# 173 Little Model Art Projects
 
-> Latest addition :sparkles: [Chengdu J-7EB](./projects/PLAAF/J7EB) - Building the Chengdu J-7EB as flown by the PLAAF Ba Yi Aerobatic Team. This is the Trumpeter 1:144 kit.
+> Latest addition :sparkles: [Bofors 40mm and Tractor](./projects/BritishArmy/Bofors40mm) - Bofors 40mm and Morris CS8 with crew deployed with the British 8th Army in North Africa 1942. Depicted with the Airfix 1:76 kit and figures.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
