@@ -1,4 +1,4 @@
-# #xxx Bofors 40mm and Tractor
+# #173 Bofors 40mm and Tractor
 
 Bofors 40mm and Morris CS8 with crew deployed with the British 8th Army in North Africa 1942. Depicted with the Airfix 1:76 kit and figures.
 
