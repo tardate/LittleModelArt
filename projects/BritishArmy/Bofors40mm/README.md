@@ -18,6 +18,18 @@ The
 
 [![Morris_CS8](./references/Morris_CS8.jpg)](https://en.wikipedia.org/wiki/Morris_CS8)
 
+By the 1942 British gun drill, the crew was organised approximately as follows:
+
+|No  | Appointment        | Typical rank | Function|
+|----|--------------------|--------------|-----------|
+| 1  | Gun Commander      | Sergeant |  Commanded the detachment, selected/identified targets and controlled firing |
+| 2  | Line               | Lance Bombardier |  Traversed the gun left/right |
+| 3  | Elevation layer    | Gunner |  Elevated/depressed the barrel |
+| 4  | Loader & firer     | Gunner |  Loaded the four-round clips and operated the firing pedal |
+| 5  | Ammunition runner  | Gunner |  Supplied ammunition clips |
+| 6  | Ammunition runner  | Gunner |  Supplied ammunition clips |
+| 7  | Deputy to No. 1    | Bombardier |  Assisted the commander and could take over his duties |
+
 ### The Kit
 
 [A02314V - Bofors Gun & Tractor (A)](https://www.scalemates.com/kits/airfix-a02314-bofors-40mm-gun-and-tractor--109346) is the 2008 boxing of the 1976 tooling.
@@ -118,6 +130,9 @@ Figures - Gun Crew, 8th Army
 
 ### Final Gallery
 
+For an alternative way to experience the final diorama, see
+[Command Vol1: Bofors Away!](./bofors-away/)
+
 ![build08a](./assets/build08a.jpg?raw=true)
 ![build08b](./assets/build08b.jpg?raw=true)
 ![build08c](./assets/build08c.jpg?raw=true)
@@ -163,6 +178,7 @@ Figures - Gun Crew, 8th Army
 * [Morris CS8](https://en.wikipedia.org/wiki/Morris_CS8)
 * <https://history-making.com/product/british-tank-crew-uniform-north-africa-1940-1941/>
 * <https://www.fategate.com/en/archiv/i/4321-ww2-british-forces-charles-black-8th-army-infantryman-north-africa-1942>
+* <https://en.wikipedia.org/wiki/Eighth_Army_(United_Kingdom)#The_battles_of_El_Alamein>
 
 #### The Bofors 40mm AA gun
 
