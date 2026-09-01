@@ -1,4 +1,4 @@
-# #xxx Trident 1C
+# #174 Trident 1C
 
 Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale.
 
