@@ -1,6 +1,6 @@
 # #174 Trident 1C
 
-Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale.
+Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.
 
 ![Build](./assets/Trident1C_build.jpg?raw=true)
 

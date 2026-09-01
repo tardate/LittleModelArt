@@ -1,6 +1,6 @@
 # 174 Little Model Art Projects
 
-> Latest addition :sparkles: [Trident 1C](./projects/UK/Trident1C) - Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale.
+> Latest addition :sparkles: [Trident 1C](./projects/UK/Trident1C) - Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
