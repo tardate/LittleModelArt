@@ -1,5 +1,15 @@
 [
     {
+        "name": "Trident 1C",
+        "description": "Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.",
+        "categories": "Aircraft - civil, UK, X-Scale",
+        "relative_path": "projects/uk/trident1c",
+        "updated_at": "2026-09-01T11:28:00Z",
+        "created_at": "2026-09-01T11:28:00Z",
+        "id": "#174",
+        "original_relative_path": "projects/UK/Trident1C"
+    },
+    {
         "name": "Bofors 40mm and Tractor",
         "description": "Bofors 40mm and Morris CS8 with crew deployed with the British 8th Army in North Africa 1942. Depicted with the Airfix 1:76 kit and figures.",
         "categories": "Vehicles - military, Artillery, UK, Airfix",

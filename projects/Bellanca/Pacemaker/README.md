@@ -65,6 +65,8 @@ Eugen told his story to Chris Meddings on the Models from Ukraine podcast Episod
     * [on scalemates](https://www.scalemates.com/kits/dora-wings-dw72022-bellanca-ch-300-pacemaker--1211956)
     * [instructions](./assets/DW72022-instructions.pdf)
     * Purchased from Dora Wings for €16.00 (Feb-2022).
+* ["20Pcs 1:150 Scale Painted Model Beach People Figures for Model Building Park Layout Landscape Children Toys" (aliexpress listing)](https://www.aliexpress.com/item/1005002424695347.html)
+    * Purchased from Topfactorydirect Store (aliexpress) for SG$2.77 (Feb-2023).
 
 ### Research References
 

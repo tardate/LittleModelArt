@@ -1,6 +1,6 @@
-# 173 Little Model Art Projects
+# 174 Little Model Art Projects
 
-> Latest addition :sparkles: [Bofors 40mm and Tractor](./projects/BritishArmy/Bofors40mm) - Bofors 40mm and Morris CS8 with crew deployed with the British 8th Army in North Africa 1942. Depicted with the Airfix 1:76 kit and figures.
+> Latest addition :sparkles: [Trident 1C](./projects/UK/Trident1C) - Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

@@ -120,3 +120,4 @@ On display at a show...
     * Purchased from Yodobashi Akihabara for ¥919 (May-2025).
 * Tomytec CN-NI118 Diorama Collection Sunbathers 1:150
     * [on scalemates](https://www.scalemates.com/kits/tomytec-per-118-sunbathers--1365502)
+    * Purchased from Joshin ōji for ¥624 (May-2025).
