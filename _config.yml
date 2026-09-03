@@ -22,6 +22,7 @@ description: >-
 keywords: "scale model, craft, maker, miniatures, art, painting, modelling, diorama, terrain, wargaming, gaming, electronics, arduino, microcontroller, programming, software, hardware, electronics, IoT, internet of things, maker, DIY, hobby, project, build, create, learn, teach, share"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://modelart.tardate.com" # the base hostname & protocol for your site, e.g. http://example.com
+domain: "modelart.tardate.com" # the base domain name for the site, e.g. example.com
 repo_url: https://github.com/tardate/LittleModelArt
 repo_name: LittleModelArt on GitHub
 
