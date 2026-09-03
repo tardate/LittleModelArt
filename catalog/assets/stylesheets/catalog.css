@@ -26,6 +26,10 @@ body {
   background-color: #093272;
 }
 
+body.modelart {
+  background-color: #79989C;
+}
+
 .navbar {
   border-radius: 0px;
   min-height: 120px;
@@ -35,6 +39,11 @@ body {
 .navbar-default {
   background: #093272 url("../images/nav-bg.jpg") repeat scroll 0 0;
   border-color: #093272;
+}
+
+.modelart .navbar-default {
+  background-color: #79989C;
+  border-color: #79989C;
 }
 
 .navbar-default .navbar-brand,

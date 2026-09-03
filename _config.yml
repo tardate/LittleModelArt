@@ -25,6 +25,7 @@ url: "https://modelart.tardate.com" # the base hostname & protocol for your site
 domain: "modelart.tardate.com" # the base domain name for the site, e.g. example.com
 repo_url: https://github.com/tardate/LittleModelArt
 repo_name: LittleModelArt on GitHub
+shortname: modelart
 
 feed_path: "/catalog/atom.xml"
 
