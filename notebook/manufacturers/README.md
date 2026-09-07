@@ -42,7 +42,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Czechia          | [Kovozávody Prostějov](https://www.kovozavody.cz/)                       | aircraft plastic kits |
 | Czechia          | [Offset Scale Models](https://www.facebook.com/Offsetmodels/)            | miniatures |
 | Czechia          | [quickboost](http://www.quickboost.net/)                                 | resin accessories |
-| Czechia          | [R & P Models](https://randpmodels.jex.cz/)                              | paper kits |
+| Czechia          | [R & P Models](https://randpmodels.webnode.cz/)                              | paper models |
 | Czechia          | [rise144models](https://www.rise144models.com/)                          | 3D printed accessories including figures |
 | Czechia          | [Special Hobby](https://www.specialhobby.eu/)                            | |
 | Czechia          | [Valom](https://www.valom.net/)                                          | |
@@ -52,7 +52,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | France           | [Raging Heroes](https://www.ragingheroes.com/)                           | miniatures |
 | France           | [Readoak](http://reedoak.com/)                                           | 3D printed figures |
 | Germany          | [Faller](https://www.faller.de/)                                         | |
-| Germany          | [fentens Kartonmodellbau](http://www.papermodel.com/)                    | |
+| Germany          | [fentens Kartonmodellbau](http://www.papermodel.com/)                    | paper models |
 | Germany          | [ModellbauRay](https://modellbauray.com/)                                | 3D printed kits |
 | Germany          | [modellNatur](https://www.modellnatur.de/)                               | landscaping products  |
 | Germany          | [Noch](https://www.noch.com/)                                            | model landscaping products |
@@ -72,7 +72,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Japan            | [Aoshima 株式会社 青島文化教材社](https://www.aoshima-bk.co.jp/)             |  |
 | Japan            | [Arii](https://esm.fandom.com/wiki/Arii)                                 | now part of Microace |
 | Japan            | [Aurora Model](https://aurora-model.jp/)                                 | miniatures, figures |
-| Japan            | [Baiodo Hobby Shop 梅桜堂](https://www.baiodo.com/)                       | paper kits, mainly for railway |
+| Japan            | [Baiodo Hobby Shop 梅桜堂](https://www.baiodo.com/)                       | paper models, mainly for railway |
 | Japan            | [Bandai](https://p-bandai.com/)                                          |  |
 | Japan            | [Dai Nippon Kaiga 大日本絵画](https://kaiga.co.jp/)                        | modelling magazines and publications |
 | Japan            | [Fine molds](https://www.finemolds.co.jp/)                               |  |
@@ -112,7 +112,8 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Poland           | [Yahu](http://www.yahumodels.com/)                                       | |
 | Russia           | [Brother Vinni's](http://www.brother-vinni.com/index_eng.htm)            | miniatures |
 | Russia           | [Combrig Models](http://combrig-models.com/)                             | |
-| Russia           | [Zvesda](https://en.zvezda.org.ru/)                                      |  |
+| Russia           | [Zvesda](https://en.zvezda.org.ru/)                                      | |
+| Singapore        | [Sozo Plamo](https://www.sozoplamo.com/)                                 | 3D kits, decals |
 | Slovakia         | [77propeller](https://77propeller.com/)                                  | airbrush stencils |
 | Slovakia         | [Vertigo Miniatures](https://www.vertigo-miniatures.com/)                | Jigs, tools and accessories |
 | South Korea      | [Academy Plastic Model](https://www.academyhobby.com/)                   | |

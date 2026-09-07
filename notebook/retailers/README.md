@@ -78,6 +78,7 @@ See also:
 | UK               | [Model Shipyard](http://model-shipyard.com/gb/15-paper-models)        | paper models |
 | UK               | [myminifactory](https://www.myminifactory.com/)                       | 3D model market |
 | UK               | [PM MODELS](https://www.pmmodelsuk.com/)                              | |
+| UK               | [pondstones](https://pondstones.sumupstore.com/)                      | |
 | UK               | [Warlord Games (UK)](https://store.warlordgames.com/)                 | Warlord Games - UK |
 | Ukraine          | [Hobby.dn.ua](https://www.hobby.dn.ua/en/)                            | |
 | USA              | [etsy](https://www.etsy.com/sg-en/market/1_72_scale_figures)          | e.g. 1:72 scale figures  |

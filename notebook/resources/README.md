@@ -4,8 +4,8 @@
 * [Armorama.com](https://armorama.com/)
 * [Britmodeller.com](https://www.britmodeller.com/)
 * [Encyclopedia of Scale Models Wiki](https://esm.fandom.com)
-* [Free Ship Plans](http://freeshipplans.com/)
-* [Frog Model Aircraft](https://www.frogmodelaircraft.co.uk/) - document the plastic models produced by FROG from the period of the 1950’s to 1976 as well as the Frog spawn that followed
+* [Free Ship Plans](https://freeshipplans.com/)
+* [Frog Model Aircraft](https://www.frogmodelaircraft.co.uk/) - documents the plastic models produced by FROG from the period of the 1950’s to 1976 as well as the Frog spawn that followed
 * [International Scale Modeller](https://intscalemodeller.com/)
 * [Large Scale Modeller](https://forum.largescalemodeller.com/)
 * [Matchbox Kits](http://www.matchboxkits.org/)
