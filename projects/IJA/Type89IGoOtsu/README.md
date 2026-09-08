@@ -15,6 +15,13 @@ it was regarded as obsolete by the time of the 1939 battles of Khalkhin Gol, aga
 
 [![Type_89_I-Go_medium_tanks](./assets/Type_89_I-Go_medium_tanks.png?raw=true)](https://en.wikipedia.org/wiki/Type_89_I-Go_medium_tank)
 
+### The Kit
+
+[Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+is the 2017 re-boxing of the 2016 tooling, with 2 figures added.
+
+[![box-art](./assets/72041-box-art.jpg?raw=true)](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+
 ### Paint Scheme
 
 I've used kit scheme 1: IJN Land Forces unit 1941
@@ -53,8 +60,12 @@ A simple base to show it off, with another figure from an Airfix WWII Japanese I
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=146176)
 * Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+    * [on IBG](https://www.ibgmodels.com/72041-2/)
+    * [instructions](./assets/72041-instructions.pdf)
+    * Purchased from IBG Models for €9.80 (Feb-2023).
 * Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76
     * [on scalemates](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+    * Purchased from Hobby Bounties for SG$24.00 (Mar-2023).
 
 ### Research References
 

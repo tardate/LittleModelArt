@@ -21,24 +21,8 @@ with close to 100% casualties and loses.
 This is hauntingly capture in a famous photo of an abandoned Type 95 Ha-Go light tank near bunker on Betio Island.
 This is the inspiration for this diorama.
 
-[![wrecked-type-95-betio](./assets/wrecked-type-95-betio.jpg)](https://www.flickr.com/photos/bronpancerna/23276477546/)
+[![wrecked-type-95-betio](./references/wrecked-type-95-betio.jpg)](https://www.flickr.com/photos/bronpancerna/23276477546/)
 NB: also on [reddit](https://www.reddit.com/r/WW2info/comments/18091cg/wrecked_japanese_type_97_chi_ha_in_saipan_on/)
-
-### Unauthorized History of the Pacific War Podcast
-
-The Unauthorized History of the Pacific War Podcast have an excellent series of episodes that cover the battle in depth.
-
-Operation GALVANIC - Preparations for Tarawa - Episode 226
-
-[![clip](https://img.youtube.com/vi/XLf1PcD_Z-U/0.jpg)](https://www.youtube.com/watch?v=XLf1PcD_Z-U)
-
-Utmost Savagery - Tarawa Day 1 - Episode 227
-
-[![clip](https://img.youtube.com/vi/pIK6Tql3usA/0.jpg)](https://www.youtube.com/watch?v=pIK6Tql3usA)
-
-Bloody Betio - Tarawa Days 2-3 and Alexander Bonnyman’s Medal of Honor footage reveal - Episode 228
-
-[![clip](https://img.youtube.com/vi/Lt9jCk2Ahkw/0.jpg)](https://www.youtube.com/watch?v=Lt9jCk2Ahkw)
 
 ### About the Type 95
 
@@ -47,13 +31,14 @@ was a light tank used by the Empire of Japan during the Second Sino-Japanese War
 and in the Second World War.
 It was the most numerous Japanese tank at the time, with about 2,300 produced.
 
-For more information, see the Micro Machines Podcast - Episode 21 (Type 95 Ha Go)
+### The Kit
 
-[![clip](https://img.youtube.com/vi/ewmPTtzwDu4/0.jpg)](https://www.youtube.com/watch?v=ewmPTtzwDu4)
+[Type 95 Ha-Go Tank IBG Models No. 72088 1:72](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
+is the original 2021 tooling and release.
+
+[![box-art](./assets/72088-box-art.jpg?raw=true)](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
 
 ### Diorama Build
-
-The Type 95 in this diorama is the [IBG Models kit No. 72088](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go-tank--1345408).
 
 The Type95 has been modified with damage and open ports and boxes.
 
@@ -115,15 +100,39 @@ I tried to go quite monochrome/sepia for the actual painting, and experimented q
 
 The inspiration:
 
-[![wrecked-type-95-betio](./assets/wrecked-type-95-betio.jpg)](https://www.flickr.com/photos/bronpancerna/23276477546/)
+[![wrecked-type-95-betio](./references/wrecked-type-95-betio.jpg)](https://www.flickr.com/photos/bronpancerna/23276477546/)
 
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=179352)
 * Type 95 Ha-Go tank IBG Models No. 72088 1:72
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go-tank--1345408)
+    * [on IBG site](http://www.ibgmodels.com/72088-2/)
+    * Purchased from Super Hobby for €11.19 (Apr-2024).
 
 ### Research References
 
 * [Battle of Tarawa](https://en.wikipedia.org/wiki/Battle_of_Tarawa)
 * [Republic of Kiribati](https://en.wikipedia.org/wiki/Kiribati)
+
+#### Unauthorized History of the Pacific War Podcast
+
+The Unauthorized History of the Pacific War Podcast have an excellent series of episodes that cover the battle in depth.
+
+Operation GALVANIC - Preparations for Tarawa - Episode 226
+
+[![clip](https://img.youtube.com/vi/XLf1PcD_Z-U/0.jpg)](https://www.youtube.com/watch?v=XLf1PcD_Z-U)
+
+Utmost Savagery - Tarawa Day 1 - Episode 227
+
+[![clip](https://img.youtube.com/vi/pIK6Tql3usA/0.jpg)](https://www.youtube.com/watch?v=pIK6Tql3usA)
+
+Bloody Betio - Tarawa Days 2-3 and Alexander Bonnyman’s Medal of Honor footage reveal - Episode 228
+
+[![clip](https://img.youtube.com/vi/Lt9jCk2Ahkw/0.jpg)](https://www.youtube.com/watch?v=Lt9jCk2Ahkw)
+
+#### Micro Machines Podcast - Episode 21 (Type 95 Ha Go)
+
+YouTube by Micro Machines Podcast
+
+[![clip](https://img.youtube.com/vi/ewmPTtzwDu4/0.jpg)](https://www.youtube.com/watch?v=ewmPTtzwDu4)

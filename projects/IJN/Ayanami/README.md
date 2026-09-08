@@ -10,7 +10,7 @@ IJN Fubuki-class Destroyer Ayanami (綾波) was commissioned in 1930.
 
 During the Second Sino-Japanese War, from 1937, Ayanami covered landing of Japanese forces in Shanghai and Hangzhou. From 1940, she was assigned to patrol and covered landings of Japanese forces in south China.
 
-[![ayanami](./assets/ayanami.jpg?raw=true)](https://en.wikipedia.org/wiki/Japanese_destroyer_Ayanami_(1929))
+[![ayanami](./references/ayanami.jpg?raw=true)](https://en.wikipedia.org/wiki/Japanese_destroyer_Ayanami_(1929))
 
 Key engagements from the [record of movement](http://www.combinedfleet.com/ayanam_t.htm):
 
@@ -20,6 +20,13 @@ Key engagements from the [record of movement](http://www.combinedfleet.com/ayana
 * 24 August 1942: Battle of Eastern Solomons. Escorted fleet supply group.
 * 26 October 1942: Battle of Santa Cruz. On alert in Shortlands-area.
 * 12-15 November 1942: Naval Battles for Guadalcanal. Operated with URANAMI in assault on U.S. destroyers. Sunk: by gunfire of U.S. battleship-destroyer group southeast of Savo Island (09-10 S, 159-52 E)
+
+### The Kit
+
+[Japanese Navy Destroyer Ayanami 綾波 Water Line Series Tamiya No. 31405 1:700](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
+is the 1992 boxing of the 1972 tool.
+
+[![box-art](./assets/31405-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
 
 ### Paint Scheme
 
@@ -50,6 +57,8 @@ That's it for now. no seascape as I'm planning to use this in another diorama so
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=146784)
 * Japanese Navy Destroyer Ayanami 綾波 Water Line Series Tamiya No. 31405 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
+    * [instructions](./assets/31405-instructions.pdf)
+    * Purchased from Hobby Point for SG$18.75 (Apr-2023).
 
 ### Research References
 

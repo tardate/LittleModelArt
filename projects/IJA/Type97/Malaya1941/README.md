@@ -8,7 +8,14 @@ A Type 97 Chi-Ha チハ roaring down the Malayan peninsula in 1941. This is the 
 
 The Type 97 Chi-Ha (九七式中戦車 チハ, Kyūnana-shiki chū-sensha Chi-ha or simply "Type 97/57"), was the most widely produced Japanese medium tank of the Imperial Japanese Army during WWII. Entering service in 1937, the Chi Ha saw widespread service in China and the Pacific, but inadequate armour protection and the low velocity of its 57mm gun made it no match when it came up against Allied tanks.
 
-![vehicle_type97chiha8](./assets/vehicle_type97chiha8.jpg)
+![vehicle_type97chiha8](./references/vehicle_type97chiha8.jpg)
+
+### The Kit
+
+[Type 97 Medium Tank Chi-Ha Vintage Classics Airfix No. A01319V 1:76](https://www.scalemates.com/kits/airfix-a01319v-type-97-medium-tank-chi-ha--1403237)
+is the 2022 re-boxing of the 1974 tooling.
+
+[![box-art](./assets/A01319V-box-art.jpg?raw=true)](https://www.scalemates.com/kits/airfix-a01319v-type-97-medium-tank-chi-ha--1403237)
 
 ### Paint Scheme
 
@@ -53,6 +60,8 @@ No 3 Squadron No 1 Tank Division Malaya 1941/2
 * Type 97 Medium Tank Chi-Ha Vintage Classics Airfix No. A01319V 1:76
     * [on scalemates](https://www.scalemates.com/kits/airfix-a01319v-type-97-medium-tank-chi-ha--1403237)
     * [on Airfix site](https://uk.airfix.com/products/type-97-chi-ha-japanese-tank-a01319v)
+    * [instructions](./assets/A01319V-instructions.pdf)
+    * Purchased from Airfix for £5.83 (Jan-2024).
 
 ### Research References
 
