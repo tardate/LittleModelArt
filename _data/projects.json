@@ -1,4 +1,14 @@
 {
+    "/projects/royalnavy/hmsfearless/": {
+        "id": 175,
+        "title": "HMS Fearless",
+        "summary": "Building the vintage classic HMS Fearless from Airfix in 1:600 scale.",
+        "tags": [
+            "Ships - military",
+            "UK",
+            "Airfix"
+        ]
+    },
     "/projects/uk/trident1c/": {
         "id": 174,
         "title": "Trident 1C",
