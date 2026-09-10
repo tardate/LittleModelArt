@@ -1,6 +1,6 @@
-# 174 Little Model Art Projects
+# 175 Little Model Art Projects
 
-> Latest addition :sparkles: [Trident 1C](./projects/UK/Trident1C) - Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.
+> Latest addition :sparkles: [HMS Fearless](./projects/RoyalNavy/HMSFearless) - Building the vintage classic HMS Fearless from Airfix in 1:600 scale.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

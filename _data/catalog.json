@@ -1,5 +1,15 @@
 [
     {
+        "name": "HMS Fearless",
+        "description": "Building the vintage classic HMS Fearless from Airfix in 1:600 scale.",
+        "categories": "Ships - military, UK, Airfix",
+        "relative_path": "projects/royalnavy/hmsfearless",
+        "updated_at": "2026-09-10T02:54:00Z",
+        "created_at": "2026-09-10T02:54:00Z",
+        "id": "#175",
+        "original_relative_path": "projects/RoyalNavy/HMSFearless"
+    },
+    {
         "name": "Trident 1C",
         "description": "Building the Hawker Siddeley HS-121 Trident 1C from X-Scale in 1:144 scale. Depicts G-ARPA in service with British European Airways (BEA) in 1966.",
         "categories": "Aircraft - civil, UK, X-Scale",
