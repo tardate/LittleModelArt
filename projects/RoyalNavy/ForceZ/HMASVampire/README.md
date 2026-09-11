@@ -40,7 +40,11 @@ as the number and vintage of the planes on hand were totally outclassed by the J
 
 #### The Kit
 
-![kit_box_front](./assets/kit_box_front.jpg?raw=true)
+[HMAS Vampire Tamiya Waterline Series No. 31910 1:700](https://www.scalemates.com/kits/tamiya-31910-vampire--171459)
+is the 2008 tooling in 1:700 waterline.
+
+[![box-art](./assets/31910-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31910-vampire--171459)
+
 ![kit_box_rear](./assets/kit_box_rear.jpg?raw=true)
 
 #### Paint

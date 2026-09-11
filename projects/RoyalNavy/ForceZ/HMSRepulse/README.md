@@ -91,7 +91,7 @@ The
 is a in 1:700 waterline rendition of the HMS Repulse.
 This is an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
 
-[![box-art](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
+[![box-art](./assets/31617-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
 
 #### Photo-etch Customization
 
@@ -207,7 +207,7 @@ Photograph from the Imperial War Museum
 * Source: Imperial War Museum (IWM)
 * Link: [IWM Collection](https://www.iwm.org.uk/collections/item/object/205119433)
 
-[![ref_iwm_205119433](./assets/ref_iwm_205119433.jpg)](https://www.iwm.org.uk/collections/item/object/205119433)
+[![ref_iwm_205119433](./references/ref_iwm_205119433.jpg)](https://www.iwm.org.uk/collections/item/object/205119433)
 
 Photograph from the National Archives of Singapore:
 
@@ -215,7 +215,7 @@ Description: Royal Navy battlecruiser HMS Repulse leaving Singapore from Sembawa
 Source: National Archives of Singapore
 Link: [NAS Photo](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
 
-[![ref_nas_img0052](./assets/ref_nas_img0052.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
+[![ref_nas_img0052](./references/ref_nas_img0052.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
 
 ### Paint Scheme
 
