@@ -1,6 +1,6 @@
 # #108 Electra And Express To the Rescue
 
-HMS Electra (H27) and HMS Express (H61) race to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.
+Remembering Force Z with a diorama of HMS Electra (H27) and HMS Express (H61) racing to protect HMS Prince of Wales and HMS Repulse as a wave of G3M Nell torpedo bombers press their attack on 10 December 1941.
 
 ![Build](./assets/ElectraAndExpress_build.jpg?raw=true)
 
@@ -22,11 +22,18 @@ racing to protect the capital ships as a wave of G3M Nell torpedo bombers press 
 
 NB: this continues my annual memorial-in-models of the fated expedition that once and for all proved the vulnerability of ships to air attack. I've previously built HMS Prince of Wales and HMAS Vampire and have HMS Repulse queued up for next year, completing the British task force for the 83rd anniversary.
 
+### The Kit
+
+[British Destroyer E Class Waterline Series Tamiya No. 31909 1:700](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
+is the 2007 tooling in 1:700 waterline.
+
+[![box-art](./assets/31909-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
+
 ### Paint Scheme
 
 | Feature                      | Color                | Recommended | Paint Used |
 |------------------------------|----------------------|-------------|------------|
-| guns                         | Gun Metal            | X-10        | H18, 70.863 Gunmetal Grey            |
+| guns                         | Gun Metal            | X-10        | H18, 70.863|
 |                              | Chrome Silver        | X-11        |            |
 | lower hull, funnel top, mast | Flat Black           | XF-1        |            |
 | funnel band                  | Flat White           | XF-2        |            |
@@ -47,69 +54,69 @@ The main benefit came from the railings. I left many parts unused because they w
 
 Here are my notes on how the PE was applied:
 
-| PE | Name                               | Used |
-|----|------------------------------------|------|
-|  1 | Standard 3-bar Railings            | √ |
-|  2 | 2-bar Platform Railings            | |
-|  3 | Close stanchion Railings           | |
-|  4 | Splinter Matting                   | |
-|  5 | 291 Radar Antenna                  | add to G32 |
+| PE | Name                               | Used                                                                    |
+|----|------------------------------------|-------------------------------------------------------------------------|
+|  1 | Standard 3-bar Railings            | √                                                                       |
+|  2 | 2-bar Platform Railings            |                                                                         |
+|  3 | Close stanchion Railings           |                                                                         |
+|  4 | Splinter Matting                   |                                                                         |
+|  5 | 291 Radar Antenna                  | add to G32                                                              |
 |  6 | .5" Vickers Quad Gun Mounting      | replace G26 - only used base. Rest too big and not a great reproduction |
-|  7 | Searchlight Lens Cross             | add to G13 - not used, too big for the part |
-|  8 | Bridge Awning                      | n/a |
-|  9 | Forward Blast Shield Supports      | √ add to G21 |
-| 10 | Bridge Windshield                  | add to G22 |
-| 11 | Aft Blast Shield Supports          | √ add to G9 |
-| 12 | 27' Whaler Oars                    | |
-| 13 | 27' Whaler thwarts                 | |
-| 14 | 27' Whaler rudders                 | |
-| 15 | 30' Gig Thwarts                    | |
-| 16 | 30' Gig Oars                       | |
-| 17 | 30' Gig Rudder                     | |
-| 18 | 16' Dinghy Oars                    | |
-| 19 | 16' Dinghy Thwarts                 | |
-| 20 | 16' Dinghy Rudder                  | |
-| 21 | Boat Davits                        | replace G1 - not used; not a great improvement over kit part |
-| 22 | 27' Whaler Securing Straps         | |
-| 23 | 30' Gig Securing Straps            | |
-| 24 | Short Mainmast                     | HMS Express H61 instead of G10  |
-| 25 | Short Mainmast Yardarm             | HMS Express H61 instead of G10  |
-| 26 | Vertical Ladder Stock              | |
-| 27 | Inclined Ladders                   | |
-| 28 | HF/DF Antenna Array                | |
-| 29 | 4.7" Gun Shields                   | replace F9 - not used; not a great improvement over kit part |
-| 30 | Anchors                            | replace G2 - not used; not a great improvement over kit part |
-| 31 | .5" Gun Platform Supports          | add to G18 |
-| 32 | Forward Funnel Cap Grille          | not used - kit part is fine |
-| 33 | Aft  Funnel Cap Grille             | not used - kit part is fine |
-| 34 | Bridge Front DF Antenna            | add to G22? |
-| 35 | Anchor Chain                       | |
-| 36 | Rocket Flare Launch Rails          | add to F9? |
-| 37 | Depth Charge Davits                | add near G9 |
-| 38 | Depth Charge Rail Frame            | |
-| 39 | Depth Charge Rail Plate            | |
-| 40 | TSDS Stern Gantry                  | |
-| 41 | Stern GantryPlatform               | |
-| 42 | Wire Antenna Spreader              | HMS Express H61 instead of G10 |
-| 43 | Accommodation Ladder Rail 1        | n/a |
-| 44 | Accommodation Ladder Rail 2        | n/a |
-| 45 | Accommodation Ladder Steps         | n/a |
-| 46 | Mainmast Tripod Poles              | add to G10 (HMS Electra H27) |
-| 47 | Mainmast Yardarm                   | add to G10 (HMS Electra H27) |
-| 48 | Aft Funnel Sirens                  | √ add to G7/8 |
-| 49 | Aft Funnel Siren Platform          | √ add to G7/8 |
-| 50 | Foremast Lower Yardarm             | add to G32 |
-| 51 | Foremast Upper Yardarm             | add to G32 |
-| 52 | Froward Carley Rafty Racks         | add to G24 |
-| 53 | Aft Carley Rafty Racks             | |
+|  7 | Searchlight Lens Cross             | add to G13 - not used, too big for the part                             |
+|  8 | Bridge Awning                      | n/a                                                                     |
+|  9 | Forward Blast Shield Supports      | √ add to G21                                                            |
+| 10 | Bridge Windshield                  | add to G22                                                              |
+| 11 | Aft Blast Shield Supports          | √ add to G9                                                             |
+| 12 | 27' Whaler Oars                    |                                                                         |
+| 13 | 27' Whaler thwarts                 |                                                                         |
+| 14 | 27' Whaler rudders                 |                                                                         |
+| 15 | 30' Gig Thwarts                    |                                                                         |
+| 16 | 30' Gig Oars                       |                                                                         |
+| 17 | 30' Gig Rudder                     |                                                                         |
+| 18 | 16' Dinghy Oars                    |                                                                         |
+| 19 | 16' Dinghy Thwarts                 |                                                                         |
+| 20 | 16' Dinghy Rudder                  |                                                                         |
+| 21 | Boat Davits                        | replace G1 - not used; not a great improvement over kit part            |
+| 22 | 27' Whaler Securing Straps         |                                                                         |
+| 23 | 30' Gig Securing Straps            |                                                                         |
+| 24 | Short Mainmast                     | HMS Express H61 instead of G10                                          |
+| 25 | Short Mainmast Yardarm             | HMS Express H61 instead of G10                                          |
+| 26 | Vertical Ladder Stock              |                                                                         |
+| 27 | Inclined Ladders                   |                                                                         |
+| 28 | HF/DF Antenna Array                |                                                                         |
+| 29 | 4.7" Gun Shields                   | replace F9 - not used; not a great improvement over kit part            |
+| 30 | Anchors                            | replace G2 - not used; not a great improvement over kit part            |
+| 31 | .5" Gun Platform Supports          | add to G18                                                              |
+| 32 | Forward Funnel Cap Grille          | not used - kit part is fine                                             |
+| 33 | Aft  Funnel Cap Grille             | not used - kit part is fine                                             |
+| 34 | Bridge Front DF Antenna            | add to G22?                                                             |
+| 35 | Anchor Chain                       |                                                                         |
+| 36 | Rocket Flare Launch Rails          | add to F9?                                                              |
+| 37 | Depth Charge Davits                | add near G9                                                             |
+| 38 | Depth Charge Rail Frame            |                                                                         |
+| 39 | Depth Charge Rail Plate            |                                                                         |
+| 40 | TSDS Stern Gantry                  |                                                                         |
+| 41 | Stern GantryPlatform               |                                                                         |
+| 42 | Wire Antenna Spreader              | HMS Express H61 instead of G10                                          |
+| 43 | Accommodation Ladder Rail 1        | n/a                                                                     |
+| 44 | Accommodation Ladder Rail 2        | n/a                                                                     |
+| 45 | Accommodation Ladder Steps         | n/a                                                                     |
+| 46 | Mainmast Tripod Poles              | add to G10 (HMS Electra H27)                                            |
+| 47 | Mainmast Yardarm                   | add to G10 (HMS Electra H27)                                            |
+| 48 | Aft Funnel Sirens                  | √ add to G7/8                                                           |
+| 49 | Aft Funnel Siren Platform          | √ add to G7/8                                                           |
+| 50 | Foremast Lower Yardarm             | add to G32                                                              |
+| 51 | Foremast Upper Yardarm             | add to G32                                                              |
+| 52 | Froward Carley Rafty Racks         | add to G24                                                              |
+| 53 | Aft Carley Rafty Racks             |                                                                         |
 
 ### Nell
 
 | Feature                      | Color                | Paint Used |
 |------------------------------|----------------------|------------|
-| lower fuselage               | Sky Blue             | H74 |
-| upper camo A                 | Wood Brown           | H37 |
-| upper camo B                 | IJA Green            | H60 |
+| lower fuselage               | Sky Blue             | H74        |
+| upper camo A                 | Wood Brown           | H37        |
+| upper camo B                 | IJA Green            | H60        |
 
 ### Build Log
 
@@ -153,15 +160,24 @@ Here are my notes on how the PE was applied:
 * British Destroyer E Class Waterline Series Tamiya No. 31909 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
     * [instructions](./assets/31909-instructions.pdf)
+    * Purchased from Plaza Japan for ¥950 (Jun-2021).
 * E & F Class Destroyers White Ensign Models No. PE 766 1:700
     * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-766-e-and-f-class-destroyers--105442)
     * [on White Ensign Models site](https://www.whiteensignmodels.com/p/WEM+1700+E+F+Class+Destroyer+PE+766/5500/)
     * [instructions](./assets/PE766-instructions.pdf)
+    * Purchased from White Ensign Models for US$8 (Jul-2021).
 
 ### Research References
 
-* [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
-* [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+* <https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse>
+* <https://en.wikipedia.org/wiki/Force_Z>
+    * Battleship [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53))
+    * Battlecruiser [HMS Repulse](https://en.wikipedia.org/wiki/HMS_Repulse_(1916))
+    * Destroyer escorts:
+        * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+        * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
+        * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
+        * [HMS Tenedos (H04)](https://en.wikipedia.org/wiki/HMS_Tenedos_(H04))
 
 ### Build References
 

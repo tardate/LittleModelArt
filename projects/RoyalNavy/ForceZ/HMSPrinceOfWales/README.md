@@ -62,7 +62,7 @@ The
 is a in 1:700 waterline rendition of the HMS Prince of Wales.
 This is an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
 
-[![box-art](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
+[![box-art](./assets/31615-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
 
 #### Photo-etch Customization
 
@@ -74,68 +74,68 @@ that caters for all ships in the King George V Class.
 
 Here are my notes on how the PE was applied:
 
-| PE | Name                               | Used |
-|----|------------------------------------|------|
-|  1 | 20mm Single Oerlikon               | 3x stern, 4x midships |
-|  2 | 8 barrel pom-pom                   | replace A25+A26 4x midships |
-|  3 | 4 barrel pom-pom                   | replace A25+A26 on 2nd and 3rd turret |
-|  4 | 20mm twin-barrels for Mk5          | n/a |
-|  5 | KGV degaussing cable               | n/a |
-|  6 | Foremast top (later fit)           | n/a |
-|  7 | 32' cutter davits                  | replace A4 (not used in the end) |
-|  8 | Waffle pattern doors               | replace molded detail and add doors where missing |
-|  9 | assorted hatches                   | added over hatches |
-| 10 | 27' whaler oars and rudder         | add to A20,C22 |
-| 11 | 32' cutter oars and rudder         | add to A24 |
-| 12 | 27' whaler cradles                 | not used |
-| 13 | forward ER vent grilles            | added to B30 |
-| 14 | aft ER vent grilles                | wrap around under B11 x2 |
-| 15 | vertical and inclined rails        | 2nd turret |
-| 16 | Mainmast aerials (Anson/Howe)      | n/a |
-| 17 | Crane top cables                   | add to crane |
-| 18 | crane jib                          | replace B16, B17 |
-| 19 | 284 gunnery radar                  | added to C1  |
-| 20 | bridge front DF aerial             | added to front B7 |
-| 21 | crane cab                          | replaces B18 |
-| 22 | crane jib a-frame                  | replace B14 |
-| 23 | ESM aerials (late fit)             | n/a |
-| 24 | Walrus fittings                    | added to Walrus |
+| PE | Name                               | Used                                                            |
+|----|------------------------------------|-----------------------------------------------------------------|
+|  1 | 20mm Single Oerlikon               | 3x stern, 4x midships                                           |
+|  2 | 8 barrel pom-pom                   | replace A25+A26 4x midships                                     |
+|  3 | 4 barrel pom-pom                   | replace A25+A26 on 2nd and 3rd turret                           |
+|  4 | 20mm twin-barrels for Mk5          | n/a                                                             |
+|  5 | KGV degaussing cable               | n/a                                                             |
+|  6 | Foremast top (later fit)           | n/a                                                             |
+|  7 | 32' cutter davits                  | replace A4 (not used in the end)                                |
+|  8 | Waffle pattern doors               | replace molded detail and add doors where missing               |
+|  9 | assorted hatches                   | added over hatches                                              |
+| 10 | 27' whaler oars and rudder         | add to A20,C22                                                  |
+| 11 | 32' cutter oars and rudder         | add to A24                                                      |
+| 12 | 27' whaler cradles                 | not used                                                        |
+| 13 | forward ER vent grilles            | added to B30                                                    |
+| 14 | aft ER vent grilles                | wrap around under B11 x2                                        |
+| 15 | vertical and inclined rails        | 2nd turret                                                      |
+| 16 | Mainmast aerials (Anson/Howe)      | n/a                                                             |
+| 17 | Crane top cables                   | add to crane                                                    |
+| 18 | crane jib                          | replace B16, B17                                                |
+| 19 | 284 gunnery radar                  | added to C1                                                     |
+| 20 | bridge front DF aerial             | added to front B7                                               |
+| 21 | crane cab                          | replaces B18                                                    |
+| 22 | crane jib a-frame                  | replace B14                                                     |
+| 23 | ESM aerials (late fit)             | n/a                                                             |
+| 24 | Walrus fittings                    | added to Walrus                                                 |
 | 25 | 279 radar & platform               | added to fore and main mastheads, replacing top part of molding |
-| 26 | 281 radar aerials                  | n/a |
-| 27 | Jack staff                         | added to bow   |
-| 28 | Ensign staff                       | replace B44 at stern  |
-| 29 | catapults cradle                   | added below walrus |
-| 30 | FH3 HF/DF aerial                   | added to mainmast |
-| 31 | 25' motor boat cradles             | not used |
-| 32 | 45' motor launch cradles           | not used |
-| 33 | 45' motor boat cradles             | not used |
-| 34 | Foremast starfish                  | added to foremast |
-| 35 | mainmast starfish (post refit)     | n/a |
-| 36 | 91 TBS aerial                      | n/a |
-| 37 | 277 surface radar                  | n/a |
-| 38 | mainmast starfish (early)          | added to mainmast  |
-| 39 | funnel cap grilles                 | replace top of B33, B41 |
-| 40 | headache aerials (Anson/Howe)      | n/a |
-| 41 | Foremast IFF aerials               | n/a |
-| 42 | Foremast yards                     | replace part on foremast |
-| 43 | Top 86 TBS aerial                  | n/a |
-| 44 | Headache aerials (KG5/DOY)         | n/a |
-| 45 | Type 285 yagi aerials              | add to B3 x 4 |
-| 46 | Type 282 yagi aerials              | add to B2 x 2 and C8 |
-| 47 | 16' motor dinghy cradles           | not used |
-| 48 | IFF interrogator aerial            | n/a |
-| 49 | modified aft funnel platform (DOY) | n/a |
-| 50 | fwd funnel siren platform          | n/a |
-| 51 | sirens                             | n/a |
-| 52 | IFF aerials (Anson/Howe)           | n/a |
-| 53 | accommodation ladders              | added to turrets |
-| 54 | mainmast IFF aerial (Anson/Howe)   | n/a |
-| 55 | Main HACs tower platforms          | n/a |
-| 56 | 85/86 TBS aerials                  | added to fore and main masts |
-| 57 | 32' cutter cradles                 | not used |
-| 58 | anchor cable                       | not used |
-| 59 | 2 bar rails                        | turret and platform railings |
-| 60 | 3 bar rails                        | gunnel rails |
+| 26 | 281 radar aerials                  | n/a                                                             |
+| 27 | Jack staff                         | added to bow                                                    |
+| 28 | Ensign staff                       | replace B44 at stern                                            |
+| 29 | catapults cradle                   | added below walrus                                              |
+| 30 | FH3 HF/DF aerial                   | added to mainmast                                               |
+| 31 | 25' motor boat cradles             | not used                                                        |
+| 32 | 45' motor launch cradles           | not used                                                        |
+| 33 | 45' motor boat cradles             | not used                                                        |
+| 34 | Foremast starfish                  | added to foremast                                               |
+| 35 | mainmast starfish (post refit)     | n/a                                                             |
+| 36 | 91 TBS aerial                      | n/a                                                             |
+| 37 | 277 surface radar                  | n/a                                                             |
+| 38 | mainmast starfish (early)          | added to mainmast                                               |
+| 39 | funnel cap grilles                 | replace top of B33, B41                                         |
+| 40 | headache aerials (Anson/Howe)      | n/a                                                             |
+| 41 | Foremast IFF aerials               | n/a                                                             |
+| 42 | Foremast yards                     | replace part on foremast                                        |
+| 43 | Top 86 TBS aerial                  | n/a                                                             |
+| 44 | Headache aerials (KG5/DOY)         | n/a                                                             |
+| 45 | Type 285 yagi aerials              | add to B3 x 4                                                   |
+| 46 | Type 282 yagi aerials              | add to B2 x 2 and C8                                            |
+| 47 | 16' motor dinghy cradles           | not used                                                        |
+| 48 | IFF interrogator aerial            | n/a                                                             |
+| 49 | modified aft funnel platform (DOY) | n/a                                                             |
+| 50 | fwd funnel siren platform          | n/a                                                             |
+| 51 | sirens                             | n/a                                                             |
+| 52 | IFF aerials (Anson/Howe)           | n/a                                                             |
+| 53 | accommodation ladders              | added to turrets                                                |
+| 54 | mainmast IFF aerial (Anson/Howe)   | n/a                                                             |
+| 55 | Main HACs tower platforms          | n/a                                                             |
+| 56 | 85/86 TBS aerials                  | added to fore and main masts                                    |
+| 57 | 32' cutter cradles                 | not used                                                        |
+| 58 | anchor cable                       | not used                                                        |
+| 59 | 2 bar rails                        | turret and platform railings                                    |
+| 60 | 3 bar rails                        | gunnel rails                                                    |
 
 ##### Paint
 
@@ -218,7 +218,7 @@ OK finally discovered something more finicky than hand-soldering 0603 SMT LEDs: 
 
 ![build03b](./assets/build03b.jpg?raw=true)
 
-Srsly, was the Walrus really worth all the trouble😎!!?... creating a few dramas on deck with these beaut little @ionmodel 1:700 RN crew (on the still-more-to-go HMS Prince of Wales)
+Seriously, was the Walrus really worth all the trouble😎!!?... creating a few dramas on deck with these beaut little @ionmodel 1:700 RN crew (on the still-more-to-go HMS Prince of Wales)
 
 ![build03c](./assets/build03c.jpg?raw=true)
 
@@ -254,13 +254,24 @@ HMS Prince of Wales (Tamiya 1:700). Faux Movietone News version;-)
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
     * [on Tamiya site](https://www.tamiya.com/english/products/31615prince/index.htm)
     * [instructions](./assets/31615-instructions.jpg)
+    * Purchased from Plaza Japan for ¥1,890 (Jun-2021).
 * King George V Class, White Ensign Models - No. PE 738 - 1:700
     * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-738-king-george-v-prince-wales-with-parts-anson-howe-duke-york--310823)
     * [on White Ensign Models site](https://www.whiteensignmodels.com/p/WEM+1700+King+George+V+Class+Battleship+PE+738/5467/#.YaRXQfFByL4)
     * [instructions](./assets/PE738_instructions.pdf)
+    * Purchased from White Ensign Models for US$32.50 (Jul-2021).
 * Royal Navy - Chilling on deck 1/700 ION Model - No. R700-001 - 1:700
     * [on scalemates](https://www.scalemates.com/kits/ion-model-r700-001-royal-navy-chilling-on-deck-1-700--1352340)
+    * Purchased from Amazon JP for ¥1,800 (Oct-2021).
 
 ### Research References
 
-* [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53)) - wikipedia
+* <https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse>
+* <https://en.wikipedia.org/wiki/Force_Z>
+    * Battleship [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53))
+    * Battlecruiser [HMS Repulse](https://en.wikipedia.org/wiki/HMS_Repulse_(1916))
+    * Destroyer escorts:
+        * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+        * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
+        * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
+        * [HMS Tenedos (H04)](https://en.wikipedia.org/wiki/HMS_Tenedos_(H04))

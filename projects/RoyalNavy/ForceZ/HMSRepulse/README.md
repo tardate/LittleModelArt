@@ -91,7 +91,7 @@ The
 is a in 1:700 waterline rendition of the HMS Repulse.
 This is an old tooling from 1975 but it still stands up to scrutiny. Later boxings I think included the extra detail sprues.
 
-[![box-art](./assets/kit-box.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
+[![box-art](./assets/31617-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31615-prince-wales--104795)
 
 #### Photo-etch Customization
 
@@ -207,7 +207,7 @@ Photograph from the Imperial War Museum
 * Source: Imperial War Museum (IWM)
 * Link: [IWM Collection](https://www.iwm.org.uk/collections/item/object/205119433)
 
-[![ref_iwm_205119433](./assets/ref_iwm_205119433.jpg)](https://www.iwm.org.uk/collections/item/object/205119433)
+[![ref_iwm_205119433](./references/ref_iwm_205119433.jpg)](https://www.iwm.org.uk/collections/item/object/205119433)
 
 Photograph from the National Archives of Singapore:
 
@@ -215,7 +215,7 @@ Description: Royal Navy battlecruiser HMS Repulse leaving Singapore from Sembawa
 Source: National Archives of Singapore
 Link: [NAS Photo](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
 
-[![ref_nas_img0052](./assets/ref_nas_img0052.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
+[![ref_nas_img0052](./references/ref_nas_img0052.jpg)](https://www.nas.gov.sg/archivesonline/photographs/record-details/21bfce27-1162-11e3-83d5-0050568939ad)
 
 ### Paint Scheme
 
@@ -375,14 +375,26 @@ Eight G3M2 Nell bombers (九六式陸上攻撃機)
 * HMS Repulse Tamiya No. 31617 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31617-hms-repulse--105624)
     * [instructions](./assets/31617-instructions.jpg)
+    * Purchased from Plaza Japan for ¥2,520 (Jun-2021).
 * HMS Repulse White Ensign Models No. PE 780 1:700
     * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-780-hms-repulse--105719)
     * [instructions](./assets/PE780-instructions.pdf)
+    * Purchased from White Ensign Models for US$16 (Jul-2021).
 * IJN Aircraft Set 7 Pit-Road No. S66 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-s66-ijn-aircraft-set-7--1439738)
     * [instructions](./assets/s66-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (May-2024).
 
 ### Research References
 
 * <https://www.destinationsjourney.com/historical-military-photographs/hms-repulse-british-battlecruiser/>
 * [Sinking Force Z 1941: The day the Imperial Japanese Navy killed the battleship by Angus Konstam](https://www.goodreads.com/book/show/51096859-sinking-force-z-1941)
+* <https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse>
+* <https://en.wikipedia.org/wiki/Force_Z>
+    * Battleship [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53))
+    * Battlecruiser [HMS Repulse](https://en.wikipedia.org/wiki/HMS_Repulse_(1916))
+    * Destroyer escorts:
+        * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+        * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
+        * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
+        * [HMS Tenedos (H04)](https://en.wikipedia.org/wiki/HMS_Tenedos_(H04))
