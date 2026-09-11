@@ -146,7 +146,8 @@ They were quite yellowed and I didn't expect them to work as well as they did (o
 
 Next up...making a case. I'll design a case for open/closed display, and cut it from MDF on the laser cutters at our library.
 
-Inner base dimensions: 298mm x 100mm
+* Inner base dimensions: 298mm x 100mm
+* Minimum height: 110mm
 
 ## Credits and References
 
