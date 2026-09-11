@@ -22,6 +22,13 @@ racing to protect the capital ships as a wave of G3M Nell torpedo bombers press 
 
 NB: this continues my annual memorial-in-models of the fated expedition that once and for all proved the vulnerability of ships to air attack. I've previously built HMS Prince of Wales and HMAS Vampire and have HMS Repulse queued up for next year, completing the British task force for the 83rd anniversary.
 
+### The Kit
+
+[British Destroyer E Class Waterline Series Tamiya No. 31909 1:700](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
+is the 2007 tooling in 1:700 waterline.
+
+[![box-art](./assets/31909-box-art.jpg?raw=true)](https://www.scalemates.com/kits/tamiya-31909-british-destroyer-e-class--171458)
+
 ### Paint Scheme
 
 | Feature                      | Color                | Recommended | Paint Used |
