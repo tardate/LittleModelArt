@@ -13,15 +13,16 @@ It was the most numerous Japanese tank at the time, with about 2,300 produced.
 
 It was effective against infantry but not in combat with other tanks.
 
-[![Type_95](./assets/Type_95_Ha-Go_tank_Malaya_AWM_011298.jpg?raw=true)](https://en.wikipedia.org/wiki/Type_95_Ha-Go_light_tank)
+[![Type_95](./references/Type_95_Ha-Go_tank_Malaya_AWM_011298.jpg?raw=true)](https://en.wikipedia.org/wiki/Type_95_Ha-Go_light_tank)
 
-It was covered very well (especially its limitations!) in Micro Machines Podcast Episode 21:
-
-[![clip](https://img.youtube.com/vi/ewmPTtzwDu4/0.jpg)](https://www.youtube.com/watch?v=ewmPTtzwDu4)
+It was covered very well (especially its limitations!) in [Micro Machines Podcast Episode 21](https://www.youtube.com/watch?v=ewmPTtzwDu4).
 
 ### The Kit
 
 [Type 95 Ha-Go Tank IBG Models No. 72088 1:72](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
+is the original 2021 tooling and release.
+
+[![box-art](./assets/72088-box-art.jpg?raw=true)](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
 
 ### Paint Scheme
 
@@ -69,9 +70,16 @@ This is the IBG 1:72 kit, amazing little bit of engineering. I couldn't resist m
 * Type 95 Ha-Go Tank IBG Models No. 72088 1:72
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
     * [on IBG site](http://www.ibgmodels.com/72088-2/)
+    * [instructions](./assets/72088-instructions.pdf)
+    * Purchased from IBG Models for €14.97 (Apr-2023).
 
 ### Research References
 
 * [Type 95 Ha-Go light tank](https://en.wikipedia.org/wiki/Type_95_Ha-Go_light_tank) - wikipedia
 * [Type 95 Ha-Go](https://www.tanks-encyclopedia.com/ww2/jap/old-Type_95_Ha-Go.php) - tanks-encyclopedia
-* [Micro Machines Podcast Episode 21: Type 95 Ha Go](https://www.youtube.com/watch?v=ewmPTtzwDu4)
+
+#### Micro Machines Podcast - Episode 21 (Type 95 Ha Go)
+
+YouTube by Micro Machines Podcast
+
+[![clip](https://img.youtube.com/vi/ewmPTtzwDu4/0.jpg)](https://www.youtube.com/watch?v=ewmPTtzwDu4)

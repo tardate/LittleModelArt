@@ -25,7 +25,7 @@ being outflanked and overrun. This commenced the rapid advance down the Malayan 
 
 The Battle of Jitra was fought between the invading Japanese and Allied forces during the Malayan Campaign of the Second World War, from 11–13 December 1941.
 
-> just two days after the invasion of
+> ..just two days after the invasion of
 > british-held malaya in 1941 japanese
 > troops arrived at the town of jitra
 > there they faced a british force
@@ -35,7 +35,7 @@ The Battle of Jitra was fought between the invading Japanese and Allied forces d
 > entire division and pushed the british
 > defense of northern malaya into collapse.
 
-![campaign1](./assets/campaign1.jpg?raw=true)
+![campaign1](./references/campaign1.jpg?raw=true)
 
 The Japanese 3rd Air Corps (飛行集団, Hikō Shudan) and three Air Combat Groups (飛行戦隊, Hikō Sentai) of the 5th Air Corps took part in the Malaya Campaign.[29] In total there were 354 Imperial Japanese Army Air Service (IJAAS) first line aircraft involved together with the 110 Imperial Japanese Navy Air Service (IJNAS) aircraft. The Army units were variously equipped with
 
@@ -143,14 +143,20 @@ Here's a quick demo..
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=146177)
 * Type 89 Japanese Medium Tank OTSU Diesel IBG Models No. 72041 1:72
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72041-type-89-japanese-medium-tank-otsu--999876)
+    * [on IBG](https://www.ibgmodels.com/72041-2/)
+    * Purchased from IBG Models for €9.80 (Feb-2023).
 * Type 95 Ha-Go Light Tank IBG Models No. 72088 1:72
     * [on scalemates](https://www.scalemates.com/kits/ibg-models-72088-type-95-ha-go--1345408)
+    * Purchased from IBG Models for €14.97 (Apr-2023).
 * Japanese Navy Destroyer Ayanami 綾波 Water Line Series Tamiya No. 31405 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31405-ayanami--171094)
+    * Purchased from Hobby Point for SG$18.75 (Apr-2023).
 * Japanese Bicycle Infantry WWII HäT No. 8278 1:72
     * [on scalemates](https://www.scalemates.com/kits/haet-8278-japanese-bicycle-infantry--981187)
+    * Purchased from Hobby Bounties for SG$19.90 (Mar-2023).
 * Vintage Classics: WWII Japanese Infantry Airfix No. A00718V 1:76
     * [on scalemates](https://www.scalemates.com/kits/airfix-a00718v-vintage-classics-wwii-japanese-infantry--1435826)
+    * Purchased from Hobby Bounties for SG$24.00 (Mar-2023).
 * [LEAP#357 MC34063 Boost Converter Kit](https://leap.tardate.com/electronics101/power/switchmodepowersupplies/mc34063/modulekit/)
 
 ### Research References
@@ -158,7 +164,7 @@ Here's a quick demo..
 * [Malayan campaign](https://en.wikipedia.org/wiki/Malayan_campaign)
 * [Battle of Jitra](https://en.wikipedia.org/wiki/Battle_of_Jitra)
 * [Battle of Kota Bharu](https://en.wikipedia.org/wiki/Battle_of_Kota_Bharu)
-* [Osprey Japanese Tanks 1939-45](https://www.scribd.com/document/190062816/Osprey-Japanese-Tanks-1939-45)
+* [Osprey Japanese Tanks 1939-45](https://www.goodreads.com/en/book/show/1063786.Japanese_Tanks_1939_45)
 
 #### "Britain's Worst Defeat" - The Battle of Jitra 1941 Animated
 
