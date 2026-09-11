@@ -18,7 +18,7 @@ The Fury I entered squadron service with the RAF in May 1931, re-equipping 43 Sq
 is the 2013 boxing of a pretty old 1980 tooling.
 Purchased from Hobby Bounties for SG$88 (May-2026).
 
-[![kit-box](./assets/A04103-kit-box.jpg?raw=true)](https://www.scalemates.com/kits/airfix-a04103-hawker-fury-i--174731)
+[![box-art](./assets/A04103-box-art.jpg?raw=true)](https://www.scalemates.com/kits/airfix-a04103-hawker-fury-i--174731)
 
 ### Paint Scheme
 
@@ -85,6 +85,20 @@ Pilot figure:
 ![build04i](./assets/build04i.jpg?raw=true)
 
 ![build04j](./assets/build04j.jpg?raw=true)
+
+### Display Base
+
+I made a simple label in Affinity Designer:
+
+![build05a](assets/build05a-label.jpg)
+
+And made a display base:
+
+* Basswood Plaque 8x10in
+* Stained with acrylics: burnt sienna
+* Sealed with HOLBEIN Acrylic Gloss Top Coat Varnish
+
+![build05c](assets/build05c.jpg)
 
 ## Credits and References
 
