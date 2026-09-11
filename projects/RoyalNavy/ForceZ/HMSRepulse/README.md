@@ -375,14 +375,26 @@ Eight G3M2 Nell bombers (九六式陸上攻撃機)
 * HMS Repulse Tamiya No. 31617 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31617-hms-repulse--105624)
     * [instructions](./assets/31617-instructions.jpg)
+    * Purchased from Plaza Japan for ¥2,520 (Jun-2021).
 * HMS Repulse White Ensign Models No. PE 780 1:700
     * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-780-hms-repulse--105719)
     * [instructions](./assets/PE780-instructions.pdf)
+    * Purchased from White Ensign Models for US$16 (Jul-2021).
 * IJN Aircraft Set 7 Pit-Road No. S66 1:700
     * [on scalemates](https://www.scalemates.com/kits/pit-road-s66-ijn-aircraft-set-7--1439738)
     * [instructions](./assets/s66-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (May-2024).
 
 ### Research References
 
 * <https://www.destinationsjourney.com/historical-military-photographs/hms-repulse-british-battlecruiser/>
 * [Sinking Force Z 1941: The day the Imperial Japanese Navy killed the battleship by Angus Konstam](https://www.goodreads.com/book/show/51096859-sinking-force-z-1941)
+* <https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse>
+* <https://en.wikipedia.org/wiki/Force_Z>
+    * Battleship [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53))
+    * Battlecruiser [HMS Repulse](https://en.wikipedia.org/wiki/HMS_Repulse_(1916))
+    * Destroyer escorts:
+        * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+        * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
+        * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
+        * [HMS Tenedos (H04)](https://en.wikipedia.org/wiki/HMS_Tenedos_(H04))

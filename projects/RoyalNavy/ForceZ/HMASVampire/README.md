@@ -47,16 +47,16 @@ as the number and vintage of the planes on hand were totally outclassed by the J
 
 Basic call-outs..
 
-| Feature                 | Recommended | Name             | Paint Used |
-|-------------------------|-------------|------------------|------------|
-| guns                    | X-10        | Gun metal        | Humbrol 53 |
-| search light            | X-11        | Chrome Silver    | Vallejo 70.997 Silver |
-| lower hull, masts       | XF-1        | Flat Black       | Vallejo70.862 Black Grey |
-| boat                    | XF-52       | Flat Earth       | Vallejo 70.921 English Uniform |
-| deck                    | XF-53       | Neutral Grey     | Vallejo 70.992 Neutral Grey |
-| anchor chains           | XF-56       | Metallic Grey    | Humbrol 56 |
-| hull and superstructure | XF-80/TS-81 | Royal Light Grey | Vallejo 70.989 sky grey |
-| primer                  |             |                  | Vallejo 74.602 Black Surface Primer |
+| Feature                 | Recommended | Name             | Paint Used                            |
+|-------------------------|-------------|------------------|---------------------------------------|
+| guns                    | X-10        | Gun metal        | Humbrol 53                            |
+| search light            | X-11        | Chrome Silver    | Vallejo 70.997 Silver                 |
+| lower hull, masts       | XF-1        | Flat Black       | Vallejo70.862 Black Grey              |
+| boat                    | XF-52       | Flat Earth       | Vallejo 70.921 English Uniform        |
+| deck                    | XF-53       | Neutral Grey     | Vallejo 70.992 Neutral Grey           |
+| anchor chains           | XF-56       | Metallic Grey    | Humbrol 56                            |
+| hull and superstructure | XF-80/TS-81 | Royal Light Grey | Vallejo 70.989 sky grey               |
+| primer                  |             |                  | Vallejo 74.602 Black Surface Primer   |
 
 ## Construction
 
@@ -110,12 +110,21 @@ The model base forms part of a [20 x 12 x 9cm acrylic display case](https://shop
 * HMAS Vampire Tamiya Waterline Series No. 31910 1:700
     * [on scalemates](https://www.scalemates.com/kits/tamiya-31910-vampire--171459)
     * [instructions](./assets/31910-instructions.pdf)
+    * Purchased from Hobby Point for SG$18.00 (Apr-2021).
 * V & W Class Destroyers For Tamiya HMS Vampire Kit White Ensign Models No. PE 791 1:700
     * [on scalemates](https://www.scalemates.com/kits/white-ensign-models-pe-791-v-and-w-class-destroyers--310853)
     * [instructions](./assets/PE791-instructions.pdf)
+    * Purchased from White Ensign Models for US$16.00 (Jul-2021).
 
 ### Research References
 
-* [V and W-class destroyer](https://en.wikipedia.org/wiki/V_and_W-class_destroyer)
-* [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
-* [Force Z](https://en.wikipedia.org/wiki/Force_Z) - wikipedia
+* [V and W-class destroyers](https://en.wikipedia.org/wiki/V_and_W-class_destroyer)
+* <https://en.wikipedia.org/wiki/Sinking_of_Prince_of_Wales_and_Repulse>
+* <https://en.wikipedia.org/wiki/Force_Z>
+    * Battleship [HMS Prince of Wales](https://en.wikipedia.org/wiki/HMS_Prince_of_Wales_(53))
+    * Battlecruiser [HMS Repulse](https://en.wikipedia.org/wiki/HMS_Repulse_(1916))
+    * Destroyer escorts:
+        * [HMS Electra (H27)](https://en.wikipedia.org/wiki/HMS_Electra_(H27))
+        * [HMS Express (H61)](https://en.wikipedia.org/wiki/HMS_Express_(H61))
+        * [HMAS Vampire (D68)](https://en.wikipedia.org/wiki/HMAS_Vampire_(D68))
+        * [HMS Tenedos (H04)](https://en.wikipedia.org/wiki/HMS_Tenedos_(H04))
