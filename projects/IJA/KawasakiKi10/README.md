@@ -9,26 +9,27 @@ Building the ICM Kawasaki Ki-10 as used by the IJN, based on the ICM 1:72 kit.
 The Kawasaki Ki-10 (九五式戦闘機, Army Type 95 Fighter) was the last biplane fighter used by the Imperial Japanese Army.
 Entering service in 1935, it saw combat service in Manchukuo and in North China during the early stages of the Second Sino-Japanese War. Its reporting name given by the Allies was "Perry".
 
-[![KI-10_type_II_Kai_page_89](./assets/KI-10_type_II_Kai_page_89.jpg?raw=true)](https://en.wikipedia.org/wiki/Kawasaki_Ki-10)
+[![KI-10_type_II_Kai_page_89](./references/KI-10_type_II_Kai_page_89.jpg?raw=true)](https://en.wikipedia.org/wiki/Kawasaki_Ki-10)
 
-### References
+### The Kit
 
-Nice build of the Fine Molds kit:
+[Ki-10-II Japan Army Biplane Fighter ICM No. 72311 1:72](https://www.scalemates.com/kits/icm-72311-ki-10-ii--644092)
+is a 202x boxing of the 2006 tool.
 
-* [Kawasaki Ki-10-II Perry](https://www.modellversium.de/galerie/23-flugzeuge-ww1/4405-kawasaki-ki-10-ii-perry.html)
+[![box-art](./assets/72311-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-72311-ki-10-ii--644092)
 
 ### Paint Scheme
 
-| Feature               | Color                | Recommended      | Paint Used |
-|-----------------------|----------------------|------------------|------------|
-| interior              |                      |                  | H58        |
-| A tires, trim         | flat black           | MM 1749          | H12        |
-| B fuselage            | duck egg green       | MM 1716:1768 2:3 | H74        |
-| C spinner tip, markings | insignia red       | MM 1705          | H23        |
-| D engine block        | steel                | MM 1780          | H76        |
-| E propeller           | aluminium            | MM 1781          | 77.701     |
-| F                     | gunmetal             | MM 1795          |            |
-| G                     | rust                 | MM 1785          |            |
+| Feature                 | Color                | Recommended      | Paint Used |
+|-------------------------|----------------------|------------------|------------|
+| interior                |                      |                  | H58        |
+| A tires, trim           | flat black           | MM 1749          | H12        |
+| B fuselage              | duck egg green       | MM 1716:1768 2:3 | H74        |
+| C spinner tip, markings | insignia red         | MM 1705          | H23        |
+| D engine block          | steel                | MM 1780          | H76        |
+| E propeller             | aluminium            | MM 1781          | 77.701     |
+| F                       | gunmetal             | MM 1795          |            |
+| G                       | rust                 | MM 1785          |            |
 
 ### Build Log
 
@@ -56,7 +57,15 @@ Nice build of the Fine Molds kit:
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=157297)
 * Ki-10-II Japan Army Biplane Fighter ICM No. 72311 1:72
     * [on scalemates](https://www.scalemates.com/kits/icm-72311-ki-10-ii--644092)
+    * [instructions](./assets/72311-instructions.pdf)
+    * Purchased from Hobby Point for SG$14.70 (Sep-2023)
 
 ### Research References
 
 * [Kawasaki Ki-10](https://en.wikipedia.org/wiki/Kawasaki_Ki-10) - wikipedia
+
+### Build References
+
+Nice build of the Fine Molds kit:
+
+* [Kawasaki Ki-10-II Perry](https://www.modellversium.de/galerie/23-flugzeuge-ww1/4405-kawasaki-ki-10-ii-perry.html)

@@ -33,7 +33,7 @@ I believe it is the same basic model in Rye Field Model's other T-34/85 kits.
 The T-34 sat on the shelf for quite some time until I found the some really good Chinese People's Volunteer resin figures -
 [Thirty-Eight Degree Line YUFAN Model No. YFWW-1639 1:35](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
 
-[![yfww-1639-box-cover](./yfww-1639-box-cover.jpg?raw=true)](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
+[![yfww-1639-box-cover](./assets/yfww-1639-box-cover.jpg?raw=true)](https://www.scalemates.com/kits/yufan-model-yfww-1639-thirty-eight-degree-line-chinese-peoples-volunteers--1483016)
 
 Finally, it was the
 [Micro Machines Podcast Cold War Group Build](https://discord.com/channels/947274644442988604/1068705793098133514/1068708130122387536)
@@ -43,7 +43,7 @@ that kicked me into action to build this.
 
 | Feature               | Color                | Recommended | Paint Used |
 |-----------------------|----------------------|-------------|------------|
-| primer                |                      |             | Mr Surfacer           |
+| primer                |                      |             | Mr Surfacer|
 | tracks                | Metallic  Black      | C78/H28     |            |
 | wheels                | TIRE BLACK           | C137/H77    |            |
 | body                  | GREEN FS34102        | C303/H303   | H511       |

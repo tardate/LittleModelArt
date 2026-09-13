@@ -16,7 +16,7 @@ kit at Hobby Mate ホビーメイト in Osaka.
 
 The tooling comes from 1995, and Hasegawa have been re-releasing every few years (the last in 2019).
 
-[![box-art](./assets/51270-kit-box.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
+[![box-art](./assets/51270-box-art.jpg)](https://www.scalemates.com/kits/hasegawa-51270-kawasaki-ki-45kai-otsu-toryu-nick-4th-flight-regiment--177786)
 
 ### Schemes
 
@@ -122,8 +122,10 @@ It's now added to my wall of flight..
     * Purchased from Hobby Mate ホビーメイト Osaka for ¥2,040 (Jan-2024).
 * for Hasegawa Ki-45 KAI Ko/Hei Toryu Canopy Mask DEAD Design Models No. VM72004 1:72
     * [on scalemates](https://www.scalemates.com/kits/dead-design-models-vm72004-ki-45-kai-ko-hei-toryu-canopy-mask--1173407)
-* 1/72 Scale Model Japanese Cockpit Pilot Figures - Frontline Collection Store
-    * [on aliexpress](https://www.aliexpress.com/item/1005006220262721.html)
+    * Purchased from DEAD Design Models for €6.92 (Apr-2024).
+* Japanese pilots seated in cockpit 1:72
+    * ["1/48 1/72 Scale Model Janpanese Cockpit Pilot 6 Soldier Figures Unpainted Resin Doll Military Miniature Soldiers Collection" (aliexpress seller listing)](https://www.aliexpress.com/item/1005006220262721.html)
+    * Purchased set of 6 from Frontline Collection Store for SG$16.43 (Sep-2024).
 
 ### Research References
 
