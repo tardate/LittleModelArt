@@ -53,21 +53,20 @@ Aircraft now preserved at the Jet Age Museum, Gloucestershire Airport, Staverton
 
 I'm building Scheme A Gloster Javelin FAW.9R - No.64 Squadron, Royal Air Force Tengah, Singapore, 1960s.
 
-| Feature                | Color                    | Recommended | Paint Used |
-|------------------------|--------------------------|-------------|------------|
-| wheel wells            | Silver                   | 11          | n/a        |
-| lower fuselage         | Silver                   | 11          | SM208      |
-| ejection seat pulls    | Matt Trainer Yellow      | 24          | H34        |
+| Feature                | Color                    | Recommended | Paint Used                  |
+|------------------------|--------------------------|-------------|-----------------------------|
+| wheel wells            | Silver                   | 11          | n/a                         |
+| lower fuselage         | Silver                   | 11          | SM208                       |
+| ejection seat pulls    | Matt Trainer Yellow      | 24          | H34                         |
 | cockpit interior       | Matt Black               | 33          | Aqueous Surfacer 1000 Black |
-| nose cone, intake trim | Matt Black               | 33          | H12                            |
+| nose cone, intake trim | Matt Black               | 33          | H12                         |
 | exhaust                | Gun Metal                | 53          | H18                         |
-|                        | Matt Scarlet             | 60          |            |
+|                        | Matt Scarlet             | 60          |                             |
 | seat                   | Matt Brown Yellow        | 94          | 70.843 + 70.917             |
 | missiles               | Satin White              | 130         | H11                         |
 | upper fuselage camo 1  | Dark Green BS381C 641    | 163         | H80, H73, highlights w/H27  |
 | upper fuselage camo 2  | Dark Sea Grey BS381C 638 | 164         | H331, H416 pre-shade        |
 | pitot tubes            | Chrome Silver            | 191         | SM206                       |
-|                        |                          |             |            |
 
 ### Pilot Figures
 
@@ -78,7 +77,7 @@ After searching around for a bit, I settled on a set of
 
 I can't guarantee they are totally accurate for the aircraft, but they look pretty convincing, and there's not much to see when they are settled down in the cockpit!
 
-[![BY1S48](./assets/BY1S48.jpg)](https://www.aliexpress.com/item/1005007523380220.html)
+[![BY1S48](./assets/BY1S48-box-art.jpg)](https://www.aliexpress.com/item/1005007523380220.html)
 
 ### Build Log
 
@@ -183,6 +182,7 @@ I realised I don't really have the space or lights to capture the build in my wo
     * Purchased from hobby.dn.ua for €10.67 (Nov-2023).
 * FPJ Model BY1S48 1/48 Scale Resin Model 6 Jet Pilots
     * [on aliexpress](https://www.aliexpress.com/item/1005007523380220.html)
+    * Purchased from Frontline Collection Store (aliexpress) for SG$25.94 (Aug-2024).
 
 ### Research References
 
