@@ -14,9 +14,11 @@ I've used these figures in a few projects:
 ### The Kit
 
 RAF Pilots and Ground Personnel (1939-1945) ICM No. 48081 1:48 has appeared in various forms and was tooled back in the 1990's.
-I got it included as part of the diorama set WWII RAF Airfield ICM No. DS4802 1:48 from 2021.
+I got it included as part of the diorama set [WWII RAF Airfield ICM No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442) from 2021.
 
 [![box-art](./assets/48081-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-48081-raf-pilots-and-ground-personnel--211639)
+
+[![box-art](../wwii-raf-airfield/assets/DS4802-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
 
 ### Paint Scheme
 
@@ -150,6 +152,8 @@ I got it included as part of the diorama set WWII RAF Airfield ICM No. DS4802 1:
 
 ![build08b](./assets/build08b.jpg?raw=true)
 
+![build08c](./assets/build08c.jpg?raw=true)
+
 ![build10d](./assets/build10d.jpg?raw=true)
 
 ![build11a](./assets/build11a.jpg?raw=true)
@@ -164,7 +168,12 @@ I got it included as part of the diorama set WWII RAF Airfield ICM No. DS4802 1:
 * WWII RAF Airfield ICM No. DS4802 1:48
     * [on scalemates](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
     * [on icm.com.ua](https://icm.com.ua/pack/wwii-raf-airfield-spitfire-mk-ix-spitfire-mk-vii-raf-pilots-and-ground-personnel/)
-    * Purchased from IBG Models for €25.00 (Jun-2021).
+    * Purchased from IBG Models for €25.00 (Jun-2021)
+    * Used for the following projects:
+        * [#135 Homecoming](../../RAF/Homecoming/)
+        * [#176 RAF Pilots and Ground Personnel](../../RAF/raf-pilots-and-ground-personnel/)
+        * [#177 Spitfire Mk.IX](../../Spitfire/IX/)
+        * [#178 Spitfire Mk.VII](../../Spitfire/VII/)
 
 ### Research References
 
