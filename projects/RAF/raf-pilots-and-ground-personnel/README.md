@@ -9,6 +9,7 @@ Painting up the set of figures from ICM in 1:48 scale.
 I've used these figures in a few projects:
 
 * [#135 Homecoming](../Homecoming/)
+* [#177 Spitfire Mk.IX](../../Spitfire/IX/)
 
 ### The Kit
 
