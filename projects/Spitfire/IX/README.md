@@ -1,4 +1,4 @@
-# #xxx Spitfire Mk.IX
+# #177 Spitfire Mk.IX
 
 Spitfire Mk.IX JE-J as flown by Wing Commander Johnnie Johnson. The ICM 1:48 kit build was largely completed during a 48-hour group build, but finished on a diorama base over a couple of weeks.
 
