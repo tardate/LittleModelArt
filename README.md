@@ -1,6 +1,6 @@
-# 175 Little Model Art Projects
+# 177 Little Model Art Projects
 
-> Latest addition :sparkles: [HMS Fearless](./projects/RoyalNavy/HMSFearless) - Building the vintage classic HMS Fearless from Airfix in 1:600 scale.
+> Latest addition :sparkles: [Spitfire Mk.IX](./projects/Spitfire/IX) - Spitfire Mk.IX JE-J as flown by Wing Commander Johnnie Johnson. The ICM 1:48 kit build was largely completed during a 48-hour group build, but finished on a diorama base over a couple of weeks.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

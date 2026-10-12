@@ -1,5 +1,25 @@
 [
     {
+        "name": "Spitfire Mk.IX",
+        "description": "Spitfire Mk.IX JE-J as flown by Wing Commander Johnnie Johnson. The ICM 1:48 kit build was largely completed during a 48-hour group build, but finished on a diorama base over a couple of weeks.",
+        "categories": "Aircraft - military, UK, Canada, ICM",
+        "relative_path": "projects/spitfire/ix",
+        "updated_at": "2026-10-12T13:10:00Z",
+        "created_at": "2026-10-12T13:10:00Z",
+        "id": "#177",
+        "original_relative_path": "projects/Spitfire/IX"
+    },
+    {
+        "name": "RAF Pilots and Ground Personnel",
+        "description": "Painting up the set of figures from ICM in 1:48 scale.",
+        "categories": "Figures, UK, ICM",
+        "relative_path": "projects/raf/raf-pilots-and-ground-personnel",
+        "updated_at": "2026-10-12T13:09:00Z",
+        "created_at": "2026-10-12T13:09:00Z",
+        "id": "#176",
+        "original_relative_path": "projects/RAF/raf-pilots-and-ground-personnel"
+    },
+    {
         "name": "HMS Fearless",
         "description": "Building the vintage classic HMS Fearless from Airfix in 1:600 scale.",
         "categories": "Ships - military, UK, Airfix",
