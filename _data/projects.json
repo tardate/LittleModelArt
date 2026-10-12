@@ -1,4 +1,14 @@
 {
+    "/projects/raf/raf-pilots-and-ground-personnel/": {
+        "id": 176,
+        "title": "RAF Pilots and Ground Personnel",
+        "summary": "Painting up the set of figures from ICM in 1:48 scale.",
+        "tags": [
+            "Figures",
+            "UK",
+            "ICM"
+        ]
+    },
     "/projects/royalnavy/hmsfearless/": {
         "id": 175,
         "title": "HMS Fearless",

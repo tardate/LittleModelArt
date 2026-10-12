@@ -1,6 +1,6 @@
-# 175 Little Model Art Projects
+# 176 Little Model Art Projects
 
-> Latest addition :sparkles: [HMS Fearless](./projects/RoyalNavy/HMSFearless) - Building the vintage classic HMS Fearless from Airfix in 1:600 scale.
+> Latest addition :sparkles: [RAF Pilots and Ground Personnel](./projects/RAF/raf-pilots-and-ground-personnel) - Painting up the set of figures from ICM in 1:48 scale.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
