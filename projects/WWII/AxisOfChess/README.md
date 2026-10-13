@@ -26,7 +26,7 @@ that will add US, Soviet and British subjects to the line.
 
 At present though I could only get axis forces, hence the red-on-red action!
 
-![MI02](./assets/MI02.jpg?raw=true)
+[![box-art](./assets/MI02-box-art.jpg?raw=true)](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
 
 The
 [MI02 WWII German Military Vehicle Set 1](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
@@ -48,12 +48,12 @@ I decided to assign the pieces as follows:
 
 Main paints used:
 
-| Feature               | Color                    | Recommended | Paint Used |
-|-----------------------|--------------------------|-------------|------------|
-| seats and trim        | Flat Black               | H12/C33     | H12           |
-| tires and tracks      | Steel                    | H18/C28     | H18        |
-| Desert Camo           | Dunkel Gelb/Sandy Yellow | H79/C39     | 70.824 German Camo Orange Ochre           |
-| Europe Camo           | Field Grey               | H32/C40     | H32           |
+| Feature               | Color                    | Recommended | Paint Used                      |
+|-----------------------|--------------------------|-------------|---------------------------------|
+| seats and trim        | Flat Black               | H12/C33     | H12                             |
+| tires and tracks      | Steel                    | H18/C28     | H18                             |
+| Desert Camo           | Dunkel Gelb/Sandy Yellow | H79/C39     | 70.824 German Camo Orange Ochre |
+| Europe Camo           | Field Grey               | H32/C40     | H32                             |
 
 ### Build Log
 
@@ -105,6 +105,7 @@ from [@proper.plane](https://www.instagram.com/proper.plane/)
     * [on scalemates](https://www.scalemates.com/kits/pit-road-mi02-wwii-german-military-vehicle-set-1--1338389)
     * [on Pit-Road site](https://pit-road.jp/mi02/) - MI02 1/700 WWII ドイツ軍用車両セット 1
     * [instructions](./assets/MI02-instructions.pdf)
+    * Purchased from Plaza Japan for ¥1,725 (Apr-2022).
 * [Proper Plane plywood decals](https://properplane.com/accessories_and_decal)
 
 ### Research References

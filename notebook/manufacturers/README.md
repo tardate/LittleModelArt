@@ -137,6 +137,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Bad Squiddo Games](https://badsquiddogames.com/)                        | 28mm figures and games |
 | UK               | [Beacon Models](https://beacon-models.com/)                              | 1:144 aircraft |
 | UK               | [Bloody Miniatures](https://www.bloodyminiatures.co.uk/)                 | 28mm white metal figures for English Civil War and Thirty Years War |
+| UK               | [Buggleskelly Station](https://www.buggleskellystation.com/)             | Buggleskelly Station, the home of scale model maker Tom Marshall. Buildings and figures. |
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
 | UK               | [DELUXE Materials](https://deluxematerials.co.uk/)                       | Glues, foams and other construction accessories  |
 | UK               | [Early War Miniatures](https://earlywarminiatures.com/)                  | 20mm figures WWI and later |
@@ -204,6 +205,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | Ukraine          | [RT Models](http://rtmodels.com.ua/)                                     | retro trains |
 | Ukraine          | [SOVA-M](https://www.facebook.com/Sova.M.kits/)                          | kits, aircraft |
 | Ukraine          | [SP Designs](https://afv1-35.wixsite.com/spdesigns)                      | resin accessories |
+| Ukraine          | [SPALAH](https://spalah-models.com/en/)                                  | 3D printed model kits and accessories |
 | Ukraine          | [The Red Box](https://theredbox.com.ua/)                                 | historical miniatures |
 | Ukraine          | [Ukrainian Scale Cars Production](https://www.uscp-ua.com/)              | cars and accessories |
 | Ukraine          | [Unicraft Models](http://unicraft.biz/)                                  | |
@@ -216,6 +218,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | USA              | [decalcomaniacs](http://www.decalcomaniacs.net/)                         | custom decals - [facebook](https://www.facebook.com/people/Decalcomaniacs-decals/100057221659411/), [ebay](https://www.ebay.com/str/decalcomaniacs) |
 | USA              | [Diemension Games](https://www.facebook.com/diemensiongames/)            | kickstarter games with miniatures |
 | USA              | [Flying Leathernecks Decals](https://www.flyingleathernecksdecals.com/)  | Decals and aftermarket kits - US Marine aviation |
+| USA              | [Fos Scale Models](https://fosscalemodels.com/)                          | Railway/diorama kits and accessories |
 | USA              | [HäT (Hat Toy Soldiers)](http://www.hat.com/)                            | miniatures |
 | USA              | [Imperial Hobby Productions](https://ihphobby.tripod.com/)               | 1/700 scale ships, HO scale commuter and transit vehicles |
 | USA              | [Kato Precision Railroad Models (USA)](https://katousa.com/)             | trains - US division, mainly North American subjects |

@@ -33,7 +33,7 @@ I purchased the kit at Miniature Hobby Singapore in Apr 2024 for SGD$15.50.
 
 See [instructions](./assets/MB3544-instructions.jpg)
 
-![box-art](./assets/MB3544-kit-box.jpg?raw=true)
+![box-art](./assets/MB3544-box-art.jpg?raw=true)
 
 ### Paint Scheme
 
@@ -71,6 +71,7 @@ US Marines engage the 7th Sasebo Special Naval Landing Force on Tarawa
 * Bloody Atoll series Kit No 3 Hand-to-hand combat Tarawa, November 1943 Master Box No. MB3544 1:35
     * [on scalemates](https://www.scalemates.com/kits/master-box-mb3544-hand-hand-combat--132994)
     * [instructions](./assets/MB3544-instructions.jpg)
+    * Purchased from Miniature Hobby for SG$15.50 (Apr-2024).
 
 ### Research References
 

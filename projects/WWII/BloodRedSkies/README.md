@@ -17,7 +17,7 @@ I purchased this direct from Airfix for £16.66 (Jan-2024).
 
 See [instructions](./assets/A1500-instructions.pdf)
 
-![box-art](./assets/A1500-kit-box.jpg?raw=true)
+![box-art](./assets/A1500-box-art.jpg?raw=true)
 
 Contents:
 
@@ -179,6 +179,7 @@ Activating a Plane:
     * [on scalemates](https://www.scalemates.com/kits/airfix-a1500-blood-red-skies-battle-britain--1329856)
     * [on airfix.com](https://uk.airfix.com/products/airfix-blood-red-skies-battle-britain-a1500)
     * [instructions](./assets/A1500-instructions.pdf)
+    * Purchased from Airfix for £16.66 (Jan-2024).
 * Supermarine Spitfire Mk.Ia Airfix No. A01071B 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a01071b-supermarine-spitfire-mkia--1510051)
 * Messerschmitt Bf109 E-4 Airfix No. A01008A 1:72
