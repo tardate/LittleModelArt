@@ -16,8 +16,10 @@ The Air Ministry made the decision that Mk Vc airframes should be converted to t
 
 ### The Kit
 
-[Spitfire Mk.IX ICM No. 48061 1:48](https://www.scalemates.com/kits/icm-48061-spitfire-mkix--140999), purchased as part of DS4802,
-is a re-boxing of a 2001 tooling.
+[Spitfire Mk.IX ICM No. 48061 1:48](https://www.scalemates.com/kits/icm-48061-spitfire-mkix--140999) is a 2001 tooling.
+I got it included as part of the 2021 diorama set [WWII RAF Airfield ICM No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442).
+
+[![box-art](../../RAF/wwii-raf-airfield/assets/DS4802-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
 
 The kit includes two schemes:
 
@@ -255,7 +257,12 @@ I cut the box with an [xTool S1 Laser Cutter at the library](https://leap.tardat
 * WWII RAF Airfield ICM No. DS4802 1:48
     * [on scalemates](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
     * [on icm.com.ua](https://icm.com.ua/pack/wwii-raf-airfield-spitfire-mk-ix-spitfire-mk-vii-raf-pilots-and-ground-personnel/)
-    * Purchased from IBG Models for €25.00 (Jun-2021).
+    * Purchased from IBG Models for €25.00 (Jun-2021)
+    * Used for the following projects:
+        * [#135 Homecoming](../../RAF/Homecoming/)
+        * [#176 RAF Pilots and Ground Personnel](../../RAF/raf-pilots-and-ground-personnel/)
+        * [#177 Spitfire Mk.IX](../../Spitfire/IX/)
+        * [#178 Spitfire Mk.VII](../../Spitfire/VII/)
 
 ### Research References
 

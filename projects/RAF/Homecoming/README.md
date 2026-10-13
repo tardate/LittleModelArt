@@ -83,6 +83,10 @@ Spitfire Mk.Ia
 ## Credits and References
 
 * [this project on scalemates](https://www.scalemates.com/profiles/mate.php?id=74137&p=projects&project=190264)
+* WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
+    * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
+    * [instructions](./assets/S32-instructions.pdf)
+    * Purchased from Yodobashi Shinjuku for ¥1,573 (Dec-2022)
 * RAF Pilots and Ground Personnel (1939-1945) ICM No. 48081 1:48
     * [on scalemates](https://www.scalemates.com/kits/icm-48081-raf-pilots-and-ground-personnel--211639)
     * [on icm.com.ua](https://icm.com.ua/figure/raf-pilots-and-ground-personnel-1939-1945/)
@@ -92,7 +96,8 @@ Spitfire Mk.Ia
     * [on scalemates](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
     * [on icm.com.ua](https://icm.com.ua/pack/wwii-raf-airfield-spitfire-mk-ix-spitfire-mk-vii-raf-pilots-and-ground-personnel/)
     * Purchased from IBG Models for €25.00 (Jun-2021)
-* WWII Royal Air Force Wings Set 1 Pit-Road No. S32 1:700
-    * [on scalemates](https://www.scalemates.com/kits/pit-road-s32-wwii-royal-air-force-wings-set-1--1134373)
-    * [instructions](./assets/S32-instructions.pdf)
-    * Purchased from Yodobashi Shinjuku for ¥1,573 (Dec-2022)
+    * Used for the following projects:
+        * [#135 Homecoming](../../RAF/Homecoming/)
+        * [#176 RAF Pilots and Ground Personnel](../../RAF/raf-pilots-and-ground-personnel/)
+        * [#177 Spitfire Mk.IX](../../Spitfire/IX/)
+        * [#178 Spitfire Mk.VII](../../Spitfire/VII/)

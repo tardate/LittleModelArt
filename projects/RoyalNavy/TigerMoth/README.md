@@ -13,7 +13,7 @@ Here's a quick demo..
 Still a familiar sight at airfields all over the world, the de Havilland Tiger Moth primary trainer made its first flight back in 1931 and went on to provide British and Commonwealth air forces with thousands of trained pilots for their operational squadrons. Performing a similar role to this day, the Tiger Moth allows prospective Warbird pilots to gain valuable experience in flying a tail-dragger aircraft.
 
 The Airfix 1:72 De Havilland DH.82a Tiger Moth A02106 kit is a relatively new (2014) tool and this latest edition includes new decals and markings for a very attractive silver with yellow bands for a 1962 XL717 Royal Navy Fleet Air Arm based in Abbotsinch, Scotland.
-The picture this immediately conjoured up for me was of the plane heading out to sea over a rocky coastline .. and so that is the vignette I set out to build here!
+The picture this immediately conjured up for me was of the plane heading out to sea over a rocky coastline .. and so that is the vignette I set out to build here!
 
 The kit came from my favourite local hobby shop - [Hobby Bounties](https://hobbybounties.com/).
 
@@ -30,18 +30,18 @@ Scheme 1: De Havilland DH.82a Tiger Moth Royal Naval Air Station Abbotsinch, Pai
 
 Basic colors:
 
-| Feature                     | Colour        | Humbrol   | Paint Used  |
-|-----------------------------|---------------|-----------|-------------|
-| fuselage                    | Silver        | 11        | Vallejo 70.997 Silver |
-| fuselage stripes, prop tips | Matt Yellow   | 24        | Vallejo 70.952 Lemon Yellow|
-| prop, wheels                | Black         | 33        | Vallejo 70.950 Black |
-| grille                      | Gunmetal      | 53        | Vallejo 70.863 Gunmetal Grey|
-| cockpit interiors           | Cockpit Green | 78        | Humbrol 78 |
-| crew/uniform                | RAF Blue      | 96        | mixed acrylics |
+| Feature                     | Colour        | Humbrol   | Paint Used                   |
+|-----------------------------|---------------|-----------|------------------------------|
+| fuselage                    | Silver        | 11        | Vallejo 70.997 Silver        |
+| fuselage stripes, prop tips | Matt Yellow   | 24        | Vallejo 70.952 Lemon Yellow  |
+| prop, wheels                | Black         | 33        | Vallejo 70.950 Black         |
+| grille                      | Gunmetal      | 53        | Vallejo 70.863 Gunmetal Grey |
+| cockpit interiors           | Cockpit Green | 78        | Humbrol 78                   |
+| crew/uniform                | RAF Blue      | 96        | mixed acrylics               |
 
 ## Installing the Engine
 
-My chosen elctronics challenge with this build is to motorise the propeller.
+My chosen electronics challenge with this build is to motorise the propeller.
 
 The first mission: find the smallest motor to fit the engine cowling. These old mobile phone vibration motors are just the right size.
 
@@ -49,13 +49,13 @@ The first mission: find the smallest motor to fit the engine cowling. These old 
 
 ## Motor Control
 
-For simple motor control, I'll be using a 3V PWM controler using on a 555 Timer. The trim-pot provides adjustable duty cycle.
+For simple motor control, I'll be using a 3V PWM controller using on a 555 Timer. The trim-pot provides adjustable duty cycle.
 
 ![Breadboard](./assets/TigerMoth_bb.jpg?raw=true)
 
 ![Schematic](./assets/TigerMoth_schematic.jpg?raw=true)
 
-With the motor temporarily tcked in place, the first bench test of the motor goes smoothly!
+With the motor temporarily tacked in place, the first bench test of the motor goes smoothly!
 
 ![TigerMoth_bb_build](./assets/TigerMoth_bb_build.jpg?raw=true)
 
@@ -69,7 +69,7 @@ Here's a scope trace of the PWM signal at ~60% duty cycle:
 
 ## Construction
 
-The generic Airfix aircrew got a few positional mods and an impressionistic paint job .. perhaps faintly reminiscent of the Ecce Homo resoration - but it does work from a distance!
+The generic Airfix aircrew got a few positional mods and an impressionistic paint job .. perhaps faintly reminiscent of the Ecce Homo restoration - but it does work from a distance!
 
 ![aircrew_mods](./assets/aircrew_mods.jpg?raw=true)
 
