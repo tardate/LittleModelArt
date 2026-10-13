@@ -137,6 +137,7 @@ This is not an exhaustive list - mainly just companies with products that have c
 | UK               | [Bad Squiddo Games](https://badsquiddogames.com/)                        | 28mm figures and games |
 | UK               | [Beacon Models](https://beacon-models.com/)                              | 1:144 aircraft |
 | UK               | [Bloody Miniatures](https://www.bloodyminiatures.co.uk/)                 | 28mm white metal figures for English Civil War and Thirty Years War |
+| UK               | [Buggleskelly Station](https://www.buggleskellystation.com/)             | Buggleskelly Station, the home of scale model maker Tom Marshall. Buildings and figures. |
 | UK               | [Dapol](https://www.dapol.co.uk/)                                        | |
 | UK               | [DELUXE Materials](https://deluxematerials.co.uk/)                       | Glues, foams and other construction accessories  |
 | UK               | [Early War Miniatures](https://earlywarminiatures.com/)                  | 20mm figures WWI and later |

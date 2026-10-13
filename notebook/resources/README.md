@@ -1,8 +1,8 @@
 # Modeling Information Sites/Forums
 
 * [Airfix Tribute Forum](https://www.tapatalk.com/groups/airfixtributeforum/)
-* [Armorama.com](https://armorama.com/)
-* [Britmodeller.com](https://www.britmodeller.com/)
+* [Armorama](https://armorama.com/)
+* [Britmodeller](https://www.britmodeller.com/)
 * [Encyclopedia of Scale Models Wiki](https://esm.fandom.com)
 * [Free Ship Plans](https://freeshipplans.com/)
 * [Frog Model Aircraft](https://www.frogmodelaircraft.co.uk/) - documents the plastic models produced by FROG from the period of the 1950’s to 1976 as well as the Frog spawn that followed
@@ -13,10 +13,13 @@
 * [modellmarine.de](http://www.modellmarine.de/)
 * [Napoleonic Wars](https://www.thenapoleonicwars.net/)
 * [Plastic Soldier Review](http://www.plasticsoldierreview.com/)
-* [scalemates.com](https://www.scalemates.com/kits/)
-* [scalemodeladdict.com](https://www.scalemodeladdict.com/)
-* [scalemodellingnow.com](https://www.scalemodellingnow.com/)
-* [spruepiewithfrets](https://spruepiewithfrets.wordpress.com/)
+* [scalemates](https://www.scalemates.com/kits/)
+* [scale model addict](https://www.scalemodeladdict.com/)
+* [scale modelling now](https://www.scalemodellingnow.com/)
+* [Scale Model Workshop](https://scale-model-workshop.com/)
+* [Ships of Scale](https://shipsofscale.com/sosforums/)
+* [Sprue Crew](https://spruecrew.com/) - new community site
+* [sprue pie with frets](https://spruepiewithfrets.wordpress.com/)
 * [Super Glue Not Drying (Quick Guide)](https://glueschool.com/super-glue-not-drying/)
 * [The Gallery of Japanese Wartime Merchantships](http://ww6.enjoy.ne.jp/~iwashige/) - Motoyuki Iwashige
 * [themodellingnews.com](https://www.themodellingnews.com/)
