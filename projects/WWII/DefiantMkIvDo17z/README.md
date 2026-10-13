@@ -152,15 +152,19 @@ These kits were both tooled in 2014 and are a joy to build and were an early sig
 * Boulton Paul Defiant Mk.I Airfix No. A02069 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a02069-boulton-paul-defiant-mki--636182)
     * [instructions](./assets/A02069-instructions.pdf)
+    * Purchased from Airfix for £8.99 (Jan-2023).
 * Defiant Mk. I for Airfix Eduard No. CX414 1:72
     * [on scalemates](https://www.scalemates.com/kits/eduard-cx414-defiant-mk-i--943106)
     * [instructions](./assets/CX414-instructions.pdf)
+    * Purchased from Super Hobby for SG$10.71 (Jan-2023).
 * Dornier Do-17z Airfix No. A05010A 1:72
     * [on scalemates](https://www.scalemates.com/kits/airfix-a05010a-dornier-do-17z--1396804)
     * [instructions](./assets/A05010A-instructions.pdf)
+    * Purchased from Airfix for £21.74 (Jan-2023).
 * Do 17 Z for Airfix Eduard No. CX411 1:72
     * [on scalemates](https://www.scalemates.com/kits/eduard-cx411-do-17-z--940535)
     * [instructions](./assets/CX411-instructions.pdf)
+    * Purchased from Super Hobby for SG$14.11 (Jan-2023).
 
 ### Research References
 

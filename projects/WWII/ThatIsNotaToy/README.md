@@ -69,5 +69,7 @@ Building the base
     * [on scalemates](https://www.scalemates.com/kits/airfix-a1368-m7-priest--1260500)
     * [on Airfix site](https://uk.airfix.com/products/m7-priest-a1368)
     * [instructions](./assets/A1368-instructions.pdf)
-* Civilians Western Region, WWII era Master Box - No. MB3567 - 1:35
+    * Won as a prize
+* Civilians Western Region, WW II era Master Box No. MB3567 1:35
     * [on scalemates](https://www.scalemates.com/kits/master-box-mb3567-civilians--133854)
+    * Purchased from IBG Models for €10.00 (Jun-2021)
