@@ -1,6 +1,6 @@
 # #178 Spitfire Mk.VII
 
-Spitfire Mk.VII NX-O (Spirit of Kent) as flown by Squadron Leader James O'Meara. This is the ICM 1:48 re-boxing of a 2001 tooling.
+Spitfire Mk.VII NX-O (Spirit of Kent) as flown by Squadron Leader James O'Meara. This is the ICM 1:48 2021 re-boxing of a 2001 tooling.
 
 ![Build](./assets/VII_build.jpg?raw=true)
 
@@ -14,9 +14,8 @@ Extended, "pointed" wingtips were fitted to the Type C wings, increasing the win
 
 ### The Kit
 
-[Spitfire Mk.VII ICM No. 48062 1:48](https://www.scalemates.com/kits/icm-48062-spitfire-mk-vii--1316778),
-purchased as part of [DS4802](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442),
-is a re-boxing of a 2001 tooling.
+[Spitfire Mk.VII ICM No. 48062 1:48](https://www.scalemates.com/kits/icm-48062-spitfire-mk-vii--1316778) is a 2001 tooling.
+I got it included as part of the 2021 diorama set [WWII RAF Airfield ICM No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442).
 
 [![box-art](../../RAF/wwii-raf-airfield/assets/DS4802-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
 
@@ -90,9 +89,17 @@ so I ended up throwing most of it away in the final assembly.
 
 ![build01f](./assets/build01f.jpg?raw=true)
 
+The fit is not great, and I didn't waste too much time trying to fix all the issues.
+
 ![build01g](./assets/build01g.jpg?raw=true)
 
 ![build01h](./assets/build01h.jpg?raw=true)
+
+### Pilot
+
+This is going to be an in-flight display,
+so I borrowed a pilot figure from the Airfix Hawker Fury I kit A04103.
+The pilot is a little under-scaled for the Spitfire kit, but he'll only be visible from the top so no-one will see the baby seat.
 
 ![build02a](./assets/build02a.jpg?raw=true)
 
@@ -102,6 +109,8 @@ so I ended up throwing most of it away in the final assembly.
 
 ![build02d](./assets/build02d.jpg?raw=true)
 
+### Final Paint
+
 ![build03a](./assets/build03a.jpg?raw=true)
 
 ![build03b](./assets/build03b.jpg?raw=true)
@@ -110,7 +119,15 @@ so I ended up throwing most of it away in the final assembly.
 
 ![build03d](./assets/build03d.jpg?raw=true)
 
+### Planes-in-Frames
+
+Simple background in a Daiso picture frame:
+
 ![build04a](./assets/build04a.jpg?raw=true)
+
+### Final Gallery
+
+Not a great kit, but at least I now have a pointy-wing example gracing my wall
 
 ![build05a](./assets/build05a.jpg?raw=true)
 

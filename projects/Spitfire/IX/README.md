@@ -16,9 +16,8 @@ The Air Ministry made the decision that Mk Vc airframes should be converted to t
 
 ### The Kit
 
-[Spitfire Mk.IX ICM No. 48061 1:48](https://www.scalemates.com/kits/icm-48061-spitfire-mkix--140999),
-purchased as part of [DS4802](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442),
-is a re-boxing of a 2001 tooling.
+[Spitfire Mk.IX ICM No. 48061 1:48](https://www.scalemates.com/kits/icm-48061-spitfire-mkix--140999) is a 2001 tooling.
+I got it included as part of the 2021 diorama set [WWII RAF Airfield ICM No. DS4802 1:48](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442).
 
 [![box-art](../../RAF/wwii-raf-airfield/assets/DS4802-box-art.jpg?raw=true)](https://www.scalemates.com/kits/icm-ds4802-wwii-raf-airfield--1346442)
 
