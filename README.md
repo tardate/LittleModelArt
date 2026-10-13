@@ -1,6 +1,6 @@
-# 177 Little Model Art Projects
+# 178 Little Model Art Projects
 
-> Latest addition :sparkles: [Spitfire Mk.IX](./projects/Spitfire/IX) - Spitfire Mk.IX JE-J as flown by Wing Commander Johnnie Johnson. The ICM 1:48 kit build was largely completed during a 48-hour group build, but finished on a diorama base over a couple of weeks.
+> Latest addition :sparkles: [Spitfire Mk.VII](./projects/Spitfire/VII) - Spitfire Mk.VII NX-O (Spirit of Kent) as flown by Squadron Leader James O'Meara. This is the ICM 1:48 re-boxing of a 2001 tooling.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

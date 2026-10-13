@@ -1,5 +1,15 @@
 [
     {
+        "name": "Spitfire Mk.VII",
+        "description": "Spitfire Mk.VII NX-O (Spirit of Kent) as flown by Squadron Leader James O'Meara. This is the ICM 1:48 re-boxing of a 2001 tooling.",
+        "categories": "Aircraft - military, UK, ICM",
+        "relative_path": "projects/spitfire/vii",
+        "updated_at": "2026-10-13T06:03:00Z",
+        "created_at": "2026-10-13T06:03:00Z",
+        "id": "#178",
+        "original_relative_path": "projects/Spitfire/VII"
+    },
+    {
         "name": "Spitfire Mk.IX",
         "description": "Spitfire Mk.IX JE-J as flown by Wing Commander Johnnie Johnson. The ICM 1:48 kit build was largely completed during a 48-hour group build, but finished on a diorama base over a couple of weeks.",
         "categories": "Aircraft - military, UK, Canada, ICM",
