@@ -1,6 +1,6 @@
-# 178 Little Model Art Projects
+# 179 Little Model Art Projects
 
-> Latest addition :sparkles: [Spitfire Mk.VII](./projects/Spitfire/VII) - Spitfire Mk.VII NX-O (Spirit of Kent) as flown by Squadron Leader James O'Meara. This is the ICM 1:48 2021 re-boxing of a 2001 tooling.
+> Latest addition :sparkles: [Brütsch Mopetta 1956](./projects/Germany/BrutschMopetta) - Building the Brütsch Mopetta 1956 1:24 resin kit from ZoomOn, finished with a chap enjoying a drive in the country.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

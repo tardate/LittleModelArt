@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2026-10-13T06:03:00Z</updated>
+  <updated>2026-10-19T12:03:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/germany/brutschmopetta/</id>
+    <link href="https://modelart.tardate.com/projects/germany/brutschmopetta/"/>
+    <g:image_link>https://modelart.tardate.com/projects/germany/brutschmopetta/assets/brutschmopetta_build.jpg</g:image_link>
+    <updated>2026-10-19T12:03:00Z</updated>
+    <title>#179 Brütsch Mopetta 1956</title>
+    <summary>Building the Brütsch Mopetta 1956 1:24 resin kit from ZoomOn, finished with a chap enjoying a drive in the country.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;Building the Brütsch Mopetta 1956 1:24 resin kit from ZoomOn, finished with a chap enjoying a drive in the country.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/germany/brutschmopetta/assets/brutschmopetta_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Vehicles - civil"/>
+    <category term="Germany"/>
+    <category term="ZoomOn"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/spitfire/vii/</id>
     <link href="https://modelart.tardate.com/projects/spitfire/vii/"/>

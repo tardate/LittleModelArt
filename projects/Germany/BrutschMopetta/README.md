@@ -1,4 +1,4 @@
-# #xxx Brütsch Mopetta 1956
+# #179 Brütsch Mopetta 1956
 
 Building the Brütsch Mopetta 1956 1:24 resin kit from ZoomOn, finished with a chap enjoying a drive in the country.
 
