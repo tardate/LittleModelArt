@@ -1,4 +1,12 @@
 {
+    "/projects/craft/pikachu-bookmark/": {
+        "id": 180,
+        "title": "Pikachu Bookmark",
+        "summary": "Making a Pikachu Bookmark from MDF, cut on an xTool S1 laser cutter.",
+        "tags": [
+            "Laser Cut Design"
+        ]
+    },
     "/projects/germany/brutschmopetta/": {
         "id": 179,
         "title": "Br\u00fctsch Mopetta 1956",
