@@ -1,6 +1,6 @@
-# 179 Little Model Art Projects
+# 180 Little Model Art Projects
 
-> Latest addition :sparkles: [Brütsch Mopetta 1956](./projects/Germany/BrutschMopetta) - Building the Brütsch Mopetta 1956 1:24 resin kit from ZoomOn, finished with a chap enjoying a drive in the country.
+> Latest addition :sparkles: [Pikachu Bookmark](./projects/craft/pikachu-bookmark) - Making a Pikachu Bookmark from MDF, cut on an xTool S1 laser cutter.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
