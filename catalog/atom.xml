@@ -7,12 +7,24 @@
   <id>https://modelart.tardate.com/</id>
   <icon>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</icon>
   <logo>https://modelart.tardate.com/catalog/assets/images/favicon-32x32.png</logo>
-  <updated>2026-10-22T14:45:00Z</updated>
+  <updated>2026-11-05T14:38:00Z</updated>
   <author>
     <name>Paul Gallagher</name>
     <email>gallagher.paul@gmail.com</email>
     <uri>https://github.com/tardate</uri>
   </author>
+  <entry>
+    <id>https://modelart.tardate.com/projects/britisharmy/ferretmk2/</id>
+    <link href="https://modelart.tardate.com/projects/britisharmy/ferretmk2/"/>
+    <g:image_link>https://modelart.tardate.com/projects/britisharmy/ferretmk2/assets/ferretmk2_build.jpg</g:image_link>
+    <updated>2026-11-05T14:38:00Z</updated>
+    <title>#181 Ferret Scout Car Mk.2</title>
+    <summary>5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.</summary>
+    <content type="html">&lt;div&gt;&lt;p&gt;5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.&lt;/p&gt;&lt;img src="https://modelart.tardate.com/projects/britisharmy/ferretmk2/assets/ferretmk2_build.jpg" /&gt;&lt;/div&gt;</content>
+    <category term="Vehicles - military"/>
+    <category term="UK"/>
+    <category term="Airfix"/>
+  </entry>
   <entry>
     <id>https://modelart.tardate.com/projects/craft/pikachu-bookmark/</id>
     <link href="https://modelart.tardate.com/projects/craft/pikachu-bookmark/"/>

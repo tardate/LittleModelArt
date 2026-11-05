@@ -1,5 +1,15 @@
 [
     {
+        "name": "Ferret Scout Car Mk.2",
+        "description": "5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.",
+        "categories": "Vehicles - military, UK, Airfix",
+        "relative_path": "projects/britisharmy/ferretmk2",
+        "updated_at": "2026-11-05T14:38:00Z",
+        "created_at": "2026-11-05T14:38:00Z",
+        "id": "#181",
+        "original_relative_path": "projects/BritishArmy/FerretMk2"
+    },
+    {
         "name": "Pikachu Bookmark",
         "description": "Making a Pikachu Bookmark from MDF, cut on an xTool S1 laser cutter.",
         "categories": "Laser Cut Design",

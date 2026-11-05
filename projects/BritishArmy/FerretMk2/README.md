@@ -1,4 +1,4 @@
-# #xxx Ferret Scout Car Mk.2
+# #181 Ferret Scout Car Mk.2
 
 5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.
 
