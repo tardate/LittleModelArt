@@ -1,6 +1,6 @@
-# 180 Little Model Art Projects
+# 181 Little Model Art Projects
 
-> Latest addition :sparkles: [Pikachu Bookmark](./projects/craft/pikachu-bookmark) - Making a Pikachu Bookmark from MDF, cut on an xTool S1 laser cutter.
+> Latest addition :sparkles: [Ferret Scout Car Mk.2](./projects/BritishArmy/FerretMk2) - 5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 

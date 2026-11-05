@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1191 842" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g id="roof" transform="matrix(1.31839e-16,-2.15505,-0.511322,-3.14419e-17,881.54,576.036)">
+        <path d="M266.826,96.659L266.826,274.06L94.516,274.06L94.516,96.659L216.054,-267.565L266.826,96.659Z" style="fill:none;stroke:black;stroke-width:0.45px;"/>
+    </g>
+    <g id="left-wall" serif:id="left wall" transform="matrix(1,0,0,1,-93.5785,-56.6929)">
+        <g id="rails" transform="matrix(0.0289349,0,0,0.282942,173.314,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails1" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,164.81,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails2" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,156.306,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails3" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,147.802,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails4" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,139.298,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails5" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,130.794,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails6" serif:id="rails" transform="matrix(0.0144675,0,0,0.282942,126.342,259.405)">
+            <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.49px;"/>
+        </g>
+        <g id="left-side" serif:id="left side" transform="matrix(0.493523,0,0,3.03598,52.567,-208.416)">
+            <path d="M151.953,96.659L151.953,162.017L266.826,162.017L266.826,274.06L220.877,274.06L220.877,199.365L151.953,199.365L151.953,274.06L94.516,274.06L94.516,92.925L266.826,96.149L266.826,98.527L151.953,96.659Z" style="fill:none;stroke:black;stroke-width:0.32px;"/>
+        </g>
+    </g>
+    <g id="left-side2" serif:id="left side2" transform="matrix(-0.493523,-6.04392e-17,3.718e-16,-3.03598,167.387,1174.11)">
+        <path d="M152.024,183.492L266.713,183.492L266.826,274.06L220.877,274.06L220.877,199.365L151.953,199.365L152.024,183.492Z" style="fill:none;stroke:black;stroke-width:0.32px;"/>
+    </g>
+    <g id="right-side" serif:id="right side" transform="matrix(0.493523,0,0,3.03598,536.599,-271.211)">
+        <path d="M226.621,97.799L226.621,139.656C226.621,142.418 231.847,145.113 241.59,147.375C245.659,148.32 250.029,149.335 253.97,150.25C262.338,152.194 266.826,154.508 266.826,156.88C266.826,177.047 266.826,274.06 266.826,274.06L94.516,274.06L94.516,92.925L266.826,96.149L266.826,98.527L226.621,97.799Z" style="fill:none;stroke:black;stroke-width:0.32px;"/>
+    </g>
+    <g id="right-side-2" serif:id="right side 2" transform="matrix(0.493523,0,0,3.03598,604.132,-274.604)">
+        <path d="M226.621,97.799L226.621,139.656C226.621,142.418 231.847,145.113 241.59,147.375C245.659,148.32 250.029,149.335 253.97,150.25C262.338,152.194 266.826,154.508 266.826,156.88C266.826,177.047 266.826,274.06 266.826,274.06L151.908,274.06L151.302,96.362L226.621,97.799Z" style="fill:none;stroke:black;stroke-width:0.32px;"/>
+    </g>
+    <g id="back-building-door" serif:id="back building door" transform="matrix(2.28117,0,0,2.76688,-495.939,82.279)">
+        <path d="M220.435,269.837L260.199,269.837L260.199,205.45C260.199,205.45 253.293,200.197 240.317,200.172C227.341,200.147 220.435,205.45 220.435,205.45L220.435,269.837Z" style="fill:none;stroke:black;stroke-width:0.28px;"/>
+    </g>
+    <g id="back-building-door1" serif:id="back building door" transform="matrix(1.99603,0,0,2.64482,-427.215,114.514)">
+        <path d="M220.435,268.783L260.199,268.783L260.199,205.45C260.199,205.45 253.293,200.197 240.317,200.172C227.341,200.147 220.435,205.45 220.435,205.45L220.435,268.783Z" style="fill:none;stroke:black;stroke-width:0.3px;"/>
+    </g>
+    <g id="back-building" serif:id="back building" transform="matrix(6.12323e-17,-1,1,6.12323e-17,184.679,1340.5)">
+        <g id="back-building-door2" serif:id="back building door" transform="matrix(2.1386,0,0,2.68551,202.478,-247.058)">
+            <path d="M220.435,269.837L260.199,269.837L260.199,205.45C260.199,205.45 253.293,200.197 240.317,200.172C227.341,200.147 220.435,205.45 220.435,205.45L220.435,269.837Z" style="fill:none;stroke:black;stroke-width:0.29px;"/>
+        </g>
+        <g id="back-building1" serif:id="back building" transform="matrix(2.1386,0,0,2.68551,202.478,-247.058)">
+            <rect x="189.949" y="94.619" width="76.877" height="179.441" style="fill:none;stroke:black;stroke-width:0.29px;"/>
+        </g>
+        <g id="portholes" transform="matrix(0.0493523,0,0,0.127831,707.504,85.3944)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:7.22px;"/>
+        </g>
+        <g id="portholes1" serif:id="portholes" transform="matrix(0.0493523,0,0,0.127831,650.811,85.3944)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:7.22px;"/>
+        </g>
+    </g>
+    <g id="upper-window-back" serif:id="upper window back" transform="matrix(0.526425,0,0,0.830899,64.2135,-66.3839)">
+        <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:1.01px;"/>
+    </g>
+    <g id="front-facia" serif:id="front facia" transform="matrix(1,0,0,1,38.5288,14.6799)">
+        <g id="front" transform="matrix(2.00699,0,0,3.03598,4.21991,-293.831)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:0.27px;"/>
+        </g>
+        <g id="upper-door" serif:id="upper door" transform="matrix(0.493523,0,0,0.878835,177.786,13.8897)">
+            <rect x="94.516" y="48.278" width="172.311" height="225.782" style="fill:none;stroke:black;stroke-width:0.98px;"/>
+        </g>
+        <g id="upper-window" serif:id="upper window" transform="matrix(0.493523,0,0,0.798941,345.692,-20.9074)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:1.05px;"/>
+        </g>
+        <g id="upper-window1" serif:id="upper window" transform="matrix(0.21386,0,0,0.766984,374.959,-15.1153)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:1.24px;"/>
+        </g>
+        <g id="upper-window2" serif:id="upper window" transform="matrix(0.21386,0,0,0.766984,417.479,-15.1153)">
+            <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:1.24px;"/>
+        </g>
+    </g>
+    <g id="veranda" transform="matrix(1,0,0,1,-100.326,0)">
+        <g id="rails7" serif:id="rails" transform="matrix(1,0,0,1,-4.51304,-85.4146)">
+            <g id="rails8" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,235.676,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails9" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,244.18,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails10" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,252.684,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails11" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,210.164,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails12" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,218.668,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails13" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,227.172,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails14" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,286.7,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails15" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,312.212,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails16" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,295.204,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails17" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,320.716,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails18" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,303.708,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails19" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,261.188,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails20" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,269.692,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+            <g id="rails21" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,278.196,259.405)">
+                <rect x="84.12" y="95.05" width="195.933" height="180.332" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+            </g>
+        </g>
+        <g id="veranda-railing" serif:id="veranda railing" transform="matrix(0.904792,0,0,1.36619,108.395,-119.701)">
+            <path d="M110.422,96.644C110.402,96.429 110.327,232.582 110.327,232.582L238.63,232.582L238.63,96.689L237.85,96.701L233.304,94.396L115.506,94.342L110.874,96.644L110.422,96.644Z" style="fill:none;stroke:black;stroke-opacity:0.9;stroke-width:0.6px;"/>
+        </g>
+        <g id="veranda-railing1" serif:id="veranda railing" transform="matrix(0.904792,0,0,1.36619,108.395,-119.701)">
+            <path d="M103.809,96.644L103.212,96.644L98.574,94.386L97.649,94.342L97.649,90.419L479.818,90.419L479.818,94.396L250.222,94.396L245.601,96.657L244.896,96.659L244.896,274.079L97.649,274.06L97.649,272.004L103.914,272.004L103.914,234.696L97.649,234.657L97.649,232.582L103.914,232.582C103.914,232.582 103.814,96.404 103.809,96.644Z" style="fill:none;stroke:black;stroke-opacity:0.9;stroke-width:0.6px;"/>
+        </g>
+        <g id="veranda-floor" serif:id="veranda floor" transform="matrix(0.904792,0,0,0.319576,108.353,225.853)">
+            <rect x="97.649" y="96.659" width="147.247" height="177.4" style="fill:none;stroke:black;stroke-width:1.03px;"/>
+        </g>
+    </g>
+    <g id="stair-rails" serif:id="stair rails" transform="matrix(0.87462,0.48481,-0.48481,0.87462,38.8652,-4.7568)">
+        <g id="rail-outline" serif:id="rail outline" transform="matrix(0.904792,0,0,0.319576,200.935,179.982)">
+            <path d="M266.655,1148.03L266.655,1161.3L94.344,274.06L94.344,96.659L266.655,984.306L266.655,999.902L262.339,977.294L262.339,1125.42L266.655,1148.03Z" style="fill:none;stroke:black;stroke-width:1.03px;"/>
+        </g>
+        <g id="rails22" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,283.863,185.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails23" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,291.863,199.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails24" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,299.863,214.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails25" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,307.863,228.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails26" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,339.863,286.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails27" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,315.863,243.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails28" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,323.863,257.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails29" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,331.863,272.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails30" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,363.863,330.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails31" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,371.863,344.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails32" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,347.863,301.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails33" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,355.863,315.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails34" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,387.863,374.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails35" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,395.863,389.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails36" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,403.863,403.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails37" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,379.863,360.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails38" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,411.863,418.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails39" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,419.863,432.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+        <g id="rails40" serif:id="rails" transform="matrix(0.0289349,0,0,0.282942,427.863,447.723)">
+            <path d="M280.052,145.143L280.052,312.451L84.12,275.383L84.12,108.074L280.052,145.143Z" style="fill:none;stroke:black;stroke-width:3.48px;"/>
+        </g>
+    </g>
+    <g id="stairs" transform="matrix(2.25857e-16,-1.87539,0.319576,1.95684e-17,67.5117,816.944)">
+        <rect x="94.516" y="96.659" width="172.311" height="177.4" style="fill:none;stroke:black;stroke-width:0.52px;"/>
+    </g>
+</svg>
