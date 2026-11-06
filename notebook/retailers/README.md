@@ -17,10 +17,20 @@ See also:
 | China            | [aliexpress - No.3 Model Store](https://www.aliexpress.com/store/1756519)          | modelling accessories|
 | China            | [aliexpress - Real-toys Store](https://realtoys.aliexpress.com/store/1270215)      | good range of kits, often good deals |
 | China            | [taobao - shop291689990](https://shop291689990.world.taobao.com/index.htm)         | resin kits; closed?|
+| China/Hong Kong  | [Challenge Model Trading Co](https://maps.app.goo.gl/bTZ7LnLs3tZX5UQJ8)                      | yet to visit |
+| China/Hong Kong  | [Continental Models & Toys Company 康田模型玩具公司](https://maps.app.goo.gl/NddfffT3GQR6WmZy9) | classic scale model store |
+| China/Hong Kong  | Continental Models & Toys Company 康田模型玩具公司 Wan Chai Computer City 2nd Floor 249-250 Shop | new outlet |
+| China/Hong Kong  | [Hobby Craft智高模型 Chico Hobby](https://maps.app.goo.gl/TDHfKA1Vd4C4ZBDx5)         | yet to visit |
 | China/Hong Kong  | [Hobby Easy](https://www.hobbyeasy.com/)                                           | good source of kits and figures from Chinese manufacturers |
+| China/Hong Kong  | [Hobbyland 玩具模型倉 - 油麻地店](https://maps.app.goo.gl/hQC1ocryvo6YWaGY6)           | mainly figures and gunpla |
+| China/Hong Kong  | [Hobby Treasure](https://maps.app.goo.gl/38zQnpMnAF3t3ATA9)                        | mainly figures and gunpla |
+| China/Hong Kong  | [King & Country](https://maps.app.goo.gl/mWRQyAdBxXyBGYwDA)                        | historical figures & collectibles |
 | China/Hong Kong  | [LuckyModel](https://www.luckymodel.com/)                                          | online retailer |
+| China/Hong Kong  | [Mr Modeler模型先生](https://maps.app.goo.gl/RjdoHEAzdXVuEeQj7)                      | yet to visit |
 | China/Hong Kong  | [Plasmojo](https://www.plasmojo.com/)                                              | online retailer: new and old kits |
+| China/Hong Kong  | [Tamiya Plamodel Factory (Yau Ma Tei)](https://maps.app.goo.gl/Vze4qV8xcMxNUgT56)  | prime Tamiya outlet for HK |
 | China/Hong Kong  | [Twinner Model](https://twinnermodel.com/)                                         | online retailer, mainly Japanese imports |
+| China/Hong Kong  | [Wai Le Model Centre 偉利模型中心灣仔分店](https://maps.app.goo.gl/xuBC349NHzAVpg1f7)  | closed down/moved to...? |
 | France           | [Cults](https://cults3d.com/)                                                      | 3D model market |
 | France           | [Sketchfab](https://sketchfab.com/features/free-3d-models)                         | 3D model market |
 | Germany          | [3Dfindit](https://www.3dfindit.com/en/)                                           | 3D model market |
