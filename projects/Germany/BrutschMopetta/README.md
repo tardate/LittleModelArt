@@ -150,3 +150,9 @@ I realise I left off the "reversing handle". Some new shots for the final galler
 YouTube by Below the Radar Cars
 
 [![clip](https://img.youtube.com/vi/sTv95_je2WQ/0.jpg)](https://www.youtube.com/watch?v=sTv95_je2WQ)
+
+#### 1957 Brütsch Mopetta: Smiles Per Gallon
+
+YouTube by Petrolicious
+
+[![clip](https://img.youtube.com/vi/4Fo1ngtXoXI/0.jpg)](https://www.youtube.com/watch?v=4Fo1ngtXoXI)
