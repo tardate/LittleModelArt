@@ -1,6 +1,6 @@
-# 181 Little Model Art Projects
+# 182 Little Model Art Projects
 
-> Latest addition :sparkles: [Ferret Scout Car Mk.2](./projects/BritishArmy/FerretMk2) - 5th Parachute Brigade, UN Peacekeeping Force in Cyprus, 1974. A 1:35 diorama build based on the Ferret Scout Car Mk.2 from Airfix A1379, with figures from MiniArt and AK Interactive.
+> Latest addition :sparkles: [Nakajima A2N1-2](./projects/IJN/NakajimaA2N/A2N1-2) - Building and motorizing the Nakajima A2N1-2 from Fine Molds in 1:72. It was the first Japanese-designed carrier-borne fighter.
 
 Just my personal collection of scale modelling, miniatures, and art projects.
 
