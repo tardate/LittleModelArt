@@ -1,4 +1,4 @@
-# #xxx Nakajima A2N1-2
+# #182 Nakajima A2N1-2
 
 Building and motorizing the Nakajima A2N1-2 from Fine Molds in 1:72. It was the first Japanese-designed carrier-borne fighter.
 
