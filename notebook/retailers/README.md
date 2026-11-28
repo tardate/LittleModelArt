@@ -2,6 +2,7 @@
 
 See also:
 
+* [Model Stores Japan - Google Maps](https://www.google.com/maps/d/edit?mid=1bqdfRN4VSFERDrLMVaNW4VLmpXOIIVE&usp=sharing)
 * [Tokyo Model Stores Review](./tokyo/)
 
 | Country          | Name                                                                               | Notes |
