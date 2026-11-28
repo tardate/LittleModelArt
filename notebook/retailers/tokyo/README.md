@@ -2,9 +2,11 @@
 
 Reviewing the best model stores in Tokyo.
 
-![tokyo_build](./assets/tokyo_build.jpg)
+[![tokyo_build](./assets/tokyo_build.jpg)](https://www.google.com/maps/d/edit?mid=1bqdfRN4VSFERDrLMVaNW4VLmpXOIIVE&usp=sharing)
 
 ## Notes
+
+Note: view these stores on [Google Maps](https://www.google.com/maps/d/edit?mid=1bqdfRN4VSFERDrLMVaNW4VLmpXOIIVE&usp=sharing)
 
 These are my notes from model stores I've visited in Tokyo.
 I've restricted my reviews and comments to historical plastic models and tools,
@@ -14,19 +16,20 @@ often far eclipsing the plastic model departments.
 I'll keep this page updated as I get to visit again.
 Stores covered so far:
 
-* Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)
-* Joshin ōji
-* Leonardo レオナルド LG
-* Leonardo レオナルド LG 2
-* Leonardo レオナルド ET
-* Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館)
-* Tamiya Plamodel Factory Shimbashi
-* TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店)
-* YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)
-* YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)
-* YFS (ミニチュア人形のYFS)
-* Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)
-* Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)
+* Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント) [(map)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
+* Joshin ōji [(map)](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7)
+* Leonardo レオナルド LG [(map)](https://maps.app.goo.gl/doggiAeGHoNbsRdWA)
+* Leonardo レオナルド LG 2 [(map)](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6)
+* Leonardo レオナルド ET [(map)](https://maps.app.goo.gl/zno9LJZfB6srvGj2A)
+* Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館) [(map)](https://maps.app.goo.gl/nk46VQiiE7XfvcVf7)
+* Tamiya Plamodel Factory Shimbashi [(map)](https://maps.app.goo.gl/fcrvZnkwigfwXry69)
+* TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店) [(map)](https://maps.app.goo.gl/p4TN4LKgZkPQawz38)
+* Volks Akihabara Hobby Paradise 2 [(map)](https://maps.app.goo.gl/J2nAG5kitN1tRSQY6)
+* YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店) [(map)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)
+* YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館) [(map)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)
+* YFS (ミニチュア人形のYFS) [(map)](https://maps.app.goo.gl/domj4GE8NKSXL8UR7)
+* Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA) [(map)](https://maps.app.goo.gl/335kKbCGzQBC63eX7)
+* Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館) [(map)](https://maps.app.goo.gl/oz2NcquKUbjavBxn9)
 
 On duty free:
 [From November 1, 2026](https://www.japan.travel/en/ca/news/changes-are-coming-to-tax-free-shopping-in-japan/),
@@ -104,6 +107,8 @@ To the north end of Akihabara, around Suehirochō Station, is what I think of as
 I usually start at [Leonardo レオナルド LG 2](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6) after alighting at Suehirochō Station.
 
 It is good for 1:144 planes, more recent afv, ship, and plane kits. I didn't buy anything here this time but there was lots that tempted me. Prices tend to be similar to original RRP or a little higher, so this is mainly a good place to pickup recent but out-of-production kits that you really need.
+
+Apparently this store may now be closed. I will check again in Dec-2026.
 
 ![front_20241214_150444](./assets/leonardo_lg2/front_20241214_150444.jpg)
 
@@ -337,17 +342,21 @@ figure and gunpla fans, but there is a decent scale model section, and good sele
 
 ## Credits and References
 
-* [Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
-* [Joshin ōji](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7)
-* [Leonardo レオナルド LG](https://maps.app.goo.gl/doggiAeGHoNbsRdWA)
-* [Leonardo レオナルド LG 2](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6)
-* [Leonardo レオナルド ET](https://maps.app.goo.gl/zno9LJZfB6srvGj2A)
-* [Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館)](https://maps.app.goo.gl/nk46VQiiE7XfvcVf7)
-* [Tamiya Plamodel Factory Shimbashi](https://maps.app.goo.gl/fcrvZnkwigfwXry69)
-* [TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店)](https://maps.app.goo.gl/p4TN4LKgZkPQawz38)
-* [YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)
-* [YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)
-* [YFS (ミニチュア人形のYFS)](https://maps.app.goo.gl/domj4GE8NKSXL8UR7)
-* [Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA)](https://maps.app.goo.gl/335kKbCGzQBC63eX7)
-* [Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館)](https://maps.app.goo.gl/oz2NcquKUbjavBxn9)
-* [TOP 10 Model Kits Shops in Tokyo Revealed!](https://www.youtube.com/watch?v=cftTLjXlUGk)
+* Stores
+    * Hobby Base Yellow Submarine (イエローサブマリン秋葉原本店★ミント) [(map)](https://maps.app.goo.gl/FaotHUwSqdSYQCEe9)
+    * Joshin ōji [(map)](https://maps.app.goo.gl/qTrUFNYhpzNzjVFQ7)
+    * Leonardo レオナルド LG [(map)](https://maps.app.goo.gl/doggiAeGHoNbsRdWA)
+    * Leonardo レオナルド LG 2 [(map)](https://maps.app.goo.gl/epCyUSCJ6Rq5QRVQ6)
+    * Leonardo レオナルド ET [(map)](https://maps.app.goo.gl/zno9LJZfB6srvGj2A)
+    * Surugaya Akihabara Plastic model Hall (駿河屋 秋葉原プラモデル館) [(map)](https://maps.app.goo.gl/nk46VQiiE7XfvcVf7)
+    * Tamiya Plamodel Factory Shimbashi [(map)](https://maps.app.goo.gl/fcrvZnkwigfwXry69)
+    * TamTam Hobby Shop Akihabara (ホビーショップ タムタム 秋葉原店) [(map)](https://maps.app.goo.gl/p4TN4LKgZkPQawz38)
+    * Volks Akihabara Hobby Paradise 2 [(map)](https://maps.app.goo.gl/J2nAG5kitN1tRSQY6)
+    * YAMADA Denki LABI Shibuya (ヤマダデンキ LABI 渋谷店) [(map)](https://maps.app.goo.gl/b3csASYb5dTawWFy9)
+    * YAMADA Denki LABI Shinjuku Nishiguchi (ヤマダデンキ LABI新宿西口館) [(map)](https://maps.app.goo.gl/oKXEpBUt9x1sKuNq8)
+    * YFS (ミニチュア人形のYFS) [(map)](https://maps.app.goo.gl/domj4GE8NKSXL8UR7)
+    * Yodobashi Akiba (ヨドバシカメラ マルチメディアAKIBA) [(map)](https://maps.app.goo.gl/335kKbCGzQBC63eX7)
+    * Yodobashi Camera Shinjuku Nishiguchi Game and Hobby (ヨドバシカメラ 新宿西口本店 ゲーム館) [(map)](https://maps.app.goo.gl/oz2NcquKUbjavBxn9)
+* Other References
+    * [Model Stores Japan - Google Maps](https://www.google.com/maps/d/edit?mid=1bqdfRN4VSFERDrLMVaNW4VLmpXOIIVE&usp=sharing)
+    * [TOP 10 Model Kits Shops in Tokyo Revealed!](https://www.youtube.com/watch?v=cftTLjXlUGk)
