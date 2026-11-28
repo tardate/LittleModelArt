@@ -17,7 +17,7 @@ Social media shout-outs were only included as a regular feature in seasons 1, 2,
 * [ba14eagle](https://www.youtube.com/@ba14eagle) - episode: 0115
 * [BBM1930s](https://www.youtube.com/@BBM1930s) - episode: 0206
 * [Beeton Hough Junction](https://www.youtube.com/@BeetonHoughJunction) - episode: 0313
-* [Boomer Diorama | SRY River Railway](https://www.youtube.com/@boomerdiorama) - episode: 0208
+* [Boomer Diorama - SRY River Railway](https://www.youtube.com/@boomerdiorama) - episode: 0208
 * [Boulder Creek Railroad](https://www.youtube.com/@BoulderCreekRailroad) - episode: 0209
 * [Bucks Hill Model Railway in 7mm](https://www.youtube.com/@BucksHillin7mm) - episode: 0202
 * [Bunters Yard](https://www.youtube.com/@BuntersYard) - episode: 0115
